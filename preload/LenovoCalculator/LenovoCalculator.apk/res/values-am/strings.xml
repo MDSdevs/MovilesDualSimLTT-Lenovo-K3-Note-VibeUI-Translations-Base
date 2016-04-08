@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ማስያ</string>
+    <string name="error_nan">ቁጥር አይደለም</string>
+    <string name="error_syntax">ስህተት</string>
+    <string name="fun_cos">cos</string>
+    <string name="fun_ln">ln</string>
+    <string name="fun_log">log</string>
+    <string name="fun_sin">sin</string>
+    <string name="fun_tan">tan</string>
+    <string name="clr">አጽዳ</string>
+    <string name="del">ሰርዝ</string>
+    <string name="desc_const_e">የዩለር ቁጥር</string>
+    <string name="desc_const_pi">ፓይ</string>
+    <string name="desc_dec_point">ነጥብ</string>
+    <string name="desc_lparen">የግራ ቅንፍ</string>
+    <string name="desc_rparen">የቀኝ ቅንፍ</string>
+    <string name="desc_fun_cos">ኮሳይን</string>
+    <string name="desc_fun_ln">ተፈጥሯዊ ሎጋሪዝም</string>
+    <string name="desc_fun_log">ሎጋሪዝም</string>
+    <string name="desc_fun_sin">ሳይን</string>
+    <string name="desc_fun_tan">ታንጀት</string>
+    <string name="desc_op_add">ሲደመር</string>
+    <string name="desc_op_div">ሲካፈል</string>
+    <string name="desc_op_fact">ብዜት</string>
+    <string name="desc_op_mul">ጊዜ</string>
+    <string name="desc_op_pow">አርቢ</string>
+    <string name="desc_op_sqrt">ዳግም ዘር</string>
+    <string name="desc_op_sub">ሲቀነስ</string>
+    <string name="desc_clr">አጽዳ</string>
+    <string name="desc_del">ሰርዝ</string>
+    <string name="desc_eq">ይሆናል</string>
+</resources>

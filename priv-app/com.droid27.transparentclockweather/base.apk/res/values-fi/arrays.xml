@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="animationDelayNames">
+        <item>Hitaammin</item>
+        <item>Normaalisti</item>
+        <item>Nopeammin</item>
+    </string-array>
+    <string-array name="batteryPositionNames">
+        <item>Vasen</item>
+        <item>Oikea</item>
+    </string-array>
+    <string-array name="forecast_strings">
+        <item>Paikallinen aika: %1$s</item>
+        <item>Auringonnousu: %1$s</item>
+        <item>Auringonlasku: %1$s</item>
+        <item>Päivän pituus: %1$s h, %2$s m</item>
+        <item>Tuuli: %1$s</item>
+        <item>Ilmankosteus: %1$s</item>
+        <item>Viimeisin päivitys: %1$s tuntia, %2$s minuuttia sitten</item>
+        <item>Viimeisin päivitys: %1$s minuuttia sitten</item>
+        <item>Viimeisin päivitys: %1$s</item>
+        <item>Viim. päivitys: %1$s h, %2$s m</item>
+        <item>Tuntuu kuin%1$s</item>
+    </string-array>
+    <string-array name="moon_phases">
+        <item>Uusi kuu</item>
+        <item>Täysikuu</item>
+        <item>Ensimmäisellä neljänneksellä</item>
+        <item>Täysikuu</item>
+        <item>Täysikuu</item>
+        <item>Viimeinen neljännes</item>
+        <item>Kolmas vuosineljännes</item>
+        <item>Täysikuu</item>
+    </string-array>
+    <string-array name="refreshPeriodNames">
+        <item>Ei ikinä</item>
+        <item>15 minuuttia</item>
+        <item>Puoli tuntia</item>
+        <item>Tunti</item>
+        <item>Kaksi tuntia</item>
+        <item>Kolme tuntia</item>
+        <item>Neljä tuntia</item>
+        <item>Kuusi tuntia</item>
+    </string-array>
+    <string-array name="weather_conditions">
+        <item>Ei saatavilla</item>
+        <item>Selkeää</item>
+        <item>Puolipilvistä</item>
+        <item>Aurinkoista</item>
+        <item>Puolipilvistä</item>
+        <item>Enimmäkseen pilvistä</item>
+        <item>Enimmäkseen aurinkoista</item>
+        <item>Pilvistä</item>
+        <item>Pilvistä</item>
+        <item>Hyvin pilvistä</item>
+        <item>Sateen todennäköisyys</item>
+        <item>Tihkusadetta</item>
+        <item>Sadetta</item>
+        <item>Paikallisia kuuroja</item>
+        <item>Kuuroja</item>
+        <item>Rankkoja kuuroja</item>
+        <item>Myrskyn todennäköisyys</item>
+        <item>Heikkoja myrskyjä</item>
+        <item>Myrsky</item>
+        <item>Rankkoja myrskyjä</item>
+        <item>Ukkosmyrskyn todennäköisyys</item>
+        <item>Paikallisia ukkoskuuroja</item>
+        <item>Ukkosmyrsky</item>
+        <item>Lumisateen todennäköisyys</item>
+        <item>Kevyttä lumisadetta</item>
+        <item>Lumisadetta</item>
+        <item>Rankkaa lumisadetta</item>
+        <item>Lumikuuroja</item>
+        <item>Räntää</item>
+        <item>Huurretta</item>
+        <item>Rakeita</item>
+        <item>Raekuuroja</item>
+        <item>Räntää</item>
+        <item>Jäistä</item>
+        <item>Usvaa</item>
+        <item>Tomua</item>
+        <item>Sumua</item>
+        <item>Savua</item>
+        <item>Auer</item>
+        <item>Lumituiskuja</item>
+        <item>Hiekkamyrsky</item>
+        <item>Kirkas</item>
+        <item>Kuuroja/kirkasta</item>
+        <item>Tornado</item>
+        <item>Trooppinen myrsky</item>
+        <item>Hurrikaani</item>
+        <item>Kylmä</item>
+        <item>Kuuma</item>
+        <item>Windy</item>
+        <item>Cool</item>
+        <item>Lievä</item>
+        <item>Lämmin</item>
+        <item>Nice</item>
+        <item>Tuulinen</item>
+        <item>Kostea</item>
+        <item>Kuiva</item>
+        <item>Pirskota</item>
+    </string-array>
+    <string-array name="weekdays_long">
+        <item>Sunnuntai</item>
+        <item>Maanantai</item>
+        <item>Tiistai</item>
+        <item>Keskiviikko</item>
+        <item>Torstai</item>
+        <item>Perjantai</item>
+        <item>Lauantai</item>
+    </string-array>
+    <string-array name="weekdays_short">
+        <item>Sun</item>
+        <item>Maa</item>
+        <item>Tii</item>
+        <item>Kes</item>
+        <item>Tor</item>
+        <item>Per</item>
+        <item>Lau</item>
+    </string-array>
+    <string-array name="widgetDateFormatNames">
+        <item>Monday, January 15</item>
+        <item>Mon, Jan 15, 2012</item>
+        <item>Monday 15 january</item>
+        <item>Mon, Jan 15 2012</item>
+        <item>Mon. 15 Jan 2012</item>
+        <item>Mon, Jan 15</item>
+        <item>Mon, 12/25/2012</item>
+        <item>Mon, 2012/12/25</item>
+        <item>Mon, 25.12.2012</item>
+        <item>JAN 15</item>
+        <item>15 January</item>
+        <item>January 15</item>
+        <item>15 JAN</item>
+        <item>15.01.2012</item>
+        <item>15.01.12</item>
+        <item>01.15.2012</item>
+        <item>01.15.12</item>
+        <item>15/01/2012</item>
+        <item>15/01/12</item>
+        <item>01/15/2012</item>
+        <item>01/15/12</item>
+        <item>15-01-2012</item>
+        <item>15-01-12</item>
+        <item>01-15-2012</item>
+        <item>01-15-12</item>
+        <item>2012-12-15</item>
+        <item>yyyy-m-d</item>
+        <item>yyyy/m/d</item>
+        <item>d/m/yyyy</item>
+        <item>d/m/yy</item>
+        <item>d.m.yyyy</item>
+        <item>d.m.yy</item>
+        <item>yy/m/d</item>
+        <item>yyyy/mm/dd</item>
+        <item>yy/mm/dd</item>
+    </string-array>
+</resources>

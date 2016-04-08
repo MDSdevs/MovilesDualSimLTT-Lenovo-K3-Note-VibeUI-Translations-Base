@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="animationDelayNames">
+        <item>느리게</item>
+        <item>보통</item>
+        <item>빠르게</item>
+    </string-array>
+    <string-array name="batteryPositionNames">
+        <item>좌</item>
+        <item>우</item>
+    </string-array>
+    <string-array name="forecast_strings">
+        <item>현지 시간: %1$s</item>
+        <item>일출: %1$s</item>
+        <item>일몰: %1$s</item>
+        <item>일조시간: %1$s 시, %2$s 분</item>
+        <item>풍속: %1$s</item>
+        <item>습도: %1$s</item>
+        <item>최근 업데이트: %1$s 시, %2$s 분</item>
+        <item>최근 업데이트: %1$s 분</item>
+        <item>최근 업데이트: %1$s</item>
+        <item>최근 업데이트: %1$s 시, %2$s 분</item>
+        <item>체감온도 %1$s</item>
+    </string-array>
+    <string-array name="moon_phases">
+        <item>삭월</item>
+        <item>초승</item>
+        <item>상현</item>
+        <item>상철월</item>
+        <item>보름</item>
+        <item>하철월</item>
+        <item>하현</item>
+        <item>그믐</item>
+    </string-array>
+    <string-array name="refreshPeriodNames">
+        <item>안 함</item>
+        <item>15분</item>
+        <item>30분</item>
+        <item>1시간</item>
+        <item>2시간</item>
+        <item>3시간</item>
+        <item>4시간</item>
+        <item>6시간</item>
+    </string-array>
+    <string-array name="weather_conditions">
+        <item>Unavailable</item>
+        <item>맑음</item>
+        <item>부분 화창함</item>
+        <item>화창함</item>
+        <item>부분 흐림</item>
+        <item>대체로 흐림</item>
+        <item>대체로 맑음</item>
+        <item>흐린</item>
+        <item>구름 낀</item>
+        <item>매우 흐림</item>
+        <item>비가 올수도 있음</item>
+        <item>약한 비</item>
+        <item>비</item>
+        <item>산발적 소나기</item>
+        <item>소나기</item>
+        <item>폭우</item>
+        <item>폭풍이 올 수 있음</item>
+        <item>약한 폭풍</item>
+        <item>폭풍</item>
+        <item>강한 폭풍</item>
+        <item>번개와 비 올 수 있음</item>
+        <item>산발적인 뇌우</item>
+        <item>뇌우</item>
+        <item>눈 올 수 있음</item>
+        <item>약한 눈</item>
+        <item>눈</item>
+        <item>폭설</item>
+        <item>일시적 폭설</item>
+        <item>비를 동반한 눈</item>
+        <item>진눈개비</item>
+        <item>우박</item>
+        <item>우박이 동반된 폭풍</item>
+        <item>진눈개비</item>
+        <item>결빙</item>
+        <item>옅은 안개</item>
+        <item>황사</item>
+        <item>안개</item>
+        <item>스모그</item>
+        <item>연무</item>
+        <item>눈보라</item>
+        <item>모래폭풍</item>
+        <item>맑음</item>
+        <item>소나기/맑음</item>
+        <item>토네이도</item>
+        <item>열대성 태풍</item>
+        <item>허리케인</item>
+        <item>추움</item>
+        <item>더움</item>
+        <item>바람</item>
+        <item>시원함</item>
+        <item>포근함</item>
+        <item>따뜻함</item>
+        <item>화창함</item>
+        <item>미풍</item>
+        <item>습함</item>
+        <item>건조</item>
+        <item>가랑비</item>
+    </string-array>
+    <string-array name="weekdays_long">
+        <item>일요일</item>
+        <item>월요일</item>
+        <item>화요일</item>
+        <item>수요일</item>
+        <item>목요일</item>
+        <item>금요일</item>
+        <item>토요일</item>
+    </string-array>
+    <string-array name="weekdays_short">
+        <item>일</item>
+        <item>월</item>
+        <item>화</item>
+        <item>수</item>
+        <item>목</item>
+        <item>금</item>
+        <item>토</item>
+    </string-array>
+    <string-array name="widgetDateFormatNames">
+        <item>1월 15일, 월요일</item>
+        <item>2012년, 1월 15일, 월</item>
+        <item>1월 15일 월요일</item>
+        <item>2012년 1월 15일, 월</item>
+        <item>2012년 1월 15일, 월</item>
+        <item>1월 15일, 월</item>
+        <item>12/25/2012, 월</item>
+        <item>2012/12/25, 월</item>
+        <item>25.12.2012, 월</item>
+        <item>1월 15일</item>
+        <item>1월 15일</item>
+        <item>1월 15일</item>
+        <item>1월 15일</item>
+        <item>15.01.2012</item>
+        <item>15.01.12</item>
+        <item>01.15.2012</item>
+        <item>01.15.12</item>
+        <item>15/01/2012</item>
+        <item>15/01/12</item>
+        <item>01/15/2012</item>
+        <item>01/15/12</item>
+        <item>15-01-2012</item>
+        <item>15-01-12</item>
+        <item>01-15-2012</item>
+        <item>01-15-12</item>
+        <item>2012-12-15</item>
+        <item>yyyy-m-d</item>
+        <item>yyyy/m/d</item>
+        <item>d/m/yyyy</item>
+        <item>d/m/yy</item>
+        <item>d.m.yyyy</item>
+        <item>d.m.yy</item>
+        <item>yy/m/d</item>
+        <item>yyyy/mm/dd</item>
+        <item>yy/mm/dd</item>
+    </string-array>
+</resources>

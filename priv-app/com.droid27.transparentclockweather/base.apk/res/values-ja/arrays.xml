@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="animationDelayNames">
+        <item>ゆっくり</item>
+        <item>普通</item>
+        <item>速い</item>
+    </string-array>
+    <string-array name="batteryPositionNames">
+        <item>左</item>
+        <item>右</item>
+    </string-array>
+    <string-array name="forecast_strings">
+        <item>現地時間：%1$s</item>
+        <item>日の出：%1$s</item>
+        <item>日の入り：%1$s</item>
+        <item>昼の長さ：%1$s時間%2$s分</item>
+        <item>風速：%1$s</item>
+        <item>湿度：%1$s</item>
+        <item>最終更新：%1$s時間%2$s分前</item>
+        <item>最終更新：%1$s分前</item>
+        <item>最終更新：%1$s</item>
+        <item>最終更新：%1$s時%2$s分</item>
+        <item>体感温度：%1$s</item>
+    </string-array>
+    <string-array name="moon_phases">
+        <item>新月</item>
+        <item>三日月</item>
+        <item>上弦の月</item>
+        <item>十三夜</item>
+        <item>満月</item>
+        <item>十八夜</item>
+        <item>下弦の月</item>
+        <item>二十六夜</item>
+    </string-array>
+    <string-array name="refreshPeriodNames">
+        <item>二度としない</item>
+        <item>15分</item>
+        <item>30分</item>
+        <item>1時間</item>
+        <item>2時間</item>
+        <item>3時間</item>
+        <item>4時間</item>
+        <item>6時間</item>
+    </string-array>
+    <string-array name="weather_conditions">
+        <item>利用不可</item>
+        <item>快晴</item>
+        <item>ところにより晴れ</item>
+        <item>晴れ</item>
+        <item>ところにより曇り</item>
+        <item>おおむね曇り</item>
+        <item>おおむね晴れ</item>
+        <item>本曇り</item>
+        <item>曇り</item>
+        <item>曇天</item>
+        <item>降水確率</item>
+        <item>小雨</item>
+        <item>雨</item>
+        <item>ところによりにわか雨</item>
+        <item>にわか雨</item>
+        <item>強いにわか雨</item>
+        <item>嵐の確率</item>
+        <item>弱い風雨</item>
+        <item>嵐</item>
+        <item>暴風雨</item>
+        <item>雷雨の確率</item>
+        <item>ところにより雷雨</item>
+        <item>雷雨</item>
+        <item>雪の確率</item>
+        <item>小雪</item>
+        <item>雪</item>
+        <item>大雪</item>
+        <item>にわか雪</item>
+        <item>みぞれ</item>
+        <item>霧氷</item>
+        <item>雹</item>
+        <item>雹の嵐</item>
+        <item>みぞれ</item>
+        <item>凍てつく寒さ</item>
+        <item>霧雨</item>
+        <item>砂塵</item>
+        <item>霧</item>
+        <item>煙</item>
+        <item>もや</item>
+        <item>突風</item>
+        <item>砂嵐</item>
+        <item>晴れ</item>
+        <item>にわか雨/快晴</item>
+        <item>竜巻</item>
+        <item>熱帯暴風雨</item>
+        <item>ハリケーン</item>
+        <item>寒い</item>
+        <item>暑い</item>
+        <item>風が強い</item>
+        <item>涼しい</item>
+        <item>温暖</item>
+        <item>暖かい</item>
+        <item>好天</item>
+        <item>そよ風</item>
+        <item>蒸し暑い</item>
+        <item>乾燥</item>
+        <item>霧雨</item>
+    </string-array>
+    <string-array name="weekdays_long">
+        <item>日曜日</item>
+        <item>月曜日</item>
+        <item>火曜日</item>
+        <item>水曜日</item>
+        <item>木曜日</item>
+        <item>金曜日</item>
+        <item>土曜日</item>
+    </string-array>
+    <string-array name="weekdays_short">
+        <item>日曜日</item>
+        <item>月曜日</item>
+        <item>火曜日</item>
+        <item>水曜日</item>
+        <item>木曜日</item>
+        <item>金曜日</item>
+        <item>土曜日</item>
+    </string-array>
+</resources>

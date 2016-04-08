@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="animationDelayNames">
+        <item>Slower</item>
+        <item>Normal</item>
+        <item>Faster</item>
+    </string-array>
+    <string-array name="batteryPositionNames">
+        <item>Vänster</item>
+        <item>Höger</item>
+    </string-array>
+    <string-array name="forecast_strings">
+        <item>Lokal tid: %1$s</item>
+        <item>Soluppgång: %1$s</item>
+        <item>Solnedgång: %1$s</item>
+        <item>Dagslängd: %1$s h %2$s min</item>
+        <item>Vind: %1$s</item>
+        <item>Luftfuktighet: %1$s</item>
+        <item>Uppdaterades för %1$s h %2$s min sedan</item>
+        <item>Uppdaterades för %1$s min sedan</item>
+        <item>Uppdaterades för %1$s</item>
+        <item>Uppd. för %1$s h %2$s min</item>
+        <item>Känns som: %1$s</item>
+    </string-array>
+    <string-array name="moon_phases">
+        <item>Nymåne</item>
+        <item>Tilltagande månskära</item>
+        <item>Första kvarteret</item>
+        <item>Växande halvmåne</item>
+        <item>Fullmåne</item>
+        <item>Avtagande halvmåne</item>
+        <item>Tredje kvarteret</item>
+        <item>Avtagande månskära</item>
+    </string-array>
+    <string-array name="refreshPeriodNames">
+        <item>Aldrig</item>
+        <item>15 minuter</item>
+        <item>30 minuter</item>
+        <item>1 timma</item>
+        <item>2 timmar</item>
+        <item>3 timmar</item>
+        <item>4 timmar</item>
+        <item>6 timmar</item>
+    </string-array>
+    <string-array name="weather_conditions">
+        <item>Ej tillgängligt</item>
+        <item>Klart</item>
+        <item>Halvklart</item>
+        <item>Soligt</item>
+        <item>Delvis molnigt</item>
+        <item>Mestadels molnigt</item>
+        <item>Mestadels soligt</item>
+        <item>Mulet</item>
+        <item>Molnigt</item>
+        <item>Mulet</item>
+        <item>Risk för regn</item>
+        <item>Lätt regn</item>
+        <item>Regn</item>
+        <item>Spridda regnskurar</item>
+        <item>Regnskurar</item>
+        <item>Tunga regnskurar</item>
+        <item>Risk för storm</item>
+        <item>Stormbyar</item>
+        <item>Storm</item>
+        <item>Kraftig storm</item>
+        <item>Risk för åska</item>
+        <item>Lokal åska</item>
+        <item>Åska</item>
+        <item>Risk för snö</item>
+        <item>Lätt snöfall</item>
+        <item>Snö</item>
+        <item>Kraftiga snöbyar</item>
+        <item>Snöbyar</item>
+        <item>Snöblandat regn</item>
+        <item>Underkylt regn</item>
+        <item>Hagel</item>
+        <item>Hagelskurar</item>
+        <item>Snöblandat regn</item>
+        <item>Underkylt</item>
+        <item>Dimma</item>
+        <item>Dust</item>
+        <item>Dimma</item>
+        <item>Smoke</item>
+        <item>Dis</item>
+        <item>Kastbyar</item>
+        <item>Sandstorm</item>
+        <item>Vackert</item>
+        <item>Regnskurar/klart</item>
+        <item>Tornado</item>
+        <item>Tropisk storm</item>
+        <item>Orkan</item>
+        <item>Kall</item>
+        <item>Varm</item>
+        <item>Blåsig</item>
+        <item>Sval</item>
+        <item>Mild</item>
+        <item>Varm</item>
+        <item>Vacker</item>
+        <item>Blåsig</item>
+        <item>Fuktig</item>
+        <item>Torr</item>
+        <item>Småregn</item>
+    </string-array>
+    <string-array name="weekdays_long">
+        <item>Söndag</item>
+        <item>Måndag</item>
+        <item>Tisdag</item>
+        <item>Onsdag</item>
+        <item>Torsdag</item>
+        <item>Fredag</item>
+        <item>Lördag</item>
+    </string-array>
+    <string-array name="weekdays_short">
+        <item>Sön</item>
+        <item>Mån</item>
+        <item>Tis</item>
+        <item>Ons</item>
+        <item>Tor</item>
+        <item>Fre</item>
+        <item>Lör</item>
+    </string-array>
+    <string-array name="widgetDateFormatNames">
+        <item>Måndag, januari 15</item>
+        <item>Mån, jan 15, 2012</item>
+        <item>Måndag 15 januari</item>
+        <item>Mån, jan 15 2012</item>
+        <item>Mån. 15 jan. 2012</item>
+        <item>Mån, jan 15</item>
+        <item>Mån, 12/25/2012</item>
+        <item>Mån, 2012/12/25</item>
+        <item>Mån, 25.12.2012</item>
+        <item>JAN 15</item>
+        <item>15 januari</item>
+        <item>januari 15</item>
+        <item>15 JAN</item>
+        <item>15.01.2012</item>
+        <item>15.01.12</item>
+        <item>01.15.2012</item>
+        <item>01.15.12</item>
+        <item>15/01/2012</item>
+        <item>15/01/12</item>
+        <item>01/15/2012</item>
+        <item>01/15/12</item>
+        <item>15-01-2012</item>
+        <item>15-01-12</item>
+        <item>01-15-2012</item>
+        <item>01-15-12</item>
+        <item>2012-12-15</item>
+        <item>yyyy-m-d</item>
+        <item>yyyy/m/d</item>
+        <item>d/m/yyyy</item>
+        <item>d/m/yy</item>
+        <item>d.m.yyyy</item>
+        <item>d.m.yy</item>
+        <item>yy/m/d</item>
+        <item>yyyy/mm/dd</item>
+        <item>yy/mm/dd</item>
+    </string-array>
+    <string-array name="visibilityUnitNames">
+        <item>meter</item>
+        <item>kilometer</item>
+        <item>engelska mil</item>
+    </string-array>
+</resources>

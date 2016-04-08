@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="animationDelayNames">
+        <item>Медленнее</item>
+        <item>Нормально</item>
+        <item>Быстрее</item>
+    </string-array>
+    <string-array name="batteryPositionNames">
+        <item>Слева</item>
+        <item>Справа</item>
+    </string-array>
+    <string-array name="forecast_strings">
+        <item>Местное время: %1$s</item>
+        <item>Восход солнца: %1$s</item>
+        <item>Закат: %1$s</item>
+        <item>Продолжительность дня: %1$s ч, %2$s м</item>
+        <item>Ветер: %1$s</item>
+        <item>Влажность: %1$s</item>
+        <item>Последнее обновление: %1$s ч. %2$s мин. назад</item>
+        <item>Последнее обновление: %1$s мин. назад</item>
+        <item>Последнее обновление: %1$s</item>
+        <item>Обновление: %1$s ч, %2$s м</item>
+        <item>Ощущается %1$s</item>
+    </string-array>
+    <string-array name="moon_phases">
+        <item>Новолуние</item>
+        <item>Молодая Луна</item>
+        <item>Первая четверть Луны</item>
+        <item>Растущая Луна</item>
+        <item>Полнолуние</item>
+        <item>Убывающая Луна</item>
+        <item>Третья четверть Луны</item>
+        <item>Старая Луна</item>
+    </string-array>
+    <string-array name="refreshPeriodNames">
+        <item>Никогда</item>
+        <item>15 минут</item>
+        <item>30 минут</item>
+        <item>1 час</item>
+        <item>2 часа</item>
+        <item>3 часа</item>
+        <item>4 часа</item>
+        <item>6 часов</item>
+    </string-array>
+    <string-array name="weather_conditions">
+        <item>Недоступно</item>
+        <item>Ясно</item>
+        <item>Местами солнечно</item>
+        <item>Солнечно</item>
+        <item>Переменная облачность</item>
+        <item>Преимущественно облачно</item>
+        <item>Преимущественно солнечно</item>
+        <item>Сплошная облачность</item>
+        <item>Облачно</item>
+        <item>Пасмурно</item>
+        <item>Возможен дождь</item>
+        <item>Небольшой дождь</item>
+        <item>Дождь</item>
+        <item>Местами ливни</item>
+        <item>Ливни</item>
+        <item>Сильные ливни</item>
+        <item>Возможна буря</item>
+        <item>Слабая буря</item>
+        <item>Буря</item>
+        <item>Сильная буря</item>
+        <item>Возможна гроза</item>
+        <item>Местами грозы</item>
+        <item>Гроза</item>
+        <item>Возможен снег</item>
+        <item>Небольшой снег</item>
+        <item>Снег</item>
+        <item>Сильный снегопад</item>
+        <item>Снегопад</item>
+        <item>Дождь со снегом</item>
+        <item>Морозная изморось</item>
+        <item>Град</item>
+        <item>Буря с градом</item>
+        <item>Мокрый снег</item>
+        <item>Гололед</item>
+        <item>Легкий туман</item>
+        <item>Пыль</item>
+        <item>Густой туман</item>
+        <item>Дымка</item>
+        <item>Сухой туман</item>
+        <item>Порывистый ветер</item>
+        <item>Песчаная буря</item>
+        <item>Ясно</item>
+        <item>Ливни/Ясно</item>
+        <item>Торнадо</item>
+        <item>Тропический шторм</item>
+        <item>Ураган</item>
+        <item>Холодно</item>
+        <item>Жарко</item>
+        <item>Ветрено</item>
+        <item>Прохладно</item>
+        <item>Умеренно</item>
+        <item>Тепло</item>
+        <item>Прекрасно</item>
+        <item>Свежо</item>
+        <item>Влажно</item>
+        <item>Сухо</item>
+        <item>Морось</item>
+    </string-array>
+    <string-array name="weekdays_long">
+        <item>Воскресенье</item>
+        <item>Понедельник</item>
+        <item>Вторник</item>
+        <item>Среда</item>
+        <item>Четверг</item>
+        <item>Пятница</item>
+        <item>Суббота</item>
+    </string-array>
+    <string-array name="weekdays_short">
+        <item>Вс</item>
+        <item>Пн</item>
+        <item>Вт</item>
+        <item>Ср</item>
+        <item>Чт</item>
+        <item>Пт</item>
+        <item>Сб</item>
+    </string-array>
+    <string-array name="widgetDateFormatNames">
+        <item>Понедельник, Январь 15</item>
+        <item>Пн, Янв 15, 2012</item>
+        <item>Понедельник 15 Январь</item>
+        <item>Пн, Янв 15 2012</item>
+        <item>Пн. 15 Янв 2012</item>
+        <item>Пн, Янв 15</item>
+        <item>Пн, 12/25/2012</item>
+        <item>Пн, 2012/12/25</item>
+        <item>Пн, 25.12.2012</item>
+        <item>ЯНВ 15</item>
+        <item>15 Январь</item>
+        <item>Январь 15</item>
+        <item>15 ЯНВ</item>
+        <item>15.01.2012</item>
+        <item>15.01.12</item>
+        <item>01.15.2012</item>
+        <item>01.15.12</item>
+        <item>15/01/2012</item>
+        <item>15/01/12</item>
+        <item>01/15/2012</item>
+        <item>01/15/12</item>
+        <item>15-01-2012</item>
+        <item>15-01-12</item>
+        <item>01-15-2012</item>
+        <item>01-15-12</item>
+        <item>2012-12-15</item>
+        <item>гггг-м-д</item>
+        <item>гггг/м/д</item>
+        <item>д/м/гггг</item>
+        <item>д/м/гг</item>
+        <item>д.м.гггг</item>
+        <item>д.м.гг</item>
+        <item>гг/м/д</item>
+        <item>гггг/мм/дд</item>
+        <item>гг/мм/дд</item>
+    </string-array>
+    <string-array name="visibilityUnitNames">
+        <item>метры</item>
+        <item>километры</item>
+        <item>миль</item>
+    </string-array>
+    <string-array name="pressureUnitNames">
+        <item>атм</item>
+        <item>бар</item>
+        <item>мбар</item>
+        <item>мм ↑</item>
+        <item>in ↑</item>
+        <item>Па</item>
+        <item>гПа</item>
+        <item>кПа</item>
+        <item>psi</item>
+    </string-array>
+    <string-array name="pressureUnitNamesPrefs">
+        <item>атм</item>
+        <item>бар</item>
+        <item>мбар</item>
+        <item>мм рт.ст.</item>
+        <item>дюйм рт.ст.</item>
+        <item>Па</item>
+        <item>гПа</item>
+        <item>кПа</item>
+        <item>psi</item>
+    </string-array>
+    <string-array name="windSpeedUnitNames">
+        <item>м/с</item>
+        <item>км/ч</item>
+        <item>миль/ч</item>
+        <item>Бофорт</item>
+        <item>узлы</item>
+    </string-array>
+    <string-array name="dailyForecastDateFormatNames">
+        <item>м/д</item>
+        <item>д/м</item>
+        <item>м.д</item>
+        <item>д.м</item>
+        <item>м-д</item>
+        <item>д-м</item>
+    </string-array>
+    <string-array name="nextEventDateFormatNames">
+        <item>ЯНВ 15</item>
+        <item>15 ЯНВ</item>
+        <item>м/д</item>
+        <item>д/м</item>
+        <item>м.д</item>
+        <item>д.м</item>
+    </string-array>
+</resources>

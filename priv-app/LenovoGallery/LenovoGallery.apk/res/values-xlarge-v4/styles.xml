@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="DialogPickerTheme" parent="@android:style/Theme.DeviceDefault.Light.Dialog" />
+    <style name="PopupTitleText" parent="@style/PopupTitleText_xlarge" />
+    <style name="ViewfinderLabelLayout" parent="@style/ViewfinderLabelLayout_xlarge" />
+    <style name="SettingPopupWindow" parent="@style/SettingPopupWindow_xlarge" />
+</resources>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">מחשבון</string>
+    <string name="error_nan">אינו מספר</string>
+    <string name="error_syntax">שגיאה</string>
+    <string name="fun_cos">cos</string>
+    <string name="fun_ln">ln</string>
+    <string name="fun_log">log</string>
+    <string name="fun_sin">sin</string>
+    <string name="fun_tan">tan</string>
+    <string name="clr">clr</string>
+    <string name="del">del</string>
+    <string name="desc_const_e">מספרי אוילר</string>
+    <string name="desc_const_pi">פאי</string>
+    <string name="desc_dec_point">נקודה</string>
+    <string name="desc_lparen">סוגר שמאלי</string>
+    <string name="desc_rparen">סוגר ימני</string>
+    <string name="desc_fun_cos">קוסינוס</string>
+    <string name="desc_fun_ln">לוגריתם טבעי</string>
+    <string name="desc_fun_log">לוגריתם</string>
+    <string name="desc_fun_sin">סינוס</string>
+    <string name="desc_fun_tan">טנגנס</string>
+    <string name="desc_op_add">פלוס</string>
+    <string name="desc_op_div">חילוק</string>
+    <string name="desc_op_fact">עצרת</string>
+    <string name="desc_op_mul">כפל</string>
+    <string name="desc_op_pow">חזקה</string>
+    <string name="desc_op_sqrt">שורש ריבועי</string>
+    <string name="desc_op_sub">חיסור</string>
+    <string name="desc_clr">נקה</string>
+    <string name="desc_del">מחק</string>
+    <string name="desc_eq">שווה</string>
+</resources>

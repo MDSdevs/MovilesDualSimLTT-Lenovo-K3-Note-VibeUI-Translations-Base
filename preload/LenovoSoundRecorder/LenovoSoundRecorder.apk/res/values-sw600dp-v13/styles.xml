@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="NonFullScreenTheme" parent="@android:style/Theme.DeviceDefault.Light">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:actionBarStyle">@style/Widget.Styled.ActionBar</item>
+        <item name="android:colorPrimary">#ff0097a7</item>
+        <item name="android:colorPrimaryDark">#ff0097a7</item>
+    </style>
+    <style name="Widget.Styled.ActionBar" parent="@android:style/Widget.DeviceDefault.Light.ActionBar.Solid">
+        <item name="android:displayOptions">none</item>
+    </style>
+</resources>

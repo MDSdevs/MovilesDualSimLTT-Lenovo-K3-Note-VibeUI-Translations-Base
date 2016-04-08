@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="appdetail_access_items">
+        <item>မေးပါ</item>
+        <item>ခွင့်ပြုသည်</item>
+        <item>ငြင်းဆိုသည်</item>
+    </string-array>
+    <string-array name="appdetail_access_items_pro">
+        <item>ပေးပါ</item>
+        <item>ခွင့်ပြုသည်</item>
+        <item>အချိန်+ခွင့်ပြုပါ</item>
+        <item>ငြင်းဆိုသည်</item>
+        <item>အချိန်+ငြင်းဆိုပါ</item>
+    </string-array>
+    <string-array name="appdetail_logging_items">
+        <item>ကမ္ဘာ့စံနှုန်းအတိုင်းထားရန်</item>
+        <item>အပြည့်အဝ</item>
+        <item>ခွင့်ပြုချက် မျှသာ</item>
+        <item>မရှိ</item>
+    </string-array>
+    <string-array name="appdetail_notification_items">
+        <item>ကမ္ဘာ့စံ အတိုင်းထားရန်</item>
+        <item>ခွင့်ပြုပြီးပါပြီ</item>
+        <item>ခွင့်ပြုချက် ပိတ်ရန်</item>
+    </string-array>
+    <string-array name="expire_timer">
+        <item>မတိကျမသေချာမှု</item>
+        <item>၁ မိနစ်</item>
+        <item>၅ မိနစ်</item>
+        <item>၁၅ မိနစ်</item>
+        <item>၃၀ မိနစ်</item>
+        <item>၁ နာရီ</item>
+        <item>၃ နာရီ</item>
+        <item>၆ နာရီ</item>
+        <item>၁၂ နာရီ</item>
+        <item>၂၄ နာရီ</item>
+    </string-array>
+    <string-array name="settings_default_access_items">
+        <item>မေးပါ</item>
+        <item>ခွင့်ပြုသည်</item>
+        <item>ငြင်းဆိုသည်</item>
+    </string-array>
+    <string-array name="settings_log_age_items">
+        <item>ဘယ်တော့မှ</item>
+        <item>၂ ပတ်</item>
+        <item>၁ ပတ်</item>
+        <item>၃ ရက်</item>
+        <item>၂ ရက်</item>
+        <item>၁ ရက်</item>
+    </string-array>
+    <string-array name="settings_log_format_items">
+        <item>၃၁၊၁၂ ၂၃:၅၉</item>
+        <item>၁၂၊၃၁ ၂၃:၅၉</item>
+        <item>၃၁၊၁၂ ၁၁း၅၉ ညနေ</item>
+        <item>၁၂၊၃၁ ၁၁:၅၉ ညနေ</item>
+    </string-array>
+    <string-array name="settings_log_items">
+        <item>အပြည့်အဝ လုပ်ဆောင်ချက်</item>
+        <item>ခွင့်ပြုချက် မျှသာ</item>
+        <item>မရှိ</item>
+    </string-array>
+</resources>

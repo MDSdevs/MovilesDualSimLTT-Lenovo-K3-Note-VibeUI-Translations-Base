@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="compass_item_height_big">23.0px</dimen>
+    <dimen name="compass_item_height_small">30.0px</dimen>
+    <dimen name="compass_item_width_big">3.0px</dimen>
+    <dimen name="compass_item_width_small">1.0px</dimen>
+    <dimen name="compass_text_gap_big">30.0px</dimen>
+    <dimen name="compass_text_gap_small">100.0px</dimen>
+    <dimen name="compass_text_size_big">30.0px</dimen>
+    <dimen name="compass_text_size_small">18.0px</dimen>
+    <dimen name="compass_text_offset">10.0px</dimen>
+    <dimen name="click_location_size">18.0sp</dimen>
+    <dimen name="orienname_size">30.0sp</dimen>
+    <dimen name="orienvalue_size">18.0sp</dimen>
+    <dimen name="confirm_margintop">25.0dip</dimen>
+    <dimen name="tip_margintop">18.0dip</dimen>
+    <dimen name="orien_layout_paddingTop">4.0dip</dimen>
+    <dimen name="location_layout_height">65.0dip</dimen>
+    <dimen name="location_text_height">47.0dip</dimen>
+    <dimen name="location_layout_margin">6.0dip</dimen>
+    <dimen name="location_layout_paddingTop">6.0dip</dimen>
+    <dimen name="cal_title_bar_height">54.0dip</dimen>
+    <dimen name="cal_action_bar_height">56.0dip</dimen>
+    <dimen name="cal_text_size">16.0sp</dimen>
+</resources>

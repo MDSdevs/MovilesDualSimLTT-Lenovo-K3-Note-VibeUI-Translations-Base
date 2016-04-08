@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="drawable" name="audio_preview_bg">#ff191919</item>
+    <item type="drawable" name="white">#ffffffff</item>
+    <item type="drawable" name="black">#ff000000</item>
+    <item type="drawable" name="gridview_item_press">#fff54696</item>
+    <item type="drawable" name="online_recommend_group_line_bg">#ff313131</item>
+    <item type="drawable" name="audio_effect_mask_bg">#99000000</item>
+    <item type="drawable" name="online_artist_type_bg_press">#ff666666</item>
+    <item type="drawable" name="action_bar_for_pic_bg">#cc000000</item>
+    <item type="drawable" name="effect_actionbar_bg">#ffffffff</item>
+    <item type="drawable" name="ic_audio_effect_channel_newfull">#ff999999</item>
+    <item type="drawable" name="file_path_bar_bg">#fff3f3f3</item>
+    <item type="drawable" name="online_playlist_title_bg">#88999999</item>
+    <item type="drawable" name="action_bar_bg">#ff000000</item>
+    <item type="drawable" name="list_view_divider_bg_scan">@color/divider_color</item>
+    <item type="drawable" name="scan_file_bg">#fff3f3f3</item>
+    <item type="drawable" name="scan_file_bg_press">#ffffffff</item>
+    <item type="drawable" name="edit_bar_vertical_divider">#ff333333</item>
+    <item type="drawable" name="userinfo_exit_bg">#fff54696</item>
+    <item type="drawable" name="buttoncolor">@color/rose_color</item>
+</resources>

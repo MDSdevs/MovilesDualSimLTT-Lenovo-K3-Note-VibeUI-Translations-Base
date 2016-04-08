@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Isibali</string>
+    <string name="error_nan">Akuyona inombolo</string>
+    <string name="error_syntax">Iphutha</string>
+    <string name="fun_cos">cos</string>
+    <string name="fun_ln">In</string>
+    <string name="fun_log">log</string>
+    <string name="fun_sin">sin</string>
+    <string name="fun_tan">tan</string>
+    <string name="clr">clr</string>
+    <string name="del">sula</string>
+    <string name="desc_const_e">Inombolo ye-Euler</string>
+    <string name="desc_const_pi">pi</string>
+    <string name="desc_dec_point">iphoyinti</string>
+    <string name="desc_lparen">abakaki abakwesokunxele</string>
+    <string name="desc_rparen">abakaki abakwesokudla</string>
+    <string name="desc_fun_cos">cosine</string>
+    <string name="desc_fun_ln">logarithm yemvelo</string>
+    <string name="desc_fun_log">logarithm</string>
+    <string name="desc_fun_sin">sine</string>
+    <string name="desc_fun_tan">tangent</string>
+    <string name="desc_op_add">hlanganisa</string>
+    <string name="desc_op_div">hlukanisa</string>
+    <string name="desc_op_fact">ngokwesimo</string>
+    <string name="desc_op_mul">izikhathi</string>
+    <string name="desc_op_pow">amandla</string>
+    <string name="desc_op_sqrt">impande yesikwele</string>
+    <string name="desc_op_sub">susa</string>
+    <string name="desc_clr">sula</string>
+    <string name="desc_del">susa</string>
+    <string name="desc_eq">okulinganayo</string>
+</resources>

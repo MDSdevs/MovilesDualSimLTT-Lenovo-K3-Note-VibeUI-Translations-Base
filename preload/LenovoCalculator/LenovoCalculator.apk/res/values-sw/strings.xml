@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kikokotoo</string>
+    <string name="error_nan">Si nambari</string>
+    <string name="error_syntax">Hitilafu</string>
+    <string name="fun_cos">cos</string>
+    <string name="fun_ln">In</string>
+    <string name="fun_log">log</string>
+    <string name="fun_sin">sin</string>
+    <string name="fun_tan">tan</string>
+    <string name="clr">futa</string>
+    <string name="del">futa</string>
+    <string name="desc_const_e">Nambari ya Euler</string>
+    <string name="desc_const_pi">pi</string>
+    <string name="desc_dec_point">nukta</string>
+    <string name="desc_lparen">mabano ya kushoto</string>
+    <string name="desc_rparen">mabano ya kulia</string>
+    <string name="desc_fun_cos">kosini</string>
+    <string name="desc_fun_ln">logi asili</string>
+    <string name="desc_fun_log">logi</string>
+    <string name="desc_fun_sin">sini</string>
+    <string name="desc_fun_tan">tanjenti</string>
+    <string name="desc_op_add">jumlisha</string>
+    <string name="desc_op_div">gawanya</string>
+    <string name="desc_op_fact">zao mtiririko</string>
+    <string name="desc_op_mul">zidisha</string>
+    <string name="desc_op_pow">kipeo</string>
+    <string name="desc_op_sqrt">kipeo cha pili</string>
+    <string name="desc_op_sub">kutoa</string>
+    <string name="desc_clr">futa</string>
+    <string name="desc_del">futa</string>
+    <string name="desc_eq">sawa na</string>
+</resources>

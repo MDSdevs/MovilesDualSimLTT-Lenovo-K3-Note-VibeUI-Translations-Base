@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Rechner</string>
+    <string name="error_nan">Keine Zahl</string>
+    <string name="error_syntax">Fehler</string>
+    <string name="fun_cos">cos</string>
+    <string name="fun_ln">ln</string>
+    <string name="fun_log">log</string>
+    <string name="fun_sin">sin</string>
+    <string name="fun_tan">tan</string>
+    <string name="clr">clr</string>
+    <string name="del">CE</string>
+    <string name="desc_const_e">Eulersche Zahl</string>
+    <string name="desc_const_pi">Pi</string>
+    <string name="desc_dec_point">Dezimalzeichen</string>
+    <string name="desc_lparen">Klammer auf</string>
+    <string name="desc_rparen">Klammer zu</string>
+    <string name="desc_fun_cos">Kosinus</string>
+    <string name="desc_fun_ln">natürlicher Logarithmus</string>
+    <string name="desc_fun_log">Logarithmus</string>
+    <string name="desc_fun_sin">Sinus</string>
+    <string name="desc_fun_tan">Tangens</string>
+    <string name="desc_op_add">plus</string>
+    <string name="desc_op_div">dividieren</string>
+    <string name="desc_op_fact">Fakultät</string>
+    <string name="desc_op_mul">Mal</string>
+    <string name="desc_op_pow">Potenz</string>
+    <string name="desc_op_sqrt">Quadratwurzel</string>
+    <string name="desc_op_sub">minus</string>
+    <string name="desc_clr">löschen</string>
+    <string name="desc_del">löschen</string>
+    <string name="desc_eq">ist gleich</string>
+</resources>

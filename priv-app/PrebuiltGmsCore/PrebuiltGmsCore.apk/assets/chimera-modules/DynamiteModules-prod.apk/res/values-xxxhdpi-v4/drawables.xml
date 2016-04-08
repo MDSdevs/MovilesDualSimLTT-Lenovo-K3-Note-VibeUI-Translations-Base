@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="drawable" name="maps_btn_back">false</item>
+    <item type="drawable" name="maps_btn_close">false</item>
+    <item type="drawable" name="maps_card_bg">false</item>
+    <item type="drawable" name="maps_circle_active">false</item>
+    <item type="drawable" name="maps_circle_active_grouped">false</item>
+    <item type="drawable" name="maps_sv_arrow">false</item>
+    <item type="drawable" name="maps_sv_circle">false</item>
+    <item type="drawable" name="places_ic_clear">false</item>
+    <item type="drawable" name="places_ic_search">false</item>
+    <item type="drawable" name="powered_by_google_dark">false</item>
+    <item type="drawable" name="powered_by_google_light">false</item>
+</resources>

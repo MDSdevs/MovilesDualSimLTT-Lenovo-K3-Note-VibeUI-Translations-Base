@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sim_name">
+        <item>سیم 1</item>
+        <item>سیم 2</item>
+        <item>بستن</item>
+    </string-array>
+    <string-array name="week_day">
+        <item>یک‌شنبه</item>
+        <item>دوشنبه</item>
+        <item>سه‌شنبه</item>
+        <item>چهارشنبه</item>
+        <item>پنج‌شنبه</item>
+        <item>جمعه</item>
+        <item>شنبه</item>
+    </string-array>
+    <string-array name="short_week_day">
+        <item>1ش</item>
+        <item>2ش</item>
+        <item>3ش</item>
+        <item>4ش</item>
+        <item>5ش</item>
+        <item>جم</item>
+        <item>شن</item>
+    </string-array>
+</resources>

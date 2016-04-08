@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="i_know_it">我知道了</string>
+    <string name="try_it">试用一下</string>
+    <string name="preference_status_open">开启</string>
+    <string name="preference_status_close">关闭</string>
+    <string name="preference_status_unknown">未知</string>
+    <string name="single_hand_title">单手微屏</string>
+    <string name="single_hand_summary">屏幕侧滑C字母，当前界面切换小窗口模式</string>
+    <string name="single_hand_help">手指从屏幕上方边缘至下方边缘画c形状，即可调起单手微屏。（只支持竖屏）</string>
+    <string name="flash_mode_onoff">开关</string>
+</resources>

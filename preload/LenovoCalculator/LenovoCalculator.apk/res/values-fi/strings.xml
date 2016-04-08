@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Laskin</string>
+    <string name="error_nan">Ei ole numero</string>
+    <string name="error_syntax">Virhe</string>
+    <string name="fun_cos">cos</string>
+    <string name="fun_ln">ln</string>
+    <string name="fun_log">log</string>
+    <string name="fun_sin">sin</string>
+    <string name="fun_tan">tan</string>
+    <string name="clr">thj</string>
+    <string name="del">pst</string>
+    <string name="desc_const_e">Eulerin luku</string>
+    <string name="desc_const_pi">pii</string>
+    <string name="desc_dec_point"> piste </string>
+    <string name="desc_lparen">vasen sulkumerkki</string>
+    <string name="desc_rparen">oikea sulkumerkki</string>
+    <string name="desc_fun_cos">kosini</string>
+    <string name="desc_fun_ln">luonnollinen logaritmi</string>
+    <string name="desc_fun_log">logaritmi</string>
+    <string name="desc_fun_sin">sini</string>
+    <string name="desc_fun_tan">tangentti</string>
+    <string name="desc_op_add">plus</string>
+    <string name="desc_op_div">jakaa</string>
+    <string name="desc_op_fact">kertoma</string>
+    <string name="desc_op_mul">kertaa</string>
+    <string name="desc_op_pow">potenssi</string>
+    <string name="desc_op_sqrt">neliöjuuri</string>
+    <string name="desc_op_sub">miinus</string>
+    <string name="desc_clr">tyhjennä</string>
+    <string name="desc_del">poista</string>
+    <string name="desc_eq">on yhtä kuin</string>
+</resources>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kalkulators</string>
+    <string name="error_nan">Nav skaitlis</string>
+    <string name="error_syntax">Kļūda</string>
+    <string name="fun_cos">cos</string>
+    <string name="fun_ln">ln</string>
+    <string name="fun_log">log</string>
+    <string name="fun_sin">sin</string>
+    <string name="fun_tan">tan</string>
+    <string name="clr">C</string>
+    <string name="del">C</string>
+    <string name="desc_const_e">Eilera skaitlis</string>
+    <string name="desc_const_pi">pī</string>
+    <string name="desc_dec_point">komats</string>
+    <string name="desc_lparen">kreisā iekava</string>
+    <string name="desc_rparen">labā iekava</string>
+    <string name="desc_fun_cos">kosinuss</string>
+    <string name="desc_fun_ln">naturālais logaritms</string>
+    <string name="desc_fun_log">logaritms</string>
+    <string name="desc_fun_sin">sinuss</string>
+    <string name="desc_fun_tan">tangenss</string>
+    <string name="desc_op_add">plus</string>
+    <string name="desc_op_div">dalīt</string>
+    <string name="desc_op_fact">faktoriāls</string>
+    <string name="desc_op_mul">reizināt</string>
+    <string name="desc_op_pow">pakāpe</string>
+    <string name="desc_op_sqrt">kvadrātsakne</string>
+    <string name="desc_op_sub">mīnus</string>
+    <string name="desc_clr">noņemt</string>
+    <string name="desc_del">dzēst</string>
+    <string name="desc_eq">vienāds ar</string>
+</resources>

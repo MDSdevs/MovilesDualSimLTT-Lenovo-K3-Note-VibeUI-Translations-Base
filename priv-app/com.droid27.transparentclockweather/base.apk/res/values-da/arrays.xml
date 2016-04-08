@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="animationDelayNames">
+        <item>Langsommere</item>
+        <item>Normal</item>
+        <item>Hurtigere</item>
+    </string-array>
+    <string-array name="batteryPositionNames">
+        <item>Venstre</item>
+        <item>Højre</item>
+    </string-array>
+    <string-array name="forecast_strings">
+        <item>Lokal tid: %1$s</item>
+        <item>Solopgang: %1$s</item>
+        <item>Solnedgang: %1$s</item>
+        <item>Dagslængde: %1$s t, %2$s m</item>
+        <item>Vind: %1$s</item>
+        <item>Luftfugtighed: %1$s</item>
+        <item>Seneste opdatering: %1$s timer, %2$s minutter siden</item>
+        <item>Seneste opdatering: %1$s minutter siden</item>
+        <item>Seneste opdatering: %1$s</item>
+        <item>Seneste opdatering: %1$s t, %2$s m</item>
+        <item>Føles som %1$s</item>
+    </string-array>
+    <string-array name="moon_phases">
+        <item>Nymåne</item>
+        <item>Tiltagende halvmåne</item>
+        <item>Første kvarter</item>
+        <item>Tiltagende måne</item>
+        <item>Fuldmåne</item>
+        <item>Aftagende måne</item>
+        <item>Trejde kvarter</item>
+        <item>Aftagende halvmåne</item>
+    </string-array>
+    <string-array name="refreshPeriodNames">
+        <item>Aldrig</item>
+        <item>15 minutter</item>
+        <item>30 minutter</item>
+        <item>1 time</item>
+        <item>2 timer</item>
+        <item>3 timer</item>
+        <item>4 timer</item>
+        <item>6 timer</item>
+    </string-array>
+    <string-array name="weather_conditions">
+        <item>Ikke tilgængelig</item>
+        <item>Klart</item>
+        <item>Delvist solskin</item>
+        <item>Solskin</item>
+        <item>Delvist skyet</item>
+        <item>Overvejende skyet</item>
+        <item>Overvejende solskin</item>
+        <item>Overskyet</item>
+        <item>Skyet</item>
+        <item>Meget skyet</item>
+        <item>Risiko for regn</item>
+        <item>Let regn</item>
+        <item>Regn</item>
+        <item>Spredte byger</item>
+        <item>Byger</item>
+        <item>Kraftige byger</item>
+        <item>Risiko for storm</item>
+        <item>Svage storme</item>
+        <item>Storm</item>
+        <item>Kraftige storme</item>
+        <item>Risiko for torden</item>
+        <item>Spredt torden</item>
+        <item>Torden</item>
+        <item>Risiko for sne</item>
+        <item>Let sne</item>
+        <item>Sne</item>
+        <item>Kraftig sne</item>
+        <item>Snebyger</item>
+        <item>Regn og sne</item>
+        <item>Frysende finregn</item>
+        <item>Hagl</item>
+        <item>Haglstorm</item>
+        <item>Slud</item>
+        <item>Iskold</item>
+        <item>Dis</item>
+        <item>Støv</item>
+        <item>Tåge</item>
+        <item>Røg</item>
+        <item>Tågedis</item>
+        <item>Lette snebyger</item>
+        <item>Sandstorm</item>
+        <item>Smukt</item>
+        <item>Byger/klart vejr</item>
+        <item>Tornado</item>
+        <item>Tropisk storm</item>
+        <item>Orkan</item>
+        <item>Kulde</item>
+        <item>Varme</item>
+        <item>Blæsende</item>
+        <item>Køligt</item>
+        <item>Mildt</item>
+        <item>Varmt</item>
+        <item>Smukt</item>
+        <item>Brise</item>
+        <item>Fugtigt</item>
+        <item>Tørt</item>
+        <item>Støvregn</item>
+    </string-array>
+    <string-array name="weekdays_long">
+        <item>Søndag</item>
+        <item>Mandag</item>
+        <item>Tirsdag</item>
+        <item>Onsdag</item>
+        <item>Torsdag</item>
+        <item>Fredag</item>
+        <item>Lørdag</item>
+    </string-array>
+    <string-array name="weekdays_short">
+        <item>Søn</item>
+        <item>Man</item>
+        <item>Tir</item>
+        <item>Ons</item>
+        <item>Tor</item>
+        <item>Fre</item>
+        <item>Lør</item>
+    </string-array>
+    <string-array name="widgetDateFormatNames">
+        <item>Monday, January 15</item>
+        <item>Mon, Jan 15, 2012</item>
+        <item>Monday 15 january</item>
+        <item>Mon, Jan 15 2012</item>
+        <item>Mon. 15 Jan 2012</item>
+        <item>Mon, Jan 15</item>
+        <item>Mon, 12/25/2012</item>
+        <item>Mon, 2012/12/25</item>
+        <item>Mon, 25.12.2012</item>
+        <item>JAN 15</item>
+        <item>15 January</item>
+        <item>January 15</item>
+        <item>15 JAN</item>
+        <item>15.01.2012</item>
+        <item>15.01.12</item>
+        <item>01.15.2012</item>
+        <item>01.15.12</item>
+        <item>15/01/2012</item>
+        <item>15/01/12</item>
+        <item>01/15/2012</item>
+        <item>01/15/12</item>
+        <item>15-01-2012</item>
+        <item>15-01-12</item>
+        <item>01-15-2012</item>
+        <item>01-15-12</item>
+        <item>2012-12-15</item>
+        <item>yyyy-m-d</item>
+        <item>yyyy/m/d</item>
+        <item>d/m/yyyy</item>
+        <item>d/m/yy</item>
+        <item>d.m.yyyy</item>
+        <item>d.m.yy</item>
+        <item>yy/m/d</item>
+        <item>yyyy/mm/dd</item>
+        <item>yy/mm/dd</item>
+    </string-array>
+</resources>

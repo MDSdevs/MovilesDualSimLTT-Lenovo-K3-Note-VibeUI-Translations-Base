@@ -1,0 +1,512 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">开机向导</string>
+    <string name="setup_wizard">设置向导</string>
+    <string name="access_desktop">直接进入桌面</string>
+    <string name="welcome_message">欢迎使用</string>
+    <string name="setup_wizard_next_button_text">下一步</string>
+    <string name="setup_wizard_back_button_text">上一步</string>
+    <string name="next">下一步</string>
+    <string name="skip">跳过</string>
+    <string name="finish">完成</string>
+    <string name="ok">确定</string>
+    <string name="cancel">取消</string>
+    <string name="tips">提示</string>
+    <string name="sim_missing_title">请插入SIM卡</string>
+    <string name="sim_missing_message">检测到您未插入SIM卡，建议插入后再试。</string>
+    <string name="mobile_data_title">数据服务开启</string>
+    <string name="mobile_data_message">使用手机卡进行上网。服务打开时，运营商会根据产生的流量收取一定的费用，如果您未办理手机流量套餐，建议您暂时关闭此项。</string>
+    <string name="mobile_data_use_sim1">开启卡1（%1$s）数据</string>
+    <string name="mobile_data_use_sim2">开启卡2（%1$s）数据</string>
+    <string name="account_title">联想账号</string>
+    <string name="account_text_register">我要注册</string>
+    <string name="account_message">一个联想帐号，畅行联想应用！</string>
+    <string name="account_btn_title_phonenum">手机号登录</string>
+    <string name="account_btn_title_othernum">邮箱登录</string>
+    <string name="title_act_language">语言选择</string>
+    <string name="title_act_network">网络设置</string>
+    <string name="title_act_server">联想体验计划</string>
+    <string name="title_act_license">Lenovo 许可协议</string>
+    <string name="license_message">你需要同意联想的隐私政策才可以继续使用手机。</string>
+    <string name="lenovo_license_agree">同意</string>
+    <string name="network_data_title">数据连接</string>
+    <string name="netwrok_data_summary">可以使用手机卡上网，服务打开时，会产生一定的流量。</string>
+    <string name="network_wlan_title">选择网络</string>
+    <string name="network_wlan_summary_off">未连接</string>
+    <string name="network_wlan_summary_on">已连接</string>
+    <string name="network_skip_tips">建议您连接互联网，以获取更好的服务和支持。</string>
+    <string name="network_skip">还是跳过</string>
+    <string name="network_not_skip">不要跳过</string>
+    <string name="server_lenovo_exp_summary">%1$s软件支持，%2$s服务，来吧。</string>
+    <string name="exp_color_text1">最新</string>
+    <string name="exp_color_text2">个性化</string>
+    <string name="server_lenovo_exp_span_text">加入联想体验计划</string>
+    <string name="server_lenovo_exp_agree">同意参加联想体验计划</string>
+    <string name="server_lenovo_exp_dialog_title">提示</string>
+    <string name="server_lenovo_exp_tip">建议加入联想体验计划，才能更好的体验手机及服务。</string>
+    <string name="server_lenovo_exp_skip">还是跳过</string>
+    <string name="server_lenovo_exp_not_skip">不要跳过</string>
+    <string name="others_title">其他服务</string>
+    <string name="othersetting_setting_item_title_exp">同意加入联想体验计划</string>
+    <string name="othersetting_setting_item_title_gps">GPS位置服务</string>
+    <string name="othersetting_setting_item_summary_gps">允许“地图”或其他应用使用GPS进行定位。在服务打开时，可能会产生一定的流量。</string>
+    <string name="complete_title">设置完成</string>
+    <string name="complete_message">"  恭喜您！"</string>
+    <string name="complete_summary">您已经完成开机设置，开始使用新的手机吧！感谢您选择联想！</string>
+    <string name="complete_set_fingerprint">设置指纹</string>
+    <string name="complete_later_on">以后再说</string>
+    <string name="lenovo_license_content_less">"本联想许可协议（以下简称“本协议”）适用于您获得的各种联想软件产品，不论是联想硬件产品上预装或附带的、单独获得的或您从联想网站或经联想准许的第三方网站上下载的。本协议也适用于这些软件产品的任何更新或补丁程序。
+
+只有当您接受本协议时，联想才许可您使用软件产品。点击接受本协议，或者安装、下载或使用软件产品，即表示您接受本协议的条款。
+
+如果您不接受这些条款，请不要安装、下载或者使用软件产品。
+• 如果您已获得软件产品并支付了许可费用，请将软件产品退还其提供方，以获得相当于您已支付金额的退款或信用额度。"</string>
+    <string name="lenovo_license_content">"本联想许可协议（以下简称“本协议”）适用于您获得的各种联想软件产品，不论是联想硬件产品上预装或附带的、单独获得的或您从联想网站或经联想准许的第三方网站上下载的。本协议也适用于这些软件产品的任何更新或补丁程序。
+
+只有当您接受本协议时，联想才许可您使用软件产品。点击接受本协议，或者安装、下载或使用软件产品，即表示您接受本协议的条款。
+
+如果您不接受这些条款，请不要安装、下载或者使用软件产品。
+• 如果您已获得软件产品并支付了许可费用，请将软件产品退还其提供方，以获得相当于您已支付金额的退款或信用额度。
+• 如果您获得了联想硬件产品上预装或附带的软件产品，您可以继续使用硬件产品，但请不要继续使用本协议涵盖的软件产品。
+
+"<b>“软件产品”</b>"包括移动设备软件程序（不论是预装的还是单独提供的）和相关的许可材料，如文档。
+"<b>“您”</b>"可指个人，也可指某个单个法律实体。
+"<b>1. 权利</b>"
+您必须妥善保管标有原始日期的销售交易文件，如收据、发票或类似文件，作为您有权使用软件产品的证明。交易文件指明了您获得的使用级别。如果未指明使用级别，则您可在一个硬件产品上安装和使用软件产品的一个副本。您的交易文件也可证明您有资格获得软件产品的未来升级版本（如果有的话）。对于联想硬件产品上免费预装、附带或分发以供在联想硬件产品上使用的软件产品，您的硬件产品销售交易文件可同样作为您有权使用软件产品的证明。
+"<b>2. 许可</b>"
+软件产品归联想或联想的某个供应商所有，受版权保护且仅为许可，而不是销售。当您合法获得了软件产品，联想将授予您一个非独占的使用许可。
+您可以（1）在您的交易文件指定的最高使用级别范围内使用软件产品；并（2）制作和安装包括备份在内的副本以支持该使用。本协议中的条款适用于您制作的每一个副本。您不得删除或更改任何版权声明或所有权标记。
+如果您获得软件产品的升级版本，在安装该升级版本后，您即不得继续使用该软件产品的未升级版本，也不得将其转让给任何其他方。
+您应确保使用软件产品的任何人（无论是通过本地访问还是远程访问）都只将软件产品用于您被授权的用途并遵守本协议的条款。
+您不得（1）在本协议允许的范围之外使用、复制、修改或分发软件产品；（2）对软件产品进行反汇编、反编译或实施其他解译行为，但按法律明确允许且不能通过合同加以排除的方式实施者不在此限；或（3）分许可、出租或出借软件产品。
+如果您违反了本协议的条款，联想可以终止您的许可。如果联想终止了您的许可，您必须销毁软件产品的所有副本。
+"<b>3. 可转让性</b>"
+除非按本节允许的方式，您不得将软件产品转让或出让给任何其他方。
+预装的软件产品只能在其预装或所依附的联想硬件产品上使用，并且只能与该硬件产品一起转让，它们不能与联想硬件产品分开单独转让。
+"<b>4. 第三方软件产品</b>"
+某些第三方软件可能包含于或已下载至设备中，联想提供的第三方软件产品可能受本协议条款的制约，但通常由第三方根据其自己的条款和条件授予许可。非由联想许可的第三方软件产品仅受其随附许可协议条款的制约。当您使用三方软件或者接收第三方服务时，第三方软件获取您的信息。因此，我们在此提醒您注意阅读第三方的许可协议。
+"<b>5. 软件产品规格</b>"
+软件产品规格和指定的操作环境信息可以从软件产品随附的文档（如有，例如“自述文件”或类似标题的文件）或由联想发布的其他文件中找到。
+"<b>6. 升级服务</b>"
+连接互联网后，您的设备会自动检查系统更新，这个过程会产生一些流量。联想会通过升级服务，向您提供软件的更新、升级、增补和附加组件（如果有），包括对之前已安装软件（包括全部版本）的缺陷修复、服务升级（部份或全部）、产品或设备、升级和改进，以改善软件产品并最终提升您对设备的用户体验。
+"<b>7. 费用</b>"
+软件产品的费用取决于您所获得的使用级别。
+如果您希望提高使用级别，请与联想或软件产品的提供方联系。这可能需要额外付费。
+除了根据联想的净收入征收的税费之外，如果任何机构对软件产品征收各种税费，则您同意支付指定的金额或提供免税文件。自购买之日起，您负责承担软件产品的任何财产税。
+"<b>"8. 无保证声明
+软件产品按“现状”提供。
+除了不可排除的任何法定保证外，联想不提供任何明示或默示的保证或条件，包括但不限于有关软件产品或技术支持（如果有的话）的适销性、适用于某个特定目的，以及不侵权的默示保证或条件。"</b>"
+以上免除同时适用于任何联想的开发者和供应商。
+非联想软件产品的供应商或发行商可能会提供他们自己的保证。
+除非联想另有书面说明，否则联想不提供技术支持。
+"<b>9. 责任限制</b>"
+如联想违约或有其他责任，您有权要求联想赔偿损失。在上述情形下，无论您基于何种理由要求联想赔偿损失（包括重大违约、过失、虚假陈述或其他合同或侵权方面的索赔），除根据可适用法律不能免除或限制的责任外，且仅在根据该法律不能免除或限制的范围内，联想的赔偿责任仅限于您遭受的实际直接损失，且最高不超过您购买软件产品所支付的款项。此限制不适用于联想应依法承担的人身伤害（包括死亡）、不动产和有形动产的损害赔偿责任。
+此限制同样适用于联想的供应商和销售商。这是联想及其供应商和销售商所承担责任总和的上限。
+"<b>在任何情况下，联想及其供应商或销售商对下列情形均不承担责任，即使已被告知该情形有可能发生：（1）第三方向您提出的索赔；（2）您的数据丢失或损坏；或者（3）特殊的、附带的或间接的损害赔偿或任何后果性的经济损害赔偿，包括利润、业务收入、商誉或预期节余的损失。某些国家/地区或司法管辖区不允许对附带的或后果性的损害赔偿进行排除或限制，如果这样，则上述排除或限制可不适用于您。</b>"
+"<b>10. 消费者权利</b>"
+本协议的任何条款均不影响不能通过合同予以放弃或限制的消费者的任何法定权利。本协议也不改变根据可适用的当地法律您可能拥有的其他权利。
+"<b>11. 通则</b>"
+a) 如果本协议的任何条款被判定无效或不可强制执行，本协议的其余条款仍然具有完全的强制执行性和法律效力。
+b) 您同意遵守所有可适用的进出口法律和法规。
+c) 您或联想均不得在争议事由发生两（2）年后根据本协议提起法律行动，但当地法律另有规定不能通过合同方式弃权或予以限制的除外。
+"</string>
+    <string name="wifi_display_options_done">完成</string>
+    <string name="wifi_add_network">添加网络</string>
+    <string name="wifi_show_advanced">高级选项</string>
+    <string name="wifi_ssid">网络SSID</string>
+    <string name="wifi_ssid_hint">输入SSID</string>
+    <string name="wifi_security">安全性</string>
+    <string name="wifi_signal">信号强度</string>
+    <string name="wifi_status">状态信息</string>
+    <string name="wifi_speed">连接速度</string>
+    <string name="wifi_frequency">频率</string>
+    <string name="wifi_ip_address">IP地址</string>
+    <string name="wifi_eap_method">EAP 方法</string>
+    <string name="please_select_phase2">阶段 2 身份验证</string>
+    <string name="wifi_eap_ca_cert">CA 证书</string>
+    <string name="wifi_eap_user_cert">用户证书</string>
+    <string name="wifi_eap_identity">身份</string>
+    <string name="wifi_eap_anonymous">匿名身份</string>
+    <string name="wifi_password">密码</string>
+    <string name="wifi_show_password">显示密码</string>
+    <string name="wifi_ip_settings">IP 设置</string>
+    <string name="wifi_unchanged">（未更改）</string>
+    <string name="wifi_unspecified">（未指定）</string>
+    <string name="wifi_remembered">已保存</string>
+    <string name="wifi_disabled_generic">未启用</string>
+    <string name="wifi_disabled_network_failure">已停用（互联网连接状况不佳）</string>
+    <string name="wifi_disabled_password_failure">身份验证出现问题</string>
+    <string name="wifi_not_in_range">不在范围内</string>
+    <string name="wifi_security_none">无</string>
+    <string name="wifi_scan_always_turnoff_message">要关闭此功能，请转到菜单下的“高级”。</string>
+    <string name="wifi_scan_always_confirm_allow">允许</string>
+    <string name="wifi_scan_always_confirm_deny">拒绝</string>
+    <string name="wifi_connect">连接</string>
+    <string name="wifi_failed_connect_message">无法连接网络</string>
+    <string name="wifi_forget">取消保存</string>
+    <string name="wifi_failed_forget_message">无法取消保存网络</string>
+    <string name="wifi_save">保存</string>
+    <string name="wifi_failed_save_message">无法保存网络</string>
+    <string name="wifi_cancel">取消</string>
+    <string name="wifi_skip_anyway">仍然跳过</string>
+    <string name="wifi_dont_skip">不跳过</string>
+    <string name="wifi_saved_access_points_label">已保存的网络</string>
+    <string name="wifi_advanced_settings_label">IP 设置</string>
+    <string name="wifi_ip_settings_menu_save">保存</string>
+    <string name="wifi_ip_settings_menu_cancel">取消</string>
+    <string name="wifi_ip_settings_invalid_ip_address">请输入有效的IP地址。</string>
+    <string name="wifi_ip_settings_invalid_gateway">请键入有效的网关地址。</string>
+    <string name="wifi_ip_settings_invalid_dns">请输入有效的DNS地址。</string>
+    <string name="wifi_ip_settings_invalid_network_prefix_length">键入长度在 0 到 32 之间的网络前缀。</string>
+    <string name="wifi_dns1">DNS 1</string>
+    <string name="wifi_dns2">DNS 2</string>
+    <string name="wifi_gateway">网关</string>
+    <string name="wifi_network_prefix_length">网络前缀长度</string>
+    <string name="wifi_secured_first_item">通过 %1$s 进行保护</string>
+    <string name="wifi_secured_second_item">，通过 %1$s 进行保护</string>
+    <string name="proxy_settings_title">代理</string>
+    <string name="proxy_port_label">代理服务器端口</string>
+    <string name="proxy_exclusionlist_label">对以下网址不使用代理</string>
+    <string name="proxy_exclusionlist_hint">example.com,mycomp.test.com,localhost</string>
+    <string name="proxy_hostname_label">代理服务器主机名</string>
+    <string name="proxy_hostname_hint">proxy.example.com</string>
+    <string name="proxy_error_invalid_host">您键入的主机名无效。</string>
+    <string name="proxy_error_invalid_exclusion_list">您输入的排除列表格式有误。请输入以逗号分隔的排除网域列表。</string>
+    <string name="proxy_error_empty_port">您需要填写端口字段。</string>
+    <string name="proxy_error_empty_host_set_port">如果主机字段为空，则端口字段必须为空。</string>
+    <string name="proxy_error_invalid_port">您键入的端口无效。</string>
+    <string name="proxy_warning_limited_support">浏览器会使用 HTTP 代理，但其他应用可能不会使用。</string>
+    <string name="proxy_url_title">"PAC网址： "</string>
+    <string name="wifi_info_cancel">取消</string>
+    <string name="wifi_info_ok">确认</string>
+    <string name="wifi_info_signal">信号强度</string>
+    <string name="wifi_info_none">无</string>
+    <string name="wifi_auto_conn">自动连接</string>
+    <string name="wifi_info_security">安全性</string>
+    <string name="wifi_info_delete">删除网络</string>
+    <string name="wifi_info_delete_info">会停止自动连接此网络，并且再次连接时可能需要重新输入密码。</string>
+    <string name="uepromotion_protocol_less">"感谢您选择使用联想移动设备！使用联想移动设备的“用户体验提升计划”功能之前，请您务必仔细阅读以下条款：
+我们将按照本用户体验提升计划（“本计划”）的规定提供的基于移动通信网络/互联网的在线数据中心相关服务，本计划中涉及的我方直接提供的所有信息、功能、内容、软件、硬件或服务等统称为“服务”。本计划由您和北京联想调频科技有限公司（以下称“我们”或“我方”）签订。根据上下文，在本计划中，“我们”有时可能包括我们的供应商、服务提供商、客户或员工。而“您”是指任何同意参加或使用本服务的任何单位和个人。
+"</string>
+    <string name="uepromotion_protocol">"感谢您选择使用联想移动设备！使用联想移动设备的“用户体验提升计划”功能之前，请您务必仔细阅读以下条款：
+我们将按照本用户体验提升计划（“本计划”）的规定提供的基于移动通信网络/互联网的在线数据中心相关服务，本计划中涉及的我方直接提供的所有信息、功能、内容、软件、硬件或服务等统称为“服务”。本计划由您和北京联想调频科技有限公司（以下称“我们”或“我方”）签订。根据上下文，在本计划中，“我们”有时可能包括我们的供应商、服务提供商、客户或员工。而“您”是指任何同意参加或使用本服务的任何单位和个人。
+
+1.服务定义及说明
+“用户体验提升计划”是我们针对联想移动设备提出的一项旨在提升产品或服务、提升用户体验的服务功能。您的移动设备在开启“用户体验提升计划”功能后，您将在使用移动设备原有功能的同时，还可以优先体验到“用户体验提升计划”的新服务：
+
+增强的设备软硬件加速功能和人性化体验：
+(1) 开机加速优化，节省您的开机时间，给您更好的开机体验；
+(2) 为您提供最受用户欢迎的、简单、易用、体贴的软件功能体验；
+(3) 增强的GPS定位功能，提供更快速、更精准的GPS定位功能；
+(4) 移动网络、WLAN等网络模式的智能识别和切换功能，在不同网络环境下，提供个性化的内容服务，在您享受内容盛宴的同时，最大限度的节省您的移动网络流量和花费；
+
+多方位、个性化的内容推荐服务：
+ (1) 在您玩游戏时，为您提供最新的、您可能感兴趣的游戏下载链接和资讯；
+(2) 在您听音乐时，为您提供歌手的最近动态、演唱会和热门新歌信息；
+(3) 在您移动办公时，为您提供提供最新、最受欢迎的办公软件和体验；
+(4) 在您上网冲浪时，为您提供安全、快速的访问体验，并自动为您推荐的感兴趣的、最新的软件、游戏、新闻、电子书、音乐、视频等个性化内容服务和多媒体视听盛宴；
+(5) 在您定位导航时，除了为您提供更精准、高效的GPS定位功能，还为您提供基于位置信息的衣食住行推荐和检索服务；
+
+ 安全可靠的软件和服务体验；
+(1) 通过对软件的分级和打分机制，为您提供更丰富、更安全的内置软件；
+(2) 贴心的一站式应用检索、下载、安装和卸载服务，让你第一时间体验最流行的软件和游戏；
+(3) 为您量身打造属于您自己的个人存储云服务；让你随时随地在格式兼容的手机、电脑、pad甚至是多媒体电视之间共享资料，让您从此摆脱担心文件丢失的烦恼。
+您清楚地了解并认可，我们仅提供一种方便服务，即本服务仅为您提供基于您的移动设备已有功能的优化、提升或个性化辅助，具体服务、信息内容可能由其他第三方为您提供。我们并不替代该等服务、信息内容的提供者为您提供具体信息内容。
+我们不对任何第三方向您提供的服务、信息内容做任何保证，包括但不限于对该等信息内容的安全性、稳定性、及时性及可适用性的保证。如您对该等信息内容有任何疑问、异议、意见或建议，您应自行联系其提供者协商。我们不就此向您承担任何责任。
+我们保留在必要时调整服务内容和服务方式的权利（包括但不限于本服务条款），且这些调整后的内容或服务或基于此形成的概述和/或功能描述，都将作为本协议的有效组成部分，我方会尽合理的商业努力给予通知，同时您在享受服务时，应及时查阅了解修改内容并自觉遵守。
+我方可采取技术或其他措施以保护服务，保证服务符合相关法律法规及政策的要求，保护我们的供应商、客户、员工，或阻止您违反本计划。这些措施可能包括但不限于：对您使用本服务进行管制等。这些措施可能阻止或中断您对本服务的使用。
+
+2.您如何获得服务
+为获得本服务，您应：
+（a）保持您的移动设备已经接入移动通信网络/互联网，且网络连接通畅；
+（b）打开服务所对应的功能模块，例如推送服务、GPS等；
+（c）依照本计划第3条签署本计划。
+在您符合前述条件的前提下，您方可依照本计划之约定使用本服务。
+
+3.签署计划
+您必须先接受签署本计划的条款和条件，才能使用本服务。签署本计划时，您必须达到适用法律规定的具备法定行为能力的年龄；如果您不具备法定行为能力的年龄，须由您的父母或法定监护人完成计划的签署。
+以下行为表明您已经了解并接受本计划的条款和条件：
+（a）您点击“我同意”或“我接受”或类似按钮表明您确认同意或接受本计划的在线版本； 
+（b）您在线下与我们签署了本计划的纸质版本；
+（c）您实际使用了本服务（包括连同本服务一同提供的任何第三方服务），如果您不同意本计划的条款和条件，请不要使用本服务。
+
+4.服务期限和服务费用
+目前，本协议项下的服务为免费服务，但我们保留今后就此服务向您收取服务费用的权利。如果我们拟就本服务收费，则将就收费事宜事先通知您，只有您依照我们要求支付相应服务费（“订购”）后，我们才会在一个特定期限（“服务期限”）内为您继续提供本服务。我们有权根据实际情况随时调整收费标准。
+服务费用不包含因您访问互联网或移动网络而产生的相关费用。无论本服务收费与否，您均应自行承担因使用本服务而向包括网络运营商在内的第三方支付的相关费用，例如，电话费、手机短信费、访问其他互联网服务的费用以及您通过网络购买其它应用、音视频内容、服务或产品而产生的费用等。
+
+5.您如何使用本服务
+在使用本服务时，您应当：
+遵守任何可适用的法律，包括可适用的国际条约或公约规定；
+遵守所有与本服务有关的计划、准则、规定、程序或通告；
+将您获悉的任何对您联想帐号的非法使用或您的联想帐号出现安全漏洞等相关情况立即通知我们。
+
+6.产品注册
+当您首次开机时，关于您手机的标准设备信息将会通过移动电话数据网络或WLAN网络发送至联想（只发生一次），该信息只限于联想为您提供产品真伪验证及售后服务时的查询和管理，以期为您提供更优质的服务。
+
+7.数据流量的使用和收费
+联想手机上的某些功能及上述产品注册使用移动电话数据网络或WLAN网络作为连接的默认方式。联想不会收取您任何费用，但根据您与网络运营商之间达成的相关入网协议，您可能需要为 Internet 访问和数据传输（例如上传照片）以及其他服务支付费用，您需自行负责支付任何网络运营商费用。
+
+8.使用本服务时所禁止的行为
+在使用本服务时，您不得：
+利用本服务进行任何可能对互联网或移动网正常运转造成不利影响的行为；
+利用本服务侵犯任何他人的知识产权或其他任何合法权益；
+以损害我们或我们的关联公司、经销商、分销商和/或供应商（合称“我们”），或我们的任一客户的利益或声誉的方式使用本服务；本计划中“关联公司”：是指被我方控制、或控制我方、或与我方受共同控制的机构。这里“机构”指任何公司、企业或其他法律实体；这里“控制”是指直接或间接地拥有影响所提及机构管理的能力，无论是通过所有权、有投票权的股份、合同或其他方式。
+使用或通过本服务参加或推动任何违法活动；
+将本服务的任何一部分用作任何未经征求的批量信息或未经征求的商业信息（“垃圾邮件”）的目标链接；
+使用任何自动进程或服务访问和/或使用本服务；
+使用任何未经授权的方式修改或改接，或者试图修改或改接本服务；
+损坏或破坏本服务（或任何与本服务相连接的网络）或使其不能运行或超负荷或干扰任何其他方对本服务的使用和享受；
+转卖或再分销本服务，或本服务的任何部分。
+
+9.违反的后果
+如您在使用本服务时违反任何本计划的规定，我们有权要求您改正或直接采取相应措施，包括但不限于（a）暂停向您提供服务和/或（b）终止对您的服务，以减轻您不当行为造成的影响。
+由于您的行为所导致或产生的任何处罚、调查、指控、索赔或要求，或由此导致任何损失，均需您自行承担费用解决，并自行承担相应责任。
+如因您的行为导致任何第三方针对我们包括我们、我们的关联公司、我们的供应商、客户或员工提出任何处罚、调查、指控、索赔或要求，一经收到我们的通知，您应立即承担费用为我们、我们的关联公司、我们包括我们的供应商、客户或员工提供抗辩并使我们免受任何损害。同时我们保留就您的行为给我们导致的损失向您索赔的权利。
+
+10.服务变更为响应客户需求，及对产品进行更新和技术改造等原因，我们需要定期或不定期的对本服务平台或相关设备进行检修、维护和更新，如因此类情况造成服务在合理时间内中断，敬请谅解，我们承诺将尽合理努力事先进行通告，但对因此产生的不便和损失，我们无需承担责任。
+鉴于网络服务的特殊性和不可预见性，您同意我们可在任何时候为任何原因变更、中断或终止本服务或其任何部分。在可行的情况下，我们将尽商业上合理的努力将此类变更、中断或终止提前通知您，但前述通知并非我们必须履行的义务。
+您可在设备设置项中随时关闭“用户体验改进计划”，关闭后您的移动设备将不再与本计划的服务器进行信息交互，同时您也不再享有相应的功能和服务。
+无论服务因任何原因被终止后，您使用本服务的权利也相应终止。
+
+11.知识产权
+我们或第三方拥有对本服务、本服务的任何部分、或通过本服务或连同本服务提供的软件及任何文本、图片、图形、音频和/或视频资料（“材料”）的一切权利、所有权和权益，包括但不限于一切知识产权。这些材料受版权、商标和/或其它财产所有权法律的保护。您同意不对本服务或通过本服务或连同本服务提供的材料进行修改、改编、翻译、从其制作衍生作品、反编译、逆向工程、反汇编，或以其他方式试图从本服务或材料取得源代码，或从本服务及材料中摘取其实质部分作其他应用。您还同意不去除、掩盖或改变本服务所附带、载有或连同或通过本服务读取的我们或任何第三方的著作权说明、商标或其他专有权利说明。这里“知识产权”指现在或以后在世界范围内有效的专利法、著作权法、商业秘密法、商标法、反不正当竞争法项下不时存在的任何和一切权利及任何及一切其他专有权、其任何和一切申请、续展、延期和恢复。
+除非另有明确约定，本计划的任何内容不得被解释为一方向另一方转让了其所持有的版权、专利、商业秘密、商标或任何其他知识产权。
+
+12.数据收集和保护
+为了实现、协作和更好地提供服务，若您参加了“用户体验提升计划”，我们会不定期的同步您的移动设备运行数据，主要包括：设备开关机事件、Push服务开关事件、WLAN开关事件、GPS开关事件和数据、运营商信息、系统功能使用数据、应用启动/关闭事件、应用安装/卸载事件、设备运行数据(关键功能、异常、错误数据) 等。
+
+“用户体验提升计划”同步的设备运行数据均为匿名收集。
+同步的移动设备数据将会被统一、加密存储在特定服务器上，且保留期限最长不超过一年，同时，将按照我们的隐私政策使保护这些信息。
+您可以访问 http://www.lenovo.com.cn/Public/public_bottom/privacy.shtml 阅读和理解我们的隐私策略的详细内容。
+此外，仅为下列目的，我们可以访问、使用或者透露您的相关数据和信息，包括：
+（a）用于匿名分析设备运行状态、应用功能使用情况，以便发现设备和应用运行中的问题，作为改善产品或服务功能、提升用户体验以及提供本计划第1条所列服务的依据；
+（b）为遵守法律、协助司法和/或执法机构的调查和执行；
+（c）为保护我们及我方客户的财产、合法权利，包括计划的执行和遵守适用于本服务的策略；
+（d）为保护社会公众的权利、财产或安全。
+但是，因通过网络提供和传输相关数据存在特定的泄密风险，您已经充分考虑并愿意承担该风险，因此，您在此确认自行承担因网络传输导致的数据泄漏的后果，对于此类我们控制之外或非因我方过错导致的数据泄露我方不承担责任。
+
+13.有限保证
+我们保证我们将以与业界标准一致的专业方式提供您本服务。如我们提供的服务与此保证有任何不符，您应在该服务提供后九十（90）天内通知我们。
+你了解并认可本计划项下提供的是服务而非货物。为此，除前述保证外，我们未就本服务做出任何其它保证和陈述，并在此否认任何其它所有明示或默示的保证或条件，包括但不限于关于适销性、适用于特定用途和不侵权的默示保证。
+您理解，本服务依不断发展的技术状况提供，并且本服务需依赖电信、互联网及其他第三方服务，可能会受到各个环节不稳定因素，例如但可能不限于，不可抗力、计算机病毒或黑客攻击、系统不稳定、用户所在位置、用户关机、GSM网络、互联网络、移动网络或其它通信线路故障等原因的影响，导致服务中断、延迟或其它情况，而不能满足用户要求。开通服务的用户将自行承担以上风险。我们对服务的及时性、安全性、准确性不作绝对担保，对因上述原因导致的未能及时、正确存储、发送、接受和阅读数据，或其他类似问题不承担任何责任。
+您将完全基于您的判断决定使用或不使用本服务，并对此自行承担责任。
+如可适用法律不允许以合同方式排除某些默示保证，则在法律禁止的最大范围内，上述对默示保证的排除不适用于您。此外您将继续享有那些可适用法律不允许通过合同方式排除或限制的权利。
+
+14.责任限制
+如我们提供的服务不符合上述保证，我们将尽商业上合理的努力修正错误并重新提供服务，如果我们无法以商业上合理的方式实质性修正错误，您可终止相关服务；在我们对服务收费的情况下，您可要求按合理比例退费。以上是您就此可得到的全部补救以及我们所承担的全部责任。
+无论本计划是否有其他规定，我们对以下各项均不承担任何责任和义务：(a)任何超出我们所收到的在本计划项下支付的相关服务费总额的金额（如有）；（b）任何有关获得替代货物、技术、服务或权利的成本和费用；或（c）使用中断或延迟或数据损坏或丢失导致的费用、费用增加或损失，无论其是基于本计划或任何合同、疏忽、严格责任或任何其他法律原则，即使我们已被事先告知存在上述损害赔偿的可能性。
+无论如何我们不对任何附随的、间接的或继发的损害或利润损失承担责任。
+您所在的国家或地区的法律可能不允许以合同方式对某些责任进行排除或限制，则在法律禁止的最大范围内，上述某些责任限制或排除条款不适用于您。
+
+15.计划变更
+在不损害您享受服务实质性权利前提下，我们保留在必要时修改本计划的部分条款的权利，一旦本计划的内容发生变动，我们将会提前合理的时间通过包括但不限于（a）网页公告；（b）电子邮件；（c）推送和/或（c）短信提醒等方式通知您。请不时阅读本计划的最新版本，位置在http://lenovo.com（或我们提供的其他网址），以便掌握任何变动情况。如您不同意该项变更，那么您应在变更发生前取消和停止使用服务。如您未停止使用服务，那么您将按照变更后的计划条款使用本服务。
+
+16.终止；终止的效果
+本计划的自约定的生效日起生效，直至被任何一方终止。
+本计划无论因到期或其他任何原因终止的，本计划中标题为[知识产权]、[有限保证]、[责任限制]、[数据收集和保护]、[终止；终止的效果]等条款以及本计划其他依其性质应当延续其效力的条款将延续并继续有效直至得到完全履行。
+
+17.计划的解释
+如本计划的任何条款无论因何种原因完全或部分无效或不具有执行力，那么您和我方将用最接近该不能履行部分内容之意愿的条款予以替代，本计划的其余条款仍应有效并且有约束力。本计划构成双方对本计划之约定事项及其他有关事宜的完整计划，取代此前关于您使用本服务的任何计划或声明。本计划中各节的标题仅为方便而设，在解释本计划时应被忽略。如本计划与《联想帐号用户注册计划》有任何不一致之处，以本计划为准。
+
+18.计划的转让
+我方可在任何时候基于实现或更好提供服务的目的经通知后或不经通知即全部或部分转让或分包本计划。您不能向其他任何人转让本计划，或计划的一部分。您的任何转让行为均为无效。不论是永久还是临时地，您都不得将使用本服务的任何权利或本服务的任何部分转让给任何其他人。
+
+19.无第三方受益人
+本计划仅为您和我方的利益而订立。除许可的继承或转让之外，本计划非为任何他人的利益而订立。
+
+20.法律管辖
+本计划按照中华人民共和国大陆地区（不包括香港和澳门特别行政区）的可适用法律订立和解释。因本计划执行、解释以及与此有关的一切争议和纠纷均应提交我方所在地有管辖权的法院裁决。
+
+21.商标通告
+“Legend”，“Lenovo”、“Lenovo联想”、“联想”及其他联想标识是联想（北京）有限公司或其关联机构的在中国大陆和/或其他国家或地区的商标或注册商标。提及的其他产品、商号和商标名称是其各自持有人的商标或注册商标，提及仅为说明目的，并不表明本服务与这些公司或机构有关。此处未明确授予的任何权利均予保留。"</string>
+    <string name="wifi_assistant_intro_setup">"全新功能
+WLAN助手"</string>
+    <string name="wifi_assistant_no_thanks">不用了</string>
+    <string name="wifi_assistant_setup">设置</string>
+    <string name="wifi_assistant_card_message">通过WLAN助手自动连接到可用网络。</string>
+    <string name="wifi_assistant_title">WLAN助手</string>
+    <string name="wifi_assistant_title_message">%1$s会自动将您的设备连接到可用的最佳WLAN网络</string>
+    <string name="wifi_assistant_open_app">打开应用</string>
+    <string name="wifi_display_settings_title">投射屏幕</string>
+    <string name="wifi_display_enable_menu_item">开启无线显示</string>
+    <string name="wifi_display_no_devices_found">未在附近找到设备。</string>
+    <string name="wifi_display_status_connecting">正在连接</string>
+    <string name="wifi_display_status_connected">已连接</string>
+    <string name="wifi_display_status_in_use">正在使用中</string>
+    <string name="wifi_display_status_not_available">无法使用</string>
+    <string name="wifi_display_details">显示设备设置</string>
+    <string name="wifi_display_options_title">无线显示选项</string>
+    <string name="wifi_display_options_forget">取消保存</string>
+    <string name="wifi_display_options_name">名称</string>
+    <string name="wifi_quick_toggle_title">WLAN</string>
+    <string name="wifi_quick_toggle_summary">打开WLAN</string>
+    <string name="wifi_settings">WLAN</string>
+    <string name="wifi_settings_category">WLAN设置</string>
+    <string name="wifi_settings_title">WLAN</string>
+    <string name="wifi_settings_summary">设置和管理无线接入点</string>
+    <string name="wifi_setup_wizard_title">选择WLAN网络</string>
+    <string name="wifi_select_network">选择WLAN网络</string>
+    <string name="wifi_starting">正在打开WLAN…</string>
+    <string name="wifi_stopping">正在关闭WLAN…</string>
+    <string name="wifi_error">出错</string>
+    <string name="wifi_in_airplane_mode">正处于飞行模式下</string>
+    <string name="wifi_fail_to_scan">扫描不到网络</string>
+    <string name="wifi_notify_open_networks">网络通知</string>
+    <string name="wifi_notify_open_networks_summary">有可用的公共网络时通知我</string>
+    <string name="wifi_poor_network_detection">避开状况不佳的网络</string>
+    <string name="wifi_poor_network_detection_summary">仅在WLAN互联网连接状况良好时使用WLAN网络</string>
+    <string name="wifi_avoid_poor_network_detection_summary">仅使用互联网连接情况良好的网络</string>
+    <string name="wifi_scan_always_available">随时都可扫描</string>
+    <string name="wifi_scan_always_available_title">始终允许扫描网络</string>
+    <string name="wifi_scan_always_available_summary">允许Google的位置信息服务和其他应用扫描网络（即使WLAN已关闭）</string>
+    <string name="wifi_automatically_manage_title">自动管理WLAN</string>
+    <string name="wifi_automatically_manage_summary">允许%1$s管理您的WLAN网络连接</string>
+    <string name="wifi_install_credentials">安装证书</string>
+    <string name="wifi_scan_notify_text_location_on">为了提高位置信息精确度以及其他目的，Google 和其他应用可扫描附近的网络（在关闭了WLAN时也可进行扫描）。如果您不希望应用这么做，请进入“高级”>“随时都可扫描”进行设置。</string>
+    <string name="wifi_scan_notify_text_location_off">应用可扫描附近的网络（在关闭了WLAN时也可进行扫描）。如果您不希望应用这么做，请进入“高级”>“随时都可扫描”进行设置。</string>
+    <string name="wifi_scan_notify_remember_choice">不再显示</string>
+    <string name="wifi_setting_sleep_policy_title">在休眠状态下保持WLAN网络连接</string>
+    <string name="wifi_setting_on_during_sleep_title">在休眠状态下保持WLAN连接</string>
+    <string name="wifi_setting_sleep_policy_error">更改设置时出现问题</string>
+    <string name="wifi_suspend_efficiency_title">提高能效</string>
+    <string name="wifi_suspend_optimizations">WLAN优化</string>
+    <string name="wifi_suspend_optimizations_summary">开启WLAN时尽可能节约电池用量</string>
+    <string name="wifi_limit_optimizations_summary">限制WLAN耗电量</string>
+    <string name="wifi_access_points">WLAN网络</string>
+    <string name="wifi_menu_wps_pbc">WPS按钮</string>
+    <string name="wifi_menu_more_options">更多选项</string>
+    <string name="wifi_menu_wps_pin">WPS PIN码输入</string>
+    <string name="wifi_menu_p2p">WLAN直连</string>
+    <string name="wifi_menu_scan">扫描</string>
+    <string name="wifi_menu_advanced">高级</string>
+    <string name="wifi_menu_connect">连接到网络</string>
+    <string name="wifi_menu_forget">取消保存网络</string>
+    <string name="wifi_menu_modify">修改网络</string>
+    <string name="wifi_menu_write_to_nfc">写入NFC标签</string>
+    <string name="wifi_empty_list_wifi_off">要查看可用网络，请打开WLAN。</string>
+    <string name="wifi_empty_list_wifi_on">正在搜索WLAN网络…</string>
+    <string name="wifi_empty_list_user_restricted">您无权更改WLAN网络。</string>
+    <string name="wifi_other_network">添加其他网络</string>
+    <string name="wifi_more">更多</string>
+    <string name="wifi_setup_wps">自动设置 (WPS)</string>
+    <string name="wifi_required_info_text">要完成设置，您的平板电脑必须连接到WLAN网络。设置完毕后，您将可以在移动数据网络和WLAN网络之间切换。</string>
+    <string name="wifi_wps_setup_title">WLAN保护设置</string>
+    <string name="wifi_wps_setup_msg">正在启动 WPS...</string>
+    <string name="wifi_wps_onstart_pbc">请按下您路由器上的WLAN保护设置按钮，它可能会标为“WPS”或包含此符号：</string>
+    <string name="wifi_wps_onstart_pin">请在 WLAN 路由器终端界面上输入 PIN 码:%1$s。设置过程最多可能需要两分钟时间。</string>
+    <string name="wifi_wps_complete">WPS 已成功启动。正在连接网络...</string>
+    <string name="wifi_wps_connected">已连接到WLAN网络“%s”</string>
+    <string name="wifi_wps_in_progress">正在设置 WPS，此过程最多可能需要两分钟时间才能完成。</string>
+    <string name="wifi_wps_failed_generic">WPS 未能成功启动。请过几分钟后重试。</string>
+    <string name="wifi_wps_failed_wep">无线路由器安全设置 (WEP) 不受支持</string>
+    <string name="wifi_wps_failed_tkip">无线路由器安全设置 (TKIP) 不受支持</string>
+    <string name="wifi_wps_failed_auth">身份验证失败。请重试。</string>
+    <string name="wifi_wps_failed_overlap">检测到其他 WPS 会话。请过几分钟后重试。</string>
+    <string name="wifi_wps_available_first_item">可使用 WPS</string>
+    <string name="wifi_wps_available_second_item">" （可使用 WPS）"</string>
+    <string name="wifi_wps_nfc_enter_password">请输入您的网络密码</string>
+    <string name="wifi_scan_always_turnon_message">"为了提高位置信息精确度以及其他目的，“%1$s”请求启用网络扫描功能（在关闭了WLAN时也可进行扫描）。
+
+是否对所有需要进行扫描的应用批准这项请求？"</string>
+    <string name="wifi_hotspot_title">要登录以便连接到网络吗？</string>
+    <string name="wifi_hotspot_message">%1$s要求您必须先在线登录热点，然后才能连接到网络。</string>
+    <string name="wifi_hotspot_connect">连接</string>
+    <string name="wifi_skipped_message">警告：如果您跳过WLAN网络设置，您的手机将只能通过移动数据网络进行初始下载和更新。为了避免产生数据流量费，请连接到WLAN网络。</string>
+    <string name="wifi_and_mobile_skipped_message">警告：如果您跳过WLAN网络设置，您的手机将无法连接到互联网进行任何初始下载或更新。</string>
+    <string name="wifi_connect_failed_message">手机无法连接到此WLAN网络。</string>
+    <string name="wifi_saved_access_points_titlebar">已保存的网络</string>
+    <string name="wifi_advanced_titlebar">高级WLAN</string>
+    <string name="wifi_setting_frequency_band_title">WLAN频带</string>
+    <string name="wifi_setting_frequency_band_summary">指定操作的频率范围</string>
+    <string name="wifi_setting_frequency_band_error">设置频带时出现问题。</string>
+    <string name="wifi_advanced_mac_address_title">MAC地址</string>
+    <string name="wifi_advanced_ip_address_title">IP地址</string>
+    <string name="wifi_p2p_settings_title">WLAN直连</string>
+    <string name="wifi_p2p_device_info">设备信息</string>
+    <string name="wifi_p2p_persist_network">记住该连接</string>
+    <string name="wifi_p2p_menu_search">搜索设备</string>
+    <string name="wifi_p2p_menu_searching">正在搜索…</string>
+    <string name="wifi_p2p_menu_rename">重命名设备</string>
+    <string name="wifi_p2p_peer_devices">对等设备</string>
+    <string name="wifi_p2p_remembered_groups">已保存的群组</string>
+    <string name="wifi_p2p_failed_connect_message">无法连接。</string>
+    <string name="wifi_p2p_failed_rename_message">无法重命名设备。</string>
+    <string name="wifi_p2p_disconnect_title">断开连接？</string>
+    <string name="wifi_p2p_disconnect_message">如果断开连接，您与%1$s的连接将中断。</string>
+    <string name="wifi_p2p_disconnect_multiple_message">如果断开连接，您与%1$s和另外 %2$s 台设备的连接将中断。</string>
+    <string name="wifi_p2p_cancel_connect_title">取消邀请？</string>
+    <string name="wifi_p2p_cancel_connect_message">要取消连接%1$s的邀请吗？</string>
+    <string name="wifi_p2p_delete_group_message">取消保存此群组？</string>
+    <string name="wifi_tether_checkbox_text">便携式WLAN热点</string>
+    <string name="wifi_hotspot_checkbox_text">WLAN热点</string>
+    <string name="wifi_hotspot_checkbox_text_summary">使用移动网络为其他设备提供WLAN网络</string>
+    <string name="wifi_tether_starting">正在打开热点...</string>
+    <string name="wifi_tether_stopping">正在关闭热点...</string>
+    <string name="wifi_tether_enabled_subtext">便携式热点“%1$s”已激活</string>
+    <string name="wifi_tether_failed_subtext">便携式WLAN热点错误</string>
+    <string name="wifi_tether_configure_ap_text">设置WLAN热点</string>
+    <string name="wifi_hotspot_configure_ap_text">WLAN热点设置</string>
+    <string name="wifi_hotspot_configure_ap_text_summary">AndroidAP WPA2 PSK便携式WLAN热点</string>
+    <string name="wifi_tether_configure_subtext">%1$s %2$s便携式WLAN热点</string>
+    <string name="wifi_tether_configure_ssid_default">Android热点</string>
+    <string name="wifi_setup_title">WLAN设置</string>
+    <string name="wifi_setup_title_editing_network">连接到WLAN网络“%s”</string>
+    <string name="wifi_setup_title_connecting_network">正在连接到WLAN网络“%s”…</string>
+    <string name="wifi_setup_title_connected_network">已连接到WLAN网络“%s”</string>
+    <string name="wifi_setup_title_add_network">添加网络</string>
+    <string name="wifi_setup_not_connected">未连接</string>
+    <string name="wifi_setup_add_network">添加网络</string>
+    <string name="wifi_setup_refresh_list">刷新列表</string>
+    <string name="wifi_setup_skip">跳过</string>
+    <string name="wifi_setup_next">下一步</string>
+    <string name="wifi_setup_back">上一步</string>
+    <string name="wifi_setup_detail">网络详情</string>
+    <string name="wifi_setup_connect">连接</string>
+    <string name="wifi_setup_forget">取消保存</string>
+    <string name="wifi_setup_save">保存</string>
+    <string name="wifi_setup_cancel">取消</string>
+    <string name="wifi_setup_status_scanning">正在扫描网络...</string>
+    <string name="wifi_setup_status_select_network">触摸某个网络即可与其连接</string>
+    <string name="wifi_setup_status_existing_network">连接到现有网络</string>
+    <string name="wifi_setup_status_unsecured_network">连接到不受保护的网络</string>
+    <string name="wifi_setup_status_edit_network">键入网络配置</string>
+    <string name="wifi_setup_status_new_network">连接到新的网络</string>
+    <string name="wifi_setup_status_connecting">正在连接...</string>
+    <string name="wifi_setup_status_proceed_to_next">转至下一步</string>
+    <string name="wifi_setup_status_eap_not_supported">不支持 EAP。</string>
+    <string name="wifi_setup_eap_not_supported">您无法在设置过程中配置 EAPWLAN连接。设置完毕后，您可以在“设置”>“无线和网络”中进行配置。</string>
+    <string name="wifi_setup_description_connecting">建立连接可能需要几分钟时间...</string>
+    <string name="wifi_setup_description_connected">触摸<b>下一步</b>"可继续进行设置。
+
+触摸"<b>返回</b>可连接到其他WLAN网络。</string>
+    <string name="preference_status_open">未连接</string>
+    <string name="preference_status_close">关闭</string>
+    <string name="wifi_ap_more">查看所有网络</string>
+    <string name="wifi_ap_less">只看优选网络</string>
+    <string name="wifi_info_proxy">代理设置</string>
+    <string name="wifi_info_ip_setting">IP设置</string>
+    <string name="wifi_info_nomorl">一般</string>
+    <string name="wifi_signal_strong_title">WLAN 信号增强</string>
+    <string name="wifi_signal_strong_summary">当连接的信号较弱时，自动进行信号增强，以保证更好的连接</string>
+    <string name="wifi_setup_wizard_skip">跳过此步骤</string>
+    <string name="wifi_setup_wizard_next">下一步</string>
+    <string name="proxy_clear_text">清除</string>
+    <string name="proxy_defaultView_text">恢复默认设置</string>
+    <string name="proxy_action_text">完成</string>
+    <string name="proxy_error">注意</string>
+    <string name="proxy_error_dismiss">确定</string>
+    <string name="nfc_quick_toggle_title">NFC</string>
+    <string name="nfc_quick_toggle_summary">允许手机在接触其他设备时交换数据</string>
+    <string name="android_beam_settings_title">Android Beam</string>
+    <string name="android_beam_on_summary">已准备好通过NFC传输应用内容</string>
+    <string name="android_beam_off_summary">关闭</string>
+    <string name="android_beam_disabled_summary">无法使用，因为NFC已关闭</string>
+    <string name="android_beam_label">Android Beam</string>
+    <string name="android_beam_explained">"开启此功能后，您只需将自己的设备与另一台支持NFC的设备靠在一起，即可将您设备上的应用内容同步分享给对方。例如，您可以发送网页、YouTube视频、联系人等等。
+
+您只需将设备靠在一起（通常是背靠背）然后触摸屏幕即可，所分享的内容由相应的应用确定。"</string>
+    <string name="nsd_quick_toggle_title">网络服务发现</string>
+    <string name="nsd_quick_toggle_summary">允许其他设备上的应用发现此设备上的应用</string>
+    <string name="wifi_switch_summary">根据判断是否在绑定的WLAN网络覆盖范围内，即可开启WLAN开关并连接此网络</string>
+    <string name="wifi_switch_settings_title">WLAN位置绑定</string>
+</resources>

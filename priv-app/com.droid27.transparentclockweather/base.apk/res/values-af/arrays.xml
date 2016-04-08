@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="animationDelayNames">
+        <item>Stadiger</item>
+        <item>Normaal</item>
+        <item>Vinniger</item>
+    </string-array>
+    <string-array name="batteryPositionNames">
+        <item>Links</item>
+        <item>Regs</item>
+    </string-array>
+    <string-array name="forecast_strings">
+        <item>Plaaslike Tyd: %1$s</item>
+        <item>Sonsopkoms: %1$s</item>
+        <item>Sonsondergang: %1$s</item>
+        <item>Lengte van die dag: %1$s u, %2$s m</item>
+        <item>Wind:%1$s</item>
+        <item>Humiditeit: %1$s</item>
+        <item>Laaste opdatering: %1$s ure, %2$s minute gelede</item>
+        <item>Laaste opdatering: %1$s minute gelede</item>
+        <item>Laaste opd.: %1$s u</item>
+        <item>Laaste opd.: %1$s u, %2$s m</item>
+        <item>Aanvoelbare temperatuur %1$s</item>
+    </string-array>
+    <string-array name="moon_phases">
+        <item>Nuwe maan</item>
+        <item>Groieende</item>
+        <item>Eerste kwartaal</item>
+        <item>Waks gewelfd</item>
+        <item>Volle maan</item>
+        <item>Afnemende maan</item>
+        <item>Derde kwartaal</item>
+        <item>Groieende</item>
+    </string-array>
+    <string-array name="refreshPeriodNames">
+        <item>Nooit</item>
+        <item>15 Minute</item>
+        <item>30 Minute</item>
+        <item>1 Uur</item>
+        <item>2 Ure</item>
+        <item>3 Ure</item>
+        <item>4 Ure</item>
+        <item>6 Ure</item>
+    </string-array>
+    <string-array name="weather_conditions">
+        <item>Nie Beskikbaar</item>
+        <item>Wolkloos</item>
+        <item>Gedeeltelik Sonnig</item>
+        <item>Sonnig</item>
+        <item>Gedeeltelik Bewolk</item>
+        <item>Meestal Bewolk</item>
+        <item>Meestal Sonnig</item>
+        <item>Bewolk</item>
+        <item>Bewolk</item>
+        <item>Baie Bewolk</item>
+        <item>Kans vir reën</item>
+        <item>Ligte reën</item>
+        <item>Reën</item>
+        <item>Verspreide Buie</item>
+        <item>Buie</item>
+        <item>Swaar Buie</item>
+        <item>Kans vir Storms</item>
+        <item>Ligte Storm</item>
+        <item>Storm</item>
+        <item>Swaar Storm</item>
+        <item>Kanse vir donderstorm</item>
+        <item>Verspreide donderstorms</item>
+        <item>Donderstorm</item>
+        <item>Kanse vir sneeu</item>
+        <item>Ligte sneeu</item>
+        <item>Sneeu</item>
+        <item>Swaar Sneeu</item>
+        <item>Sneeu buie</item>
+        <item>Reën en sneeu</item>
+        <item>Ysreën</item>
+        <item>Hael</item>
+        <item>Hael Storms</item>
+        <item>Ysreën</item>
+        <item>Ysig</item>
+        <item>Mis</item>
+        <item>Stof</item>
+        <item>Mis</item>
+        <item>Rook</item>
+        <item>Wasig</item>
+        <item>Wind stoot</item>
+        <item>Sandstorm</item>
+        <item>Matig</item>
+        <item>Buie/opgeklaar</item>
+        <item>Tornado</item>
+        <item>Tropiese storm</item>
+        <item>Orkaan</item>
+        <item>Koue</item>
+        <item>Hot</item>
+        <item>Winderige</item>
+        <item>Koel</item>
+        <item>Ligte</item>
+        <item>Warm</item>
+        <item>Mooi</item>
+        <item>Winderig</item>
+        <item>Humiede</item>
+        <item>Droë</item>
+        <item>Motreën</item>
+    </string-array>
+    <string-array name="weekdays_long">
+        <item>Sondag</item>
+        <item>Maandag</item>
+        <item>Dinsdag</item>
+        <item>Woensdag</item>
+        <item>Donderdag</item>
+        <item>Vrydag</item>
+        <item>Saterdag</item>
+    </string-array>
+    <string-array name="weekdays_short">
+        <item>Son</item>
+        <item>Maa</item>
+        <item>Din</item>
+        <item>Woe</item>
+        <item>Don</item>
+        <item>Vry</item>
+        <item>Sat</item>
+    </string-array>
+</resources>

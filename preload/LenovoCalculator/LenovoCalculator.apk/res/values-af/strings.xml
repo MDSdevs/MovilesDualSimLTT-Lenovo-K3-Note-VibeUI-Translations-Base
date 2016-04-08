@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sakrekenaar</string>
+    <string name="error_nan">Nie getal nie</string>
+    <string name="error_syntax">Fout</string>
+    <string name="fun_cos">cos</string>
+    <string name="fun_ln">ln</string>
+    <string name="fun_log">log</string>
+    <string name="fun_sin">sin</string>
+    <string name="fun_tan">tan</string>
+    <string name="clr">vee</string>
+    <string name="del">wis</string>
+    <string name="desc_const_e">Euler-nommer</string>
+    <string name="desc_const_pi">pi</string>
+    <string name="desc_dec_point">punt</string>
+    <string name="desc_lparen">beginhakie</string>
+    <string name="desc_rparen">eindhakie</string>
+    <string name="desc_fun_cos">kosinus</string>
+    <string name="desc_fun_ln">natuurlike logaritme</string>
+    <string name="desc_fun_log">logaritme</string>
+    <string name="desc_fun_sin">sinus</string>
+    <string name="desc_fun_tan">tangens</string>
+    <string name="desc_op_add">plus</string>
+    <string name="desc_op_div">deel</string>
+    <string name="desc_op_fact">fakulteit</string>
+    <string name="desc_op_mul">maal</string>
+    <string name="desc_op_pow">mag</string>
+    <string name="desc_op_sqrt">vierkantswortel</string>
+    <string name="desc_op_sub">minus</string>
+    <string name="desc_clr">vee uit</string>
+    <string name="desc_del">wis uit</string>
+    <string name="desc_eq">gelyk aan</string>
+</resources>

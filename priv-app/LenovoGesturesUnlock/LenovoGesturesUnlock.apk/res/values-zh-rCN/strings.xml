@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">黑屏解锁</string>
+    <string name="gesture_unlock_title">黑屏手势解锁</string>
+    <string name="gesture_unlock_to">解锁到</string>
+    <string name="Cancel">取消</string>
+    <string name="gesture_app_settings_button">设置</string>
+    <string name="gesture_unlock_category_title">黑屏解锁</string>
+    <string name="gesture_unlock_normal_title">正常解锁</string>
+    <string name="gesture_unlock_normal_summary">在屏幕上任意滑动即可解锁</string>
+    <string name="gesture_c_summary">在屏幕上画“v”</string>
+    <string name="gesture_e_summary">在屏幕上画“o”</string>
+    <string name="gesture_m_summary">在屏幕上画“m”</string>
+    <string name="gesture_v_summary">在屏幕上画“v”</string>
+    <string name="gesture_app_settings_title">选择应用</string>
+    <string name="gesture_animation_title">黑屏解锁手势</string>
+    <string name="gesture_animation_demonstartion_title">解锁手势动画演示</string>
+    <string name="gesture_animation_demonstartion_summary">黑屏介面下，手指在屏幕上劃出特定字母形狀，可啓動對用的應用</string>
+    <string name="gesture_animation_normal_unlock_screen_summary">在屏幕底部向左或向右滑动即可解锁</string>
+    <string name="gesture_animation_normal_unlock_camera_summary">在屏幕上画“v”即可解锁到相机</string>
+    <string name="gesture_animation_normal_unlock_browser_summary">在屏幕上画“o”即可解锁到浏览器</string>
+    <string name="i_know_it">我知道了</string>
+    <string name="preference_status_unknown">未知</string>
+    <string name="preference_status_open">开启</string>
+    <string name="preference_status_close">关闭</string>
+    <string name="gesture_flash_mode_on">开</string>
+    <string name="gesture_flash_mode_off">关</string>
+    <string name="gesture_flash_mode_onoff">开关</string>
+    <string name="gesture_series_summary">在黑屏时直接解锁或解锁到应用</string>
+    <string name="gesture_phone_screen">屏幕</string>
+    <string name="gesture_warning">提示</string>
+    <string name="gesture_help">帮助</string>
+    <string name="gesture_learn_more">了解黑屏解锁</string>
+    <string name="gesture_no_show_again">下次不再提示</string>
+    <string name="gesture_warning_content">因应用被冻结、卸载或者开启飞行模式等原因，造成%1$s等应用不可直接解锁进入，只能解锁到屏幕，建议更换。</string>
+    <string name="gesture_series_title">黑屏解锁</string>
+</resources>

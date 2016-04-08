@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="animationDelayNames">
+        <item>Sporije</item>
+        <item>Normalno</item>
+        <item>Brže</item>
+    </string-array>
+    <string-array name="batteryPositionNames">
+        <item>Levo</item>
+        <item>Desno</item>
+    </string-array>
+    <string-array name="forecast_strings">
+        <item>Lokalno vreme: %1$s</item>
+        <item>Izlazak sunca: %1$s</item>
+        <item>Zalazak sunca: %1$s</item>
+        <item>Trajanje dana: %1$s h, %2$s m</item>
+        <item>Vetar: %1$s</item>
+        <item>Vlažnost: %1$s</item>
+        <item>Poslednje ažuriranje: pre %1$s sata i %2$s minuta</item>
+        <item>Poslednje ažuriranje: pre %1$s minuta</item>
+        <item>Poslednje ažuriranje: %1$s</item>
+        <item>Poslednje ažuriranje u: %1$s s, %2$s m</item>
+        <item>Subjektivni osećaj: %1$s</item>
+    </string-array>
+    <string-array name="moon_phases">
+        <item>Mlad Mesec</item>
+        <item>Mesečev srp u porastu</item>
+        <item>Prva četvrt</item>
+        <item>Mesečeva grba u porastu</item>
+        <item>Pun Mesec</item>
+        <item>Mesečeva grba u opadanju</item>
+        <item>Poslednja četvrt</item>
+        <item>Mesečev srp u opadanju</item>
+    </string-array>
+    <string-array name="refreshPeriodNames">
+        <item>Nikada</item>
+        <item>15 minuta</item>
+        <item>30 minuta</item>
+        <item>1 sat</item>
+        <item>2 sata</item>
+        <item>3 sata</item>
+        <item>4 sata</item>
+        <item>6 sati</item>
+    </string-array>
+    <string-array name="weather_conditions">
+        <item>Nedostupno</item>
+        <item>Vedro</item>
+        <item>Delimično sunčano</item>
+        <item>Sunčano</item>
+        <item>Delimično oblačno</item>
+        <item>Pretežno oblačno</item>
+        <item>Pretežno sunčano</item>
+        <item>Tmurno</item>
+        <item>Oblačno</item>
+        <item>Veoma oblačno</item>
+        <item>Moguća kiša</item>
+        <item>Lagana kiša</item>
+        <item>Kiša</item>
+        <item>Mestimični pljuskovi</item>
+        <item>Pljuskovi</item>
+        <item>Jaki pljuskovi</item>
+        <item>Moguća oluja</item>
+        <item>Slaba oluja</item>
+        <item>Oluja</item>
+        <item>Jaka oluja</item>
+        <item>Moguća grmljavina</item>
+        <item>Mestimična grmljavina</item>
+        <item>Grmljavina</item>
+        <item>Mogući sneg</item>
+        <item>Lagani sneg</item>
+        <item>Sneg</item>
+        <item>Jaki sneg</item>
+        <item>Nanosi snega</item>
+        <item>Kiša sa snegom</item>
+        <item>Ledena sitna kiša</item>
+        <item>Grad</item>
+        <item>Oluja i grad</item>
+        <item>Susnežica</item>
+        <item>Poledica</item>
+        <item>Slaba magla</item>
+        <item>Prašina</item>
+        <item>Magla</item>
+        <item>Dim</item>
+        <item>Izmaglica</item>
+        <item>Provejava sneg</item>
+        <item>Peščana oluja</item>
+        <item>Vedro</item>
+        <item>Pljuskovi/vedro</item>
+        <item>Tornado</item>
+        <item>Tropska oluja</item>
+        <item>Uragan</item>
+        <item>Hladno</item>
+        <item>Vruće</item>
+        <item>Vetrovito</item>
+        <item>Sveže</item>
+        <item>Blago</item>
+        <item>Toplo</item>
+        <item>Prijatno</item>
+        <item>Vetrovito</item>
+        <item>Vlažno</item>
+        <item>Suvo</item>
+        <item>Sitna kiša</item>
+    </string-array>
+    <string-array name="weekdays_long">
+        <item>Nedelja</item>
+        <item>Ponedeljak</item>
+        <item>Utorak</item>
+        <item>Sreda</item>
+        <item>Četvrtak</item>
+        <item>Petak</item>
+        <item>Subota</item>
+    </string-array>
+    <string-array name="weekdays_short">
+        <item>Ned</item>
+        <item>Pon</item>
+        <item>Uto</item>
+        <item>Sre</item>
+        <item>Čet</item>
+        <item>Pet</item>
+        <item>Sub</item>
+    </string-array>
+    <string-array name="widgetDateFormatNames">
+        <item>Ponedeljak, Januar 15</item>
+        <item>Pon, Jan 15, 2012</item>
+        <item>Ponedeljak 15 Januar</item>
+        <item>Pon, Jan 15 2012</item>
+        <item>Pon. 15 Jan 2012</item>
+        <item>Pon, Jan 15</item>
+        <item>Pon, 12/25/2012</item>
+        <item>Pon, 2012/12/25</item>
+        <item>Pon, 25.12.2012</item>
+        <item>JAN 15</item>
+        <item>15 Januar</item>
+        <item>Januar 15</item>
+        <item>15 JAN</item>
+        <item>15.01.2012</item>
+        <item>15.01.12</item>
+        <item>01.15.2012</item>
+        <item>01.15.12</item>
+        <item>15/01/2012</item>
+        <item>15/01/12</item>
+        <item>01/15/2012</item>
+        <item>01/15/12</item>
+        <item>15-01-2012</item>
+        <item>15-01-12</item>
+        <item>01-15-2012</item>
+        <item>01-15-12</item>
+        <item>2012-12-15</item>
+        <item>yyyy-m-d</item>
+        <item>yyyy/m/d</item>
+        <item>d/m/yyyy</item>
+        <item>d/m/yy</item>
+        <item>d.m.yyyy</item>
+        <item>d.m.yy</item>
+        <item>yy/m/d</item>
+        <item>yyyy/mm/dd</item>
+        <item>yy/mm/dd</item>
+    </string-array>
+</resources>

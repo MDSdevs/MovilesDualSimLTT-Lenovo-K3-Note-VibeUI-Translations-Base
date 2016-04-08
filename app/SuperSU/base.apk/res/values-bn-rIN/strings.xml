@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SuperSU</string>
+    <string name="appdetail_logging_problem">লক্ষ্য করুনঃ এই অ্যাপটি পূর্ণ কন্টেন্ট লগিং এর ক্ষেত্রে সমস্যা করবে বলে আমরা জানি !</string>
+    <string name="follow_gplus">গুগল প্লাস</string>
+    <string name="follow_nothanks">না, ধন্যবাদ</string>
+    <string name="follow_popup_desc">আপডেটেড থাকুম আমার কাজের সাথে, গুগল প্লাস অথবা টুইটার এ আমাকে অনুসরণ করুন</string>
+    <string name="follow_popup_title">আমাকে অনুসরণ করুন</string>
+    <string name="follow_pref_desc">আপডেটেড থাকুন আমার কাজের সাথে</string>
+    <string name="follow_pref_title">টুইটার ও গুগল প্লাস এ আমাকে অনুসরণ করুন</string>
+    <string name="follow_twitter">টুইটার</string>
+    <string name="generic_cancel">NooR</string>
+    <string name="generic_close">বন্ধ</string>
+    <string name="generic_default">ডিফল্ট</string>
+    <string name="generic_never">কখনত্ত নহে</string>
+    <string name="generic_none">কোনটাই নয়</string>
+    <string name="generic_ok">OK</string>
+    <string name="generic_save">Save</string>
+    <string name="pin_title_verify">পিন কোড ভেরিফাই করুন</string>
+    <string name="pin_verify_wrong">"যে দু'বার পিন কোড প্রবেশ করিয়েছেন তা মেলেনি"</string>
+    <string name="settings_access_countdown_10">১০ সেকেন্ড</string>
+    <string name="settings_access_countdown_120">২ মিনিট</string>
+    <string name="settings_access_countdown_20">২০ সেকেন্ড</string>
+    <string name="settings_access_countdown_30">৩০ সেকেন্ড</string>
+    <string name="settings_access_countdown_300">৫ মিনিট</string>
+    <string name="settings_access_countdown_60">১ মিনিট</string>
+    <string name="settings_category_language">ভাষা</string>
+    <string name="settings_category_market">গুগল প্লে</string>
+    <string name="settings_category_system">সিস্টেম</string>
+    <string name="settings_custom_language_title">ভাষা</string>
+    <string name="settings_language_default">ডিফল্ট ভাষা</string>
+    <string name="settings_language_popup">ভাষা নির্বাচন করুন</string>
+    <string name="settings_language_restart">ভাষা পরিবর্তন অ্যাক্টিভেট হওয়ার জন্য SUPERSU রিস্টার্ট করতে হবে (যদি ভাষাটি সমর্থিত হয়)</string>
+    <string name="settings_pin">পিন নম্বর</string>
+    <string name="settings_system_app">SuperSU কে /system এর ভেতর ইন্সটল করুন</string>
+    <string name="settings_system_app_disabled">SuperSU এখনই একটা সিস্টেম অ্যাপ !</string>
+    <string name="settings_system_app_enabled">SuperSU কে সিস্টেম অ্যাপ-এ পরিণত করুন । এটি আপডেট করার পর আবার একাজ আপনাকে করতে হতে পারে ।</string>
+    <string name="toast_unknown">অজানা</string>
+    <string name="generic_next_time">পরের বার</string>
+    <string name="install_binary_recovery_normal">সাধারণ</string>
+    <string name="install_binary_recovery_recovery">TWRP/CWM</string>
+    <string name="settings_category_developer">নির্মাতা</string>
+    <string name="settings_system_app_fail">দুঃখিত, /system এর ভেতর ইন্সটল করা যায়নি ।</string>
+    <string name="settings_system_app_progress">/system এর ভেতর ইন্সটলেশন চলছে...</string>
+</resources>

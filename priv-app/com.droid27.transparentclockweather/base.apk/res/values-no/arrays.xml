@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="animationDelayNames">
+        <item>Langsommere</item>
+        <item>Normal</item>
+        <item>Hurtigere</item>
+    </string-array>
+    <string-array name="batteryPositionNames">
+        <item>Venstre</item>
+        <item>Høyre</item>
+    </string-array>
+    <string-array name="forecast_strings">
+        <item>Lokal tid: %1$s</item>
+        <item>Solopgang: %1$s</item>
+        <item>Solnedgang: %1$s</item>
+        <item>Dagslengde: %1$s t, %2$s m</item>
+        <item>Vind: %1$s</item>
+        <item>Luftfuktighet: %1$s</item>
+        <item>Siste opdatering: %1$s timer, %2$s minutter siden</item>
+        <item>Siste opdatering: %1$s minutter siden</item>
+        <item>Siste opdatering: %1$s</item>
+        <item>Siste opdatering: %1$s t, %2$s m</item>
+        <item>Føles som %1$s</item>
+    </string-array>
+    <string-array name="moon_phases">
+        <item>Nymåne</item>
+        <item>Tiltagende halvmåne</item>
+        <item>Første kvarter</item>
+        <item>Tiltagende måne</item>
+        <item>Fullmåne</item>
+        <item>Avtagende måne</item>
+        <item>Tredje kvarter</item>
+        <item>Avtagende halvmåne</item>
+    </string-array>
+    <string-array name="refreshPeriodNames">
+        <item>Aldri</item>
+        <item>15 minutter</item>
+        <item>30 minutter</item>
+        <item>1 time</item>
+        <item>2 timer</item>
+        <item>3 timer</item>
+        <item>4 timer</item>
+        <item>6 timer</item>
+    </string-array>
+    <string-array name="weather_conditions">
+        <item>Ikke tilgjengelig</item>
+        <item>Klart</item>
+        <item>Delvis solskin</item>
+        <item>Solskinn</item>
+        <item>Delvis skyet</item>
+        <item>Overveiende skyet</item>
+        <item>Overveiende solskinn</item>
+        <item>Overskyet</item>
+        <item>Skyet</item>
+        <item>Meget skyet</item>
+        <item>Fare for regn</item>
+        <item>Lett regn</item>
+        <item>Regn</item>
+        <item>Spredte byger</item>
+        <item>Byger</item>
+        <item>Kraftige byger</item>
+        <item>Fare for storm</item>
+        <item>Svak storm</item>
+        <item>Storm</item>
+        <item>Kraftig storm</item>
+        <item>Fare for torden</item>
+        <item>Spredt torden</item>
+        <item>Torden</item>
+        <item>Fare for sne</item>
+        <item>Lett snø</item>
+        <item>Snø</item>
+        <item>Kraftig snø</item>
+        <item>Snøbyger</item>
+        <item>Regn og snø</item>
+        <item>Frysende finregn</item>
+        <item>Hagl</item>
+        <item>Haglstorm</item>
+        <item>Sludd</item>
+        <item>Iskald</item>
+        <item>Dis</item>
+        <item>Støv</item>
+        <item>Tåke</item>
+        <item>Røyk</item>
+        <item>Tåkedis</item>
+        <item>Lette snøbyger</item>
+        <item>Sandstorm</item>
+        <item>Fint</item>
+        <item>Byger/klart vær</item>
+        <item>Tornado</item>
+        <item>Tropisk storm</item>
+        <item>Orkan</item>
+        <item>Kulde</item>
+        <item>Varme</item>
+        <item>Blåsende</item>
+        <item>Kjøligt</item>
+        <item>Mildt</item>
+        <item>Varmt</item>
+        <item>Smukt</item>
+        <item>Bris</item>
+        <item>Fuktigt</item>
+        <item>Tørt</item>
+        <item>Støvregn</item>
+    </string-array>
+    <string-array name="weekdays_long">
+        <item>Søndag</item>
+        <item>Mandag</item>
+        <item>Tirsdag</item>
+        <item>Onsdag</item>
+        <item>Torsdag</item>
+        <item>Fredag</item>
+        <item>Lørdag</item>
+    </string-array>
+    <string-array name="weekdays_short">
+        <item>Søn</item>
+        <item>Man</item>
+        <item>Tir</item>
+        <item>Ons</item>
+        <item>Tor</item>
+        <item>Fre</item>
+        <item>Lør</item>
+    </string-array>
+    <string-array name="visibilityUnitNames">
+        <item>meter</item>
+        <item>kilometer</item>
+        <item>miles</item>
+    </string-array>
+    <string-array name="pressureUnitNames">
+        <item>atm</item>
+        <item>bar</item>
+        <item>mBar</item>
+        <item>mmHg</item>
+        <item>inHg</item>
+        <item>Pa</item>
+        <item>hPa</item>
+        <item>kPa</item>
+        <item>psi</item>
+    </string-array>
+    <string-array name="pressureUnitNamesPrefs">
+        <item>atm</item>
+        <item>bar</item>
+        <item>mBar</item>
+        <item>mmHg</item>
+        <item>inHg</item>
+        <item>Pa</item>
+        <item>hPa</item>
+        <item>kPa</item>
+        <item>psi</item>
+    </string-array>
+    <string-array name="temperatureUnitNames">
+        <item>°C</item>
+        <item>°F</item>
+    </string-array>
+    <string-array name="windSpeedUnitNames">
+        <item>m/s</item>
+        <item>km/t</item>
+        <item>mph</item>
+        <item>Beaufort</item>
+        <item>knop</item>
+    </string-array>
+    <string-array name="widgetDateFormatValues">
+        <item>EEEE, MMMM d</item>
+        <item>EEE, MMM d, yyyy</item>
+        <item>EEEE d MMMM</item>
+        <item>EEE, MMM d yyyy</item>
+        <item>EEE. d MMM yyyy</item>
+        <item>EEE, MMM d</item>
+        <item>EEE, MM/dd/yyyy</item>
+        <item>EEE, yyyy/MM/dd</item>
+        <item>MMM dd</item>
+        <item>dd MMM</item>
+        <item>MMMM dd</item>
+        <item>dd MMMM</item>
+        <item>dd.MM.yyyy</item>
+        <item>dd.MM.yy</item>
+        <item>MM.dd.yyyy</item>
+        <item>MM.dd.yy</item>
+        <item>dd/MM/yyyy</item>
+        <item>dd/MM/yy</item>
+        <item>MM/dd/yyyy</item>
+        <item>MM/dd/yy</item>
+        <item>dd-MM-yyyy</item>
+        <item>dd-MM-yy</item>
+        <item>MM-dd-yyyy</item>
+        <item>MM-dd-yy</item>
+        <item>yyyy-MM-dd</item>
+        <item>yyyy-M-d</item>
+        <item>yyyy/M/d</item>
+        <item>d/M/yyyy</item>
+        <item>d/M/yy</item>
+        <item>d.M.yyyy</item>
+        <item>d.M.yy</item>
+        <item>yy/M/d</item>
+    </string-array>
+</resources>

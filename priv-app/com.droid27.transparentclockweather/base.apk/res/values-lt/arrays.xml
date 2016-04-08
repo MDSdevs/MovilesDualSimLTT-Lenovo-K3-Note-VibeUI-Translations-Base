@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="animationDelayNames">
+        <item>Lėčiau</item>
+        <item>Normaliai</item>
+        <item>Greičiau</item>
+    </string-array>
+    <string-array name="batteryPositionNames">
+        <item>Kairė</item>
+        <item>Dešinė</item>
+    </string-array>
+    <string-array name="forecast_strings">
+        <item>Vietos laikas: %1$s</item>
+        <item>Saulė teka: %1$s</item>
+        <item>Saulė leidžiasi: %1$s</item>
+        <item>Dienos trukmė: %1$s h, %2$s m</item>
+        <item>Vėjas: %1$s</item>
+        <item>Drėgnumas: %1$s</item>
+        <item>Atnaujinta prieš: %1$s valandų, %2$s minučių</item>
+        <item>Atnaujinta prieš: %1$s minučių</item>
+        <item>Atnaujinta prieš: %1$s</item>
+        <item>Atnaujinta: %1$s h, %2$s m</item>
+        <item>Jaučiasi kaip: %1$s</item>
+    </string-array>
+    <string-array name="moon_phases">
+        <item>Jaunatis</item>
+        <item>Priešpilnis</item>
+        <item>Pirmasis ketvirtis</item>
+        <item>Delčia</item>
+        <item>Pilnatis</item>
+        <item>Delčia</item>
+        <item>Trečiasis ketvirtis</item>
+        <item>Priešpilnis</item>
+    </string-array>
+    <string-array name="refreshPeriodNames">
+        <item>Niekada</item>
+        <item>15 minučių</item>
+        <item>30 minučių</item>
+        <item>1 valanda</item>
+        <item>2 valandas</item>
+        <item>3 valandas</item>
+        <item>4 valandas</item>
+        <item>6 valandas</item>
+    </string-array>
+    <string-array name="weather_conditions">
+        <item>Nėra informacijos</item>
+        <item>Giedra</item>
+        <item>Saulėta su pragiedruliais</item>
+        <item>Saulėta</item>
+        <item>Debesuota</item>
+        <item>Daugiausia debesuota</item>
+        <item>Labai saulėta</item>
+        <item>Apsiniaukę</item>
+        <item>Debesuota</item>
+        <item>Didelis debesuotumas</item>
+        <item>Galimas lietus</item>
+        <item>Silpnas lietus</item>
+        <item>Lietus</item>
+        <item>Trumpalaikiai lietūs</item>
+        <item>Lietus</item>
+        <item>Stiprus lietus</item>
+        <item>Galima audra</item>
+        <item>Silpna audra</item>
+        <item>Audra</item>
+        <item>Stipri audra</item>
+        <item>Galima perkūnija</item>
+        <item>Trumpalaikė perkūnija</item>
+        <item>Audra</item>
+        <item>Galimas sniegas</item>
+        <item>Snyguriavimas</item>
+        <item>Sniegas</item>
+        <item>Smarkus sniegas</item>
+        <item>Pūga</item>
+        <item>Šlapdriba</item>
+        <item>Lijundra</item>
+        <item>Kruša</item>
+        <item>Stipri kruša</item>
+        <item>Šlapdriba</item>
+        <item>Šerkšnas</item>
+        <item>Rūkas</item>
+        <item>Dulksna</item>
+        <item>Rūkas</item>
+        <item>Smogas</item>
+        <item>Migla</item>
+        <item>Sniegas</item>
+        <item>Smėlio audra</item>
+        <item>Giedra</item>
+        <item>Lietus/giedra</item>
+        <item>Viesulas</item>
+        <item>Atogrąžų audra</item>
+        <item>Uraganas</item>
+        <item>Šalta</item>
+        <item>Karšta</item>
+        <item>Vėjuota</item>
+        <item>Vėsu</item>
+        <item>Švelnu</item>
+        <item>Šilta</item>
+        <item>Gražu</item>
+        <item>Vėjuota</item>
+        <item>Drėgna</item>
+        <item>Sausa</item>
+        <item>Dulksna</item>
+    </string-array>
+    <string-array name="weekdays_long">
+        <item>Sekmadienis</item>
+        <item>Pirmadienis</item>
+        <item>Antradienis</item>
+        <item>Krečiadienis</item>
+        <item>Jetvirtadienis</item>
+        <item>Penktadienis</item>
+        <item>Šeštadienis</item>
+    </string-array>
+    <string-array name="weekdays_short">
+        <item>Sek</item>
+        <item>Pir</item>
+        <item>Ant</item>
+        <item>Tre</item>
+        <item>Ket</item>
+        <item>Pen</item>
+        <item>Šeš</item>
+    </string-array>
+    <string-array name="widgetDateFormatNames">
+        <item>Monday, January 15</item>
+        <item>Mon, Jan 15, 2012</item>
+        <item>Monday 15 january</item>
+        <item>Mon, Jan 15 2012</item>
+        <item>Mon. 15 Jan 2012</item>
+        <item>Mon, Jan 15</item>
+        <item>Mon, 12/25/2012</item>
+        <item>Mon, 2012/12/25</item>
+        <item>Mon, 25.12.2012</item>
+        <item>JAN 15</item>
+        <item>15 January</item>
+        <item>January 15</item>
+        <item>15 JAN</item>
+        <item>15.01.2012</item>
+        <item>15.01.12</item>
+        <item>01.15.2012</item>
+        <item>01.15.12</item>
+        <item>15/01/2012</item>
+        <item>15/01/12</item>
+        <item>01/15/2012</item>
+        <item>01/15/12</item>
+        <item>15-01-2012</item>
+        <item>15-01-12</item>
+        <item>01-15-2012</item>
+        <item>01-15-12</item>
+        <item>2012-12-15</item>
+        <item>yyyy-m-d</item>
+        <item>yyyy/m/d</item>
+        <item>d/m/yyyy</item>
+        <item>d/m/yy</item>
+        <item>d.m.yyyy</item>
+        <item>d.m.yy</item>
+        <item>yy/m/d</item>
+        <item>yyyy/mm/dd</item>
+        <item>yy/mm/dd</item>
+    </string-array>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="download_resume_margin_left">25.0dip</dimen>
+    <dimen name="download_resume_margin_top">35.0dip</dimen>
+    <dimen name="download_resume_margin_right">25.0dip</dimen>
+    <dimen name="download_resume_margin_bottom">4.5dip</dimen>
+    <dimen name="feedback_bottom_linear_margin_bottom">9.0dip</dimen>
+    <dimen name="feedback_divider_width1">13.5dip</dimen>
+    <dimen name="feedback_divider_width2">11.0dip</dimen>
+    <dimen name="feedback_item_margin">10.0dip</dimen>
+    <dimen name="account_gold_frame_left">12.0px</dimen>
+    <dimen name="bottom_function_layout_height">104.0px</dimen>
+    <dimen name="edit_wallpaper_layout_marginleft">15.0dip</dimen>
+    <dimen name="live_wallpaper_intro_padding">2.0dip</dimen>
+    <dimen name="live_wallpaper_intro_margin_titel">5.0dip</dimen>
+    <dimen name="live_wallpaper_intro_titel_padding">11.0dip</dimen>
+    <dimen name="number_password_big">4.0dip</dimen>
+    <dimen name="number_password_small">20.0dip</dimen>
+    <dimen name="number_password_number_text">-20.0dip</dimen>
+</resources>

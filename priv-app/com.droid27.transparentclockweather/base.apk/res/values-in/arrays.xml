@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="animationDelayNames">
+        <item>Lebih lambat</item>
+        <item>Normal</item>
+        <item>Lebih cepat</item>
+    </string-array>
+    <string-array name="batteryPositionNames">
+        <item>Kiri</item>
+        <item>Kanan</item>
+    </string-array>
+    <string-array name="forecast_strings">
+        <item>Waktu lokal: %1$s</item>
+        <item>Matahari terbit: %1$s</item>
+        <item>Matahari terbenam: %1$s</item>
+        <item>Lama hari: %1$s jam, %2$s menit</item>
+        <item>Angin: %1$s</item>
+        <item>Kelembaban: %1$s</item>
+        <item>Pemutakhiran terbaru: %1$s jam, %2$s menit yang lalu</item>
+        <item>Pemutakhiran terbaru: %1$s menit yang lalu</item>
+        <item>Pemutakhiran terbaru: %1$s</item>
+        <item>Pem. terbaru: %1$s jam, %2$s menit</item>
+        <item>Terasa seperti %1$s</item>
+    </string-array>
+    <string-array name="moon_phases">
+        <item>Bulan baru</item>
+        <item>Sabit muda</item>
+        <item>Seperempat pertama</item>
+        <item>Cembung muda</item>
+        <item>Bulan purnama</item>
+        <item>Cembung tua</item>
+        <item>Seperempat terakhir</item>
+        <item>Sabit tua</item>
+    </string-array>
+    <string-array name="refreshPeriodNames">
+        <item>Tidak pernah</item>
+        <item>15 menit</item>
+        <item>30 menit</item>
+        <item>1 jam</item>
+        <item>2 jam</item>
+        <item>3 jam</item>
+        <item>4 jam</item>
+        <item>6 jam</item>
+    </string-array>
+    <string-array name="weather_conditions">
+        <item>Tidak tersedia</item>
+        <item>Bersihkan</item>
+        <item>Sebagian cerah</item>
+        <item>Cerah</item>
+        <item>Sebagian berawan</item>
+        <item>Sebagian besar berawan</item>
+        <item>Sebagian besar cerah</item>
+        <item>Mendung</item>
+        <item>Berawan</item>
+        <item>Berawan tebal</item>
+        <item>Diperkirakan hujan</item>
+        <item>Hujan rintik-rintik</item>
+        <item>Hujan</item>
+        <item>Hujan tak merata</item>
+        <item>Hujan</item>
+        <item>Hujan lebat</item>
+        <item>Diperkirakan badai</item>
+        <item>Badai lemah</item>
+        <item>Badai</item>
+        <item>Badai besar</item>
+        <item>Diperkirakan badai berpetir</item>
+        <item>Badai berpetir tak merata</item>
+        <item>Badai berpetir</item>
+        <item>Diperkirakan salju</item>
+        <item>Sedikit bersalju</item>
+        <item>Bersalju</item>
+        <item>Bersalju lebat</item>
+        <item>Bersalju lebat</item>
+        <item>Hujan dan bersalju</item>
+        <item>Gerimis membeku</item>
+        <item>Hujan es</item>
+        <item>Badai hujan es</item>
+        <item>Hujan bercampur salju</item>
+        <item>Dingin</item>
+        <item>Berkabut tipis</item>
+        <item>Berdebu</item>
+        <item>Berkabut tebal</item>
+        <item>Berasap</item>
+        <item>Keruh</item>
+        <item>Mendadak bersalju ringan</item>
+        <item>Badai pasir</item>
+        <item>Terang</item>
+        <item>Hujan lebat/terang</item>
+        <item>Tornado</item>
+        <item>Badai tropis</item>
+        <item>Angin ribut</item>
+        <item>Dingin</item>
+        <item>Panas</item>
+        <item>Berangin</item>
+        <item>Sejuk</item>
+        <item>Lembut</item>
+        <item>Hangat</item>
+        <item>Indah</item>
+        <item>Angin sepoi</item>
+        <item>Lembap</item>
+        <item>Kering</item>
+        <item>Gerimis</item>
+    </string-array>
+    <string-array name="weekdays_long">
+        <item>Minggu</item>
+        <item>Senin</item>
+        <item>Selasa</item>
+        <item>Rabu</item>
+        <item>Kamis</item>
+        <item>Jumat</item>
+        <item>Sabtu</item>
+    </string-array>
+    <string-array name="weekdays_short">
+        <item>Min</item>
+        <item>Sen</item>
+        <item>Sel</item>
+        <item>Rab</item>
+        <item>Kam</item>
+        <item>Jum</item>
+        <item>Sab</item>
+    </string-array>
+</resources>

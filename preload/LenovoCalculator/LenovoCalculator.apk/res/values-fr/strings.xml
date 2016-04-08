@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculatrice</string>
+    <string name="error_nan">Pas un nombre.</string>
+    <string name="error_syntax">Erreur</string>
+    <string name="fun_cos">cos</string>
+    <string name="fun_ln">ln</string>
+    <string name="fun_log">log</string>
+    <string name="fun_sin">sin</string>
+    <string name="fun_tan">tan</string>
+    <string name="clr">eff</string>
+    <string name="del">sup</string>
+    <string name="desc_const_e">"nombre d'Euler"</string>
+    <string name="desc_const_pi">pi</string>
+    <string name="desc_dec_point">virgule</string>
+    <string name="desc_lparen">parenthèse gauche</string>
+    <string name="desc_rparen">parenthèse droite</string>
+    <string name="desc_fun_cos">cosinus</string>
+    <string name="desc_fun_ln">logarithme naturel</string>
+    <string name="desc_fun_log">logarithme</string>
+    <string name="desc_fun_sin">sinus</string>
+    <string name="desc_fun_tan">tangente</string>
+    <string name="desc_op_add">plus</string>
+    <string name="desc_op_div">diviser</string>
+    <string name="desc_op_fact">factoriel</string>
+    <string name="desc_op_mul">fois</string>
+    <string name="desc_op_pow">puissance</string>
+    <string name="desc_op_sqrt">racine carrée</string>
+    <string name="desc_op_sub">moins</string>
+    <string name="desc_clr">effacer</string>
+    <string name="desc_del">supprimer</string>
+    <string name="desc_eq">égal</string>
+</resources>

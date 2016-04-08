@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="animationDelayNames">
+        <item>Yavaş</item>
+        <item>Normal</item>
+        <item>Hızlı</item>
+    </string-array>
+    <string-array name="batteryPositionNames">
+        <item>Sol</item>
+        <item>Sağ</item>
+    </string-array>
+    <string-array name="forecast_strings">
+        <item>Yerel Saat: %1$s</item>
+        <item>Gün Doğumu: %1$s</item>
+        <item>Gün Batımı: %1$s</item>
+        <item>Gün süresi: %1$s sa, %2$s dk</item>
+        <item>Rüzgar: %1$s</item>
+        <item>Nem: %1$s</item>
+        <item>Son Güncelleme: %1$s saat, %2$s dakika önce</item>
+        <item>Son Güncelleme: %1$s dakika önce</item>
+        <item>Son Güncelleme: %1$s</item>
+        <item>Güncelleme: %1$s sa, %2$s dk</item>
+        <item>Hissedilen %1$s</item>
+    </string-array>
+    <string-array name="moon_phases">
+        <item>Yeni ay</item>
+        <item>Büyüyen hilal</item>
+        <item>İlk dördün</item>
+        <item>Şişkin ay</item>
+        <item>Dolunay</item>
+        <item>Küçülen şişkin ay</item>
+        <item>Son dördün</item>
+        <item>Küçülen hilal</item>
+    </string-array>
+    <string-array name="refreshPeriodNames">
+        <item>Never</item>
+        <item>15 minutes</item>
+        <item>30 minutes</item>
+        <item>1 hour</item>
+        <item>2 hours</item>
+        <item>3 hours</item>
+        <item>4 hours</item>
+        <item>6 hours</item>
+    </string-array>
+    <string-array name="weather_conditions">
+        <item>Geçersiz</item>
+        <item>Açık</item>
+        <item>Kısmen güneşli</item>
+        <item>Güneşli</item>
+        <item>Parçalı bulutlu</item>
+        <item>Genellikle bulutlu</item>
+        <item>Genellikle güneşli</item>
+        <item>Kapalı</item>
+        <item>Bulutlu</item>
+        <item>Cok bulutlu</item>
+        <item>Yagmur ihtimali</item>
+        <item>Az yağış</item>
+        <item>Yağmur</item>
+        <item>Aralıklı sağanak</item>
+        <item>Sağanak</item>
+        <item>Şiddetli sağanak</item>
+        <item>Fırtına ihtimali</item>
+        <item>Hafif fırtına</item>
+        <item>Fırtına</item>
+        <item>Şiddetli fırtına</item>
+        <item>Şiddetli fırtına</item>
+        <item>Aralılı fırtına</item>
+        <item>Gök gürültü sağanak</item>
+        <item>Kar ihtimali</item>
+        <item>Az karlı</item>
+        <item>Karlı</item>
+        <item>Çok karlı</item>
+        <item>Sağanak kar</item>
+        <item>Karlı yağmur</item>
+        <item>Kar çişelemesi</item>
+        <item>Dolu</item>
+        <item>Dolu fırtınası</item>
+        <item>Karlı yağmur</item>
+        <item>Buzlu</item>
+        <item>Sis</item>
+        <item>Toz bulutu</item>
+        <item>Sis</item>
+        <item>Duman</item>
+        <item>Puslu</item>
+        <item>Kar fırtınası</item>
+        <item>Kum fırtınası</item>
+        <item>Iyi</item>
+        <item>Sağanak/açık</item>
+        <item>Tayfun</item>
+        <item>Tropik fırtına</item>
+        <item>Kasırga</item>
+        <item>Soğuk</item>
+        <item>Sıcak</item>
+        <item>Rüzgârlı</item>
+        <item>Serin</item>
+        <item>Ilık</item>
+        <item>Sıcak</item>
+        <item>Güzel</item>
+        <item>Esintili</item>
+        <item>Nemli</item>
+        <item>Kuru</item>
+        <item>Hafif yağmurlu</item>
+    </string-array>
+    <string-array name="weekdays_long">
+        <item>Pazar</item>
+        <item>Pazartesi</item>
+        <item>Salı</item>
+        <item>Çarşamba</item>
+        <item>Perşembe</item>
+        <item>Cuma</item>
+        <item>Cumartesi</item>
+    </string-array>
+    <string-array name="weekdays_short">
+        <item>Paz</item>
+        <item>Pts</item>
+        <item>Sal</item>
+        <item>Çar</item>
+        <item>Per</item>
+        <item>Cum</item>
+        <item>Cts</item>
+    </string-array>
+    <string-array name="widgetDateFormatNames">
+        <item>Pazartesi, Aralık 15</item>
+        <item>Pzt, Ara 15, 2012</item>
+        <item>Pazartesi 15 Aralık</item>
+        <item>Pzt, Ara 15 2012</item>
+        <item>Pzt. 15 Ara. 2012</item>
+        <item>Pzt, Ara 15</item>
+        <item>Pzt, 12/25/2012</item>
+        <item>Pzt, 2012/12/25</item>
+        <item>Pzt, 25.12.2012</item>
+        <item>Ara 15</item>
+        <item>15 Aralık</item>
+        <item>Aralık 15</item>
+        <item>15 Ara</item>
+        <item>15.01.2012</item>
+        <item>15.01.12</item>
+        <item>01.15.2012</item>
+        <item>01.15.12</item>
+        <item>15/01/2012</item>
+        <item>15/01/12</item>
+        <item>01/15/2012</item>
+        <item>01/15/12</item>
+        <item>15-01-2012</item>
+        <item>15-01-12</item>
+        <item>01-15-2012</item>
+        <item>01-15-12</item>
+        <item>2012-12-15</item>
+        <item>yyyy-m-d</item>
+        <item>yyyy/m/d</item>
+        <item>d/m/yyyy</item>
+        <item>d/m/yy</item>
+        <item>d.m.yyyy</item>
+        <item>d.m.yy</item>
+        <item>yy/m/d</item>
+        <item>yyyy/mm/dd</item>
+        <item>yy/mm/dd</item>
+    </string-array>
+</resources>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="error_nan">Hindi isang numero</string>
+    <string name="error_syntax">Error</string>
+    <string name="fun_cos">cos</string>
+    <string name="fun_ln">ln</string>
+    <string name="fun_log">log</string>
+    <string name="fun_sin">sin</string>
+    <string name="fun_tan">tan</string>
+    <string name="clr">clr</string>
+    <string name="del">del</string>
+    <string name="desc_const_e">"Euler's number"</string>
+    <string name="desc_const_pi">pi</string>
+    <string name="desc_dec_point">tuldok</string>
+    <string name="desc_lparen">kaliwang panaklong</string>
+    <string name="desc_rparen">kanang panaklong</string>
+    <string name="desc_fun_cos">cosine</string>
+    <string name="desc_fun_ln">natural na logarithm</string>
+    <string name="desc_fun_log">logarithm</string>
+    <string name="desc_fun_sin">sine</string>
+    <string name="desc_fun_tan">tangent</string>
+    <string name="desc_op_add">dagdagan ng</string>
+    <string name="desc_op_div">hatiin</string>
+    <string name="desc_op_fact">factorial</string>
+    <string name="desc_op_mul">beses</string>
+    <string name="desc_op_pow">power</string>
+    <string name="desc_op_sqrt">square root</string>
+    <string name="desc_op_sub">minus</string>
+    <string name="desc_clr">i-clear</string>
+    <string name="desc_del">tanggalin</string>
+    <string name="desc_eq">katumbas ng</string>
+</resources>

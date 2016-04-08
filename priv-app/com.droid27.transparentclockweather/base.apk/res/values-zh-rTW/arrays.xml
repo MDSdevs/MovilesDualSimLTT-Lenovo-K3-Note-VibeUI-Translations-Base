@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="animationDelayNames">
+        <item>慢速</item>
+        <item>一般</item>
+        <item>快速</item>
+    </string-array>
+    <string-array name="batteryPositionNames">
+        <item>左側</item>
+        <item>右側</item>
+    </string-array>
+    <string-array name="forecast_strings">
+        <item>本地時間: %1$s</item>
+        <item>日出: %1$s</item>
+        <item>日落: %1$s</item>
+        <item>白天長度: %1$s h, %2$s m</item>
+        <item>風速: %1$s</item>
+        <item>濕度: %1$s</item>
+        <item>最後更新: %1$s 小時, %2$s 分鐘前</item>
+        <item>最後更新: %1$s 分鐘前</item>
+        <item>最後更新: %1$s</item>
+        <item>最後更新: %1$s 小時, %2$s 分鐘</item>
+        <item>Feels like %1$s</item>
+    </string-array>
+    <string-array name="moon_phases">
+        <item>新月</item>
+        <item>娥眉月</item>
+        <item>上弦月</item>
+        <item>盈凸月</item>
+        <item>滿月</item>
+        <item>虧凸月</item>
+        <item>下弦月</item>
+        <item>殘月</item>
+    </string-array>
+    <string-array name="refreshPeriodNames">
+        <item>從不</item>
+        <item>15 分鐘</item>
+        <item>30 分鐘</item>
+        <item>1 小時</item>
+        <item>2 小時</item>
+        <item>3 小時</item>
+        <item>4 小時</item>
+        <item>6 小時</item>
+    </string-array>
+    <string-array name="weather_conditions">
+        <item>不明</item>
+        <item>明朗</item>
+        <item>多雲時晴</item>
+        <item>晴朗</item>
+        <item>多雲</item>
+        <item>多雲時晴</item>
+        <item>晴時多雲</item>
+        <item>陰時多雲</item>
+        <item>陰天</item>
+        <item>多雲</item>
+        <item>偶雨</item>
+        <item>小雨</item>
+        <item>雨天</item>
+        <item>陣雨</item>
+        <item>小雨</item>
+        <item>大雨</item>
+        <item>可能有暴風雨</item>
+        <item>豪雨</item>
+        <item>暴雨</item>
+        <item>超大豪雨</item>
+        <item>可能有雷雨</item>
+        <item>雷雨</item>
+        <item>大雷雨</item>
+        <item>可能有雪</item>
+        <item>小雪</item>
+        <item>下雪</item>
+        <item>大雪</item>
+        <item>陣雪</item>
+        <item>雪雨</item>
+        <item>冰雨</item>
+        <item>冰雹</item>
+        <item>冰風雹</item>
+        <item>凍雨</item>
+        <item>冷冰冰</item>
+        <item>薄霧</item>
+        <item>粉塵</item>
+        <item>霧靄</item>
+        <item>煙務</item>
+        <item>陰霾</item>
+        <item>飄雪</item>
+        <item>沙塵暴</item>
+        <item>晴朗</item>
+        <item>下雨/晴朗</item>
+        <item>龍捲風</item>
+        <item>熱帶風暴</item>
+        <item>颶風</item>
+        <item>冷</item>
+        <item>熱</item>
+        <item>有風</item>
+        <item>涼爽</item>
+        <item>溫和</item>
+        <item>溫暖</item>
+        <item>燦爛</item>
+        <item>微風</item>
+        <item>潮濕</item>
+        <item>乾爽</item>
+        <item>細雨</item>
+    </string-array>
+    <string-array name="weekdays_long">
+        <item>星期日</item>
+        <item>星期一</item>
+        <item>星期二</item>
+        <item>星期三</item>
+        <item>星期四</item>
+        <item>星期五</item>
+        <item>星期六</item>
+    </string-array>
+    <string-array name="weekdays_short">
+        <item>週日</item>
+        <item>週一</item>
+        <item>週二</item>
+        <item>週三</item>
+        <item>週四</item>
+        <item>週五</item>
+        <item>週六</item>
+    </string-array>
+    <string-array name="widgetDateFormatNames">
+        <item>d MMMM EEEE</item>
+        <item>MM d, EEE</item>
+        <item>MM d, EEEE</item>
+        <item>yyyy MM d, EEE</item>
+        <item>yyyy MM d, EEEE</item>
+        <item>Mon, Jan 15</item>
+        <item>Mon, 12/25/2012</item>
+        <item>Mon, 2012/12/25</item>
+        <item>Mon, 25.12.2012</item>
+        <item>JAN 15</item>
+        <item>15 January</item>
+        <item>January 15</item>
+        <item>15 JAN</item>
+        <item>15.01.2012</item>
+        <item>15.01.12</item>
+        <item>01.15.2012</item>
+        <item>01.15.12</item>
+        <item>15/01/2012</item>
+        <item>15/01/12</item>
+        <item>01/15/2012</item>
+        <item>01/15/12</item>
+        <item>15-01-2012</item>
+        <item>15-01-12</item>
+        <item>01-15-2012</item>
+        <item>01-15-12</item>
+        <item>2012-12-15</item>
+        <item>yyyy-m-d</item>
+        <item>yyyy/m/d</item>
+        <item>d/m/yyyy</item>
+        <item>d/m/yy</item>
+        <item>d.m.yyyy</item>
+        <item>d.m.yy</item>
+        <item>yy/m/d</item>
+        <item>yyyy/mm/dd</item>
+        <item>yy/mm/dd</item>
+    </string-array>
+    <string-array name="widgetDateFormatValues">
+        <item>d月MMMM EEEE</item>
+        <item>MM月d日, EEE</item>
+        <item>MM月d日, EEEE</item>
+        <item>yyyy年MM月d日, EEE</item>
+        <item>yyyy年MM月d日, EEEE</item>
+        <item>EEE, MMM d</item>
+        <item>EEE, MM/dd/yyyy</item>
+        <item>EEE, yyyy/MM/dd</item>
+        <item>MMM dd</item>
+        <item>dd MMM</item>
+        <item>MMMM dd</item>
+        <item>dd MMMM</item>
+        <item>dd.MM.yyyy</item>
+        <item>dd.MM.yy</item>
+        <item>MM.dd.yyyy</item>
+        <item>MM.dd.yy</item>
+        <item>dd/MM/yyyy</item>
+        <item>dd/MM/yy</item>
+        <item>MM/dd/yyyy</item>
+        <item>MM/dd/yy</item>
+        <item>dd-MM-yyyy</item>
+        <item>dd-MM-yy</item>
+        <item>MM-dd-yyyy</item>
+        <item>MM-dd-yy</item>
+        <item>yyyy-MM-dd</item>
+        <item>yyyy-M-d</item>
+        <item>yyyy/M/d</item>
+        <item>d/M/yyyy</item>
+        <item>d/M/yy</item>
+        <item>d.M.yyyy</item>
+        <item>d.M.yy</item>
+        <item>yy/M/d</item>
+    </string-array>
+</resources>

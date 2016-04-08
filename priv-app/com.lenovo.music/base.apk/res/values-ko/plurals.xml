@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="bytes">
+        <item quantity="other">B</item>
+        <item quantity="one">B</item>
+    </plurals>
+    <plurals name="kilobytes">
+        <item quantity="other">KB</item>
+        <item quantity="one">KB</item>
+    </plurals>
+    <plurals name="megabytes">
+        <item quantity="other">MB</item>
+        <item quantity="one">MB</item>
+    </plurals>
+    <plurals name="gigabytes">
+        <item quantity="other">GB</item>
+        <item quantity="one">GB</item>
+    </plurals>
+    <plurals name="Nsongs">
+        <item quantity="other">노래 %d곡</item>
+        <item quantity="one">노래 1곡</item>
+    </plurals>
+    <plurals name="Nalbums">
+        <item quantity="other">앨범 %d개</item>
+        <item quantity="one">앨범 1개</item>
+    </plurals>
+    <plurals name="playlist_add_count_tip">
+        <item quantity="other">노래 %d곡 추가 위치:</item>
+        <item quantity="one">노래 1곡 추가 위치:</item>
+    </plurals>
+    <plurals name="Ntracks">
+        <item quantity="other">노래 %d곡</item>
+        <item quantity="one">노래 1곡</item>
+    </plurals>
+    <plurals name="Nalbum">
+        <item quantity="other">앨범 %d개</item>
+        <item quantity="one">앨범 1개</item>
+    </plurals>
+    <plurals name="Nfolders">
+        <item quantity="other">폴더 %d개</item>
+        <item quantity="one">폴더 1개</item>
+    </plurals>
+    <plurals name="Nartists">
+        <item quantity="other">아티스트 %d명</item>
+        <item quantity="one">아티스트 1명</item>
+    </plurals>
+    <plurals name="Nlists">
+        <item quantity="other">재생 목록 %d개</item>
+        <item quantity="one">재생 목록 1개</item>
+    </plurals>
+    <plurals name="local_count_songs">
+        <item quantity="other">전체: 노래 %d곡</item>
+        <item quantity="one">전체: 노래 1곡</item>
+    </plurals>
+    <plurals name="local_count_playLists">
+        <item quantity="other">전체: 재생 목록 %d개</item>
+        <item quantity="one">전체: 재생 목록 1개</item>
+    </plurals>
+    <plurals name="local_count_artists">
+        <item quantity="other">전체: 아티스트 %d명</item>
+        <item quantity="one">전체: 아티스트 1명</item>
+    </plurals>
+    <plurals name="local_count_folders">
+        <item quantity="other">전체: 폴더 %d개</item>
+        <item quantity="one">전체: 폴더 1개</item>
+    </plurals>
+    <plurals name="local_count_albums">
+        <item quantity="other">전체: 앨범 %d개</item>
+        <item quantity="one">전체: 앨범 1개</item>
+    </plurals>
+    <plurals name="online_search_result_tip">
+        <item quantity="other">앨범 %d개</item>
+        <item quantity="one">앨범 1개</item>
+    </plurals>
+    <plurals name="local_edit_delete_songs">
+        <item quantity="other">노래 %d곡 삭제됨</item>
+        <item quantity="one">노래 1곡 삭제됨</item>
+    </plurals>
+    <plurals name="online_count_songs">
+        <item quantity="other">노래 %d곡 로드됨</item>
+        <item quantity="one">노래 1곡 로드됨</item>
+    </plurals>
+    <plurals name="online_count_artists">
+        <item quantity="other">아티스트 %d명 로드됨</item>
+        <item quantity="one">아티스트 1명 로드됨</item>
+    </plurals>
+    <plurals name="online_count_albums">
+        <item quantity="other">앨범 %d개 로드됨</item>
+        <item quantity="one">앨범 1개 로드됨</item>
+    </plurals>
+    <plurals name="media_playlist_title_count_songs">
+        <item quantity="other">총 %d곡</item>
+        <item quantity="one">총 1곡</item>
+    </plurals>
+    <plurals name="local_edit_remove_songs">
+        <item quantity="other">노래 %d곡 제거됨</item>
+        <item quantity="one">노래 1곡 제거됨</item>
+    </plurals>
+    <plurals name="local_edit_selected_songs">
+        <item quantity="other">노래 %d곡 선택됨</item>
+        <item quantity="one">노래 1곡 선택됨</item>
+    </plurals>
+    <plurals name="add_songs_to_queue">
+        <item quantity="other">재생 목록에 노래 %d곡 추가됨</item>
+        <item quantity="one">재생 목록에 노래 1곡 추가됨</item>
+    </plurals>
+</resources>

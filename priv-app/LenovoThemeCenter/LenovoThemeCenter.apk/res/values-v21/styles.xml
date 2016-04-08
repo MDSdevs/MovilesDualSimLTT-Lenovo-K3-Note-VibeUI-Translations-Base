@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Widget.Design.FloatingActionButton" parent="@android:style/Widget">
+        <item name="android:background">@drawable/leac_design_fab_background</item>
+        <item name="android:elevation">@dimen/leac_design_fab_elevation</item>
+        <item name="backgroundTint">?android:colorAccent</item>
+        <item name="rippleColor">?android:colorControlHighlight</item>
+        <item name="fabSize">normal</item>
+        <item name="pressedTranslationZ">@dimen/leac_design_fab_translation_z_pressed</item>
+        <item name="borderWidth">@dimen/leac_design_fab_border_width</item>
+    </style>
+    <style name="Widget.Design.NavigationView" parent="">
+        <item name="android:background">?android:windowBackground</item>
+        <item name="android:fitsSystemWindows">true</item>
+        <item name="android:maxWidth">@dimen/leac_design_navigation_max_width</item>
+        <item name="android:elevation">@dimen/leac_design_navigation_elevation</item>
+    </style>
+    <style name="Widget.Design.TabLayout" parent="@style/Base.Widget.Design.TabLayout">
+        <item name="android:background">?android:colorPrimary</item>
+        <item name="android:elevation">4.0dip</item>
+        <item name="tabMode">fixed</item>
+        <item name="tabGravity">fill</item>
+    </style>
+    <style name="Widget.Design.Snackbar" parent="@android:style/Widget">
+        <item name="android:theme">@android:style/Theme.DeviceDefault</item>
+        <item name="android:background">@drawable/leac_design_snackbar_background</item>
+        <item name="android:paddingLeft">@dimen/leac_design_snackbar_padding_horizontal</item>
+        <item name="android:paddingRight">@dimen/leac_design_snackbar_padding_horizontal</item>
+        <item name="android:maxWidth">@dimen/leac_design_snackbar_max_width</item>
+        <item name="android:minWidth">@dimen/leac_design_snackbar_min_width</item>
+        <item name="android:elevation">@dimen/leac_design_snackbar_elevation</item>
+        <item name="maxActionInlineWidth">@dimen/leac_design_snackbar_action_inline_max_width</item>
+    </style>
+    <style name="Widget.Design.AppBarLayout" parent="@android:style/Widget">
+        <item name="android:background">?android:colorPrimary</item>
+        <item name="android:elevation">@dimen/leac_design_appbar_elevation</item>
+    </style>
+    <style name="__LeakCanary.Base" parent="@android:style/Theme.Material" />
+    <style name="AppTheme" parent="@android:style/Theme.DeviceDefault.Light">
+        <item name="android:windowDisablePreview">true</item>
+        <item name="android:actionBarStyle">@style/app_ColorActionBarStyle</item>
+        <item name="android:actionModeBackground">@null</item>
+        <item name="android:dialogTheme">@style/AccentColorDialog</item>
+        <item name="android:alertDialogTheme">@style/AccentColorAlertDialog</item>
+        <item name="android:colorPrimary">@color/vibeui_actionbar_bg_color</item>
+        <item name="android:colorPrimaryDark">@color/vibeui_statusbar_bg_color</item>
+    </style>
+    <style name="DefaultTransparentTheme" parent="@android:style/Theme.DeviceDefault.Light">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:actionBarStyle">@style/app_ColorActionBarStyle</item>
+        <item name="android:dialogTheme">@style/AccentColorDialog</item>
+        <item name="android:alertDialogTheme">@style/AccentColorAlertDialog</item>
+    </style>
+    <style name="app_ColorActionBarStyle_no_elevation" parent="@style/app_ColorActionBarStyle">
+        <item name="android:elevation">0.0dip</item>
+    </style>
+    <style name="AppTheme_Actionbar_NoElevation" parent="@style/AppTheme">
+        <item name="android:actionBarStyle">@style/app_ColorActionBarStyle_no_elevation</item>
+    </style>
+    <style name="LoadingTransparentTheme" parent="@android:style/Theme.DeviceDefault.Light">
+        <item name="android:windowBackground">@drawable/loading_bg</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowFullscreen">false</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:dialogTheme">@style/AccentColorDialog</item>
+        <item name="android:alertDialogTheme">@style/AccentColorAlertDialog</item>
+        <item name="android:colorPrimaryDark">@android:color/transparent</item>
+    </style>
+    <style name="DeviceDefaultNoLight" parent="@android:style/Theme.DeviceDefault">
+        <item name="android:colorBackground">#4c000000</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowActionBarOverlay">true</item>
+        <item name="android:dialogTheme">@style/AccentColorDialog</item>
+        <item name="android:alertDialogTheme">@style/AccentColorAlertDialog</item>
+        <item name="android:colorPrimary">#00000000</item>
+        <item name="android:colorPrimaryDark">#00000000</item>
+    </style>
+    <style name="LightDialog" parent="@android:style/Theme.DeviceDefault.Light">
+        <item name="android:dialogTheme">@style/AccentColorDialog</item>
+        <item name="android:alertDialogTheme">@style/AccentColorAlertDialog</item>
+    </style>
+    <style name="AccentColorDialog" parent="@android:style/Theme.DeviceDefault.Light.Dialog" />
+    <style name="AccentColorAlertDialog" parent="@android:style/Theme.DeviceDefault.Light.Dialog" />
+    <style name="DesignerActionBar" parent="@style/AppTheme">
+        <item name="android:windowActionBarOverlay">true</item>
+    </style>
+    <style name="App.Card" parent="@style/CardView">
+        <item name="cardBackgroundColor">@color/transparent</item>
+        <item name="cardCornerRadius">@dimen/card_corner_radius</item>
+        <item name="cardElevation">@dimen/card_corner_elevation</item>
+        <item name="cardMaxElevation">@dimen/card_corner_elevation</item>
+        <item name="contentPadding">0.0dip</item>
+    </style>
+</resources>

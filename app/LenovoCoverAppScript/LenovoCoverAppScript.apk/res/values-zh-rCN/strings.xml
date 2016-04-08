@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="init_tip">正在加载锁屏主题包……</string>
+    <string name="create_plug_fail">主题包资源不全或与本设备不兼容，请选用其他主题包</string>
+    <string name="lenovo_keyguard_leather_sheath_weather_description_unknown">请通过桌面天气添加城市</string>
+</resources>

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="animationDelayNames">
+        <item>Chậm hơn</item>
+        <item>Bình thường</item>
+        <item>Nhanh hơn</item>
+    </string-array>
+    <string-array name="batteryPositionNames">
+        <item>Trái</item>
+        <item>Phải</item>
+    </string-array>
+    <string-array name="forecast_strings">
+        <item>Giờ địa phương: %1$s</item>
+        <item>Mặt trời mọc: %1$s</item>
+        <item>Mặt trời lặn: %1$s</item>
+        <item>Thời gian trong ngày: %1$s h, %2$s m</item>
+        <item>Gió: %1$s</item>
+        <item>Độ ẩm: %1$s</item>
+        <item>Cập nhật mới nhất: cách đây %1$s giờ, %2$s phút</item>
+        <item>Cập nhật mới nhất: cách đây %1$s phút</item>
+        <item>Cập nhật mới nhất: %1$s</item>
+        <item>Cập nhật mới nhất: %1$s h, %2$s m</item>
+        <item>Cảm thấy như %1$s</item>
+    </string-array>
+    <string-array name="moon_phases">
+        <item>Trăng mới</item>
+        <item>Trăng lưỡi liềm đầu tháng</item>
+        <item>Trăng bán nguyệt đầu tháng</item>
+        <item>Trăng khuyết đầu tháng</item>
+        <item>Trăng tròn</item>
+        <item>Trăng khuyết cuối tháng</item>
+        <item>Trăng bán nguyệt cuối tháng</item>
+        <item>Trăng lưỡi liềm cuối tháng</item>
+    </string-array>
+    <string-array name="refreshPeriodNames">
+        <item>Không bao giờ</item>
+        <item>15 phút</item>
+        <item>30 phút</item>
+        <item>1 giờ</item>
+        <item>2 giờ</item>
+        <item>3 hgiờ</item>
+        <item>4 giờ</item>
+        <item>6 giờ</item>
+    </string-array>
+    <string-array name="weather_conditions">
+        <item>Không có sẵn</item>
+        <item>Trời trong</item>
+        <item>Nắng một phần</item>
+        <item>Nắng</item>
+        <item>Mưa một phần</item>
+        <item>Hầu hết có mây</item>
+        <item>Hầu hết có nắng</item>
+        <item>U ám</item>
+        <item>Nhiều mây</item>
+        <item>Rất nhiều mây</item>
+        <item>Có thể mưa</item>
+        <item>Mưa rào nhẹ</item>
+        <item>Mưa</item>
+        <item>Mưa rãi rác</item>
+        <item>Mưa rào</item>
+        <item>Mưa nặng hạt</item>
+        <item>Có thể bão</item>
+        <item>Bão nhẹ</item>
+        <item>Bão</item>
+        <item>Bão mạnh</item>
+        <item>Có thể sấm sét</item>
+        <item>Sấm sét rãi rác</item>
+        <item>Sấm sét</item>
+        <item>Có thể có tuyết</item>
+        <item>Tuyết nhẹ</item>
+        <item>Tuyết</item>
+        <item>Tuyết lớn</item>
+        <item>Mưa tuyết</item>
+        <item>Mưa và tuyết</item>
+        <item>Mưa phùn tuyết</item>
+        <item>Mưa đá</item>
+        <item>Bão đá</item>
+        <item>Mưa tuyết</item>
+        <item>Băng giá</item>
+        <item>Sương mù</item>
+        <item>Bụi</item>
+        <item>Sương mù</item>
+        <item>Khói</item>
+        <item>Khói mù</item>
+        <item>Mưa dông bất chợt</item>
+        <item>Bão cát</item>
+        <item>Nhẹ</item>
+        <item>Mưa/Trời trong</item>
+        <item>Lốc xoáy</item>
+        <item>Bão</item>
+        <item>Lạnh</item>
+        <item>Nóng</item>
+        <item>Có gió</item>
+        <item>Mát mẽ</item>
+        <item>Ôn hòa</item>
+        <item>Ấm áp</item>
+        <item>Đẹp trời</item>
+        <item>Hay có gió</item>
+        <item>Ẩm ướt</item>
+        <item>Khô ráo</item>
+        <item>Mưa bụi</item>
+        <item>Mưa rào/Trời trong</item>
+        <item>Lốc xoáy</item>
+        <item>Bão nhiệt đới</item>
+        <item>Bão</item>
+        <item>Lạnh</item>
+        <item>Nóng</item>
+        <item>Có gió</item>
+        <item>Mát mẻ</item>
+        <item>Ôn hòa</item>
+        <item>Ấm áp</item>
+        <item>Đẹp trời</item>
+        <item>Gió nhẹ</item>
+        <item>Ẩm ướt</item>
+        <item>Khô ráo</item>
+        <item>Mưa phùn</item>
+    </string-array>
+    <string-array name="weekdays_long">
+        <item>Chủ Nhật</item>
+        <item>Thứ hai</item>
+        <item>Thứ ba</item>
+        <item>Thứ tư</item>
+        <item>Thứ năm</item>
+        <item>Thứ sáu</item>
+        <item>Thứ bảy</item>
+    </string-array>
+    <string-array name="weekdays_short">
+        <item>Chủ Nhật</item>
+        <item>Thứ hai</item>
+        <item>Thứ ba</item>
+        <item>Thứ tư</item>
+        <item>Thứ năm</item>
+        <item>Thứ sáu</item>
+        <item>Thứ bảy</item>
+    </string-array>
+</resources>

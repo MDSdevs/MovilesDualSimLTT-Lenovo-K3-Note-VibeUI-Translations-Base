@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">คิดเลข</string>
+    <string name="error_nan">ไม่ใช่ตัวเลข</string>
+    <string name="error_syntax">พบข้อผิดพลาด</string>
+    <string name="fun_cos">cos</string>
+    <string name="fun_ln">ln</string>
+    <string name="fun_log">log</string>
+    <string name="fun_sin">sin</string>
+    <string name="fun_tan">tan</string>
+    <string name="clr">clr</string>
+    <string name="del">del</string>
+    <string name="desc_const_e">จำนวนออยเลอร์</string>
+    <string name="desc_const_pi">พาย</string>
+    <string name="desc_dec_point">จุด</string>
+    <string name="desc_lparen">วงเล็บซ้าย</string>
+    <string name="desc_rparen">วงเล็บขวา</string>
+    <string name="desc_fun_cos">โคไซน์</string>
+    <string name="desc_fun_ln">ลอการิทึมธรรมชาติ</string>
+    <string name="desc_fun_log">ลอการิทึม</string>
+    <string name="desc_fun_sin">ไซน์</string>
+    <string name="desc_fun_tan">แทนเจนต์</string>
+    <string name="desc_op_add">บวก</string>
+    <string name="desc_op_div">หาร</string>
+    <string name="desc_op_fact">แฟกทอเรียล</string>
+    <string name="desc_op_mul">คูณ</string>
+    <string name="desc_op_pow">ยกกำลัง</string>
+    <string name="desc_op_sqrt">รากที่สอง</string>
+    <string name="desc_op_sub">ลบ</string>
+    <string name="desc_clr">ล้าง</string>
+    <string name="desc_del">ลบ</string>
+    <string name="desc_eq">เท่ากับ</string>
+</resources>

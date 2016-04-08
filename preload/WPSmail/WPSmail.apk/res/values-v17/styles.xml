@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Samples.Category" parent="@style/Samples">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:paddingLeft">16.0dip</item>
+        <item name="android:paddingRight">16.0dip</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:paddingStart">16.0dip</item>
+        <item name="android:paddingEnd">16.0dip</item>
+    </style>
+    <style name="MenuDrawer.Widget.Category" parent="@style/MenuDrawer.Widget">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">?android:textColorSecondaryInverse</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:paddingLeft">16.0dip</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:paddingStart">16.0dip</item>
+    </style>
+    <style name="MenuDrawer.Widget.Title" parent="@style/MenuDrawer.Widget">
+        <item name="android:textAppearance">?android:textAppearance</item>
+        <item name="android:textSize">18.0sp</item>
+        <item name="android:textColor">?android:textColorPrimaryInverse</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:paddingLeft">16.0dip</item>
+        <item name="android:paddingTop">8.0dip</item>
+        <item name="android:paddingRight">32.0dip</item>
+        <item name="android:paddingBottom">8.0dip</item>
+        <item name="android:drawablePadding">16.0dip</item>
+        <item name="android:paddingStart">16.0dip</item>
+        <item name="android:paddingEnd">32.0dip</item>
+    </style>
+    <style name="AccountSettingPadding">
+        <item name="android:paddingLeft">@dimen/account_setup_options_padding_left</item>
+        <item name="android:paddingTop">@dimen/account_settings_padding_dimen</item>
+        <item name="android:paddingRight">@dimen/account_setup_options_padding_right</item>
+        <item name="android:paddingBottom">@dimen/account_settings_padding_dimen</item>
+        <item name="android:paddingStart">@dimen/account_setup_options_padding_left</item>
+        <item name="android:paddingEnd">@dimen/account_setup_options_padding_right</item>
+    </style>
+    <style name="RecipientEditTextViewStyle" parent="@style/RecipientEditTextView">
+        <item name="android:textSize">@dimen/application_text_size_large</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:layout_marginLeft">@dimen/lenovo_margin</item>
+        <item name="android:layout_marginRight">6.0dip</item>
+        <item name="android:minHeight">25.0dip</item>
+        <item name="android:layout_marginEnd">6.0dip</item>
+    </style>
+    <style name="RecipientEditTextViewStyle_support_rtl" parent="@style/RecipientEditTextViewStyle">
+        <item name="android:gravity">start|bottom|center</item>
+        <item name="android:textAlignment">viewStart</item>
+    </style>
+    <style name="ComposeSubjectView" parent="@style/ComposeEditTextView">
+        <item name="android:textSize">@dimen/application_text_size_large</item>
+        <item name="android:textColorHint">@color/compose_label_text</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:layout_marginLeft">@dimen/lenovo_margin</item>
+        <item name="android:hint">@string/subject_hint</item>
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:inputType">textEmailSubject|textAutoCorrect|textCapSentences|textImeMultiLine|textMultiLine</item>
+        <item name="android:imeOptions">actionDone|flagNoExtractUi|flagNoFullscreen</item>
+        <item name="android:layout_marginStart">@dimen/lenovo_margin</item>
+    </style>
+    <style name="recipient_scroll_edit_text">
+        <item name="android:textSize">@dimen/application_text_size_small</item>
+        <item name="android:background">@android:color/white</item>
+        <item name="android:paddingTop">2.0dip</item>
+        <item name="android:paddingBottom">1.0dip</item>
+        <item name="android:focusable">true</item>
+        <item name="android:focusableInTouchMode">true</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">24.0dip</item>
+        <item name="android:minWidth">100.0dip</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:inputType">textUri</item>
+        <item name="android:textAlignment">viewStart</item>
+    </style>
+    <style name="AccountSpinnerAnchorTextPrimary" parent="@android:style/TextAppearance.Holo.Widget.ActionBar.Title">
+        <item name="android:textSize">@dimen/application_text_size_large</item>
+        <item name="android:textColor">@color/actionbar_main_title</item>
+        <item name="android:background">@color/custom_action_bar_bg</item>
+        <item name="android:paddingEnd">@dimen/click_area_padding</item>
+    </style>
+    <style name="FolderStartStyle">
+        <item name="android:layout_marginLeft">@dimen/folder_start_margin</item>
+        <item name="android:layout_marginStart">@dimen/folder_start_margin</item>
+    </style>
+    <style name="content_add_address_btn">
+        <item name="android:background">@drawable/common_btn_background</item>
+        <item name="android:paddingLeft">@dimen/click_area_padding</item>
+        <item name="android:paddingTop">@dimen/compose_add_click_area_padding</item>
+        <item name="android:paddingRight">@dimen/click_area_padding</item>
+        <item name="android:paddingBottom">@dimen/compose_add_click_area_padding</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginRight">@dimen/compose_contact_button_margin_right</item>
+        <item name="android:src">@drawable/contact_add_to_address_list</item>
+        <item name="android:layout_alignParentRight">true</item>
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:layout_marginEnd">@dimen/compose_contact_button_margin_right</item>
+        <item name="android:layout_alignParentEnd">true</item>
+    </style>
+    <style name="quick_reply_bottom_btn_panel_style">
+        <item name="android:paddingLeft">30.0dip</item>
+        <item name="android:paddingRight">30.0dip</item>
+        <item name="android:paddingStart">30.0dip</item>
+    </style>
+    <style name="settings_preference_item_label">
+        <item name="android:textSize">@dimen/account_settings_item_txt_size_big</item>
+        <item name="android:gravity">start|center</item>
+        <item name="android:layout_width">0.0dip</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginRight">@dimen/account_item_right_margin</item>
+        <item name="android:textAlignment">viewStart</item>
+    </style>
+    <style name="settings_preference_item_summary">
+        <item name="android:textSize">@dimen/application_text_size_small</item>
+        <item name="android:textColor">@color/lenovo_secondary_text_color</item>
+        <item name="android:gravity">end|center</item>
+        <item name="android:layout_width">0.0dip</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textAlignment">viewEnd</item>
+    </style>
+    <style name="account_setup_small_title">
+        <item name="android:textSize">@dimen/application_text_size_small</item>
+        <item name="android:textColor">@color/lenovo_secondary_text_color</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:paddingStart">@dimen/account_setup_options_padding_left</item>
+    </style>
+    <style name="actionbar_right_button_text_style" parent="@style/actionbar_title_style">
+        <item name="android:textSize">@dimen/lenovo_text_size_small_14sp</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:layout_marginLeft">0.0dip</item>
+        <item name="android:layout_marginRight">@dimen/lenovo_margin</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:layout_marginStart">0.0dip</item>
+        <item name="android:layout_marginEnd">@dimen/lenovo_margin</item>
+    </style>
+    <style name="actionbar_title_style">
+        <item name="android:textSize">@dimen/lenovo_action_bar_title_size</item>
+        <item name="android:textColor">@color/actionbar_main_title</item>
+        <item name="android:layout_marginLeft">@dimen/lenovo_actionbar_title_margin_left</item>
+        <item name="android:layout_marginStart">@dimen/lenovo_actionbar_title_margin_left</item>
+    </style>
+    <style name="no_back_actionbar_title_style" parent="@style/actionbar_title_style">
+        <item name="android:layout_marginLeft">@dimen/lenovo_margin</item>
+        <item name="android:layout_marginStart">@dimen/lenovo_margin</item>
+    </style>
+</resources>

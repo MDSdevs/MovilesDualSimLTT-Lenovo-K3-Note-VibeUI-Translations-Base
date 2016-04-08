@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="turnonnetwork">
+        <item>WLAN</item>
+        <item>数据网络</item>
+    </string-array>
+    <string-array name="low_power_switch_strs">
+        <item>关闭</item>
+        <item>电量剩余10%时</item>
+        <item>电量剩余20%时</item>
+        <item>电量剩余30%时</item>
+    </string-array>
+    <string-array name="low_power_switch_strs_summary">
+        <item>关闭</item>
+        <item>电量剩余10%%时</item>
+        <item>电量剩余20%%时</item>
+        <item>电量剩余30%%时</item>
+    </string-array>
+    <string-array name="low_power_switch_values">
+        <item>0</item>
+        <item>10</item>
+        <item>20</item>
+        <item>30</item>
+    </string-array>
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="@android:style/Theme.DeviceDefault.Light">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowAnimationStyle">@style/FeelyouWindowAnimTheme</item>
+        <item name="android:windowDisablePreview">true</item>
+    </style>
+    <style name="AppTheme_NoActionBar" parent="@android:style/Theme.DeviceDefault.Light.NoActionBar">
+        <item name="android:windowBackground">@color/head_background</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:windowDisablePreview">true</item>
+        <item name="android:colorPrimary">@color/head_background</item>
+        <item name="android:colorPrimaryDark">@color/head_background</item>
+        <item name="android:colorAccent">@color/head_background</item>
+        <item name="android:windowElevation">16.0dip</item>
+    </style>
+    <style name="FeelyouWindowAnimTheme" parent="@android:style/Animation.Activity">
+        <item name="android:wallpaperCloseExitAnimation">@anim/wallpaper_open_exit</item>
+    </style>
+</resources>

@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="animationDelayNames">
+        <item>Lassú</item>
+        <item>Normál</item>
+        <item>Gyorsabb</item>
+    </string-array>
+    <string-array name="batteryPositionNames">
+        <item>Balra</item>
+        <item>Jobbra</item>
+    </string-array>
+    <string-array name="forecast_strings">
+        <item>Helyi idő: %1$s</item>
+        <item>Napkelte: %1$s</item>
+        <item>Napnyugta: %1$s</item>
+        <item>Nappali időszak: %1$s ó, %2$s p</item>
+        <item>Szél: %1$s</item>
+        <item>Páratartalom: %1$s</item>
+        <item>Utolsó frissítés: %1$s ó, %2$s perce</item>
+        <item>Utolsó frissítés: %1$s perce</item>
+        <item>Utolsó frissítés: %1$s</item>
+        <item>Utolsó frissítés: %1$s ó, %2$s p</item>
+        <item>Hőérzet %1$s</item>
+    </string-array>
+    <string-array name="moon_phases">
+        <item>Ujhold</item>
+        <item>Újhold</item>
+        <item>Első negyedév</item>
+        <item>Növekvő hold</item>
+        <item>Telihold</item>
+        <item>Fogyó hold</item>
+        <item>Harmadik negyedév</item>
+        <item>Fogyó holdsarló</item>
+    </string-array>
+    <string-array name="refreshPeriodNames">
+        <item>Soha</item>
+        <item>15 perc</item>
+        <item>30 perc</item>
+        <item>1 óra</item>
+        <item>2 óra</item>
+        <item>3 óra</item>
+        <item>4 óra</item>
+        <item>6 óra</item>
+    </string-array>
+    <string-array name="weather_conditions">
+        <item>Nem érhető el</item>
+        <item>Tiszta</item>
+        <item>Enyhén napos</item>
+        <item>Napos</item>
+        <item>Enyhén borús</item>
+        <item>Többnyire felhős</item>
+        <item>Többnyire derült</item>
+        <item>Felhős, borult</item>
+        <item>Felhős</item>
+        <item>Erősen felhős</item>
+        <item>Eső várható</item>
+        <item>Gyenge eső</item>
+        <item>Eső</item>
+        <item>Elszórtan záporok</item>
+        <item>Záporok</item>
+        <item>Erős záporok</item>
+        <item>Lehetséges vihar</item>
+        <item>Gyenge viharok</item>
+        <item>Vihar</item>
+        <item>Erős viharok</item>
+        <item>Lehetséges zivatarok</item>
+        <item>Szórványos zivatarok</item>
+        <item>Zivatar</item>
+        <item>Lehetséges havazás</item>
+        <item>Gyenge havazás</item>
+        <item>Havazás</item>
+        <item>Erős havazás</item>
+        <item>Hózáporok</item>
+        <item>Havas eső</item>
+        <item>Ónos szitálás</item>
+        <item>Jégeső</item>
+        <item>Jégeső, viharos</item>
+        <item>Ónos eső</item>
+        <item>Jeges</item>
+        <item>Ködfátyol</item>
+        <item>Por</item>
+        <item>Köd</item>
+        <item>Szmog</item>
+        <item>Ködös</item>
+        <item>Hózáporok</item>
+        <item>Homokvihar</item>
+        <item>Jó-szép</item>
+        <item>Záporok/tiszta</item>
+        <item>Tornado</item>
+        <item>Trópusi vihar</item>
+        <item>Hurrikán</item>
+        <item>Hideg</item>
+        <item>Forró</item>
+        <item>Szeles</item>
+        <item>Hűvös</item>
+        <item>Enyhe</item>
+        <item>Meleg</item>
+        <item>Szép</item>
+        <item>Szellős</item>
+        <item>Nedves</item>
+        <item>Száraz</item>
+        <item>Szitálás</item>
+    </string-array>
+    <string-array name="weekdays_long">
+        <item>Vasárnap</item>
+        <item>Hétfő</item>
+        <item>Kedd</item>
+        <item>Szerda</item>
+        <item>Csütörtök</item>
+        <item>Péntek</item>
+        <item>Szombat</item>
+    </string-array>
+    <string-array name="weekdays_short">
+        <item>Vas</item>
+        <item>Hét</item>
+        <item>Ked</item>
+        <item>Sze</item>
+        <item>Csü</item>
+        <item>Pén</item>
+        <item>Szo</item>
+    </string-array>
+    <string-array name="widgetDateFormatNames">
+        <item>Hétfő, December 15</item>
+        <item>Hét, Dec 15, 2012</item>
+        <item>Hétfő 15 december</item>
+        <item>Hét, Dec 15 2012</item>
+        <item>Hét. 15 Dec. 2012</item>
+        <item>Hét, Dec 15</item>
+        <item>Hét, 12/25/2012</item>
+        <item>Hét, 2012/12/25</item>
+        <item>Hét, 25.12.2012</item>
+        <item>JAN 15</item>
+        <item>15 Január</item>
+        <item>Január 15</item>
+        <item>15 JAN</item>
+        <item>15.01.2012</item>
+        <item>15.01.12</item>
+        <item>01.15.2012</item>
+        <item>01.15.12</item>
+        <item>15/01/2012</item>
+        <item>15/01/12</item>
+        <item>01/15/2012</item>
+        <item>01/15/12</item>
+        <item>15-01-2012</item>
+        <item>15-01-12</item>
+        <item>01-15-2012</item>
+        <item>01-15-12</item>
+        <item>2012-12-15</item>
+        <item>yyyy-m-d</item>
+        <item>yyyy/m/d</item>
+        <item>d/m/yyyy</item>
+        <item>d/m/yy</item>
+        <item>d.m.yyyy</item>
+        <item>d.m.yy</item>
+        <item>yy/m/d</item>
+        <item>yyyy/mm/dd</item>
+        <item>yy/mm/dd</item>
+    </string-array>
+    <string-array name="dailyForecastDateFormatNames">
+        <item>h/n</item>
+        <item>n/h</item>
+        <item>h.n</item>
+        <item>n.h</item>
+        <item>h-n</item>
+        <item>n-h</item>
+    </string-array>
+</resources>

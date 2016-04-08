@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="animationDelayNames">
+        <item>យឺត</item>
+        <item>ធម្មតា</item>
+        <item>លឿន</item>
+    </string-array>
+    <string-array name="batteryPositionNames">
+        <item>ឆ្វេង</item>
+        <item>ស្ដាំ</item>
+    </string-array>
+    <string-array name="forecast_strings">
+        <item>ម៉ោង​តំបន់: %1$s</item>
+        <item>ថ្ងៃ​រះ: %1$s</item>
+        <item>ថ្ងៃ​លិច: %1$s</item>
+        <item>រយៈ​ពេល: %1$s ម៉ោង, %2$s នាទី</item>
+        <item>ខ្យល់: %1$s</item>
+        <item>សំណើម: %1$s</item>
+        <item>អាប់ដេត​ចុង​ក្រោយ: %1$s ម៉ោង, %2$s នាទី កន្លង​មក</item>
+        <item>អាប់ដេត​ចុង​ក្រោយ: %1$s នាទី កន្លង​មក</item>
+        <item>អាប់ដេត​ចុង​ក្រោយ: %1$s</item>
+        <item>អាប់​ដេត​ចុង​ក្រោយ: %1$s ម៉ោង, %2$s នាទី</item>
+        <item>មាន​អារម្មណ៍​ដូច​ជា %1$s</item>
+    </string-array>
+    <string-array name="refreshPeriodNames">
+        <item>មិន​ដែល</item>
+        <item>15 នាទី</item>
+        <item>30 នាទី</item>
+        <item>1 ម៉ោង</item>
+        <item>2 ម៉ោង</item>
+        <item>3 ម៉ោង</item>
+        <item>4 ម៉ោង</item>
+        <item>6 ម៉ោង</item>
+    </string-array>
+    <string-array name="weather_conditions">
+        <item>មិន​មាន</item>
+        <item>ស្រឡះ</item>
+        <item>បើក​ថ្ងៃ​ដោយ​កន្លែង</item>
+        <item>បើក​ថ្ងៃ</item>
+        <item>ពពក​ដោយ​កន្លែង</item>
+        <item>ពពក​ច្រើន</item>
+        <item>បើក​ថ្ងៃ​ច្រើន</item>
+        <item>ពពក​ខ្មៅ</item>
+        <item>មាន​ពពក</item>
+        <item>ពពក​ច្រើន​សម្បើម</item>
+        <item>ឱកាស​ភ្លៀង</item>
+        <item>ភ្លៀង​រលឹម</item>
+        <item>ភ្លៀង</item>
+        <item>ភ្លៀង​បង្អុរ</item>
+        <item>ភ្លៀង​ខ្លាំង</item>
+        <item>ភ្លៀង​ខ្លាំង​សម្បើម</item>
+        <item>ឱកាស​ព្យុះ</item>
+        <item>ព្យុះ​តិច​ៗ</item>
+        <item>ព្យុះ</item>
+        <item>ព្យុះ​ខ្លាំង</item>
+        <item>ឱកាស​ព្យុះ​រន្ទះ</item>
+        <item>មាន​រន្ទះ</item>
+        <item>រន្ទះ</item>
+        <item>ឱកាស​ព្រិល</item>
+        <item>ព្រិល​តិច​ៗ</item>
+        <item>ព្រិល</item>
+        <item>ព្រិល​ខ្លាំង</item>
+        <item>ព្រិល​ខ្លាំង​សម្បើម</item>
+        <item>ភ្លៀង និង​ព្រិល</item>
+        <item>ត្រជាក់​ស្ពឹក</item>
+        <item>ធ្លាក់​ទឹក​កក</item>
+        <item>ព្យុះ​ទឹក​កក</item>
+        <item>ភ្លៀង​ធ្លាក់​ទឹក​កក</item>
+        <item>ធ្លាក់​ទឹក​កក</item>
+        <item>អ័ព្ទ</item>
+        <item>ធូលី</item>
+        <item>ចុះ​អ័ព្ទ</item>
+        <item>ផ្សែង</item>
+        <item>មាន​ចុះ​អ័ព្ទ</item>
+        <item>ល្អង​ព្រុយ​ៗ</item>
+        <item>ព្យុះ​ខ្សាច់</item>
+        <item>ល្អ</item>
+        <item>ច្បាស់</item>
+        <item>ព្យុះ​តូរណាដូ</item>
+        <item>ព្យុះ​ត្រូពិច</item>
+        <item>ព្យុះ​ហើររីកែន</item>
+        <item>ត្រជាក់</item>
+        <item>ក្ដៅ</item>
+        <item>មាន​ខ្យល់</item>
+        <item>រងារ</item>
+        <item>ល្មម</item>
+        <item>ក្ដៅ​ល្មម</item>
+        <item>ស្អាត</item>
+        <item>ស្រស់​ថ្លា</item>
+        <item>សើម</item>
+        <item>ស្ងួត</item>
+        <item>ភ្លៀង​រលឹម</item>
+    </string-array>
+    <string-array name="weekdays_long">
+        <item>អាទិត្យ</item>
+        <item>ចន្ទ</item>
+        <item>អង្គារ</item>
+        <item>ពុធ</item>
+        <item>ព្រហស្បតិ៍</item>
+        <item>សុក្រ</item>
+        <item>សៅរ៍</item>
+    </string-array>
+    <string-array name="weekdays_short">
+        <item>អាទិត្យ</item>
+        <item>ចន្ទ</item>
+        <item>អង្គារ</item>
+        <item>ពុធ</item>
+        <item>ព្រហ.</item>
+        <item>សុក្រ</item>
+        <item>សៅរ៍</item>
+    </string-array>
+    <string-array name="visibilityUnitNames">
+        <item>meters</item>
+        <item>គីឡូ​ម៉ែត្រ</item>
+        <item>ម៉ែលស៍</item>
+    </string-array>
+    <string-array name="pressureUnitNames">
+        <item>atm</item>
+        <item>bar</item>
+        <item>mBar</item>
+        <item>mmHg</item>
+        <item>inHg</item>
+        <item>Pa</item>
+        <item>hPa</item>
+        <item>kPa</item>
+        <item>psi</item>
+    </string-array>
+    <string-array name="pressureUnitNamesPrefs">
+        <item>atm</item>
+        <item>bar</item>
+        <item>mBar</item>
+        <item>mmHg</item>
+        <item>inHg</item>
+        <item>Pa</item>
+        <item>hPa</item>
+        <item>kPa</item>
+        <item>psi</item>
+    </string-array>
+    <string-array name="windSpeedUnitNames">
+        <item>ម/ន</item>
+        <item>គម/ម៉</item>
+        <item>មម៉</item>
+        <item>ប៊ីហ្វរ៍ត</item>
+        <item>knots</item>
+    </string-array>
+</resources>

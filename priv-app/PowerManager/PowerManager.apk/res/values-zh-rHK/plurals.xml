@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="high_power_count">
+        <item quantity="other">%d 個應用程式允許忽略電池優化</item>
+        <item quantity="one">1 個應用程式允許忽略電池優化</item>
+    </plurals>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gif_error">Greška u analizi!</string>
+    <string name="set_lock_screen_wallpaper">Podesi tapet zaključanog ekrana</string>
+    <string name="set_desktop_wallpaper">Podesi tapet radne površine</string>
+    <string name="setting_others">Ostali</string>
+    <string name="setting_lenovo_accout">Prijavi se na Lenovo nalog</string>
+    <string name="setting_title">Postavke</string>
+</resources>

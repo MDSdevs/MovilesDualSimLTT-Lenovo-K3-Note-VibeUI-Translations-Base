@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="weekview_noheader_offset">48.0dip</dimen>
+    <dimen name="monthview_offset">288.0dip</dimen>
+    <dimen name="weekview_offset">48.0dip</dimen>
+</resources>

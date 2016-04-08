@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="bytes">
+        <item quantity="other">بايت</item>
+        <item quantity="one">بايت</item>
+    </plurals>
+    <plurals name="kilobytes">
+        <item quantity="other">كيلوبايت</item>
+        <item quantity="one">كيلوبايت</item>
+    </plurals>
+    <plurals name="megabytes">
+        <item quantity="other">ميجا بايت</item>
+        <item quantity="one">ميجا بايت</item>
+    </plurals>
+    <plurals name="gigabytes">
+        <item quantity="other">جيجا بايت</item>
+        <item quantity="one">جيجا بايت</item>
+    </plurals>
+    <plurals name="Nsongs">
+        <item quantity="other">%d أغاني</item>
+        <item quantity="one">1 أغنية</item>
+    </plurals>
+    <plurals name="Nalbums">
+        <item quantity="other">%d ألبومات</item>
+        <item quantity="one">1 ألبوم</item>
+    </plurals>
+    <plurals name="playlist_add_count_tip">
+        <item quantity="other">تمت إضافة%d أغاني إلى:</item>
+        <item quantity="one">تمت إضافة أغنية واحدة:</item>
+    </plurals>
+    <plurals name="Ntracks">
+        <item quantity="other">%d أغاني</item>
+        <item quantity="one">1 أغنية</item>
+    </plurals>
+    <plurals name="Nalbum">
+        <item quantity="other">%d ألبومات</item>
+        <item quantity="one">1 ألبوم</item>
+    </plurals>
+    <plurals name="Nfolders">
+        <item quantity="other">%d مجلدات</item>
+        <item quantity="one">1 مجلد</item>
+    </plurals>
+    <plurals name="Nartists">
+        <item quantity="other">%d فنانون</item>
+        <item quantity="one">1 فنان</item>
+    </plurals>
+    <plurals name="Nlists">
+        <item quantity="other">%d قوائم تشغيل</item>
+        <item quantity="one">1 قائمة تشغيل</item>
+    </plurals>
+    <plurals name="local_count_songs">
+        <item quantity="other">الإجمالي: %d أغاني</item>
+        <item quantity="one">الإجمالي: 1 أغنية</item>
+    </plurals>
+    <plurals name="local_count_playLists">
+        <item quantity="other">الإجمالي: %d قوائم تشغيل</item>
+        <item quantity="one">الإجمالي: 1 قائمة تشغيل</item>
+    </plurals>
+    <plurals name="local_count_artists">
+        <item quantity="other">الإجمالي: %d فنانين</item>
+        <item quantity="one">الإجمالي: 1 فنان</item>
+    </plurals>
+    <plurals name="local_count_folders">
+        <item quantity="other">الإجمالي: %d مجلدات</item>
+        <item quantity="one">الإجمالي: 1 مجلد</item>
+    </plurals>
+    <plurals name="local_count_albums">
+        <item quantity="other">الإجمالي: %d ألبومات</item>
+        <item quantity="one">الإجمالي: 1 ألبوم</item>
+    </plurals>
+    <plurals name="online_search_result_tip">
+        <item quantity="other">%d ألبومات</item>
+        <item quantity="one">1 ألبوم</item>
+    </plurals>
+    <plurals name="local_edit_delete_songs">
+        <item quantity="other">تم حذف %d أغاني</item>
+        <item quantity="one">تم حذف أغنية واحدة</item>
+    </plurals>
+    <plurals name="online_count_songs">
+        <item quantity="other">تم تحميل %d أغاني</item>
+        <item quantity="one">تم تحميل أغنية واحدة</item>
+    </plurals>
+    <plurals name="online_count_artists">
+        <item quantity="other">تم تحميل %d فنانين</item>
+        <item quantity="one">تم تحميل فنان واحد</item>
+    </plurals>
+    <plurals name="online_count_albums">
+        <item quantity="other">تم تحميل %d ألبومات</item>
+        <item quantity="one">تم تحميل ألبوم واحد</item>
+    </plurals>
+    <plurals name="media_playlist_title_count_songs">
+        <item quantity="other">إجمالي %d أغاني</item>
+        <item quantity="one">إجمالي أغنية واحدة</item>
+    </plurals>
+    <plurals name="local_edit_remove_songs">
+        <item quantity="other">تمت إزالة %d أغاني</item>
+        <item quantity="one">تمت إزالة أغنية واحدة</item>
+    </plurals>
+    <plurals name="local_edit_selected_songs">
+        <item quantity="other">تم تحديد %d أغاني</item>
+        <item quantity="one">تم تحديد أغنية واحدة</item>
+    </plurals>
+    <plurals name="add_songs_to_queue">
+        <item quantity="other">تمت إضافة %d أغاني إلى قائمة التشغيل</item>
+        <item quantity="one">تمت إضافة أغنية واحدة إلى قائمة التشغيل</item>
+    </plurals>
+</resources>

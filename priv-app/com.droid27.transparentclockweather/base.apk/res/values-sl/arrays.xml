@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="animationDelayNames">
+        <item>Počasi</item>
+        <item>Normalno</item>
+        <item>Hitro</item>
+    </string-array>
+    <string-array name="batteryPositionNames">
+        <item>Levo</item>
+        <item>Desno</item>
+    </string-array>
+    <string-array name="forecast_strings">
+        <item>Lokalni čas: %1$s</item>
+        <item>Sončni vzhod: %1$s</item>
+        <item>Sončni zahod: %1$s</item>
+        <item>Dolžina dneva: %1$s h, %2$s m</item>
+        <item>Veter: %1$s</item>
+        <item>Vlažnost: %1$s</item>
+        <item>Zadnja posodobitev: pred %1$s urami, %2$s minutami</item>
+        <item>Zadnja posodobitev: pred %1$s minutami</item>
+        <item>Zadnja posodobitev: %1$s</item>
+        <item>Zadnja posodobitev: %1$s h, %2$s m</item>
+        <item>Občutek %1$s</item>
+    </string-array>
+    <string-array name="moon_phases">
+        <item>Mlaj (prazna luna)</item>
+        <item>Naraščajoči krajec</item>
+        <item>Prvi krajec</item>
+        <item>Naraščajoči polmesec</item>
+        <item>Ščip (polna luna)</item>
+        <item>Pojemajoči polmesec</item>
+        <item>Zadnji krajec</item>
+        <item>Pojemajoči krajec</item>
+    </string-array>
+    <string-array name="refreshPeriodNames">
+        <item>Nikoli</item>
+        <item>15 minut</item>
+        <item>30 minut</item>
+        <item>1 ura</item>
+        <item>2 uri</item>
+        <item>3 ure</item>
+        <item>4 ure</item>
+        <item>6 ur</item>
+    </string-array>
+    <string-array name="weather_conditions">
+        <item>Ni na voljo</item>
+        <item>Jasno</item>
+        <item>Delno sončno</item>
+        <item>Sončno</item>
+        <item>Delno oblačno</item>
+        <item>Pretežno oblačno</item>
+        <item>Pretežno sončno</item>
+        <item>Zakrito nebo</item>
+        <item>Oblačno</item>
+        <item>Zelo oblačno</item>
+        <item>Verjetnost dežja</item>
+        <item>Rahel dež</item>
+        <item>Dež</item>
+        <item>Posamezne plohe</item>
+        <item>Plohe</item>
+        <item>Obsežne plohe</item>
+        <item>Verjetnost nevihte</item>
+        <item>Šibke nevihte</item>
+        <item>Nevihta</item>
+        <item>Obsežne nevihte</item>
+        <item>Verjetnost neurja</item>
+        <item>Posamezna neurja</item>
+        <item>Neurje</item>
+        <item>Verjetnost snega</item>
+        <item>Rahel sneg</item>
+        <item>Sneg</item>
+        <item>Obsežno sneženje</item>
+        <item>Snežne nevihte</item>
+        <item>Dež in sneg</item>
+        <item>Ledeni dež</item>
+        <item>Toča</item>
+        <item>Nevihta s točo</item>
+        <item>žled</item>
+        <item>Ledeno</item>
+        <item>Meglica</item>
+        <item>Prah</item>
+        <item>Megla</item>
+        <item>Dim</item>
+        <item>Meglica</item>
+        <item>Sunki vetra</item>
+        <item>Peščena nevihta</item>
+        <item>Jasno</item>
+        <item>Nevihte/jasno</item>
+        <item>Tornado</item>
+        <item>Tropska nevihta</item>
+        <item>Orkan</item>
+        <item>Mrzlo</item>
+        <item>Vroče</item>
+        <item>Vetrovno</item>
+        <item>Hladno</item>
+        <item>Prijetno</item>
+        <item>Toplo</item>
+        <item>Lepo</item>
+        <item>Vetrovno</item>
+        <item>Vlažno</item>
+        <item>Suho</item>
+        <item>Rosenje</item>
+    </string-array>
+    <string-array name="weekdays_long">
+        <item>Nedelja</item>
+        <item>Ponedeljek</item>
+        <item>Torek</item>
+        <item>Sreda</item>
+        <item>Četrtek</item>
+        <item>Petek</item>
+        <item>Sobota</item>
+    </string-array>
+    <string-array name="weekdays_short">
+        <item>Ned</item>
+        <item>Pon</item>
+        <item>Tor</item>
+        <item>Sre</item>
+        <item>Čet</item>
+        <item>Pet</item>
+        <item>Sob</item>
+    </string-array>
+    <string-array name="widgetDateFormatNames">
+        <item>Ponedeljek, Januar 15</item>
+        <item>Pon, Jan 15, 2012</item>
+        <item>Ponedljek 15 January</item>
+        <item>Pon, Jan 15 2012</item>
+        <item>Pon. 15 Jan 2012</item>
+        <item>Pon, Jan 15</item>
+        <item>Pon, 12/25/2012</item>
+        <item>Pon, 2012/12/25</item>
+        <item>Pon, 25.12.2012</item>
+        <item>PON 15</item>
+        <item>15 Januar</item>
+        <item>Januar 15</item>
+        <item>15 JAN</item>
+        <item>15.01.2012</item>
+        <item>15.01.12</item>
+        <item>01.15.2012</item>
+        <item>01.15.12</item>
+        <item>15/01/2012</item>
+        <item>15/01/12</item>
+        <item>01/15/2012</item>
+        <item>01/15/12</item>
+        <item>15-01-2012</item>
+        <item>15-01-12</item>
+        <item>01-15-2012</item>
+        <item>01-15-12</item>
+        <item>2012-12-15</item>
+        <item>llll-m-d</item>
+        <item>llll/m/d</item>
+        <item>d/m/llll</item>
+        <item>d/m/ll</item>
+        <item>d.m.llll</item>
+        <item>d.m.ll</item>
+        <item>ll/m/d</item>
+        <item>llll/mm/dd</item>
+        <item>ll/mm/dd</item>
+    </string-array>
+    <string-array name="visibilityUnitNames">
+        <item>metri</item>
+        <item>kilometri</item>
+        <item>milje</item>
+    </string-array>
+    <string-array name="pressureUnitNames">
+        <item>atm</item>
+        <item>bar</item>
+        <item>mBar</item>
+        <item>mmHg</item>
+        <item>inHg</item>
+        <item>Pa</item>
+        <item>hPa</item>
+        <item>kPa</item>
+        <item>psi</item>
+    </string-array>
+    <string-array name="pressureUnitNamesPrefs">
+        <item>atm</item>
+        <item>bar</item>
+        <item>mBar</item>
+        <item>mmHg</item>
+        <item>inHg</item>
+        <item>Pa</item>
+        <item>hPa</item>
+        <item>kPa</item>
+        <item>psi</item>
+    </string-array>
+    <string-array name="temperatureUnitNames">
+        <item>°C</item>
+        <item>°F</item>
+    </string-array>
+    <string-array name="windSpeedUnitNames">
+        <item>m/s</item>
+        <item>km/h</item>
+        <item>mph</item>
+        <item>Beaufort</item>
+        <item>vozli</item>
+    </string-array>
+</resources>

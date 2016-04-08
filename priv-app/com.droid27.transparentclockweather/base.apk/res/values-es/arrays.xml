@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="animationDelayNames">
+        <item>Más lento</item>
+        <item>Normal</item>
+        <item>Más rápido</item>
+    </string-array>
+    <string-array name="batteryPositionNames">
+        <item>Izquierda</item>
+        <item>Derecha</item>
+    </string-array>
+    <string-array name="forecast_strings">
+        <item>Hora local: %1$s</item>
+        <item>Salida del sol: %1$s</item>
+        <item>Puesta del sol: %1$s</item>
+        <item>Duración del día: %1$s h, %2$s m</item>
+        <item>Viento: %1$s</item>
+        <item>Humedad: %1$s</item>
+        <item>Última actualización: hace %1$s horas, %2$s minutos</item>
+        <item>Última actualización: hace %1$s minutos</item>
+        <item>Última actualización: %1$s</item>
+        <item>Última act.: %1$s h, %2$s m</item>
+        <item>Se sienten %1$s</item>
+    </string-array>
+    <string-array name="moon_phases">
+        <item>Luna nueva</item>
+        <item>Cuarto creciente</item>
+        <item>Primer cuarto</item>
+        <item>Gibosa creciente</item>
+        <item>Luna llena</item>
+        <item>Gibosa menguante</item>
+        <item>Tercer cuarto</item>
+        <item>Cuarto menguante</item>
+    </string-array>
+    <string-array name="refreshPeriodNames">
+        <item>Nunca</item>
+        <item>15 minutos</item>
+        <item>30 minutos</item>
+        <item>1 hora</item>
+        <item>2 horas</item>
+        <item>3 horas</item>
+        <item>4 horas</item>
+        <item>6 horas</item>
+    </string-array>
+    <string-array name="weather_conditions">
+        <item>No disponible</item>
+        <item>Despejado</item>
+        <item>Parcialmente soleado</item>
+        <item>Soleado</item>
+        <item>Parcialmente nuboso</item>
+        <item>Mayormente nublado</item>
+        <item>Mayormente soleado</item>
+        <item>Nublado</item>
+        <item>Nuboso</item>
+        <item>Muy nuboso</item>
+        <item>Probabilidad de lluvia</item>
+        <item>Lluvia ligera</item>
+        <item>Lluvia débil</item>
+        <item>Lluvias dispersas</item>
+        <item>Chubascos</item>
+        <item>Chubascos fuertes</item>
+        <item>Posibilidad de tormenta</item>
+        <item>Tormentas débiles</item>
+        <item>Tormenta</item>
+        <item>Tormentas fuertes</item>
+        <item>Posibilidad de tormentas</item>
+        <item>Tormentas dispersas</item>
+        <item>Tormentas</item>
+        <item>Probabilidad de nieve</item>
+        <item>Nieve débil</item>
+        <item>Nieve</item>
+        <item>Nieve fuerte</item>
+        <item>Nieve</item>
+        <item>Lluvia y nieve</item>
+        <item>Llovizna helada</item>
+        <item>Granizo</item>
+        <item>Tormentas con granizo</item>
+        <item>Aguanieve</item>
+        <item>Heladas</item>
+        <item>Niebla</item>
+        <item>Polvo</item>
+        <item>Niebla</item>
+        <item>Humo</item>
+        <item>Neblina</item>
+        <item>Copos de nieve</item>
+        <item>Tormenta de arena</item>
+        <item>Despejado</item>
+        <item>Chubascos/despejado</item>
+        <item>Tornado</item>
+        <item>Tormenta tropical</item>
+        <item>Huracán</item>
+        <item>Frío</item>
+        <item>Caluroso</item>
+        <item>Ventoso</item>
+        <item>Fresco</item>
+        <item>Suave</item>
+        <item>Cálido</item>
+        <item>Bonito</item>
+        <item>Brisa</item>
+        <item>Húmedo</item>
+        <item>Seco</item>
+        <item>Llovizna</item>
+    </string-array>
+    <string-array name="weekdays_long">
+        <item>Domingo</item>
+        <item>Lunes</item>
+        <item>Martes</item>
+        <item>Miércoles</item>
+        <item>Jueves</item>
+        <item>Viernes</item>
+        <item>Sábado</item>
+    </string-array>
+    <string-array name="weekdays_short">
+        <item>Dom</item>
+        <item>Lun</item>
+        <item>Mar</item>
+        <item>Mié</item>
+        <item>Jue</item>
+        <item>Vie</item>
+        <item>Sáb</item>
+    </string-array>
+    <string-array name="widgetDateFormatNames">
+        <item>Lunes, Enero 15</item>
+        <item>Lun, Ene 15, 2012</item>
+        <item>Lunes 15 enero</item>
+        <item>Lun, Ene 15 2012</item>
+        <item>Lun. 15 Ene 2012</item>
+        <item>Lun, Ene 15</item>
+        <item>Lun, 12/25/2012</item>
+        <item>Lun, 2012/12/25</item>
+        <item>Lun, 25.12.2012</item>
+        <item>ENE 15</item>
+        <item>15 Enero</item>
+        <item>Enero 15</item>
+        <item>15 ENE</item>
+        <item>15.01.2012</item>
+        <item>15.01.12</item>
+        <item>01.15.2012</item>
+        <item>01.15.12</item>
+        <item>15/01/2012</item>
+        <item>15/01/12</item>
+        <item>01/15/2012</item>
+        <item>01/15/12</item>
+        <item>15-01-2012</item>
+        <item>15-01-12</item>
+        <item>01-15-2012</item>
+        <item>01-15-12</item>
+        <item>2012-12-15</item>
+        <item>yyyy-m-d</item>
+        <item>yyyy/m/d</item>
+        <item>d/m/yyyy</item>
+        <item>d/m/yy</item>
+        <item>d.m.yyyy</item>
+        <item>d.m.yy</item>
+        <item>yy/m/d</item>
+        <item>yyyy/mm/dd</item>
+        <item>yy/mm/dd</item>
+    </string-array>
+</resources>

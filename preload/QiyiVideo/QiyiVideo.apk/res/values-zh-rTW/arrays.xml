@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="channle_sort_list">
+        <item>排序:</item>
+        <item>最熱</item>
+        <item>最新</item>
+        <item>評分</item>
+        <item>字母</item>
+    </string-array>
+    <string-array name="local_video_sort_type">
+        <item>最近播放</item>
+        <item>標題</item>
+        <item>大小</item>
+    </string-array>
+    <string-array name="local_folder_sort_type">
+        <item>標題</item>
+        <item>大小</item>
+    </string-array>
+    <string-array name="local_video_view_type">
+        <item>網格視圖</item>
+        <item>列表查看</item>
+        <item>文件夾查看</item>
+    </string-array>
+    <string-array name="local_video_play_setting">
+        <item>啓動</item>
+        <item>關閉</item>
+    </string-array>
+</resources>

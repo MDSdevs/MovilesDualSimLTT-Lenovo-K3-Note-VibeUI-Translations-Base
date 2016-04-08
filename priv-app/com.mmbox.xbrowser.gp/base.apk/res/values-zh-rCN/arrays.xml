@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="settings_default_search_choices">
+        <item>@string/search_name_baidu</item>
+        <item>@string/search_name_shenma</item>
+        <item>@string/search_name_haoso</item>
+        <item>@string/search_name_sogou</item>
+        <item>@string/search_name_bing</item>
+    </string-array>
+    <string-array name="settings_default_search_values" formatted="false">
+        <item>https://m.baidu.com/s?from=1013843a&amp;word=%keywords%</item>
+        <item>http://m.yz2.sm.cn/s?from=wm725516&amp;q=%keywords%</item>
+        <item>http://m.haosou.com/s?q=%keywords%</item>
+        <item>http://wap.sogou.com/web/sl?keyword=%keywords%&amp;bid=sogou-mobb-27b09e189a405b6c</item>
+        <item>http://www.bing.com/search?q=%keywords%</item>
+    </string-array>
+</resources>

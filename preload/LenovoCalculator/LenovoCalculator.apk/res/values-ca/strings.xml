@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="error_nan">No és una xifra</string>
+    <string name="error_syntax">Error</string>
+    <string name="fun_cos">cos</string>
+    <string name="fun_ln">ln</string>
+    <string name="fun_log">log</string>
+    <string name="fun_sin">sin</string>
+    <string name="fun_tan">tan</string>
+    <string name="clr">c</string>
+    <string name="del">CE</string>
+    <string name="desc_const_e">"nombre d'Euler"</string>
+    <string name="desc_const_pi">pi</string>
+    <string name="desc_dec_point">punt</string>
+    <string name="desc_lparen">"parèntesi d'obertura"</string>
+    <string name="desc_rparen">parèntesi de tancament</string>
+    <string name="desc_fun_cos">cosinus</string>
+    <string name="desc_fun_ln">logaritme natural</string>
+    <string name="desc_fun_log">logaritme</string>
+    <string name="desc_fun_sin">sinus</string>
+    <string name="desc_fun_tan">tangent</string>
+    <string name="desc_op_add">més</string>
+    <string name="desc_op_div">divideix</string>
+    <string name="desc_op_fact">factorial</string>
+    <string name="desc_op_mul">vegades</string>
+    <string name="desc_op_pow">potència</string>
+    <string name="desc_op_sqrt">arrel quadrada</string>
+    <string name="desc_op_sub">menys</string>
+    <string name="desc_clr">esborra</string>
+    <string name="desc_del">suprimeix</string>
+    <string name="desc_eq">és igual a</string>
+</resources>

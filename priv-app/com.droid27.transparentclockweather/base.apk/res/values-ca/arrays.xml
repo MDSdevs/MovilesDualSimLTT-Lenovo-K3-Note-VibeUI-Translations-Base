@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="animationDelayNames">
+        <item>Més lent</item>
+        <item>Normal</item>
+        <item>Més ràpid</item>
+    </string-array>
+    <string-array name="batteryPositionNames">
+        <item>Esquerra</item>
+        <item>Dreta</item>
+    </string-array>
+    <string-array name="forecast_strings">
+        <item>Hora local: %1$s</item>
+        <item>Sortida de sol: %1$s</item>
+        <item>Posta de sol: %1$s</item>
+        <item>Durada del dia: %1$s h, %2$s m</item>
+        <item>Vent: %1$s</item>
+        <item>Humitat: %1$s</item>
+        <item>Darrera actualització: fa %1$s hores, %2$s minuts</item>
+        <item>Darrera actualització: fa %1$s minuts</item>
+        <item>Darrera act.: %1$s</item>
+        <item>Darrera act.: %1$s h, %2$s m</item>
+        <item>Sensació tèrmica de %1$s</item>
+    </string-array>
+    <string-array name="moon_phases">
+        <item>Lluna nova</item>
+        <item>Lluna nova visible</item>
+        <item>Quart creixent</item>
+        <item>Lluna gibosa creixent</item>
+        <item>Lluna plena</item>
+        <item>Lluna gibosa minvant</item>
+        <item>Quart minvant</item>
+        <item>Lluna minvant</item>
+    </string-array>
+    <string-array name="refreshPeriodNames">
+        <item>Mai</item>
+        <item>15 minuts</item>
+        <item>30 minuts</item>
+        <item>1 hora</item>
+        <item>2 hores</item>
+        <item>3 hores</item>
+        <item>4 hores</item>
+        <item>6 hores</item>
+    </string-array>
+    <string-array name="weather_conditions">
+        <item>No disponible</item>
+        <item>Serè</item>
+        <item>Parcialment assolellat</item>
+        <item>Assolellat</item>
+        <item>Parcialment ennuvolat</item>
+        <item>Principalment ennuvolat</item>
+        <item>Principalment assolellat</item>
+        <item>Cobert</item>
+        <item>Ennuvolat</item>
+        <item>Molt ennuvolat</item>
+        <item>Possibilitat de pluja</item>
+        <item>Pluja lleugera</item>
+        <item>Pluja</item>
+        <item>Ruixats dispersos</item>
+        <item>Ruixats</item>
+        <item>Aiguats</item>
+        <item>Possibilitat de tempesta</item>
+        <item>Tempestes dèbils</item>
+        <item>Tempesta</item>
+        <item>Tempestes intenses</item>
+        <item>Possibilitat de tronada</item>
+        <item>Tronades disperses</item>
+        <item>Tronada</item>
+        <item>Possibilitat de neu</item>
+        <item>Nevada lleugera</item>
+        <item>Nevada</item>
+        <item>Nevada intensa</item>
+        <item>Ruixats de neu</item>
+        <item>Aiguaneu</item>
+        <item>Plugim gelat</item>
+        <item>Calamarsa</item>
+        <item>Tempestes de calamarsa</item>
+        <item>Pluja gelant</item>
+        <item>Gelat</item>
+        <item>Calitja</item>
+        <item>Pols</item>
+        <item>Boira</item>
+        <item>Fum</item>
+        <item>Boirina</item>
+        <item>Ventades</item>
+        <item>Tempesta de sorra</item>
+        <item>Bon temps</item>
+        <item>Ruixats/serè</item>
+        <item>Tornado</item>
+        <item>Tempesta tropical</item>
+        <item>Huracà</item>
+        <item>Fred</item>
+        <item>Calor</item>
+        <item>Ventós</item>
+        <item>Fresc</item>
+        <item>Suau</item>
+        <item>Càlid</item>
+        <item>Bo</item>
+        <item>Brisa</item>
+        <item>Humitat</item>
+        <item>Sec</item>
+        <item>Plugim</item>
+    </string-array>
+    <string-array name="weekdays_long">
+        <item>Diumenge</item>
+        <item>Dilluns</item>
+        <item>Dimarts</item>
+        <item>Dimecres</item>
+        <item>Dijous</item>
+        <item>Divendres</item>
+        <item>Dissabte</item>
+    </string-array>
+    <string-array name="weekdays_short">
+        <item>Diu</item>
+        <item>Dil</item>
+        <item>Dim</item>
+        <item>Dmc</item>
+        <item>Dij</item>
+        <item>Div</item>
+        <item>Dis</item>
+    </string-array>
+    <string-array name="widgetDateFormatNames">
+        <item>Dilluns, Gener 15</item>
+        <item>Dil, Gen 15, 2012</item>
+        <item>Dilluns 15 gener</item>
+        <item>Dil, Gen 15 2012</item>
+        <item>Dil. 15 Gen 2012</item>
+        <item>Dil, Gen 15</item>
+        <item>Dil, 12/25/2012</item>
+        <item>Dil, 2012/12/25</item>
+        <item>Dil, 25.12.2012</item>
+        <item>GEN 15</item>
+        <item>15 Gener</item>
+        <item>Gener 15</item>
+        <item>15 GEN</item>
+        <item>15.01.2012</item>
+        <item>15.01.12</item>
+        <item>01.15.2012</item>
+        <item>01.15.12</item>
+        <item>15/01/2012</item>
+        <item>15/01/12</item>
+        <item>01/15/2012</item>
+        <item>01/15/12</item>
+        <item>15-01-2012</item>
+        <item>15-01-12</item>
+        <item>01-15-2012</item>
+        <item>01-15-12</item>
+        <item>2012-12-15</item>
+        <item>yyyy-m-d</item>
+        <item>yyyy/m/d</item>
+        <item>d/m/yyyy</item>
+        <item>d/m/yy</item>
+        <item>d.m.yyyy</item>
+        <item>d.m.yy</item>
+        <item>yy/m/d</item>
+        <item>yyyy/mm/dd</item>
+        <item>yy/mm/dd</item>
+    </string-array>
+</resources>

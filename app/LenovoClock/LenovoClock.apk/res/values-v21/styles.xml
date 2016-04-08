@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="DeskClock" parent="@android:style/Theme.DeviceDefault.Light">
+        <item name="android:windowBackground">@drawable/preview</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:actionBarStyle">@style/app_ColorActionBarStyle</item>
+        <item name="android:actionBarSize">@dimen/actionBarHeight</item>
+        <item name="android:dialogTheme">@style/AccentColorDialog</item>
+        <item name="android:alertDialogTheme">@style/AccentColorDialog</item>
+        <item name="android:colorPrimary">@color/action_bar_barground</item>
+        <item name="android:colorPrimaryDark">@color/action_bar_barground</item>
+        <item name="android:colorAccent">@color/action_bar_barground</item>
+    </style>
+    <style name="CustomTheme" parent="@android:style/Theme.DeviceDefault.Light">
+        <item name="android:colorBackgroundCacheHint">@null</item>
+        <item name="android:colorPrimary">@color/action_bar_barground</item>
+        <item name="android:colorPrimaryDark">@color/action_bar_barground</item>
+        <item name="android:colorAccent">@color/action_bar_barground</item>
+    </style>
+    <style name="CitiesTheme" parent="@style/CustomTheme">
+        <item name="android:actionBarStyle">@style/app_ColorActionBarStyle</item>
+        <item name="android:titleTextStyle">@style/MyActionBar.TitleTextStyle</item>
+        <item name="android:colorControlNormal">?android:textColorPrimaryInverse</item>
+        <item name="android:colorPrimaryDark">@color/actionbar_pd</item>
+        <item name="android:colorAccent">@color/action_bar_barground</item>
+    </style>
+    <style name="notification_icon">
+        <item name="android:background">@drawable/bg_gray_circle</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:scaleType">center</item>
+    </style>
+    <style name="MyActionBar.TitleTextStyle" parent="@android:style/Theme.DeviceDefault.Light">
+        <item name="android:textColor">@color/white</item>
+    </style>
+    <style name="FabStyle">
+        <item name="android:elevation">8.0dip</item>
+    </style>
+    <style name="app_ColorActionBarStyle" parent="@android:style/Widget.DeviceDefault.Light.ActionBar">
+        <item name="android:titleTextStyle">@style/app_ColorAcitonbarTitleTextStyle</item>
+    </style>
+    <style name="SetNewActionbarTheme" parent="@style/CustomTheme">
+        <item name="android:actionBarStyle">@style/app_ColorActionBarStyle</item>
+        <item name="android:titleTextStyle">@style/MyActionBar.TitleTextStyle</item>
+        <item name="android:dialogTheme">@style/AccentColorDialog</item>
+        <item name="android:alertDialogTheme">@style/AccentColorDialog</item>
+        <item name="android:colorControlNormal">?android:textColorPrimaryInverse</item>
+        <item name="android:colorPrimaryDark">@color/action_bar_barground</item>
+        <item name="android:colorAccent">@color/action_bar_barground</item>
+    </style>
+    <style name="AccentColorDialog" parent="@android:style/Theme.DeviceDefault.Light.Dialog">
+        <item name="android:colorAccent">@color/action_bar_barground</item>
+    </style>
+</resources>

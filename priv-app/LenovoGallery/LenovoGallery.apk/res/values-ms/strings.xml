@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gif_error">ralat nyahkod!</string>
+    <string name="set_lock_screen_wallpaper">" Gunakan skrin kunci hias latar"</string>
+    <string name="set_desktop_wallpaper">" Gunakan hias latar desktop"</string>
+    <string name="setting_others">Lain-lain</string>
+    <string name="setting_gallery_orientation">Benarkan arah putaran foto untuk dikawal secara automatik dalam album</string>
+    <string name="setting_photo_rotate">Putaran auto</string>
+    <string name="setting_lenovo_accout">ID Lenovo</string>
+    <string name="setting_title">Tetapan</string>
+</resources>

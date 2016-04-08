@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Widget.Design.ScrimInsetsFrameLayout" parent="" />
+    <style name="Base.Widget.AppCompat.Button.Colored" parent="@android:style/Widget.Material.Button.Colored" />
+    <style name="Base.TextAppearance.AppCompat.Widget.Button.Inverse" parent="@android:style/TextAppearance.Material.Widget.Button.Inverse" />
+    <style name="Platform.AppCompat.Light" parent="@android:style/Theme.DeviceDefault.Light">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:buttonBarStyle">?buttonBarStyle</item>
+        <item name="android:buttonBarButtonStyle">?buttonBarButtonStyle</item>
+    </style>
+    <style name="Base.Theme.AppCompat" parent="@style/Base.V23.Theme.AppCompat" />
+    <style name="Base.Theme.AppCompat.Light" parent="@style/Base.V23.Theme.AppCompat.Light" />
+    <style name="AppTheme" parent="@style/Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:actionModeBackground">@null</item>
+        <item name="colorPrimary">@color/project_actionbar_background_color</item>
+        <item name="colorPrimaryDark">@color/project_actionbar_background_color</item>
+        <item name="colorAccent">@color/project_actionbar_title_color</item>
+    </style>
+    <style name="LeCalendarTheme" parent="@style/AppTheme.NoActionBar">
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:startYear">1970</item>
+        <item name="android:endYear">2036</item>
+        <item name="android:dialogTheme">@style/AccentColorDialog.THEME</item>
+        <item name="android:alertDialogTheme">@style/AccentColorAlertDialog.THEME</item>
+        <item name="android:windowTranslucentStatus">false</item>
+        <item name="android:windowTranslucentNavigation">false</item>
+        <item name="toolbarStyle">@style/LeCalendarToolBarStyle</item>
+        <item name="colorPrimary">@color/project_actionbar_background_color</item>
+        <item name="colorPrimaryDark">@color/project_actionbar_background_color</item>
+        <item name="colorAccent">@color/theme_color</item>
+        <item name="colorControlNormal">@color/project_actionbar_title_color</item>
+    </style>
+    <style name="LeCalendarTheme.THME" parent="@style/LeCalendarTheme">
+        <item name="android:dialogTheme">@style/AccentColorDialog.THEME</item>
+        <item name="android:alertDialogTheme">@style/AccentColorDialog.THEME</item>
+        <item name="colorAccent">@color/theme_color</item>
+    </style>
+    <style name="LeCalendarTheme.NoTitle.Subscribe.THME" parent="@style/LeCalendarTheme.NoTitle.Subscribe">
+        <item name="android:dialogTheme">@style/AccentColorDialog.THEME</item>
+        <item name="android:alertDialogTheme">@style/AccentColorDialog.THEME</item>
+        <item name="colorAccent">@color/theme_color</item>
+    </style>
+    <style name="AccentColorDialog.THEME" parent="@android:style/Theme.Material.Light.Dialog">
+        <item name="colorAccent">@color/theme_color</item>
+    </style>
+    <style name="LeCalendarTheme.NoTitle" parent="@style/LeCalendarTheme">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowDisablePreview">true</item>
+        <item name="android:windowActionBar">false</item>
+    </style>
+    <style name="ToolBarMonthSelectTitle" parent="@android:style/Theme.Material.Light">
+        <item name="android:textSize">18.0sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/toolbar_color_white</item>
+        <item name="android:background">?android:selectableItemBackgroundBorderless</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="LeCalendarTheme.NoTitle.Subscribe" parent="@style/LeCalendarTheme.NoTitle">
+        <item name="android:windowActionBarOverlay">false</item>
+        <item name="android:actionMenuTextAppearance">@style/MenuTextStyle</item>
+        <item name="android:actionMenuTextColor">@color/white</item>
+    </style>
+    <style name="ToolBarWeahterInfo" parent="@android:style/Theme.Material.Light">
+        <item name="android:textSize">12.0sp</item>
+        <item name="android:textColor">@color/toolbar_color_white</item>
+        <item name="android:background">?android:selectableItemBackgroundBorderless</item>
+    </style>
+    <style name="AppTheme.NoActionBar" parent="@style/AppTheme">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name="ToolBarMonthSelectTitle_Layout_Background" parent="@android:style/Theme.Material.Light">
+        <item name="android:background">?android:selectableItemBackgroundBorderless</item>
+    </style>
+    <style name="Material" parent="@android:style/Theme.Material.Light">
+        <item name="android:actionMenuTextAppearance">@style/MenuTextStyle</item>
+        <item name="actionMenuTextColor">@color/white</item>
+    </style>
+    <style name="Base.V23.Theme.AppCompat" parent="@style/Base.V22.Theme.AppCompat">
+        <item name="actionBarItemBackground">?android:actionBarItemBackground</item>
+        <item name="actionMenuTextAppearance">?android:actionMenuTextAppearance</item>
+        <item name="actionMenuTextColor">?android:actionMenuTextColor</item>
+        <item name="controlBackground">@drawable/abc_control_background_material</item>
+    </style>
+    <style name="Base.V23.Theme.AppCompat.Light" parent="@style/Base.V22.Theme.AppCompat.Light">
+        <item name="actionBarItemBackground">?android:actionBarItemBackground</item>
+        <item name="actionMenuTextAppearance">?android:actionMenuTextAppearance</item>
+        <item name="actionMenuTextColor">?android:actionMenuTextColor</item>
+        <item name="controlBackground">@drawable/abc_control_background_material</item>
+    </style>
+    <style name="AccentColorAlertDialog.THEME" parent="@android:style/Theme.Material.Light.Dialog.Alert">
+        <item name="colorAccent">@color/theme_color</item>
+    </style>
+</resources>

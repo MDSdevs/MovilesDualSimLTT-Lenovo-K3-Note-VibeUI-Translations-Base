@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Info">提示</string>
+    <string name="Ok">同意并繼續</string>
+    <string name="Cancel">退出</string>
+    <string name="app_name">指南針</string>
+    <string name="calibrate">校準</string>
+    <string name="latitude">緯度</string>
+    <string name="longitude">經度</string>
+    <string name="calibrate_success">校準成功</string>
+    <string name="ignore">忽略</string>
+    <string name="cannot_get_location">無法獲取位置信息</string>
+    <string name="location_north">北緯</string>
+    <string name="location_south">南緯</string>
+    <string name="location_east">東經</string>
+    <string name="location_west">西經</string>
+    <string name="direction_north">北</string>
+    <string name="direction_south">南</string>
+    <string name="direction_east">東</string>
+    <string name="direction_west">西</string>
+    <string name="direction_east_north">東北</string>
+    <string name="direction_east_south">東南</string>
+    <string name="direction_west_north">西北</string>
+    <string name="direction_west_south">西南</string>
+    <string name="Tips">﻿附近可能有磁場幹擾，請按上圖圖形進行畫8字若幹次，校準成功後自動關閉對話框。</string>
+    <string name="Warn">附近可能有磁場幹擾</string>
+    <string name="click_to_location">按一下以取得 GPS 位置</string>
+    <string name="warn_message">尊敬的用戶，獲取經緯度信息需要GPS定位或連接網絡。您是否同意？</string>
+    <string name="no_warn_later">不再提醒</string>
+    <string name="start_calibration">請以8字型擺動您的電話進行校準</string>
+    <string name="no_location_server">未開啓位置服務</string>
+    <string name="DoNotSHowAgain">不再提示</string>
+</resources>

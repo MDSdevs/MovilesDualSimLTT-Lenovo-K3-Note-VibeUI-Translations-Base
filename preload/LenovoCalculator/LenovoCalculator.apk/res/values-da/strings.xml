@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lommeregner</string>
+    <string name="error_nan">Ikke et tal</string>
+    <string name="error_syntax">Fejl</string>
+    <string name="fun_cos">cos</string>
+    <string name="fun_ln">ln</string>
+    <string name="fun_log">log</string>
+    <string name="fun_sin">sin</string>
+    <string name="fun_tan">tan</string>
+    <string name="clr">ryd</string>
+    <string name="del">slet</string>
+    <string name="desc_const_e">Eulers tal</string>
+    <string name="desc_const_pi">pi</string>
+    <string name="desc_dec_point">punktum</string>
+    <string name="desc_lparen">venstre parentes</string>
+    <string name="desc_rparen">højre parentes</string>
+    <string name="desc_fun_cos">cosinus</string>
+    <string name="desc_fun_ln">naturlig logaritme</string>
+    <string name="desc_fun_log">logaritme</string>
+    <string name="desc_fun_sin">sinus</string>
+    <string name="desc_fun_tan">tangens</string>
+    <string name="desc_op_add">plus</string>
+    <string name="desc_op_div">divider</string>
+    <string name="desc_op_fact">fakultet</string>
+    <string name="desc_op_mul">gange</string>
+    <string name="desc_op_pow">potens</string>
+    <string name="desc_op_sqrt">kvadratrod</string>
+    <string name="desc_op_sub">minus</string>
+    <string name="desc_clr">ryd</string>
+    <string name="desc_del">slet</string>
+    <string name="desc_eq">lig med</string>
+</resources>

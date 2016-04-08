@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="mp_popup_menu_width">112.0dip</dimen>
+    <dimen name="mp_popup_menu_item_paddingLeft">8.0dip</dimen>
+    <dimen name="mp_popup_menu_item_paddingRight">8.0dip</dimen>
+</resources>

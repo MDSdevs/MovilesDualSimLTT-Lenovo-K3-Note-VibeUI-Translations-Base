@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">網路位置</string>
+    <string name="location_warning_title">同意記錄位置資訊</string>
+    <string name="location_warning_message">允許高德的定位服務收集匿名位置資料，有些資料可能儲存在您的裝置中。即使裝置並未執行任何應用程式，我們仍會收集這些匿名資料。</string>
+    <string name="agree">同意</string>
+    <string name="disagree">不同意</string>
+    <string name="persmission_notification_title">網路位置需要權限</string>
+    <string name="persmission_notification_text">點選同意</string>
+    <string name="persmission_message">為了能正常運作，這個服務需要額外的權限。請在服務要求權限時允許。</string>
+    <string name="persmission_message2">為了能正常運作，這個服務需要儲存的權限。請在服務要求權限時允許。</string>
+    <string name="persmission_message3">為了能正常運作，這個服務需要獲得您的位置資訊。請在服務要求權限時允許。</string>
+    <string name="persmission_message4">為了能正常運作，這個服務需要您的電話權限。請在服務要求權限時允許。</string>
+    <string name="persmission_message5">為了能正常運作，這個服務需要額外的權限。您可以在設定中管理網路位置的權限。</string>
+    <string name="persmission_message6">為了能正常運作，這個服務需要獲得您的位置資訊。您可以在設定中管理網路位置的權限。</string>
+    <string name="persmission_message7">為了能正常運作，這個服務需要您的電話權限。您可以在設定中管理網路位置的權限。</string>
+    <string name="persmission_message8">為了能正常運作，這個服務需要儲存的權限。您可以在設定中管理網路位置的權限。</string>
+    <string name="persmission_ok">確定</string>
+    <string name="persmission_close">關閉</string>
+    <string name="persmission_settings">設定</string>
+</resources>

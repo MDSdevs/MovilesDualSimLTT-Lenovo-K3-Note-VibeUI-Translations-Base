@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SD 卡清理器</string>
+    <string name="loading_please_wait">正在加载，请稍候</string>
+    <string name="white_list_not_found">清理内置SD卡失败:未找到白名单</string>
+    <string name="sdcard_not_available">清理内置SD卡失败:SD不可用</string>
+    <string name="clearSDcardFailed">清理内置SD卡失败</string>
+    <string name="deleteFileFailed">删除文件出错</string>
+    <string name="fileNotFoud">文件未找到异常</string>
+    <string name="clear_start">开始清理内置SD卡使用痕迹</string>
+    <string name="clear_success">清理成功，即将关机</string>
+    <string name="clearing">正在清理内置SD卡</string>
+    <string name="checking">正在校验预置资源</string>
+    <string name="check_file">预置资源校验</string>
+    <string name="check_sucess">预置资源校验成功</string>
+    <string name="check_fail">预置资源不完整，是否结束SD卡清理？</string>
+    <string name="shutdown_later">系统将会在10秒内再次关机，重新开机后即可使用</string>
+</resources>

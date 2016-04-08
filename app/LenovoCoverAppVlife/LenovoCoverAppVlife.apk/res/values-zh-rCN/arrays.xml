@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="autoupdate_list_preperence">
+        <item>每天一次更新（约2k/天）</item>
+        <item>每天两次更新（约4k/天）</item>
+        <item>每天四次更新（约8k/天）</item>
+        <item>手动更新</item>
+    </string-array>
+    <string-array name="market_app_list">
+        <item>com.android.vending</item>
+        <item>com.yingyonghui.market</item>
+        <item>com.bbk.appstore</item>
+        <item>com.qihoo.appstore</item>
+        <item>com.baidu.appsearch</item>
+        <item>com.wandoujia.phoenix2</item>
+        <item>com.dragon.android.pandaspace</item>
+        <item>com.oppo.market</item>
+        <item>com.tencent.android.qqdownloader</item>
+        <item>com.hiapk.marketpho</item>
+        <item>com.huawei.appmarket</item>
+        <item>com.meizu.mstore</item>
+        <item>com.xiaomi.market</item>
+        <item>cn.goapk.market</item>
+        <item>com.mappn.gfan</item>
+        <item>com.eoemobile.netmarket</item>
+        <item>com.sohu.store</item>
+    </string-array>
+</resources>

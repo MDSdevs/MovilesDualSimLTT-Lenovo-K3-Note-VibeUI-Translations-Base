@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="screen_hirizontal_padding">16.0dip</dimen>
+    <dimen name="screen_vertical_padding">16.0dip</dimen>
+    <dimen name="band_level_padding">16.0dip</dimen>
+    <dimen name="horizontal_seekbar_margins">16.0dip</dimen>
+</resources>

@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="animationDelayNames">
+        <item>آرام تر</item>
+        <item>معمولی</item>
+        <item>سریعتر</item>
+    </string-array>
+    <string-array name="batteryPositionNames">
+        <item>چپ</item>
+        <item>راست</item>
+    </string-array>
+    <string-array name="forecast_strings">
+        <item>زمان محلی %1$s</item>
+        <item>طلوع خورشید %1$s</item>
+        <item>غروب خورشید %1$s</item>
+        <item>طول روز %1$s ساعت و %2$s دقیقه</item>
+        <item>وضعیت باد %1$s</item>
+        <item>رطوبت: %1$s</item>
+        <item>آخرین به روز رسانی: %1$s ساعت و %2$s قبل</item>
+        <item>آخرین به روز رسانی: %1$s دقیقه قبل</item>
+        <item>آخرین بروز رسانی: %1$s</item>
+        <item>آآخرین بروز رسانی: %1$s ساعت, %2$s دقیقه</item>
+        <item>به نظر میاید %1$s</item>
+    </string-array>
+    <string-array name="moon_phases">
+        <item>ماه نو</item>
+        <item>اپیلاسیون هلال</item>
+        <item>تربیع اول</item>
+        <item>اپیلاسیون برجسته</item>
+        <item>ماه کامل</item>
+        <item>هلال پایانی</item>
+        <item>تربیع دوم</item>
+        <item>افول هلال</item>
+    </string-array>
+    <string-array name="refreshPeriodNames">
+        <item>هرگز</item>
+        <item>15 دقیقه</item>
+        <item>30 دقیقه</item>
+        <item>1 ساعت</item>
+        <item>2 ساعت</item>
+        <item>3 ساعت</item>
+        <item>4 ساعت</item>
+        <item>6 ساعت</item>
+    </string-array>
+    <string-array name="weather_conditions">
+        <item>غیر قابل دسترسی</item>
+        <item>صاف</item>
+        <item>نیمه آفتابی</item>
+        <item>آفتابی</item>
+        <item>نیمه ابری</item>
+        <item>ابری</item>
+        <item>آفتابی</item>
+        <item>ابری</item>
+        <item>آبری</item>
+        <item>خیلی ابری</item>
+        <item>احتمال بارش</item>
+        <item>بارش کم</item>
+        <item>بارش</item>
+        <item>بارش های پراکنده</item>
+        <item>باران</item>
+        <item>باران شدید</item>
+        <item>احتمال طوفان</item>
+        <item>طوفان های کم</item>
+        <item>طوفان و رعد و برق</item>
+        <item>طوفان های متعدد</item>
+        <item>احتمال رعد و برق</item>
+        <item>رعد و برق پراکنده</item>
+        <item>طوفان و رعد و برق</item>
+        <item>احتمال برف</item>
+        <item>برف کم</item>
+        <item>برفی</item>
+        <item>برف شدید</item>
+        <item>بارش برف</item>
+        <item>باران و برف</item>
+        <item>برف پراکنده</item>
+        <item>تگرگ</item>
+        <item>طوفان تگرگ</item>
+        <item>برفابه</item>
+        <item>یخبندان</item>
+        <item>مه</item>
+        <item>غبار آلود</item>
+        <item>مه آلود</item>
+        <item>دود آلود</item>
+        <item>گرد و خاک</item>
+        <item>طوفان ماسه</item>
+        <item>طوفان شن</item>
+        <item>بدون ابر</item>
+        <item>بارش کم / آفتابی</item>
+        <item>رعد و برق</item>
+        <item>طوفان</item>
+        <item>گردباد</item>
+        <item>سرد</item>
+        <item>گرم</item>
+        <item>وزش باد</item>
+        <item>خنک</item>
+        <item>معتدل</item>
+        <item>گرم</item>
+        <item>زیبا</item>
+        <item>نسیم دار</item>
+        <item>مرطوب</item>
+        <item>خشک</item>
+        <item>ريزبار</item>
+    </string-array>
+    <string-array name="weekdays_long">
+        <item>یکشنبه</item>
+        <item>دوشنبه</item>
+        <item>سه شنبه</item>
+        <item>چهار شنبه</item>
+        <item>پنج شنبه</item>
+        <item>جمعه</item>
+        <item>شنبه</item>
+    </string-array>
+    <string-array name="weekdays_short">
+        <item>یکشنبه</item>
+        <item>دوشنبه</item>
+        <item>سه شنبه</item>
+        <item>چهار شنبه</item>
+        <item>پنج شنبه</item>
+        <item>جمعه</item>
+        <item>شنبه</item>
+    </string-array>
+    <string-array name="visibilityUnitNames">
+        <item>متر</item>
+        <item>کیلو متر</item>
+        <item>مایل</item>
+    </string-array>
+    <string-array name="pressureUnitNames">
+        <item>اتمسفر</item>
+        <item>بار</item>
+        <item>میلی بار</item>
+        <item>میلی متر جیوه</item>
+        <item>اینچ جیوه</item>
+        <item>پاسکال</item>
+        <item>hPa</item>
+        <item>kPa</item>
+        <item>psi</item>
+    </string-array>
+    <string-array name="pressureUnitNamesPrefs">
+        <item>اتمسفر</item>
+        <item>بار</item>
+        <item>میلی بار</item>
+        <item>میلی متر جیوه</item>
+        <item>اینچ جیوه</item>
+        <item>پاسکال</item>
+        <item>hPa</item>
+        <item>kPa</item>
+        <item>psi</item>
+    </string-array>
+    <string-array name="pressureUnitValues">
+        <item>اتمسفر</item>
+        <item>بار</item>
+        <item>میلی بار</item>
+        <item>میلی متر جیوه</item>
+        <item>اینچ جیوه</item>
+        <item>پاسکال</item>
+        <item>hpa</item>
+        <item>kpa</item>
+        <item>psi</item>
+    </string-array>
+    <string-array name="temperatureUnitNames">
+        <item>°C</item>
+        <item>°F</item>
+    </string-array>
+    <string-array name="temperatureUnitValues">
+        <item>c</item>
+        <item>f</item>
+    </string-array>
+    <string-array name="visibilityUnitValues">
+        <item>متر</item>
+        <item>کیلومتر</item>
+        <item>مایل</item>
+    </string-array>
+    <string-array name="windSpeedUnitNames">
+        <item>m/s</item>
+        <item>km/h</item>
+        <item>mph</item>
+        <item>Beaufort</item>
+        <item>knots</item>
+    </string-array>
+    <string-array name="windSpeedUnitValues">
+        <item>mps</item>
+        <item>kmph</item>
+        <item>mph</item>
+        <item>bft</item>
+        <item>kts</item>
+    </string-array>
+</resources>

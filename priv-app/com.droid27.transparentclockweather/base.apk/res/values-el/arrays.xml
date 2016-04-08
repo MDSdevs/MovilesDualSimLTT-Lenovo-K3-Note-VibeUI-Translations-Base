@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="animationDelayNames">
+        <item>Αργά</item>
+        <item>Κανονικά</item>
+        <item>Γρήγορα</item>
+    </string-array>
+    <string-array name="batteryPositionNames">
+        <item>Αριστερά</item>
+        <item>Δεξιά</item>
+    </string-array>
+    <string-array name="forecast_strings">
+        <item>Τοπική ώρα: %1$s</item>
+        <item>Ανατολή ηλίου: %1$s</item>
+        <item>Δύση ηλίου: %1$s</item>
+        <item>Διάρκεια της ημέρας: %1$s ω, %2$s λ</item>
+        <item>Άνεμος: %1$s</item>
+        <item>Υγρασία: %1$s</item>
+        <item>Τελ. ενημέρωση: %1$s ώρες, %2$s λεπτά πριν</item>
+        <item>Τελ. ενημέρωση: %1$s λεπτά πριν</item>
+        <item>Τελ. ενημέρωση: %1$s</item>
+        <item>Τελ. ενημέρωση: %1$s ω, %2$s λ</item>
+        <item>Αίσθηση σαν %1$s</item>
+    </string-array>
+    <string-array name="moon_phases">
+        <item>Νέα σελήνη</item>
+        <item>Αύξουσα ημισέληνος</item>
+        <item>Πρώτο τέταρτο</item>
+        <item>Αύξουσα Φάση</item>
+        <item>Πανσέληνος</item>
+        <item>Φθίνουσα Φάση</item>
+        <item>Τρίτο τέταρτο</item>
+        <item>Φθίνουσα ημισέληνος</item>
+    </string-array>
+    <string-array name="refreshPeriodNames">
+        <item>Ποτέ</item>
+        <item>15 λεπτά</item>
+        <item>30 λεπτά</item>
+        <item>1 ώρα</item>
+        <item>2 ώρες</item>
+        <item>3 ώρες</item>
+        <item>4 ώρες</item>
+        <item>6 ώρες</item>
+    </string-array>
+    <string-array name="weather_conditions">
+        <item>Μή διαθέσιμο</item>
+        <item>Αίθριος</item>
+        <item>Εν μέρει αίθριος</item>
+        <item>Αίθριος</item>
+        <item>Αραιή συννεφιά</item>
+        <item>Κυρίως συννεφιά</item>
+        <item>Κυρίως αίθριος</item>
+        <item>Αυξημένες νεφώσεις</item>
+        <item>Συννεφιά</item>
+        <item>Έντονες νεφώσεις</item>
+        <item>Πιθανότητα βροχής</item>
+        <item>Ασθενής βροχή</item>
+        <item>Βροχή</item>
+        <item>Σποραδικές βροχές</item>
+        <item>Βροχές</item>
+        <item>Ισχυρές βροχές</item>
+        <item>Πιθανότητα καταιγίδας</item>
+        <item>Ασθενείς καταιγίδες</item>
+        <item>Καταιγίδα</item>
+        <item>Ισχυρές καταιγίδες</item>
+        <item>Πιθανότητα καταιγίδας</item>
+        <item>Σποραδικές καταιγίδες</item>
+        <item>Καταιγίδα</item>
+        <item>Πιθανότητα χιονόπτωσης</item>
+        <item>Ασθενής χιονόπτωση</item>
+        <item>Χιονόπτωση</item>
+        <item>Ισχυρή χιονόπτωση</item>
+        <item>Ισχυρές χιονοπτώσεις</item>
+        <item>Βροχή και χιονόπτωση</item>
+        <item>Χιονόνερο</item>
+        <item>Χαλάζι</item>
+        <item>Χαλαζόπτωση</item>
+        <item>Χιονόνερο</item>
+        <item>Παγετός</item>
+        <item>Ομίχλη</item>
+        <item>Σκόνη</item>
+        <item>Ομίχλη</item>
+        <item>Αιθαλομίχλη</item>
+        <item>Ομίχλη</item>
+        <item>Μπουρίνι</item>
+        <item>Αμμοθύελλα</item>
+        <item>Αίθριος</item>
+        <item>Βροχές/αίθριος</item>
+        <item>Ανεμοστρόβιλος</item>
+        <item>Τροπική καταιγίδα</item>
+        <item>Τυφώνας</item>
+        <item>Κρύο</item>
+        <item>Ζέστη</item>
+        <item>Άνεμοι</item>
+        <item>Δροσερός</item>
+        <item>Μέτριος</item>
+        <item>Ζεστός</item>
+        <item>Ωραίος</item>
+        <item>Δροσερός</item>
+        <item>Υγρός</item>
+        <item>Ξηρός</item>
+        <item>Ψιλόβροχο</item>
+    </string-array>
+    <string-array name="weekdays_long">
+        <item>Κυριακή</item>
+        <item>Δευτέρα</item>
+        <item>Τρίτη</item>
+        <item>Τετάρτη</item>
+        <item>Πέμπτη</item>
+        <item>Παρασκευή</item>
+        <item>Σάββατο</item>
+    </string-array>
+    <string-array name="weekdays_short">
+        <item>Κυρ</item>
+        <item>Δευ</item>
+        <item>Τρί</item>
+        <item>Τετ</item>
+        <item>Πέμ</item>
+        <item>Παρ</item>
+        <item>Σάβ</item>
+    </string-array>
+    <string-array name="widgetDateFormatNames">
+        <item>Δευτέρα, Δεκέμβριος 15</item>
+        <item>Δευ, Δεκ 15, 2012</item>
+        <item>Δευτέρα 15 Δεκέμβριος</item>
+        <item>Δευ, Δεκ 15 2012</item>
+        <item>Δευ. 15 Δεκ. 2012</item>
+        <item>Δευ, Δεκ 15</item>
+        <item>Δευ, 12/25/2012</item>
+        <item>Δευ, 2012/12/25</item>
+        <item>Δευ, 25.12.2012</item>
+        <item>ΔΕΥ 15</item>
+        <item>15 Δεκέμβριος</item>
+        <item>Δεκέμβριος 15</item>
+        <item>15 ΔΕΥ</item>
+        <item>15.01.2012</item>
+        <item>15.01.12</item>
+        <item>01.15.2012</item>
+        <item>01.15.12</item>
+        <item>15/01/2012</item>
+        <item>15/01/12</item>
+        <item>01/15/2012</item>
+        <item>01/15/12</item>
+        <item>15-01-2012</item>
+        <item>15-01-12</item>
+        <item>01-15-2012</item>
+        <item>01-15-12</item>
+        <item>2012-12-15</item>
+        <item>yyyy-m-d</item>
+        <item>yyyy/m/d</item>
+        <item>d/m/yyyy</item>
+        <item>d/m/yy</item>
+        <item>d.m.yyyy</item>
+        <item>d.m.yy</item>
+        <item>yy/m/d</item>
+        <item>yyyy/mm/dd</item>
+        <item>yy/mm/dd</item>
+    </string-array>
+</resources>

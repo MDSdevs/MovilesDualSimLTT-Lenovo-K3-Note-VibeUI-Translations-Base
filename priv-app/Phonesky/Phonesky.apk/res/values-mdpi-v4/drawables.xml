@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="drawable" name="common_full_open_on_phone">false</item>
+    <item type="drawable" name="common_google_signin_btn_icon_light_disabled">false</item>
+    <item type="drawable" name="common_google_signin_btn_icon_light_focused">false</item>
+    <item type="drawable" name="common_google_signin_btn_icon_light_normal">false</item>
+    <item type="drawable" name="common_google_signin_btn_icon_light_pressed">false</item>
+    <item type="drawable" name="common_google_signin_btn_text_light_disabled">false</item>
+    <item type="drawable" name="common_google_signin_btn_text_light_focused">false</item>
+    <item type="drawable" name="common_google_signin_btn_text_light_normal">false</item>
+    <item type="drawable" name="common_google_signin_btn_text_light_pressed">false</item>
+    <item type="drawable" name="common_plus_signin_btn_icon_light_disabled">false</item>
+    <item type="drawable" name="common_plus_signin_btn_icon_light_focused">false</item>
+    <item type="drawable" name="common_plus_signin_btn_icon_light_normal">false</item>
+    <item type="drawable" name="common_plus_signin_btn_icon_light_pressed">false</item>
+    <item type="drawable" name="common_plus_signin_btn_text_light_disabled">false</item>
+    <item type="drawable" name="common_plus_signin_btn_text_light_focused">false</item>
+    <item type="drawable" name="common_plus_signin_btn_text_light_normal">false</item>
+    <item type="drawable" name="common_plus_signin_btn_text_light_pressed">false</item>
+    <item type="drawable" name="ic_drawer_apps_ent_selected">false</item>
+    <item type="drawable" name="ic_drawer_myapps">false</item>
+    <item type="drawable" name="ic_drawer_myapps_selected">false</item>
+    <item type="drawable" name="ic_drawer_myapps_selected_ent">false</item>
+    <item type="drawable" name="ic_drawer_mybooks">false</item>
+    <item type="drawable" name="ic_drawer_mybooks_selected">false</item>
+    <item type="drawable" name="ic_drawer_mymovies">false</item>
+    <item type="drawable" name="ic_drawer_mymovies_selected">false</item>
+    <item type="drawable" name="ic_drawer_mymusic">false</item>
+    <item type="drawable" name="ic_drawer_mymusic_selected">false</item>
+    <item type="drawable" name="ic_drawer_mynewsstand">false</item>
+    <item type="drawable" name="ic_drawer_mynewsstand_selected">false</item>
+</resources>

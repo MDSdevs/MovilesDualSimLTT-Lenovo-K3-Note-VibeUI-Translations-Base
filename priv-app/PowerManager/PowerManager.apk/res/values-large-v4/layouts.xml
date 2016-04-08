@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="layout" name="consume_button_layout">@layout/consume_button_layout_pad</item>
+    <item type="layout" name="power_usage_detail">@layout/power_usage_detail_pad</item>
+</resources>

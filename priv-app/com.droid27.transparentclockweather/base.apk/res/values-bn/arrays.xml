@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="animationDelayNames">
+        <item>মন্থর</item>
+        <item>স্বাভাবিক</item>
+        <item>দ্রুততর</item>
+    </string-array>
+    <string-array name="batteryPositionNames">
+        <item>বাম</item>
+        <item>ডান</item>
+    </string-array>
+    <string-array name="forecast_strings">
+        <item>স্থানীয় সময়: %1$s</item>
+        <item>সূর্যোদয়: %1$s</item>
+        <item>সূর্যাস্ত: %1$s</item>
+        <item>দিনের স্থিতিকাল: %1$s ঘ, %2$s মি</item>
+        <item>বাতাস: %1$s</item>
+        <item>আদ্রতা: %1$s</item>
+        <item>সর্বশেষ আপডেট: %1$s ঘন্টা, %2$s মিনিট পূর্বে</item>
+        <item>সর্বশেষ আপডেট: %1$s মিনিট পূর্বে</item>
+        <item>সর্বশেষ আপডেট: %1$s</item>
+        <item>শেষ আপডেট: %1$s ঘ, %2$s মি</item>
+        <item>একই রকম অনুভূত %1$s</item>
+    </string-array>
+    <string-array name="moon_phases">
+        <item>নতুন চাঁদ</item>
+        <item>বর্ধনশীল সরু চাঁদ</item>
+        <item>প্রথম চতুর্থাংশ</item>
+        <item>বর্ধনশীল স্ফীত চাঁদ</item>
+        <item>পূর্ণ চাঁদ</item>
+        <item>ক্ষীয়মাণ স্ফীত চাঁদ</item>
+        <item>তৃতীয় চতুর্থাংশ</item>
+        <item>ক্ষীয়মাণ সরু চাঁদ</item>
+    </string-array>
+    <string-array name="refreshPeriodNames">
+        <item>কখনও না</item>
+        <item>১৫ মিনিট</item>
+        <item>৩০ মিনিট</item>
+        <item>১ ঘন্টা</item>
+        <item>২ ঘন্টা</item>
+        <item>৩ ঘন্টা</item>
+        <item>৪ ঘন্টা</item>
+        <item>৬ ঘন্টা</item>
+    </string-array>
+    <string-array name="weather_conditions">
+        <item>অপ্রাপ্য</item>
+        <item>পরিষ্কার</item>
+        <item>আংশিক রোদ ঝলমলে</item>
+        <item>রোদ ঝলমলে</item>
+        <item>আংশিক মেঘলা</item>
+        <item>অধিকাংশ মেঘলা</item>
+        <item>অধিকাংশ রোদ ঝলমলে</item>
+        <item>অন্ধকারাচ্ছন্ন</item>
+        <item>মেঘলা</item>
+        <item>খুব মেঘলা</item>
+        <item>বৃষ্টির সম্ভাবনা</item>
+        <item>হাল্কা বৃষ্টি</item>
+        <item>বৃষ্টি</item>
+        <item>বিক্ষিপ্ত বর্ষণ</item>
+        <item>বর্ষণ</item>
+        <item>ভারী বর্ষণ</item>
+        <item>ঝড়ের সম্ভাবনা</item>
+        <item>দুর্বল ঝড়</item>
+        <item>ঝড়</item>
+        <item>ভারী ঝড়</item>
+        <item>বজ্রঝড়ের সম্ভাবনা</item>
+        <item>বিক্ষিপ্ত বজ্রঝড়</item>
+        <item>বজ্রঝড়</item>
+        <item>তুষারপাতের সম্ভাবনা</item>
+        <item>হালকা তুষারপাত</item>
+        <item>তুষার</item>
+        <item>ভারী তুষারপাত</item>
+        <item>তুষার বর্ষণ</item>
+        <item>বৃষ্টি এবং তুষারপাত</item>
+        <item>ঠান্ডায় জমাইয়া দেওয়া বিন্দু বিন্দু বৃষ্টি</item>
+        <item>শিলা</item>
+        <item>শিলাবৃষ্টি</item>
+        <item>তুষার ও বৃষ্টিপাত</item>
+        <item>বরফপূর্ণ</item>
+        <item>কুয়াশা</item>
+        <item>ধূলিকণা</item>
+        <item>ঘন কুয়াশা</item>
+        <item>ধোঁয়া</item>
+        <item>আবছায়া</item>
+        <item>দমকা বাতাস</item>
+        <item>বালুঝড়</item>
+        <item>পরিষ্কার</item>
+        <item>একপশলা বর্ষণ/পরিষ্কার</item>
+        <item>টর্নেডো</item>
+        <item>গ্রীষ্মমন্ডলীয় ঝড়</item>
+        <item>হ্যারিকেন</item>
+        <item>ঠান্ডা</item>
+        <item>গরম</item>
+        <item>ঝড়ো হাওয়া</item>
+        <item>শীতল</item>
+        <item>হালকা</item>
+        <item>উষ্ণ</item>
+        <item>সুন্দর</item>
+        <item>ঝরঝরে</item>
+        <item>আর্দ্র</item>
+        <item>শুষ্ক</item>
+        <item>গুঁড়ি গুঁড়ি বৃষ্টি</item>
+    </string-array>
+    <string-array name="weekdays_long">
+        <item>রবিবার</item>
+        <item>সোমবার</item>
+        <item>মঙ্গলবার</item>
+        <item>বুধবার</item>
+        <item>বৃহস্পতিবার</item>
+        <item>শুক্রবার</item>
+        <item>শনিবার</item>
+    </string-array>
+    <string-array name="weekdays_short">
+        <item>রবি</item>
+        <item>সোম</item>
+        <item>মঙ্গল</item>
+        <item>বুধ</item>
+        <item>বৃহস্পতি</item>
+        <item>শুক্র</item>
+        <item>শনি</item>
+    </string-array>
+    <string-array name="animationDelayValues">
+        <item>175</item>
+        <item>120</item>
+        <item>75</item>
+    </string-array>
+    <string-array name="batteryPositionValues">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="languageNames">
+        <item>Default</item>
+        <item>Afrikaans</item>
+        <item>Bahasa Indonesia</item>
+        <item>বাংলা</item>
+        <item>Català</item>
+        <item>Čeština</item>
+        <item>Dansk</item>
+        <item>Deutsch</item>
+        <item>English (United States)</item>
+        <item>Español (España)</item>
+        <item>Français (France)</item>
+        <item>हिन्दी</item>
+        <item>Hrvatski</item>
+        <item>Italiano</item>
+        <item>Lietuvių</item>
+        <item>ភាសាខ្មែរ</item>
+        <item>Magyar</item>
+        <item>Nederlands (Nederland)</item>
+        <item>Norsk</item>
+        <item>Polski</item>
+        <item>Português (Brazil)</item>
+        <item>Português (Portugal)</item>
+        <item>Română</item>
+        <item>Српски (Ћирилица)</item>
+        <item>Srpski (Latinica)</item>
+        <item>Slovenčina</item>
+        <item>Slovenščina</item>
+        <item>Suomi</item>
+        <item>Svenska</item>
+        <item>Tiếng Việt</item>
+        <item>Türkçe</item>
+        <item>Ελληνικά</item>
+        <item>български</item>
+        <item>Македонски</item>
+        <item>Русский</item>
+        <item>Українська</item>
+        <item>العربية</item>
+        <item>فارسی</item>
+        <item>한국어</item>
+        <item>中文 (简体)</item>
+        <item>中文 (繁體)</item>
+        <item>עברית‎</item>
+        <item>日本語</item>
+        <item>ไทย</item>
+    </string-array>
+    <string-array name="languageValues">
+        <item></item>
+        <item>af</item>
+        <item>in</item>
+        <item>bn</item>
+        <item>ca</item>
+        <item>cs</item>
+        <item>da</item>
+        <item>de</item>
+        <item>en</item>
+        <item>es</item>
+        <item>fr</item>
+        <item>hi</item>
+        <item>hr</item>
+        <item>it</item>
+        <item>lt</item>
+        <item>km</item>
+        <item>hu</item>
+        <item>nl</item>
+        <item>no</item>
+        <item>pl</item>
+        <item>pt_BR</item>
+        <item>pt_PT</item>
+        <item>ro</item>
+        <item>sr_CL</item>
+        <item>sr</item>
+        <item>sk</item>
+        <item>sl</item>
+        <item>fi</item>
+        <item>sv</item>
+        <item>vi</item>
+        <item>tr</item>
+        <item>el</item>
+        <item>bg</item>
+        <item>mk</item>
+        <item>ru</item>
+        <item>uk</item>
+        <item>ar</item>
+        <item>fa</item>
+        <item>ko</item>
+        <item>zh_CN</item>
+        <item>zh_TW</item>
+        <item>iw</item>
+        <item>ja</item>
+        <item>th</item>
+    </string-array>
+    <string-array name="refreshPeriodValues">
+        <item>0</item>
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>120</item>
+        <item>180</item>
+        <item>240</item>
+        <item>360</item>
+    </string-array>
+    <string-array name="visibilityUnitNames">
+        <item>মিটার</item>
+        <item>কিলোমিটার</item>
+        <item>মাইল</item>
+    </string-array>
+</resources>

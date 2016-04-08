@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="tab_min_width">160.0dip</dimen>
+    <dimen name="snackbar_min_width">320.0dip</dimen>
+    <dimen name="snackbar_max_width">576.0dip</dimen>
+    <dimen name="snackbar_background_corner_radius">2.0dip</dimen>
+    <item type="dimen" name="snackbar_padding_vertical_2lines">@dimen/snackbar_padding_vertical</item>
+    <dimen name="snackbar_extra_spacing_horizontal">24.0dip</dimen>
+    <dimen name="snackbar_action_inline_max_width">0.0dip</dimen>
+</resources>

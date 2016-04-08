@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="view_oriention_entries">
+        <item>自动旋转</item>
+        <item>跟随系统设定</item>
+    </string-array>
+    <string-array name="custom_album_view_entries">
+        <item>小</item>
+        <item>普通</item>
+        <item>大</item>
+    </string-array>
+</resources>

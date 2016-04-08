@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="animationDelayNames">
+        <item>איטי יותר</item>
+        <item>מהיר יותר</item>
+        <item>Faster</item>
+    </string-array>
+    <string-array name="batteryPositionNames">
+        <item>שמאל</item>
+        <item>ימין</item>
+    </string-array>
+    <string-array name="forecast_strings">
+        <item>זמן מקומי: %1$s</item>
+        <item>זריחה: %1$s</item>
+        <item>שקיעה: %1$s</item>
+        <item>"אורך היום: %1$s שע', %2$s דק'"</item>
+        <item>רוח: %1$s</item>
+        <item>לחות: %1$s</item>
+        <item>עדכון אחרון: %1$s שעות, %2$s לפני דקות</item>
+        <item>עדכון אחרון: %1$s לפני דקות</item>
+        <item>עדכון אחרון: %1$s</item>
+        <item>"עדכון אחרון: %1$s שע', %2$s דק'"</item>
+        <item>מרגיש כמו %1$s</item>
+    </string-array>
+    <string-array name="moon_phases">
+        <item>מולד הירח</item>
+        <item>חרמש מתמלא</item>
+        <item>רבעון ראשון</item>
+        <item>חרמש מתמלא</item>
+        <item>ירח מלא</item>
+        <item>חרמש נחסר</item>
+        <item>רבעון שלישי</item>
+        <item>חרמש נחסר</item>
+    </string-array>
+    <string-array name="refreshPeriodNames">
+        <item>לעולם לא</item>
+        <item>15 דקות</item>
+        <item>30 דקות</item>
+        <item>שעה 1</item>
+        <item>שעתיים</item>
+        <item>3 שעות</item>
+        <item>4 שעות</item>
+        <item>6 שעות</item>
+    </string-array>
+    <string-array name="weather_conditions">
+        <item>לא זמין</item>
+        <item>בהיר</item>
+        <item>מעונן חלקית</item>
+        <item>שמשי</item>
+        <item>מעונן חלקית</item>
+        <item>מעונן ברובו</item>
+        <item>שמשי</item>
+        <item>קודר</item>
+        <item>מעונן</item>
+        <item>מעונן</item>
+        <item>סיכוי לגשם</item>
+        <item>טפטוף</item>
+        <item>גשום</item>
+        <item>ממטרים</item>
+        <item>גשום</item>
+        <item>גשם כבד</item>
+        <item>סיכוי לסערה</item>
+        <item>סערהה חלשה</item>
+        <item>סערה</item>
+        <item>סערה כבדה</item>
+        <item>סיכוי לסערת רעמים</item>
+        <item>סערת רעמים חלשה</item>
+        <item>סערת רעמים</item>
+        <item>סיכוי לשלג</item>
+        <item>שלג קל</item>
+        <item>שלג</item>
+        <item>שלג כבד</item>
+        <item>שלג</item>
+        <item>שלג עם גשם</item>
+        <item>ברד</item>
+        <item>ברד</item>
+        <item>סופת ברד</item>
+        <item>גשם-שלג</item>
+        <item>קריר</item>
+        <item>ערפל</item>
+        <item>מאובק</item>
+        <item>ערפל</item>
+        <item>אביך</item>
+        <item>מעורפל</item>
+        <item>סערה</item>
+        <item>סופת חול</item>
+        <item>רגיל</item>
+        <item>ממטרים/בהיר</item>
+        <item>טורנדו</item>
+        <item>סופה טרופית</item>
+        <item>הוריקן</item>
+        <item>קר</item>
+        <item>חם</item>
+        <item>סוער</item>
+        <item>קריר</item>
+        <item>מתון</item>
+        <item>חמים</item>
+        <item>יפה</item>
+        <item>רענן</item>
+        <item>לח</item>
+        <item>יבש</item>
+        <item>טפטוף</item>
+    </string-array>
+    <string-array name="weekdays_long">
+        <item>יום ראשון</item>
+        <item>יום שני</item>
+        <item>יום שלישי</item>
+        <item>יום רביעי</item>
+        <item>יום חמישי</item>
+        <item>יום שישי</item>
+        <item>יום שבת</item>
+    </string-array>
+    <string-array name="weekdays_short">
+        <item>יום א׳</item>
+        <item>יום ב׳</item>
+        <item>יום ג׳</item>
+        <item>יום ד׳</item>
+        <item>יום ה׳</item>
+        <item>יום ו׳</item>
+        <item>יום ש׳</item>
+        <item>יום ש׳</item>
+    </string-array>
+    <string-array name="visibilityUnitNames">
+        <item>מטרים</item>
+        <item>קילומטרים</item>
+        <item>מיילים</item>
+    </string-array>
+    <string-array name="pressureUnitNames">
+        <item>atm</item>
+        <item>bar</item>
+        <item>mBar</item>
+        <item>mmHg</item>
+        <item>inHg</item>
+        <item>Pa</item>
+        <item>hPa</item>
+        <item>kPa</item>
+        <item>psi</item>
+    </string-array>
+    <string-array name="pressureUnitNamesPrefs">
+        <item>atm</item>
+        <item>bar</item>
+        <item>mBar</item>
+        <item>mmHg</item>
+        <item>inHg</item>
+        <item>Pa</item>
+        <item>hPa</item>
+        <item>kPa</item>
+        <item>psi</item>
+    </string-array>
+    <string-array name="windSpeedUnitNames">
+        <item>מ\"ש</item>
+        <item>קמ\"ש</item>
+        <item>מייל</item>
+        <item>בופורט</item>
+        <item>קשר</item>
+    </string-array>
+</resources>

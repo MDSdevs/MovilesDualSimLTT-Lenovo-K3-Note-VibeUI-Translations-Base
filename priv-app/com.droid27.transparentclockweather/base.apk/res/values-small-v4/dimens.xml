@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="time_hotspot_top_padding">20.0dip</dimen>
+    <dimen name="widget_hilo">11.0sp</dimen>
+    <dimen name="widget_temp">18.0sp</dimen>
+</resources>

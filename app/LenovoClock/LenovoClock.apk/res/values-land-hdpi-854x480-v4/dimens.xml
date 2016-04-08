@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="alert_time24or12_text_size">15.0sp</dimen>
+    <dimen name="alert_time24or12_layout_marginTop">4.0dip</dimen>
+    <dimen name="alert_time_layout_marginTop">4.0dip</dimen>
+    <dimen name="alert_lable_layout_marginTop">4.0dip</dimen>
+    <dimen name="alert_TVAlarmLabel_text_size">12.0sp</dimen>
+    <dimen name="alert_weather_tpye_text_size">12.0sp</dimen>
+    <dimen name="alert_weather_temp_text_size">12.0sp</dimen>
+    <dimen name="alert_weather_layout_marginBottom">44.0dip</dimen>
+</resources>

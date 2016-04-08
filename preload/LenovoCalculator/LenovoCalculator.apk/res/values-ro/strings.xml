@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="error_nan">Nu este număr</string>
+    <string name="error_syntax">Eroare</string>
+    <string name="fun_cos">cos</string>
+    <string name="fun_ln">ln</string>
+    <string name="fun_log">log</string>
+    <string name="fun_sin">sin</string>
+    <string name="fun_tan">tg</string>
+    <string name="clr">elim</string>
+    <string name="del">ștrg</string>
+    <string name="desc_const_e">numărul lui Euler</string>
+    <string name="desc_const_pi">pi</string>
+    <string name="desc_dec_point"> punct </string>
+    <string name="desc_lparen">paranteză stânga</string>
+    <string name="desc_rparen">paranteză dreapta</string>
+    <string name="desc_fun_cos">cosinus</string>
+    <string name="desc_fun_ln">logaritm natural</string>
+    <string name="desc_fun_log">logaritm</string>
+    <string name="desc_fun_sin">sinus</string>
+    <string name="desc_fun_tan">tangentă</string>
+    <string name="desc_op_add">plus</string>
+    <string name="desc_op_div">împărțit</string>
+    <string name="desc_op_fact">factorial</string>
+    <string name="desc_op_mul">ori</string>
+    <string name="desc_op_pow">putere</string>
+    <string name="desc_op_sqrt">rădăcină pătrată</string>
+    <string name="desc_op_sub">minus</string>
+    <string name="desc_clr">goliţi</string>
+    <string name="desc_del">ștergeți</string>
+    <string name="desc_eq">este egal cu</string>
+</resources>

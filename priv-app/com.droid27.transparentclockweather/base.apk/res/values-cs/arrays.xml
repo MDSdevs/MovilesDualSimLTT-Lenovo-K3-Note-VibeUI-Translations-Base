@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="animationDelayNames">
+        <item>Pomaleji</item>
+        <item>Normálně</item>
+        <item>Rychleji</item>
+    </string-array>
+    <string-array name="batteryPositionNames">
+        <item>Vlevo</item>
+        <item>Vpravo</item>
+    </string-array>
+    <string-array name="forecast_strings">
+        <item>Místní čas: %1$s</item>
+        <item>Východ slunce: %1$s</item>
+        <item>Západ slunce: %1$s</item>
+        <item>Délka dne: %1$s h, %2$s m</item>
+        <item>Rychlost větru: %1$s</item>
+        <item>Vlhkost: %1$s</item>
+        <item>Aktualizace: %1$s hod, %2$s min</item>
+        <item>Aktualizace: %1$s min</item>
+        <item>Aktualizace: %1$s</item>
+        <item>Aktualizace: %1$s h, %2$s m</item>
+        <item>Pocitová teplota %1$s</item>
+    </string-array>
+    <string-array name="moon_phases">
+        <item>Nov</item>
+        <item>Dorůstající srpek</item>
+        <item>První čtvrť</item>
+        <item>Dorůstající Měsíc</item>
+        <item>Úplněk</item>
+        <item>Ubývající Měsíc</item>
+        <item>Poslední čtvrť</item>
+        <item>Ubývající srpek</item>
+    </string-array>
+    <string-array name="refreshPeriodNames">
+        <item>Nikdy</item>
+        <item>15 minut</item>
+        <item>30 minut</item>
+        <item>1 hodina</item>
+        <item>2 hodiny</item>
+        <item>3 hodiny</item>
+        <item>4 hodiny</item>
+        <item>6 hodin</item>
+    </string-array>
+    <string-array name="weather_conditions">
+        <item>Nedostupné</item>
+        <item>Jasno</item>
+        <item>Skoro jasno</item>
+        <item>Slunečno</item>
+        <item>Polojasno</item>
+        <item>Skoro zataženo</item>
+        <item>Skoro jasno</item>
+        <item>Zataženo</item>
+        <item>Oblačno</item>
+        <item>Velmi oblačno</item>
+        <item>Možnost deště</item>
+        <item>Slabý déšť</item>
+        <item>Dešť</item>
+        <item>Ojedinělé přeháňky</item>
+        <item>Dešťové přeháňky</item>
+        <item>Silné přeháňky</item>
+        <item>Možnost bouře</item>
+        <item>Slabé bouře</item>
+        <item>Bouře</item>
+        <item>Silné bouře</item>
+        <item>Možnost bouřek</item>
+        <item>Ojedinělé bouřky</item>
+        <item>Bouřka</item>
+        <item>Možnost sněžené</item>
+        <item>Slabé sněžení</item>
+        <item>Sněžení</item>
+        <item>Silné sněžení</item>
+        <item>Sněhové přeháňky</item>
+        <item>Déšť a sníh</item>
+        <item>Mrznoucí mrholení</item>
+        <item>Kroupy</item>
+        <item>Kroupy</item>
+        <item>Plískanice</item>
+        <item>Ledovka</item>
+        <item>Mrholení</item>
+        <item>Prach</item>
+        <item>Mlha</item>
+        <item>Kouřmo</item>
+        <item>Opar</item>
+        <item>Déšť se sněhem</item>
+        <item>Písečná bouře</item>
+        <item>Pěkné</item>
+        <item>Dešťové přeháňky/jasno</item>
+        <item>Tornádo</item>
+        <item>Tropická bouře</item>
+        <item>Hurikán</item>
+        <item>Studená</item>
+        <item>Horko</item>
+        <item>Větrno</item>
+        <item>Zdarma</item>
+        <item>Mírný</item>
+        <item>Teplé</item>
+        <item>Pěkný</item>
+        <item>Mírný</item>
+        <item>Vlhké</item>
+        <item>Sucho</item>
+        <item>Mrholení</item>
+    </string-array>
+    <string-array name="weekdays_long">
+        <item>Neděle</item>
+        <item>Pondělí</item>
+        <item>Úterý</item>
+        <item>Středa</item>
+        <item>Čtvrtek</item>
+        <item>Pátek</item>
+        <item>Sobota</item>
+    </string-array>
+    <string-array name="weekdays_short">
+        <item>Ned</item>
+        <item>Pon</item>
+        <item>Úte</item>
+        <item>Stř</item>
+        <item>Čtv</item>
+        <item>Pát</item>
+        <item>Sob</item>
+    </string-array>
+    <string-array name="widgetDateFormatNames">
+        <item>Pondělí, Prosinec 15</item>
+        <item>PO, pro 15, 2012</item>
+        <item>Pondělí 15 prosinec</item>
+        <item>PO, pro 15 2012</item>
+        <item>Pon. 15 pro 2012</item>
+        <item>PO, pro 15</item>
+        <item>Pon, 12/25/2012</item>
+        <item>Pon, 2012/12/25</item>
+        <item>Pon, 25.12.2012</item>
+        <item>PRO 15</item>
+        <item>15. Prosince</item>
+        <item>Prosinec 15</item>
+        <item>15 PRO</item>
+        <item>15.12.2012</item>
+        <item>15.12.12</item>
+        <item>12.15.2012</item>
+        <item>12.15.12</item>
+        <item>15/12/2012</item>
+        <item>15/12/12</item>
+        <item>12/15/2012</item>
+        <item>12/15/12</item>
+        <item>15-12-2012</item>
+        <item>15-12-12</item>
+        <item>12-15-2012</item>
+        <item>12-15-12</item>
+        <item>2012-12-15</item>
+        <item>yyyy-m-d</item>
+        <item>yyyy/m/d</item>
+        <item>d/m/yyyy</item>
+        <item>d/m/yy</item>
+        <item>d.m.yyyy</item>
+        <item>d.m.yy</item>
+        <item>yy/m/d</item>
+        <item>yyyy/mm/dd</item>
+        <item>yy/mm/dd</item>
+    </string-array>
+</resources>

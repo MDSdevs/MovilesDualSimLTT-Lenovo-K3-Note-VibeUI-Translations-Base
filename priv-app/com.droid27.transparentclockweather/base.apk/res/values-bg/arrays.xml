@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="animationDelayNames">
+        <item>По-бавно</item>
+        <item>Нормално</item>
+        <item>По-бързо</item>
+    </string-array>
+    <string-array name="batteryPositionNames">
+        <item>Ляво</item>
+        <item>Дясно</item>
+    </string-array>
+    <string-array name="forecast_strings">
+        <item>Местно време: %1$s</item>
+        <item>Изгрев: %1$s</item>
+        <item>Залез: %1$s</item>
+        <item>Продължителност на деня: %1$s ч, %2$s м</item>
+        <item>Вятър: %1$s</item>
+        <item>Влажност: %1$s</item>
+        <item>Обновено преди %1$s часа, %2$s минути</item>
+        <item>Обновено преди %1$s минути</item>
+        <item>Обновено преди %1$s</item>
+        <item>Обновено преди %1$s ч, %2$s м</item>
+        <item>Усеща се като %1$s</item>
+    </string-array>
+    <string-array name="moon_phases">
+        <item>новолуние</item>
+        <item>Нарастващ полумесец</item>
+        <item>Първа четвърт</item>
+        <item>Нарастваща Полупълна</item>
+        <item>пълнолуние</item>
+        <item>Намаляващ полу</item>
+        <item>третото тримесечие</item>
+        <item>Намаляващ полумесец</item>
+    </string-array>
+    <string-array name="refreshPeriodNames">
+        <item>Никога</item>
+        <item>15 минути</item>
+        <item>30 минути</item>
+        <item>1 час</item>
+        <item>2 часа</item>
+        <item>3 часа</item>
+        <item>4 часа</item>
+        <item>6 часа</item>
+    </string-array>
+    <string-array name="weather_conditions">
+        <item>Не е на разположение</item>
+        <item>Ясно</item>
+        <item>Отчасти слънчево</item>
+        <item>Слънчево</item>
+        <item>Отчасти облачно</item>
+        <item>Предимно облачно</item>
+        <item>Предимно слънчево</item>
+        <item>Заоблачено</item>
+        <item>Облачно</item>
+        <item>Много облачно</item>
+        <item>Възможни превалявания</item>
+        <item>Слаб дъжд</item>
+        <item>Дъждовно</item>
+        <item>Частични валежи</item>
+        <item>Превалявания</item>
+        <item>Силни валежи</item>
+        <item>Вероятност за буря</item>
+        <item>Слаба буря</item>
+        <item>Буря</item>
+        <item>Силни бури</item>
+        <item>Вероятност за гръмотевични бури</item>
+        <item>Частични гръмотевични бури</item>
+        <item>Гръмотевични бури</item>
+        <item>Вероятност за сняг</item>
+        <item>Слаб снеговалеж</item>
+        <item>Сняг</item>
+        <item>Силни снеговалежи</item>
+        <item>Снеговалежи</item>
+        <item>Дъжд и сняг</item>
+        <item>Ситен леден дъжд</item>
+        <item>Градушка</item>
+        <item>Буреносна градушка</item>
+        <item>Киша</item>
+        <item>Заледено</item>
+        <item>Замъглено</item>
+        <item>Прашно</item>
+        <item>Мъгла</item>
+        <item>Дим</item>
+        <item>Лека мъгла</item>
+        <item>Виелици</item>
+        <item>Пясъчна буря</item>
+        <item>Ясно</item>
+        <item>Дъждовно/ясно</item>
+        <item>торнадо</item>
+        <item>тропическа буря</item>
+        <item>ураган</item>
+        <item>студен</item>
+        <item>горещ</item>
+        <item>ветровит</item>
+        <item>прохлада</item>
+        <item>Мека</item>
+        <item>Warm</item>
+        <item>Красива</item>
+        <item>свеж</item>
+        <item>Влажни</item>
+        <item>сухо място</item>
+        <item>Ситен дъжд</item>
+    </string-array>
+    <string-array name="weekdays_long">
+        <item>неделя</item>
+        <item>понеделник</item>
+        <item>вторник</item>
+        <item>сряда</item>
+        <item>четвъртък</item>
+        <item>петък</item>
+        <item>събота</item>
+    </string-array>
+    <string-array name="weekdays_short">
+        <item>нед</item>
+        <item>пон</item>
+        <item>вто</item>
+        <item>сря</item>
+        <item>чет</item>
+        <item>пет</item>
+        <item>съб</item>
+    </string-array>
+</resources>

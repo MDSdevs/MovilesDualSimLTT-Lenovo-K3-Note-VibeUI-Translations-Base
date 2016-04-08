@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="anim_activity_in_duration">300</integer>
+    <integer name="amim_activity_in_delay_load_data">40</integer>
+</resources>

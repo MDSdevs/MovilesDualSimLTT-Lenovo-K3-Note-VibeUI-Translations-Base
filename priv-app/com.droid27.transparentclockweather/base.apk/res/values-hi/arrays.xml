@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="animationDelayNames">
+        <item>और धीमा</item>
+        <item>सामान्य</item>
+        <item>और तेज</item>
+    </string-array>
+    <string-array name="batteryPositionNames">
+        <item>बाएं</item>
+        <item>सही</item>
+    </string-array>
+    <string-array name="forecast_strings">
+        <item>स्थानीय समय: %1$s</item>
+        <item>सूर्योदय: %1$s</item>
+        <item>सूर्यास्त: %1$s</item>
+        <item>दिन की अवधि: %1$s h, %2$s m</item>
+        <item>हवा: %1$s</item>
+        <item>नमी: %1$s</item>
+        <item>नवीनतम अद्यतन: %1$s घंटे, %2$s मिनट पहले</item>
+        <item>नवीनतम अद्यतन: %1$s मिनट पहले</item>
+        <item>नवीनतम अद्यतन: %1$s</item>
+        <item>आखिरी अद्यतन: %1$s h, %2$s m</item>
+        <item>%1$s की तरह लगता है</item>
+    </string-array>
+    <string-array name="refreshPeriodNames">
+        <item>कभी नहीं</item>
+        <item>15 मिनटों</item>
+        <item>30 minutes</item>
+        <item>1 घंटे</item>
+        <item>2 घंटे</item>
+        <item>3 घंटे</item>
+        <item>4 घंटे</item>
+        <item>6 घंटे</item>
+    </string-array>
+    <string-array name="weather_conditions">
+        <item>अनुपलब्ध</item>
+        <item>स्पष्ट</item>
+        <item>आंशिक रूप से धूप</item>
+        <item>सूर्य सा चमकीला</item>
+        <item>आंशिक रूप से बादल छाएंगे</item>
+        <item>अधिकतर बदली</item>
+        <item>ज्यादातर धूप</item>
+        <item>घटाटोप</item>
+        <item>बादल छाए रहेंगे</item>
+        <item>बहुत से बादल छाए रहेंगे</item>
+        <item>बारिश की संभावना</item>
+        <item>हलकी बारिश</item>
+        <item>बारिश</item>
+        <item>बिखरी हुई वर्षा</item>
+        <item>बौछारें</item>
+        <item>भारी बौछारें</item>
+        <item>तूफान की संभावना</item>
+        <item>कमजोर तूफान</item>
+        <item>आंधी</item>
+        <item>भारी तूफान</item>
+        <item>आंधी की संभावना</item>
+        <item>आंधी के साथ छिटपुट बारिश</item>
+        <item>आंधी</item>
+        <item>हिमपात की संभावना</item>
+        <item>हल्की बर्फ</item>
+        <item>बर्फ</item>
+        <item>भारी बर्फ</item>
+        <item>बर्फ की बारिश</item>
+        <item>वर्षा व बर्फ</item>
+        <item>ठंड की फुहार</item>
+        <item>ओलावृष्टि</item>
+        <item>ओलावृष्टि तूफान</item>
+        <item>ओले के साथ वर्षा</item>
+        <item>बर्फीले</item>
+        <item>धुंध</item>
+        <item>धूल</item>
+        <item>कोहरा</item>
+        <item>धूम्रपान</item>
+        <item>धुन्ध</item>
+        <item>आंधी</item>
+        <item>बालू का तूफ़ान</item>
+        <item>निष्पक्ष</item>
+        <item>बौछार / साफ़</item>
+        <item>बवंडर</item>
+        <item>उष्णकटिबंधीय तूफान</item>
+        <item>तूफान</item>
+        <item>ठंड</item>
+        <item>गरम</item>
+        <item>हवा</item>
+        <item>ठंडा</item>
+        <item>सौम्य</item>
+        <item>गरम</item>
+        <item>सुंदर</item>
+        <item>समीरिक</item>
+        <item>नम</item>
+        <item>सूखा</item>
+        <item>बूंदा बांदी</item>
+    </string-array>
+    <string-array name="weekdays_long">
+        <item>रविवार</item>
+        <item>सोमवार</item>
+        <item>मंगलवार</item>
+        <item>बुधवार</item>
+        <item>गुरूवार</item>
+        <item>शुक्रवार</item>
+        <item>शनिवार</item>
+    </string-array>
+    <string-array name="weekdays_short">
+        <item>रवि</item>
+        <item>सोम</item>
+        <item>मंगल</item>
+        <item>बुध</item>
+        <item>गुरू</item>
+        <item>शुक्र</item>
+        <item>शनि</item>
+    </string-array>
+    <string-array name="visibilityUnitNames">
+        <item>मीटर</item>
+        <item>किलोमीटर</item>
+        <item>मील</item>
+    </string-array>
+    <string-array name="pressureUnitNames">
+        <item>वाता</item>
+        <item>बार</item>
+        <item>मिली बार</item>
+        <item>मिमी पारा</item>
+        <item>इंच पारा</item>
+        <item>पास्कल</item>
+        <item>hecta पास्कल</item>
+        <item>किलो पास्कल</item>
+        <item>साई</item>
+    </string-array>
+    <string-array name="pressureUnitNamesPrefs">
+        <item>वाता</item>
+        <item>बार</item>
+        <item>मिली बार</item>
+        <item>मिमी पारा</item>
+        <item>इंच पारा</item>
+        <item>पास्कल</item>
+        <item>hecta पास्कल</item>
+        <item>किलो पास्कल</item>
+        <item>साई</item>
+    </string-array>
+    <string-array name="windSpeedUnitNames">
+        <item>मीटर/सेकंड</item>
+        <item>किमी/घंटा</item>
+        <item>मील प्रति घंटा</item>
+        <item>ब्यूफोर्ट</item>
+        <item>समुद्री मील</item>
+    </string-array>
+</resources>

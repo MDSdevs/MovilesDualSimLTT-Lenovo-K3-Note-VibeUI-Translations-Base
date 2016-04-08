@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="animationDelayNames">
+        <item>ช้าลง</item>
+        <item>ปกติ</item>
+        <item>เร็วขึ้น</item>
+    </string-array>
+    <string-array name="batteryPositionNames">
+        <item>ซ้าย</item>
+        <item>ขวา</item>
+    </string-array>
+    <string-array name="forecast_strings">
+        <item>เวลาท้องถิ่น: %1$s</item>
+        <item>พระอาทิตย์ขึ้น: %1$s</item>
+        <item>พระอาทิตย์ตก: %1$s</item>
+        <item>ระยะเวลาของวัน: %1$s ชั่วโมง %2$s นาที</item>
+        <item>ลม: %1$s</item>
+        <item>ความชื้น: %1$s</item>
+        <item>อัพเดทล่าสุด: %1$s ชั่วโมง %2$s นาทีที่ผ่านมา</item>
+        <item>อัพเดทล่าสุด: %1$s นาทีที่ผ่านมา</item>
+        <item>อัพเดทล่าสุด: %1$s</item>
+        <item>อัพเดทล่าสุด: %1$s ชั่วโมง %2$s นาที</item>
+        <item>รู้สึกเหมือน %1$s</item>
+    </string-array>
+    <string-array name="moon_phases">
+        <item>คืนเดือนมืด</item>
+        <item>พระจันทร์ข้างขึ้นอ่อน ๆ (ขึ้น 1 ค่ำ ถึง ขึ้น 7 ค่ำ)</item>
+        <item>พระจันทร์ครึ่งดวง (ขึ้น 8 ค่ำ)</item>
+        <item>พระจันทร์ข้างขึ้นแก่ ๆ (ขึ้น 9 ค่ำ ถึง ขึ้น 14 ค่ำ)</item>
+        <item>คืนเดือนเต็ม (ขึ้น 15 ค่ำ)</item>
+        <item>พระจันทร์ข้างแรมอ่อน ๆ (แรม 1 ค่ำ ถึง แรม 7 ค่ำ)</item>
+        <item>พระจันทร์ครึ่งดวงซีกซ้าย (แรม 8 ค่ำ)</item>
+        <item>พระจันทร์ข้างแรมแก่ ๆ (แรม 9 ค่ำ ถึง แรม 14 ค่ำ)</item>
+    </string-array>
+    <string-array name="refreshPeriodNames">
+        <item>ไม่เคย</item>
+        <item>15 นาที</item>
+        <item>30 นาที</item>
+        <item>1 ชั่วโมง</item>
+        <item>2 ชั่วโมง</item>
+        <item>3 ชั่วโมง</item>
+        <item>4 ชั่วโมง</item>
+        <item>6 ชั่วโมง</item>
+    </string-array>
+    <string-array name="weather_conditions">
+        <item>ไม่มี</item>
+        <item>ล้าง</item>
+        <item>มีแดดบางส่วน</item>
+        <item>มีแดดจัด</item>
+        <item>มีเมฆบางส่วน</item>
+        <item>มีเมฆเป็นส่วนใหญ่</item>
+        <item>มีแดดจัดเป็นส่วนใหญ่</item>
+        <item>มืดครึ้ม</item>
+        <item>มีเมฆมาก</item>
+        <item>มีเมฆมาก</item>
+        <item>โอกาสเกิดฝนตก</item>
+        <item>ฝนตกเล็กน้อย</item>
+        <item>ฝนตก</item>
+        <item>มีฝนตกเป็นหย่อมๆ</item>
+        <item>ฝนตกกระจาย</item>
+        <item>ฝนตกหนักกระจาย</item>
+        <item>โอกาสเกิดพายุ</item>
+        <item>พายุไม่รุนแรง</item>
+        <item>พายุ</item>
+        <item>พายุรุนแรง</item>
+        <item>โอกาสเกิดพายุฝนฟ้าคะนอง</item>
+        <item>พายุฝนฟ้าคะนองกระจายเป็นหย่อม ๆ</item>
+        <item>พายุฝนฟ้าคะนอง</item>
+        <item>โอกาสเกิดหิมะตก</item>
+        <item>หิมะตกเล็กน้อย</item>
+        <item>หิมะตก</item>
+        <item>หิมะตกหนัก</item>
+        <item>หิมะตกกระจาย</item>
+        <item>ฝนและหิมะตก</item>
+        <item>ฝนตกจับตัวเป็นน้ำแข็งบนพื้น</item>
+        <item>ลูกเห็บ</item>
+        <item>พายุลูกเห็บ</item>
+        <item>หิมะฝน</item>
+        <item>เป็นน้ำแข็ง</item>
+        <item>ละอองหมอก</item>
+        <item>ฝุ่น</item>
+        <item>หมอก</item>
+        <item>ควัน</item>
+        <item>เมฆหมอก</item>
+        <item>หิมะตกปรอยๆ ช่วงสั้นๆ</item>
+        <item>พายุทราย</item>
+        <item>ปานกลาง</item>
+        <item>ฝนปรอย/ท้องฟ้าโปร่ง</item>
+        <item>พายุทอร์นาโด</item>
+        <item>พายุโซนร้อน</item>
+        <item>พายุเฮอริเคน</item>
+        <item>หนาว</item>
+        <item>ร้อน</item>
+        <item>ลมแรง</item>
+        <item>เย็น</item>
+        <item>อบอุ่น</item>
+        <item>อุ่น</item>
+        <item>อากาศสดใส</item>
+        <item>ลมพัดเบา</item>
+        <item>ชื้น</item>
+        <item>แห้ง</item>
+        <item>ฝนพรำ</item>
+    </string-array>
+    <string-array name="weekdays_long">
+        <item>อาทิตย์</item>
+        <item>จันทร์</item>
+        <item>อังคาร</item>
+        <item>พุธ</item>
+        <item>พฤหัสบดี</item>
+        <item>ศุกร์</item>
+        <item>เสาร์</item>
+    </string-array>
+    <string-array name="weekdays_short">
+        <item>อาทิ</item>
+        <item>จันท</item>
+        <item>อังค</item>
+        <item>พุธ</item>
+        <item>พฤหั</item>
+        <item>ศุกร์</item>
+        <item>เสาร์</item>
+    </string-array>
+</resources>

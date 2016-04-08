@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="appMainPageIndicatorHeight">66.0dip</dimen>
+    <dimen name="appMenuShareItemHeigh">70.0dip</dimen>
+    <dimen name="weatherLineViewHeigh">340.0dip</dimen>
+</resources>

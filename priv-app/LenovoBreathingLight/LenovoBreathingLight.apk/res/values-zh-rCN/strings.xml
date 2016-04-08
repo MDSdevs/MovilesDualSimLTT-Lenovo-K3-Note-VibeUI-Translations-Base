@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="colorLight_settings">灯效</string>
+    <string name="color_light">灯效</string>
+    <string name="color_light_demo">灯效演示</string>
+    <string name="color_light_call">来电</string>
+    <string name="color_light_missed_call">未接来电</string>
+    <string name="color_light_unread_mms">未读短信</string>
+    <string name="color_light_unread_email">电子邮件</string>
+    <string name="color_light_battery">低电量</string>
+    <string name="showing_color_light">正在进行灯效演示</string>
+    <string name="stop_color_light">停止</string>
+    <string name="color_light_hasopen">已打开</string>
+    <string name="color_light_hasclose">已关闭</string>
+    <string name="color_light_other_summary">其它未读通知</string>
+    <string name="color_light_other">微信、QQ、微博</string>
+    <string name="color_light_qq">QQ</string>
+    <string name="color_light_weixin">微信</string>
+    <string name="color_light_weibo">微博</string>
+    <string name="color_light_msg_title">消息</string>
+    <string name="color_light_close_light_midnight">0:00 ~ 6:00关闭灯效</string>
+    <string name="lightSummary">有未接来电、信息、微信、未读邮件等时的灯效提醒设置</string>
+</resources>

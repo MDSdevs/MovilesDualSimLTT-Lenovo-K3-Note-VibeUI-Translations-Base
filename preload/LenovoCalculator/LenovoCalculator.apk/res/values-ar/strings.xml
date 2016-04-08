@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">الآلة الحاسبة</string>
+    <string name="error_nan">ليس رقمًا</string>
+    <string name="error_syntax">خطأ</string>
+    <string name="fun_cos">cos</string>
+    <string name="fun_ln">ln</string>
+    <string name="fun_log">log</string>
+    <string name="fun_sin">sin</string>
+    <string name="fun_tan">tan</string>
+    <string name="clr">محو</string>
+    <string name="del">حذف</string>
+    <string name="desc_const_e">رقم أويلر</string>
+    <string name="desc_const_pi">باي</string>
+    <string name="desc_dec_point">نقطة</string>
+    <string name="desc_lparen">قوس أيسر</string>
+    <string name="desc_rparen">قوس أيمن</string>
+    <string name="desc_fun_cos">جيب التمام</string>
+    <string name="desc_fun_ln">اللوغاريتم الطبيعي</string>
+    <string name="desc_fun_log">لوغاريتم</string>
+    <string name="desc_fun_sin">جيب الزاوية</string>
+    <string name="desc_fun_tan">المماس</string>
+    <string name="desc_op_add">علامة الجمع</string>
+    <string name="desc_op_div">قسمة</string>
+    <string name="desc_op_fact">العامل</string>
+    <string name="desc_op_mul">ضرب</string>
+    <string name="desc_op_pow">أس</string>
+    <string name="desc_op_sqrt">جذر تربيعي</string>
+    <string name="desc_op_sub">علامة الطرح</string>
+    <string name="desc_clr">محو</string>
+    <string name="desc_del">حذف</string>
+    <string name="desc_eq">يساوي</string>
+</resources>

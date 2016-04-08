@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="animationDelayNames">
+        <item>Langzamer</item>
+        <item>Normaal</item>
+        <item>Sneller</item>
+    </string-array>
+    <string-array name="batteryPositionNames">
+        <item>Links</item>
+        <item>Rechts</item>
+    </string-array>
+    <string-array name="forecast_strings">
+        <item>Lokale tijd: %1$s</item>
+        <item>Zonsopgang: %1$s</item>
+        <item>Zonsondergang: %1$s</item>
+        <item>Duur van de dag: %1$s u, %2$s m</item>
+        <item>Wind: %1$s</item>
+        <item>Vochtigheid: %1$s</item>
+        <item>Laatste update: %1$s uur, %2$s Minuten geleden</item>
+        <item>Laatste update: %1$s Minuten geleden</item>
+        <item>Laatste update: %1$s</item>
+        <item>Update: %1$s u, %2$s m</item>
+        <item>Gevoelstemperatuur %1$s</item>
+    </string-array>
+    <string-array name="moon_phases">
+        <item>Nieuwe maan</item>
+        <item>Jonge maansikkel</item>
+        <item>Eerste kwartaal</item>
+        <item>Wassende maan</item>
+        <item>Volle maan</item>
+        <item>Afnemende maan</item>
+        <item>Derde kwartier</item>
+        <item>Afnemende maan</item>
+    </string-array>
+    <string-array name="refreshPeriodNames">
+        <item>Nooit</item>
+        <item>15 minuten</item>
+        <item>30 minuten</item>
+        <item>1 uur</item>
+        <item>2 uren</item>
+        <item>3 uren</item>
+        <item>4 uren</item>
+        <item>6 uren</item>
+    </string-array>
+    <string-array name="weather_conditions">
+        <item>Niet beschikbaar</item>
+        <item>Helder</item>
+        <item>Gedeeltelijk zonnig</item>
+        <item>Zonnig</item>
+        <item>Gedeeltelijk bewolkt</item>
+        <item>Overwegend bewolkt</item>
+        <item>Overwegend zonnig</item>
+        <item>Bewolking</item>
+        <item>Bewolkt</item>
+        <item>Zwaar bewolkt</item>
+        <item>Kans op regen</item>
+        <item>Motregen</item>
+        <item>Regen</item>
+        <item>Hier en daar een bui</item>
+        <item>Regen</item>
+        <item>Zware regenval</item>
+        <item>Kans op storm</item>
+        <item>Lichte storm</item>
+        <item>Storm</item>
+        <item>Zware storm</item>
+        <item>Kans op onweersbuien</item>
+        <item>Verspreid onweersbuien</item>
+        <item>Onweersbui</item>
+        <item>Kans op sneeuw</item>
+        <item>Lichte sneeuwval</item>
+        <item>Sneeuw</item>
+        <item>Zware sneeuwval</item>
+        <item>Sneeuwval</item>
+        <item>Natte sneeuw</item>
+        <item>Ijzel</item>
+        <item>Hagel</item>
+        <item>Hagel stormen</item>
+        <item>Ijzel</item>
+        <item>Ijsachtig</item>
+        <item>Nevel</item>
+        <item>Stof</item>
+        <item>Mist</item>
+        <item>Rook</item>
+        <item>Nevel</item>
+        <item>Stuifsneeuw</item>
+        <item>Zandstorm</item>
+        <item>Mooi</item>
+        <item>Regen/helder</item>
+        <item>Tornado</item>
+        <item>Tropische storm</item>
+        <item>Orkaan</item>
+        <item>Koud</item>
+        <item>Heet</item>
+        <item>Winderig</item>
+        <item>Koel</item>
+        <item>Zacht</item>
+        <item>Warm</item>
+        <item>Mooi</item>
+        <item>Licht winderig</item>
+        <item>Vochtig</item>
+        <item>Droog</item>
+        <item>Motregen</item>
+    </string-array>
+    <string-array name="weekdays_long">
+        <item>Zondag</item>
+        <item>Maandag</item>
+        <item>Dinsdag</item>
+        <item>Woensdag</item>
+        <item>Donderdag</item>
+        <item>Vrijdag</item>
+        <item>Zaterdag</item>
+    </string-array>
+    <string-array name="weekdays_short">
+        <item>Zo</item>
+        <item>Ma</item>
+        <item>Di</item>
+        <item>Wo</item>
+        <item>Do</item>
+        <item>Vr</item>
+        <item>Za</item>
+    </string-array>
+    <string-array name="widgetDateFormatNames">
+        <item>Monday, January 15</item>
+        <item>Mon, Jan 15, 2012</item>
+        <item>Monday 15 january</item>
+        <item>Mon, Jan 15 2012</item>
+        <item>Mon. 15 Jan 2012</item>
+        <item>Mon, Jan 15</item>
+        <item>Mon, 12/25/2012</item>
+        <item>Mon, 2012/12/25</item>
+        <item>Mon, 25.12.2012</item>
+        <item>JAN 15</item>
+        <item>15 January</item>
+        <item>January 15</item>
+        <item>15 JAN</item>
+        <item>15.01.2012</item>
+        <item>15.01.12</item>
+        <item>01.15.2012</item>
+        <item>01.15.12</item>
+        <item>15/01/2012</item>
+        <item>15/01/12</item>
+        <item>01/15/2012</item>
+        <item>01/15/12</item>
+        <item>15-01-2012</item>
+        <item>15-01-12</item>
+        <item>01-15-2012</item>
+        <item>01-15-12</item>
+        <item>2012-12-15</item>
+        <item>yyyy-m-d</item>
+        <item>yyyy/m/d</item>
+        <item>d/m/yyyy</item>
+        <item>d/m/yy</item>
+        <item>d.m.yyyy</item>
+        <item>d.m.yy</item>
+        <item>yy/m/d</item>
+        <item>yyyy/mm/dd</item>
+        <item>yy/mm/dd</item>
+    </string-array>
+</resources>

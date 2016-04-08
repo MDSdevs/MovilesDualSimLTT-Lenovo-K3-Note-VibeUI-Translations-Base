@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ماشین حساب</string>
+    <string name="error_nan">نامشخص</string>
+    <string name="error_syntax">خطا</string>
+    <string name="fun_cos">cos</string>
+    <string name="fun_ln">ln</string>
+    <string name="fun_log">log</string>
+    <string name="fun_sin">sin</string>
+    <string name="fun_tan">tan</string>
+    <string name="clr">پاک</string>
+    <string name="del">حذف</string>
+    <string name="desc_const_e">عدد اولر</string>
+    <string name="desc_const_pi">پی</string>
+    <string name="desc_dec_point">ممیز</string>
+    <string name="desc_lparen">پرانتز چپ</string>
+    <string name="desc_rparen">پرانتز راست</string>
+    <string name="desc_fun_cos">کسینوس</string>
+    <string name="desc_fun_ln">لگاریتم طبیعی</string>
+    <string name="desc_fun_log">لگاریتم</string>
+    <string name="desc_fun_sin">سینوس</string>
+    <string name="desc_fun_tan">تانژانت</string>
+    <string name="desc_op_add">به‌اضافه</string>
+    <string name="desc_op_div">تقسیم</string>
+    <string name="desc_op_fact">فاکتوریل</string>
+    <string name="desc_op_mul">ضرب</string>
+    <string name="desc_op_pow">توان</string>
+    <string name="desc_op_sqrt">ریشه دوم</string>
+    <string name="desc_op_sub">منها</string>
+    <string name="desc_clr">پاک کردن</string>
+    <string name="desc_del">حذف</string>
+    <string name="desc_eq">مساوی</string>
+</resources>

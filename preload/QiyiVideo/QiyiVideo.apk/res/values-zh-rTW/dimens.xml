@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_account_verification_width">136.0dip</dimen>
+    <dimen name="activity_account_verification_img_width">114.0dip</dimen>
+    <dimen name="activity_account_verification_img_height">48.0dip</dimen>
+    <dimen name="activity_account_verification_img_loading_size">30.0dip</dimen>
+    <dimen name="activity_account_verification_img_margin_left">30.0dip</dimen>
+    <dimen name="activity_account_verification_change_margin_left">10.0dip</dimen>
+    <dimen name="activity_account_verification_margin_top">10.0dip</dimen>
+    <dimen name="activity_account_activationcode_submit_margin_top">28.0dip</dimen>
+    <dimen name="activity_account_verification_tip_margin_top">28.0dip</dimen>
+</resources>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kalkulaator</string>
+    <string name="error_nan">Pole number</string>
+    <string name="error_syntax">Viga</string>
+    <string name="fun_cos">cos</string>
+    <string name="fun_ln">ln</string>
+    <string name="fun_log">log</string>
+    <string name="fun_sin">sin</string>
+    <string name="fun_tan">tan</string>
+    <string name="clr">tüh</string>
+    <string name="del">kus</string>
+    <string name="desc_const_e">Euleri arv</string>
+    <string name="desc_const_pi">pii</string>
+    <string name="desc_dec_point">punkt</string>
+    <string name="desc_lparen">vasaksulg</string>
+    <string name="desc_rparen">paremsulg</string>
+    <string name="desc_fun_cos">koosinus</string>
+    <string name="desc_fun_ln">naturaallogaritm</string>
+    <string name="desc_fun_log">logaritm</string>
+    <string name="desc_fun_sin">siinus</string>
+    <string name="desc_fun_tan">tangens</string>
+    <string name="desc_op_add">pluss</string>
+    <string name="desc_op_div">jaga</string>
+    <string name="desc_op_fact">faktoriaal</string>
+    <string name="desc_op_mul">korruta</string>
+    <string name="desc_op_pow">aste</string>
+    <string name="desc_op_sqrt">ruutjuur</string>
+    <string name="desc_op_sub">miinus</string>
+    <string name="desc_clr">tühjenda</string>
+    <string name="desc_del">kustuta</string>
+    <string name="desc_eq">võrdub</string>
+</resources>

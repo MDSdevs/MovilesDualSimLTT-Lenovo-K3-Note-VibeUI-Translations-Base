@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="appdetail_access_items">
+        <item>Pyet</item>
+        <item>Lejo</item>
+        <item>Refuzo</item>
+    </string-array>
+    <string-array name="appdetail_access_items_pro">
+        <item>Kërko</item>
+        <item>Lejo</item>
+        <item>Lejo+Kohë</item>
+        <item>Refuzo</item>
+        <item>Moho+Kohë</item>
+    </string-array>
+    <string-array name="appdetail_logging_items">
+        <item>E përzgjedhur e përgjithshme</item>
+        <item>Përmbajtja e plotë</item>
+        <item>Vetëm casje</item>
+        <item>Asnjë</item>
+    </string-array>
+    <string-array name="appdetail_notification_items">
+        <item>E parazgjedhur globale</item>
+        <item>Superpërdoruesi është aktivizuar</item>
+        <item>Çaktivizuar</item>
+    </string-array>
+    <string-array name="expire_timer">
+        <item>Pafundësisht</item>
+        <item>1 minutë</item>
+        <item>5 minuta</item>
+        <item>15 minuta</item>
+        <item>30 minuta</item>
+        <item>1 orë</item>
+        <item>3 orë</item>
+        <item>6 orë</item>
+        <item>12 orë</item>
+        <item>24 orë</item>
+    </string-array>
+    <string-array name="settings_default_access_items">
+        <item>Pyet</item>
+        <item>Lejo</item>
+        <item>Moho</item>
+    </string-array>
+    <string-array name="settings_log_age_items">
+        <item>Kurrë</item>
+        <item>2 javë</item>
+        <item>1 javë</item>
+        <item>3 ditë</item>
+        <item>2 ditë</item>
+        <item>1 ditë</item>
+    </string-array>
+    <string-array name="settings_log_format_items">
+        <item>31/12 23:59</item>
+        <item>12/31 23:59</item>
+        <item>31/12 11:59 PM</item>
+        <item>12/31 11:59 PM</item>
+    </string-array>
+    <string-array name="settings_log_items">
+        <item>Përmbajtja e plotë</item>
+        <item>Vetëm akses</item>
+        <item>Asnjë</item>
+    </string-array>
+</resources>

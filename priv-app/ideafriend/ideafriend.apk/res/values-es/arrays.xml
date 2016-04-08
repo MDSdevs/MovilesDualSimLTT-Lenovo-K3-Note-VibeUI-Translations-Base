@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="empty_subject_strings">
+        <item>sin asunto</item>
+    </string-array>
+    <string-array name="forward_pref_sms_forward_need_add_choices_oversea">
+        <item>Hacia adelante</item>
+        <item>Viene con el nombre del remitente</item>
+        <item>Viene con el nombre y el número del remitente</item>
+    </string-array>
+    <string-array name="forward_pref_sms_forward_need_add_choices">
+        <item>Hacia adelante</item>
+        <item>Viene con el nombre del remitente</item>
+        <item>Viene con el nombre y el número del remitente</item>
+        <item>Pregunta cuando quieras</item>
+    </string-array>
+    <string-array name="pref_sms_save_location_choices">
+        <item>Teléfono</item>
+        <item>tarjeta SIM</item>
+    </string-array>
+    <string-array name="pref_tablet_sms_save_location_choices">
+        <item>equipo</item>
+        <item>tarjeta SIM</item>
+    </string-array>
+    <string-array name="pref_sms_save_location_choices_ct">
+        <item>Teléfono</item>
+        <item>tarjeta UIM</item>
+    </string-array>
+    <string-array name="pref_key_mms_priority_choices">
+        <item>alto</item>
+        <item>en</item>
+        <item>bajo</item>
+    </string-array>
+    <string-array name="default_quick_texts">
+        <item>¿Dónde estás?</item>
+        <item>¿Qué estás haciendo?</item>
+        <item>¡ansioso! Gallardo espalda.</item>
+        <item>En este momento, estamos en una reunión.</item>
+        <item>Usted se vuelve un poco más tarde el teléfono.</item>
+        <item>Estoy bien, no te preocupes.</item>
+        <item>Estamos en el camino a casa.</item>
+        <item>Fui rápidamente a.</item>
+        <item>¡Te veo allí!</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 segundo</item>
+        <item>2 segundos</item>
+        <item>3 segundos</item>
+        <item>4 segundos</item>
+        <item>5 segundos</item>
+        <item>6 segundos</item>
+        <item>7 segundos</item>
+        <item>8 segundos</item>
+        <item>9 segundos</item>
+        <item>10 segundos</item>
+        <item>otro</item>
+    </string-array>
+    <string-array name="otherLabels">
+        <item>organización</item>
+        <item>Observación</item>
+    </string-array>
+    <string-array name="settings_minmatch_array">
+        <item>11</item>
+        <item>7</item>
+    </string-array>
+    <string-array name="lunar_month_array">
+        <item>Primer mes</item>
+        <item>febrero</item>
+        <item>marzo</item>
+        <item>abril</item>
+        <item>Mayo</item>
+        <item>junio</item>
+        <item>julio</item>
+        <item>agosto</item>
+        <item>septiembre</item>
+        <item>octubre</item>
+        <item>noviembre</item>
+        <item>diciembre</item>
+    </string-array>
+    <string-array name="lunar_day_array">
+        <item>Primer día</item>
+        <item>Dos días</item>
+        <item>Tres días</item>
+        <item>Cuarto día</item>
+        <item>Quinto día</item>
+        <item>Sexto</item>
+        <item>Séptimo</item>
+        <item>chuba</item>
+        <item>Noveno</item>
+        <item>Décimo</item>
+        <item>once</item>
+        <item>doce</item>
+        <item>trece</item>
+        <item>catorce</item>
+        <item>quince</item>
+        <item>dieciséis</item>
+        <item>De diecisiete</item>
+        <item>Dieciocho</item>
+        <item>Diecinueve</item>
+        <item>veinte</item>
+        <item>Veinte</item>
+        <item>Veintidós</item>
+        <item>Niansan</item>
+        <item>Veinticuatro</item>
+        <item>Veinticinco</item>
+        <item>Nianliu</item>
+        <item>Nianqi</item>
+        <item>Nianba</item>
+        <item>Víspera</item>
+        <item>treinta</item>
+    </string-array>
+    <string-array name="sound_effect_list">
+        <item>defecto</item>
+        <item>piano</item>
+    </string-array>
+    <string-array name="setting_dialer_sound_array">
+        <item>no</item>
+        <item>defecto</item>
+        <item>piano</item>
+    </string-array>
+</resources>

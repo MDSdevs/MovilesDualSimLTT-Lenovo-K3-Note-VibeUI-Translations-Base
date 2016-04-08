@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="animationDelayNames">
+        <item>Mai încet</item>
+        <item>Normal</item>
+        <item>Mai repede</item>
+    </string-array>
+    <string-array name="batteryPositionNames">
+        <item>Stânga</item>
+        <item>Dreapta</item>
+    </string-array>
+    <string-array name="forecast_strings">
+        <item>Ora locală: %1$s</item>
+        <item>Răsărit: %1$s</item>
+        <item>Apus: %1$s</item>
+        <item>Durata zilei: %1$s o, %2$s m</item>
+        <item>Vânt: %1$s</item>
+        <item>Umiditate: %1$s</item>
+        <item>Ultima actualizare: acum %1$s ore și %2$s minute</item>
+        <item>Ultima actualizare: acum %1$s minute</item>
+        <item>Ultima actualizare: %1$s</item>
+        <item>Actualizare: %1$s o, %2$s m</item>
+        <item>Se simte ca %1$s</item>
+    </string-array>
+    <string-array name="moon_phases">
+        <item>Lună nouă</item>
+        <item>Waxing crescent</item>
+        <item>Primul pătrar</item>
+        <item>Waxing gibbous</item>
+        <item>Lună plină</item>
+        <item>Waning gibbous</item>
+        <item>Treilea pătrar</item>
+        <item>Waning crescent</item>
+    </string-array>
+    <string-array name="refreshPeriodNames">
+        <item>Niciodată</item>
+        <item>15 minute</item>
+        <item>30 minute</item>
+        <item>1 oră</item>
+        <item>2 ore</item>
+        <item>3 ore</item>
+        <item>4 ore</item>
+        <item>6 ore</item>
+    </string-array>
+    <string-array name="weather_conditions">
+        <item>Indisponibil</item>
+        <item>Senin</item>
+        <item>Parțial însorit</item>
+        <item>Însorit</item>
+        <item>Parțial noros</item>
+        <item>Predominant noros</item>
+        <item>Predominant însorit</item>
+        <item>Acoperit de nori</item>
+        <item>Înnorat</item>
+        <item>Foarte înnorat</item>
+        <item>Șanse de ploaie</item>
+        <item>Ploaie slabă</item>
+        <item>Ploaie</item>
+        <item>Averse izolate</item>
+        <item>Averse</item>
+        <item>Averse puternice</item>
+        <item>Șanse de furtună</item>
+        <item>Furtună slabă</item>
+        <item>Furtună</item>
+        <item>Furtună puternică</item>
+        <item>Șanse de descărcări electrice</item>
+        <item>Descărcări electrice izolate</item>
+        <item>Descărcări electrice</item>
+        <item>Șanse de ninsoare</item>
+        <item>Ninsoare slabă</item>
+        <item>Ninsoare</item>
+        <item>Ninsoare puternică</item>
+        <item>Averse de ninsoare</item>
+        <item>Lapoviță</item>
+        <item>Grindină cu gheață</item>
+        <item>Grindină</item>
+        <item>Furtună cu grindină</item>
+        <item>Lapoviță</item>
+        <item>Înghețat</item>
+        <item>Pâclă</item>
+        <item>Praf</item>
+        <item>Ceață</item>
+        <item>Fum</item>
+        <item>Aburi de ceață</item>
+        <item>Fulgi</item>
+        <item>Furtună de nisip</item>
+        <item>Favorabil﻿</item>
+        <item>Averse/senin</item>
+        <item>Tornadă</item>
+        <item>Furtună tropicală</item>
+        <item>Uragan</item>
+        <item>Rece</item>
+        <item>Fierbinte</item>
+        <item>Vântos</item>
+        <item>Răcoros</item>
+        <item>Temperat</item>
+        <item>Cald</item>
+        <item>Frumos</item>
+        <item>Cu adieri</item>
+        <item>Umed</item>
+        <item>Uscat</item>
+        <item>Burniţă</item>
+    </string-array>
+    <string-array name="weekdays_long">
+        <item>Duminică</item>
+        <item>Luni</item>
+        <item>Marți</item>
+        <item>Miercuri</item>
+        <item>Joi</item>
+        <item>Vineri</item>
+        <item>Sâmbătă</item>
+    </string-array>
+    <string-array name="weekdays_short">
+        <item>Dum</item>
+        <item>Lun</item>
+        <item>Mar</item>
+        <item>Mie</item>
+        <item>Joi</item>
+        <item>Vin</item>
+        <item>Sâm</item>
+    </string-array>
+    <string-array name="widgetDateFormatNames">
+        <item>Luni, Decembrie 15</item>
+        <item>Lu, Dec 15, 2012</item>
+        <item>Luni 15 decembrie</item>
+        <item>Lu, Dec 15 2012</item>
+        <item>Lu. 15 Dec. 2012</item>
+        <item>Lu, Dec 15</item>
+        <item>Lu, 12/25/2012</item>
+        <item>Lu, 2012/12/25</item>
+        <item>Lu, 25.12.2012</item>
+        <item>IAN 15</item>
+        <item>15 Ianuarie</item>
+        <item>Ianuarie 15</item>
+        <item>15 IAN</item>
+        <item>15.01.2012</item>
+        <item>15.01.12</item>
+        <item>01.15.2012</item>
+        <item>01.15.12</item>
+        <item>15/01/2012</item>
+        <item>15/01/12</item>
+        <item>01/15/2012</item>
+        <item>01/15/12</item>
+        <item>15-01-2012</item>
+        <item>15-01-12</item>
+        <item>01-15-2012</item>
+        <item>01-15-12</item>
+        <item>2012-12-15</item>
+        <item>yyyy-m-d</item>
+        <item>yyyy/m/d</item>
+        <item>d/m/yyyy</item>
+        <item>d/m/yy</item>
+        <item>d.m.yyyy</item>
+        <item>d.m.yy</item>
+        <item>yy/m/d</item>
+        <item>yyyy/mm/dd</item>
+        <item>yy/mm/dd</item>
+    </string-array>
+    <string-array name="visibilityUnitNames">
+        <item>metri</item>
+        <item>kilometri</item>
+        <item>mile</item>
+    </string-array>
+</resources>

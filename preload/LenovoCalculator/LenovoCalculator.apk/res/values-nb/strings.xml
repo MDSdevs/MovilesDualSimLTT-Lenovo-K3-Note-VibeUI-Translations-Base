@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kalkulator</string>
+    <string name="error_nan">Ikke et tall</string>
+    <string name="error_syntax">Feil</string>
+    <string name="fun_cos">cos</string>
+    <string name="fun_ln">ln</string>
+    <string name="fun_log">log</string>
+    <string name="fun_sin">sin</string>
+    <string name="fun_tan">tan</string>
+    <string name="clr">clr</string>
+    <string name="del">del</string>
+    <string name="desc_const_e">Eulers tall</string>
+    <string name="desc_const_pi">pi</string>
+    <string name="desc_dec_point">komma </string>
+    <string name="desc_lparen">venstre parentes</string>
+    <string name="desc_rparen">høyre parentes</string>
+    <string name="desc_fun_cos">cosinus</string>
+    <string name="desc_fun_ln">naturlig logaritme</string>
+    <string name="desc_fun_log">logaritme</string>
+    <string name="desc_fun_sin">sinus</string>
+    <string name="desc_fun_tan">tangent</string>
+    <string name="desc_op_add">pluss</string>
+    <string name="desc_op_div">dele</string>
+    <string name="desc_op_fact">fakultet</string>
+    <string name="desc_op_mul">ganger</string>
+    <string name="desc_op_pow">potens</string>
+    <string name="desc_op_sqrt">kvadratrot</string>
+    <string name="desc_op_sub">minusknapp</string>
+    <string name="desc_clr">slett</string>
+    <string name="desc_del">slett</string>
+    <string name="desc_eq">er lik</string>
+</resources>

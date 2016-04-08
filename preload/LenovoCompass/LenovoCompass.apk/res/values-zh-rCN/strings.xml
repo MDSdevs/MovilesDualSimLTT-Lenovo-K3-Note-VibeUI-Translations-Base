@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Info">提示</string>
+    <string name="Ok">同意并继续</string>
+    <string name="Cancel">退出</string>
+    <string name="app_name">指南针</string>
+    <string name="calibrate">校准</string>
+    <string name="latitude">纬度</string>
+    <string name="longitude">经度</string>
+    <string name="calibrate_success">校准成功</string>
+    <string name="ignore">忽略</string>
+    <string name="cannot_get_location">无法获取位置信息.</string>
+    <string name="location_north">北纬</string>
+    <string name="location_south">南纬</string>
+    <string name="location_east">东经</string>
+    <string name="location_west">西经</string>
+    <string name="direction_north">北</string>
+    <string name="direction_south">南</string>
+    <string name="direction_east">东</string>
+    <string name="direction_west">西</string>
+    <string name="direction_east_north">东北</string>
+    <string name="direction_east_south">东南</string>
+    <string name="direction_west_north">西北</string>
+    <string name="direction_west_south">西南</string>
+    <string name="Tips">﻿附近可能有磁场干扰，请按上图图形进行画8字若干次，校准成功后自动关闭对话框。</string>
+    <string name="Warn">附近可能有磁场干扰</string>
+    <string name="click_to_location">点击获取经纬度信息</string>
+    <string name="warn_message">尊敬的用户，获取经纬度信息需要GPS定位或连接网络。您是否同意？</string>
+    <string name="no_warn_later">不再提醒</string>
+    <string name="start_calibration">请以8字型摇动您的手机进行校准</string>
+    <string name="no_location_server">未开启位置服务</string>
+    <string name="DoNotSHowAgain">不再提示</string>
+</resources>

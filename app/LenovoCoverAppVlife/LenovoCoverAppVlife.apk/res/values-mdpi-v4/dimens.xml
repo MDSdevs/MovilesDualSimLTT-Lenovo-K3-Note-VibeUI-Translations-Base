@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="account_gold_frame_left">8.0px</dimen>
+    <dimen name="bottom_function_layout_height">73.0px</dimen>
+</resources>

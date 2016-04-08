@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="setting_array">
+        <item>清除缓存</item>
+        <item>API测试</item>
+        <item>重启手机</item>
+        <item>重启到recovery</item>
+        <item>重启到fastboot</item>
+        <item>关于</item>
+    </string-array>
+</resources>

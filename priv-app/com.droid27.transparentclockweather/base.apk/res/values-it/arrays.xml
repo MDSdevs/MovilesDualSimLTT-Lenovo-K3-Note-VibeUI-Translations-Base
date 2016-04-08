@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="animationDelayNames">
+        <item>Più lento</item>
+        <item>Normale</item>
+        <item>Più veloce</item>
+    </string-array>
+    <string-array name="batteryPositionNames">
+        <item>Sinistra</item>
+        <item>Destra</item>
+    </string-array>
+    <string-array name="forecast_strings">
+        <item>Ora locale: %1$s</item>
+        <item>Alba: %1$s</item>
+        <item>Tramonto: %1$s</item>
+        <item>Durata del giorno: %1$s h, %2$s m</item>
+        <item>Vento: %1$s</item>
+        <item>Umidità %1$s</item>
+        <item>Ultimo aggiornamento: %1$s ore, %2$s minuti fa</item>
+        <item>Ultimo aggiornamento: %1$s minuti fa</item>
+        <item>Ultimo aggiornamento: %1$s</item>
+        <item>Aggiornamento: %1$s h, %2$s m</item>
+        <item>Percepita come %1$s</item>
+    </string-array>
+    <string-array name="moon_phases">
+        <item>Novilunio</item>
+        <item>Luna crescente</item>
+        <item>Primo quarto di luna</item>
+        <item>Gibbosa crescente</item>
+        <item>Plenilunio</item>
+        <item>Gibbosa calante</item>
+        <item>Terzo quarto di luna</item>
+        <item>Luna calante</item>
+    </string-array>
+    <string-array name="refreshPeriodNames">
+        <item>Mai</item>
+        <item>15 minuti</item>
+        <item>30 minuti</item>
+        <item>1 ora</item>
+        <item>2 ora</item>
+        <item>3 ora</item>
+        <item>4 ora</item>
+        <item>6 ora</item>
+    </string-array>
+    <string-array name="weather_conditions">
+        <item>Non disponibile</item>
+        <item>Sereno</item>
+        <item>Parzialmente sereno</item>
+        <item>Soleggiato</item>
+        <item>Parzialmente nuvoloso</item>
+        <item>Molto nuvoloso</item>
+        <item>Per lo più sereno</item>
+        <item>Coperto</item>
+        <item>Nuvoloso</item>
+        <item>Molto nuvoloso</item>
+        <item>Possibilità pioggia</item>
+        <item>Pioggia leggera</item>
+        <item>Pioggia</item>
+        <item>Rovesci sparsi</item>
+        <item>Rovesci</item>
+        <item>Forti rovesci</item>
+        <item>Possibilità tempesta</item>
+        <item>Tempeste deboli</item>
+        <item>Tempesta</item>
+        <item>Tempeste forti</item>
+        <item>Possibilità temporali</item>
+        <item>Temporali parziali</item>
+        <item>Temporale</item>
+        <item>Possibilitߤi neve</item>
+        <item>Neve leggera</item>
+        <item>Neve</item>
+        <item>Forti nevicate</item>
+        <item>Rovesci di neve</item>
+        <item>Acquaneve</item>
+        <item>Pioviggine congelantesi</item>
+        <item>Grandine</item>
+        <item>Tempesta di grandine</item>
+        <item>Nevischio</item>
+        <item>Gelido</item>
+        <item>Nebbiolina</item>
+        <item>Pulviscolo</item>
+        <item>Nebbia</item>
+        <item>Fumo</item>
+        <item>Foschia</item>
+        <item>Nevicate</item>
+        <item>Tempesta di sabbia</item>
+        <item>Sereno</item>
+        <item>Rovesci/sereno</item>
+        <item>Tornado</item>
+        <item>Tempesta tropicale</item>
+        <item>Uragano</item>
+        <item>Freddo</item>
+        <item>Molto caldo</item>
+        <item>Ventoso</item>
+        <item>Fresco</item>
+        <item>Mite</item>
+        <item>Caldo</item>
+        <item>Sereno</item>
+        <item>Ventilato</item>
+        <item>Umido</item>
+        <item>Secco</item>
+        <item>Piovigginoso</item>
+    </string-array>
+    <string-array name="weekdays_long">
+        <item>Domenica</item>
+        <item>Lunedi</item>
+        <item>Martedì</item>
+        <item>Mercoledì</item>
+        <item>Giovedi</item>
+        <item>Venerdì</item>
+        <item>Sabato</item>
+    </string-array>
+    <string-array name="weekdays_short">
+        <item>Dom</item>
+        <item>Lun</item>
+        <item>Mar</item>
+        <item>Mer</item>
+        <item>Gio</item>
+        <item>Ven</item>
+        <item>Sab</item>
+    </string-array>
+    <string-array name="widgetDateFormatNames">
+        <item>Lunedi, Gennaio 15</item>
+        <item>Lun, Gen 15, 2012</item>
+        <item>Lunedi 15 gennaio</item>
+        <item>Lun, Gen 15 2012</item>
+        <item>Lun. 15 Gen. 2012</item>
+        <item>Lun, Gen 15</item>
+        <item>Lun, 12/25/2012</item>
+        <item>Lun, 2012/12/25</item>
+        <item>Lun, 25.12.2012</item>
+        <item>GEN 15</item>
+        <item>15 Gennaio</item>
+        <item>Gennaio 15</item>
+        <item>15 GEN</item>
+        <item>15.01.2012</item>
+        <item>15.01.12</item>
+        <item>01.15.2012</item>
+        <item>01.15.12</item>
+        <item>15/01/2012</item>
+        <item>15/01/12</item>
+        <item>01/15/2012</item>
+        <item>01/15/12</item>
+        <item>15-01-2012</item>
+        <item>15-01-12</item>
+        <item>01-15-2012</item>
+        <item>01-15-12</item>
+        <item>2012-12-15</item>
+        <item>yyyy-m-d</item>
+        <item>yyyy/m/d</item>
+        <item>d/m/yyyy</item>
+        <item>d/m/yy</item>
+        <item>d.m.yyyy</item>
+        <item>d.m.yy</item>
+        <item>yy/m/d</item>
+        <item>yyyy/mm/dd</item>
+        <item>yy/mm/dd</item>
+    </string-array>
+    <string-array name="visibilityUnitNames">
+        <item>metri</item>
+        <item>chilometri</item>
+        <item>miglia</item>
+    </string-array>
+    <string-array name="pressureUnitNames">
+        <item>atm</item>
+        <item>bar</item>
+        <item>mBar</item>
+        <item>mmHg</item>
+        <item>inHg</item>
+        <item>Pa</item>
+        <item>hPa</item>
+        <item>kPa</item>
+        <item>psi</item>
+    </string-array>
+    <string-array name="pressureUnitNamesPrefs">
+        <item>atm</item>
+        <item>bar</item>
+        <item>mBar</item>
+        <item>mmHg</item>
+        <item>inHg</item>
+        <item>Pa</item>
+        <item>hPa</item>
+        <item>kPa</item>
+        <item>psi</item>
+    </string-array>
+    <string-array name="windSpeedUnitNames">
+        <item>m/s</item>
+        <item>km/h</item>
+        <item>mph</item>
+        <item>Beaufort</item>
+        <item>nodi</item>
+    </string-array>
+</resources>
