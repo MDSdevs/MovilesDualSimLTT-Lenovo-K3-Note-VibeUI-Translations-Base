@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="recurrence_freq">
+        <item>দৈনিক পুনরাবৃত্তি</item>
+        <item>সাপ্তাহিক পুনরাবৃত্তি</item>
+        <item>মাসিক পুনরাবৃত্তি</item>
+        <item>বাৎসরিক পুনরাবৃত্তি</item>
+    </string-array>
+    <string-array name="edit_recurrence">
+        <item>পুনরাবৃত্তি করবেন না</item>
+        <item>প্রতিদিন</item>
+        <item>প্রতি সপ্তাহে</item>
+        <item>প্রতি মাসে</item>
+        <item>প্রতি বছর</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>প্রতি মাসের প্রথম রবিবারে</item>
+        <item>প্রতি মাসের দ্বিতীয় রবিবারে</item>
+        <item>প্রতি মাসের তৃতীয় রবিবারে</item>
+        <item>প্রতি মাসের চতুর্থ রবিবারে</item>
+        <item>প্রতি মাসের শেষ রবিবারে</item>
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>প্রতি মাসের প্রথম সোমবারে</item>
+        <item>প্রতি মাসের দ্বিতীয় সোমবারে</item>
+        <item>প্রতি মাসের তৃতীয় সোমবারে</item>
+        <item>প্রতি মাসের চতুর্থ সোমবারে</item>
+        <item>প্রতি মাসের শেষ সোমবারে</item>
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>প্রতি মাসের প্রথম মঙ্গলবারে</item>
+        <item>প্রতি মাসের দ্বিতীয় মঙ্গলবারে</item>
+        <item>প্রতি মাসের তৃতীয় মঙ্গলবারে</item>
+        <item>প্রতি মাসের চতুর্থ মঙ্গলবারে</item>
+        <item>প্রতি মাসের শেষ মঙ্গলবারে</item>
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>প্রতি মাসের প্রথম বুধবারে</item>
+        <item>প্রতি মাসের দ্বিতীয় বুধবারে</item>
+        <item>প্রতি মাসের তৃতীয় বুধবারে</item>
+        <item>প্রতি মাসের চতুর্থ বুধবারে</item>
+        <item>প্রতি মাসের শেষ বুধবারে</item>
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>প্রতি মাসের প্রথম বৃহস্পতিবারে</item>
+        <item>প্রতি মাসের দ্বিতীয় বৃহস্পতিবারে</item>
+        <item>প্রতি মাসের তৃতীয় বৃহস্পতিবারে</item>
+        <item>প্রতি মাসের চতুর্থ বৃহস্পতিবারে</item>
+        <item>প্রতি মাসের শেষ বৃহস্পতিবারে</item>
+    </string-array>
+    <string-array name="repeat_by_nth_fri">
+        <item>প্রতি মাসের প্রথম শুক্রবারে</item>
+        <item>প্রতি মাসের দ্বিতীয় শুক্রবারে</item>
+        <item>প্রতি মাসের তৃতীয় শুক্রবারে</item>
+        <item>প্রতি মাসের চতুর্থ শুক্রবারে</item>
+        <item>প্রতি মাসের শেষ শুক্রবারে</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>প্রতি মাসের প্রথম শনিবারে</item>
+        <item>প্রতি মাসের দ্বিতীয় শনিবারে</item>
+        <item>প্রতি মাসের তৃতীয় শনিবারে</item>
+        <item>প্রতি মাসের চতুর্থ শনিবারে</item>
+        <item>প্রতি মাসের শেষ শনিবারে</item>
+    </string-array>
+    <string-array name="baseball_innings">
+        <item>প্রথম ইনিংস</item>
+        <item>দ্বিতীয় ইনিংস</item>
+        <item>তৃতীয় ইনিংস</item>
+        <item>চতুর্থ ইনিংস</item>
+        <item>পঞ্চম ইনিংস</item>
+        <item>ষষ্ঠ ইনিংস</item>
+        <item>সপ্তম ইনিংস</item>
+        <item>অষ্টম ইনিংস</item>
+        <item>৯তম ইনিংস</item>
+        <item>দশম ইনিংস</item>
+        <item>১১তম ইনিংস</item>
+        <item>বারো তম ইনিংস</item>
+    </string-array>
+    <string-array name="qp_top_baseball_innings">
+        <item>টপ ১ম</item>
+        <item>টপ ২য়</item>
+        <item>টপ ৩য়</item>
+        <item>টপ ৪র্থ</item>
+        <item>টপ ৫ম</item>
+        <item>টপ ৬ষ্ঠ</item>
+        <item>টপ ৭ম</item>
+        <item>টপ ৮ম</item>
+        <item>টপ ৯ম</item>
+        <item>টপ ১০ম</item>
+        <item>টপ ১১তম</item>
+        <item>টপ ১২তম</item>
+    </string-array>
+    <string-array name="qp_bottom_baseball_innings">
+        <item>বটম ১ম</item>
+        <item>বটম ২য়</item>
+        <item>বটম ৩য়</item>
+        <item>বটম ৪র্থ</item>
+        <item>বটম ৫ম</item>
+        <item>বটম ৬ষ্ঠ</item>
+        <item>বটম ৭ম</item>
+        <item>বটম ৮ম</item>
+        <item>বটম ৯ম</item>
+        <item>বটম ১০ম</item>
+        <item>বটম ১১তম</item>
+        <item>বটম ১২তম</item>
+    </string-array>
+    <string-array name="local_results_markers">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+    </string-array>
+    <string-array name="languageNames">
+        <item>আফ্রিকান্স (দক্ষিণ আফ্রিকা)</item>
+        <item>আরবি (আলজেরিয়া)</item>
+        <item>আরবি (মিশর)</item>
+        <item>আরবি (ইরাক)</item>
+        <item>আরবি (ইজরায়েল)</item>
+        <item>আরবি (জর্ডন)</item>
+        <item>আরবি (কুয়েত)</item>
+        <item>আরবি (লেবানন)</item>
+        <item>আরবি (লিবিয়া)</item>
+        <item>আরবি (মরক্কো)</item>
+        <item>আরবি (কাতার)</item>
+        <item>আরবি (সৌদি আরব)</item>
+        <item>আরবি (সুদান)</item>
+        <item>আরবি (সিরিয়া)</item>
+        <item>আরবি (তিউনিশিয়া)</item>
+        <item>আরবি (সংযুক্ত আরব আমীরশাহী)</item>
+        <item>আরবি (ইয়েমেন)</item>
+        <item>বেলারুশীয় (বেলারুশ)</item>
+        <item>বাংলা (বাংলাদেশ)</item>
+        <item>বুলগেরিয়ান (বুলগেরিয়া)</item>
+        <item>কাটালান (স্পেন)</item>
+        <item>চাইনিজ, মান্ডারিন (চিন, সরলীকৃত)</item>
+        <item>চীনা, ম্যান্ডারিন (হংকং, সরলীকৃত)</item>
+        <item>চীনা, ম্যান্ডারিন (হংকং, ঐতিহ্যবাহী)</item>
+        <item>চীনা, ম্যান্ডারিন (সিঙ্গাপুর, সরলীকৃত)</item>
+        <item>চীনা, ম্যান্ডারিন (তাইওয়ান, সরলীকৃত)</item>
+        <item>চাইনিজ, মান্ডারিন (তাইওয়ান, ঐতিহ্যশালী)</item>
+        <item>চীনা, ইউ (চীন, সরলীকৃত)</item>
+        <item>চীনা, ইউ (হংকং, ঐতিহ্যবাহী)</item>
+        <item>ক্রোয়েশিয়ান (ক্রোয়েশিয়া)</item>
+        <item>চেক (চেক প্রজাতন্ত্র)</item>
+        <item>ডেনিশ (ডেনমার্ক)</item>
+        <item>ডাচ (বেলজিয়াম)</item>
+        <item>ডাচ (নেদারল্যান্ড)</item>
+        <item>ইংরাজি (জেনেরিক)</item>
+        <item>ইংরাজি (অস্ট্রেলিয়া)</item>
+        <item>ইংরাজি (বাংলাদেশ)</item>
+        <item>ইংরাজি (কানাডা)</item>
+        <item>ইংরাজি (হংকং)</item>
+        <item>ইংরাজি (ভারত)</item>
+        <item>ইংরাজি (আয়ারল্যান্ড)</item>
+        <item>ইংরাজি (কেনিয়া)</item>
+        <item>ইংরেজি (মালয়েশিয়া)</item>
+        <item>ইংরাজি (নিউজিল্যান্ড)</item>
+        <item>ইংরেজি (নাইজেরিয়া)</item>
+        <item>ইংরাজি (পাকিস্তান)</item>
+        <item>ইংরাজি (ফিলিপিন্স)</item>
+        <item>ইংরাজি (সিঙ্গাপুর)</item>
+        <item>ইংরাজি (দক্ষিণ আফ্রিকা)</item>
+        <item>ইংরাজি (সুদান)</item>
+        <item>ইংরাজি (তানজানিয়া)</item>
+        <item>ইংরাজি (উগান্ডা)</item>
+        <item>ইংরেজি (UK)</item>
+        <item>ইংরাজি (US)</item>
+        <item>এস্তোনিয়ান (এস্তোনিয়া)</item>
+        <item>ফিলিপিনো (ফিলিপিন্স)</item>
+        <item>ফিনিশ (ফিনল্যান্ড)</item>
+        <item>ফরাসি (বেলজিয়াম)</item>
+        <item>ফরাসী (কানাডা)</item>
+        <item>ফরাসি (ফ্রান্স)</item>
+        <item>ফরাসী (সুইজারল্যান্ড)</item>
+        <item>গ্যালিশিয় (স্পেন)</item>
+        <item>জার্মান (অস্ট্রিয়া)</item>
+        <item>জার্মান (জার্মানি)</item>
+        <item>জার্মান (সুইজারল্যান্ড)</item>
+        <item>জার্মান (লিচেনস্টাইন)</item>
+        <item>গ্রিক (গ্রীস)</item>
+        <item>হিব্রু (ইজরায়েল)</item>
+        <item>হিন্দি (ভারত)</item>
+        <item>হাঙ্গেরিয়ান (হাঙ্গেরি)</item>
+        <item>আইসল্যান্ডিক (আইসল্যান্ড)</item>
+        <item>ইন্দোনেশিয়ান (ইন্দোনেশিয়া)</item>
+        <item>আইরিশ (আয়ারল্যান্ড)</item>
+        <item>isiNdebele (দক্ষিণ আফ্রিকা)</item>
+        <item>ইসিক্সোসা (দক্ষিণ আফ্রিকা)</item>
+        <item>ইসিজুলু (দক্ষিণ আফ্রিকা)</item>
+        <item>ইটালিয়ান (ইতালি)</item>
+        <item>ইটালিয়ান (সুইজারল্যান্ড)</item>
+        <item>জাপানি (জাপান)</item>
+        <item>কোরিয়ান (দক্ষিণ কোরিয়া)</item>
+        <item>লাতভীয় (লাতভিয়া)</item>
+        <item>লিথুয়ানিয়ান (লিথুয়ানিয়া)</item>
+        <item>মালয় (মালয়েশিয়া)</item>
+        <item>মালয় (সিঙ্গাপুর)</item>
+        <item>নরওয়ে বোকমাল (নরওয়ে)</item>
+        <item>নরওয়েজীয়ান নিনর্স্ক (নরওয়ে)</item>
+        <item>ফার্সি (ইরান)</item>
+        <item>পোলিশ (পোল্যান্ড)</item>
+        <item>পোর্তুগিজ (অ্যাঙ্গোলা)</item>
+        <item>পর্তুগিজ (ব্রাজিল)</item>
+        <item>পোর্তুগিজ (পোর্তুগাল)</item>
+        <item>রোমানিয়ান (রোমানিয়া)</item>
+        <item>রাশিয়ান (বেলারুশ)</item>
+        <item>রাশিয়ান (রাশিয়া)</item>
+        <item>সেপেদি (দক্ষিণ আফ্রিকা)</item>
+        <item>সার্বিয়ান (সার্বিয়া, সিরিলিক)</item>
+        <item>সেসোথো (দক্ষিণ আফ্রিকা)</item>
+        <item>সেতসোয়ানা (দক্ষিণ আফ্রিকা)</item>
+        <item>সি-সোয়াতি (দক্ষিণ আফ্রিকা)</item>
+        <item>স্লোভাক (স্লোভাকিয়া)</item>
+        <item>স্লোভেনিয়ান (স্লোভেনিয়া)</item>
+        <item>স্প্যানিশ (আর্জেন্টিনা)</item>
+        <item>স্প্যানিশ (বলিভিয়া)</item>
+        <item>স্প্যানিশ (চিলি)</item>
+        <item>স্প্যানিশ (কলম্বিয়া)</item>
+        <item>স্প্যানিশ (কোস্টারিকা)</item>
+        <item>স্প্যানিশ (কিউবা)</item>
+        <item>স্প্যানিশ (ডোমিনিকান প্রজাতন্ত্র)</item>
+        <item>স্প্যানিশ (ইকুয়েডর)</item>
+        <item>স্প্যানিশ (এল সালভাদর)</item>
+        <item>স্প্যানিশ (গুয়াতেমালা)</item>
+        <item>স্প্যানিশ (হন্ডুরাস)</item>
+        <item>স্প্যানিশ (মেক্সিকো)</item>
+        <item>স্প্যানিশ (নিকারাগুয়া)</item>
+        <item>স্প্যানিশ (পানামা)</item>
+        <item>স্প্যানিশ (প্যারাগুয়ে)</item>
+        <item>স্প্যানিশ (পেরু)</item>
+        <item>স্প্যানিশ (পুয়ের্তো রিকো)</item>
+        <item>স্প্যানিশ (স্পেন)</item>
+        <item>স্প্যানিশ (US)</item>
+        <item>স্প্যানিশ (উরুগুয়ে)</item>
+        <item>স্প্যানিশ (ভেনিজুয়েলা)</item>
+        <item>সোয়াহিলি (কেনিয়া)</item>
+        <item>সোয়াহিলি (তানজানিয়া)</item>
+        <item>সোয়াহিলি (উগান্ডা)</item>
+        <item>সুইডিশ (ফিনল্যান্ড)</item>
+        <item>সুইডিশ (সুইডেন)</item>
+        <item>থাই (থাইল্যান্ড)</item>
+        <item>তিশিভেন্দা (দক্ষিণ আফ্রিকা)</item>
+        <item>তুর্কি (তুরস্ক)</item>
+        <item>ইউক্রেনিয়ান (ইউক্রেন)</item>
+        <item>উর্দু (পাকিস্তান)</item>
+        <item>ভিয়েতনামী (ভিয়েতনাম)</item>
+        <item>জিটসোংগা (দক্ষিণ আফ্রিকা)</item>
+    </string-array>
+    <string-array name="edit_reminder_day">
+        <item>আজ</item>
+        <item>আগামীকাল</item>
+        <item>মাঝে মধ্যে</item>
+        <item>তারিখ সেট করুন...</item>
+    </string-array>
+    <string-array name="edit_reminder_time">
+        <item>সকাল</item>
+        <item>বিকাল</item>
+        <item>সন্ধ্যা</item>
+        <item>রাত</item>
+        <item>সারা দিন</item>
+        <item>সময় সেট করুন...</item>
+    </string-array>
+    <string-array name="edit_reminder_location_trigger_type">
+        <item>আগমন</item>
+        <item>প্রস্থান</item>
+    </string-array>
+    <string-array name="edit_reminder_location">
+        <item>বাড়ি</item>
+        <item>অফিস</item>
+        <item>অবস্থান সেট করুন...</item>
+    </string-array>
+    <string-array name="network_error_tts_messages">
+        <item>এই ইন্টারনেট সংযোগটি ঠিক এখন নির্ভরযোগ্য নয়।</item>
+        <item>এই ইন্টারনেট সংযোগটি এই মুহূর্তে নির্ভরযোগ্য নয়।</item>
+        <item>এই ইন্টারনেট সংযোগটি ঠিক এখন স্থিতিশীল নয়।</item>
+        <item>এই ইন্টারনেট সংযোগটি এই মুহূর্তে স্থিতিশীল নয়।</item>
+        <item>এই ইন্টারনেট সংযোগটি ঠিক এখন যথেষ্ট শক্তিশালী নয়।</item>
+        <item>এই ইন্টারনেট সংযোগটি এই মুহূর্তে যথেষ্ট শক্তিশালী নয়।</item>
+    </string-array>
+    <string-array name="read_it_grammar">
+        <item>এটা পড়ুন</item>
+        <item>বার্তাটি পড়ুন</item>
+        <item>পাঠ্যটি পড়ুন</item>
+    </string-array>
+    <string-array name="reply_grammar">
+        <item>উত্তর দিন</item>
+        <item>উত্তর পাঠান</item>
+        <item>একটি উত্তর পাঠান</item>
+        <item>পাঠ্য বার্তার উত্তর দিন</item>
+        <item>এতে উত্তর পাঠান</item>
+    </string-array>
+    <string-array name="call_back_grammar">
+        <item>সর্বশেষ বার্তার প্রেরককে ঘুরিয়ে কল করুন</item>
+        <item>ওনাকে কল করুন</item>
+        <item>ওনাকে ঘুরিয়ে কল করুন</item>
+        <item>ওনাকে কল করুন</item>
+        <item>ওনাকে ঘুরিয়ে কল করুন</item>
+    </string-array>
+</resources>

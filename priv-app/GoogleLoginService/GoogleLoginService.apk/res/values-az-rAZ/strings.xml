@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="setup_wizard_next_button_label">Növbəti</string>
+    <string name="setup_wizard_back_button_label">Geriyə</string>
+    <string name="setup_wizard_title">Quraşdırma Sehrbazı</string>
+    <string name="setup_wizard_services_activity_title">Google xidmətləri</string>
+    <string name="setup_wizard_services_description">"Bu xidmətlər Google'un Sizin üçün işləməsinə yardım edir və onları istənilən vaxt aktiv və ya deaktiv edə bilərsiniz. Data Google'un "<annotation id="google_privacy">Məxfilik Siyasətinə</annotation> uyğun olaraq istifadə ediləcək.</string>
+    <string name="setup_wizard_services_backup_restore_heading">Yedək və bərpa</string>
+    <string name="setup_wizard_services_location_heading">Məkan</string>
+    <string name="setup_wizard_services_communication_heading">Rabitə</string>
+    <string name="setup_wizard_services_backup"><b>Google Hesabınızdan istifadə edərək telefonunuzun proqramları, proqram məlumatı, şəxsi lüğətlər, parametrlər və Wi‑Fi parollarını</b> nüsxələyin və onları daha sonra asanlıqla bərpa edin. <annotation id="backup_details">Daha çox öyrən</annotation></string>
+    <string name="setup_wizard_services_backup_restore"><b> Google Hesabınızdan istifadə edərək proqramları, proqram məlumatı, şəxsi lüğətlər, parametrlər və Wi‑Fi parollarını</b> nüsxələyin və onları daha sonra asanlıqla bərpa edin.</string>
+    <string name="setup_wizard_services_backup_restore_footnote">Data tətbiqləri, tətbiq ayarlarını, sistem ayarlarını və Wi-Fi şifrələrini içərir.</string>
+    <string name="setup_wizard_services_backup_restore_dialog_text">Avtomatik yedəkləməni aktiv etdiyiniz halda, cihazınızın datası müntəzəm olaraq Google Hesabınızda saxlanır. Bunlar yedəklənə bilər: tətbiq data qovluqları, tərcihlər, ayarlar, mesajlar, fotolar və sair.</string>
+    <string name="setup_wizard_services_location_sharing"><b>"Google'un məkan xidmətini istifadə edin"</b>" ki, tətbiqlərə məkanı müəyyən etmək mümkün olsun. Bu o deməkdir ki, hətta tətbiqlər işləməyən zamanda Google'a məkan haqqında anonim məlumat göndəriləcək. "<annotation id="location_details">Ətraflı məlumat</annotation></string>
+    <string name="setup_wizard_services_location_sharing_dialog_text">"Google'un məkan xidməti cihazın yerini daha tez və dəqiq müəyyən etmək üçün Wi‑Fi və mobil şəbəkə kimi mənbələrdən istifadə edir. Google'un məkan xidmətlərini aktiv etdiyiniz zaman cihazınız yerləşdiyi yer haqqında məlumatı vermək üçün Wi‑Fi və mobil şəbəkə istifadə edən rejimə keçir. Bu rejimi məkan ayarlarında deaktiv edə bilərsiniz ki, məkan haqqında məlumat yalnız GPS vasitəsilə (buna Yalnız-Cihaz rejimi də deyilir) ötürülsün."</string>
+    <string name="setup_wizard_services_location_wifi_scan">Hətta Wi‑Fi deaktiv olan zaman tətbiqlərə və xidmətlərə Wi‑Fi şəbəkəsini axtarmağa icazə verməklə, <b>məkan xidmətlərinin</b> inkişaf etməsinə yardımçı olun.</string>
+    <string name="setup_wizard_services_location_footnote">Google məkan xidməti GPS-dən daha az enerji istifadəsi ilə məkanın daha dəqiq və sürətli müəyyən edilməsi üçün Wi-Fi və digər siqnallardan istifadə edir. Bəzi məlumatlar cihazınızda saxlanıla bilər. Heç bir tətbiq işləmədiyi zamanlarda belə data toplanıla bilər.</string>
+    <string name="setup_wizard_services_play">Google Play xəbərləri və təklifləri haqqında <b>məni güncəl saxla</b>.</string>
+    <string name="setup_wizard_services_usage_reporting">"Google'a diaqnostika və istifadə datasını avtomatik göndərməklə, "<b>Android təcrübənizi inkişaf etdirməyə yardım edin</b>. Bu məlumat kimliyinizin müəyyən edilməsi üçün istifadə edilməyəcək və enerji sərfiyyatı, tətbiq performansı, və yeni Google özəllikləri kimi texniki göstəricilər üzərində işləyən komandaya, gələcəkdə daha keyfiyyətli nəticələr əldə etmək üçün təqdim ediləcək. <annotation id="usage_reporting_details">Learn more</annotation></string>
+    <string name="setup_wizard_services_usage_reporting_dialog_text">"Bu, cihazınız haqqında ümumi məlumatdır ki, bu məlumata batareya səviyyəsi, tətbiqlərdən istifadə tezliyi, şəbəkə bağlantılarının keyfiyyəti və müddəti, və işləməli olan halda, işləməyən tətbiqlərə dair qəza raportları kimi göstəricilər daxildir. Bu məlumat Google'un məhsullarının və xidmətlərinin inkişaf etdirilməsi üçün istifadə ediləcək və Google Hesabınızla əlaqəli olmayacaq. Bəzi ümumi məlumatlar Android developerləri kimi əməkdaşlara tətbiqlərin hazırlanması və keyfiyyətin artırılması üçün yardımçı ola bilər. 
+
+Bu funksiyanı Google Ayarları tətbiqində istənilən zaman aktiv və ya deaktiv edə bilərsiniz. Bu funksiyanın deaktiv edilməsi cihazınıza lazım olan zaman sistem güncəlləşmələri və güvənlik kimi xidmətlərin qəbul edilməsinə və bunun üçün gərəkli məlumatların göndərilməsinə heç bir təsir etməyəcək."</string>
+    <string name="setup_wizard_services_agreement">Bu telefon həmçinin Google, operator və cihaz istehsalçısından güncəlləşmələr və tətbiqlər qəbul edə və quraşdıra bilər. Davam etdiyiniz halda bəzi tətbiqlər endirilə və quraşdırıla bilər, sonra Siz onları silə bilərsiniz.</string>
+</resources>

@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">%1$d ရွေးချယ်ပြီး</item>
+        <item quantity="zero">%1$d ရွေးချယ်ပြီး</item>
+        <item quantity="one">%1$d ရွေးချယ်ပြီး</item>
+    </plurals>
+    <plurals name="recurrence_end_count">
+        <item quantity="other">ဖြစ်ရပ် %d အတွက်</item>
+        <item quantity="one">ဖြစ်ရပ် %d အတွက်</item>
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+        <item quantity="other">%d ရက်တိုင်း</item>
+        <item quantity="one">%d ရက်တိုင်း</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+        <item quantity="other">%dပတ်တိုင်း</item>
+        <item quantity="one">%d အပတ်တိုင်း</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+        <item quantity="other">%d လတိုင်း</item>
+        <item quantity="one">%d လတိုင်း</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+        <item quantity="other">%d နှစ်တိုင်း</item>
+        <item quantity="one">%d နှစ်တိုင်း</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item quantity="other">၊%d ကြိမ်</item>
+        <item quantity="one">၊ တစ်ကြိမ်</item>
+    </plurals>
+    <plurals name="daily">
+        <item quantity="other">%d ရက်တိုင်း</item>
+        <item quantity="one">နေ့စဉ်</item>
+        <item quantity="two">%d ရက်တိုင်း</item>
+        <item quantity="few">%d ရက်တိုင်း</item>
+        <item quantity="many">%d ရက်တိုင်း</item>
+    </plurals>
+    <plurals name="daily_lower">
+        <item quantity="other">%d ရက်တိုင်း</item>
+        <item quantity="one">နေ့စဉ်</item>
+        <item quantity="two">%d ရက်တိုင်း</item>
+        <item quantity="few">%d ရက်တိုင်း</item>
+        <item quantity="many">%d ရက်တိုင်း</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="other">%1$d ပတ်တိုင်း %2$s တွင်</item>
+        <item quantity="one">အပတ်စဉ် %2$s တွင်</item>
+        <item quantity="two">%1$d ပတ်တိုင်း %2$s တွင်</item>
+        <item quantity="few">%1$d ပတ်တိုင်း%2$s တွင်</item>
+        <item quantity="many">%1$dပတ်တိုင်း%2$s တွင်</item>
+    </plurals>
+    <plurals name="weekly_lower">
+        <item quantity="other">%1$d ပတ်တိုင်း %2$s တွင်</item>
+        <item quantity="one">အပတ်စဉ် %2$s တွင်</item>
+        <item quantity="two">%1$d ပတ်တိုင်း%2$sတွင်</item>
+        <item quantity="few">%1$d ပတ်တိုင်း %2$s တွင်</item>
+        <item quantity="many">%1$d ပတ်တိုင်း %2$s တွင်</item>
+    </plurals>
+    <plurals name="monthly_interval">
+        <item quantity="other">%1$d လတိုင်း</item>
+        <item quantity="one">လစဉ်</item>
+        <item quantity="two">%1$d လတိုင်း</item>
+        <item quantity="few">%1$d လတိုင်း</item>
+        <item quantity="many">Every %1$d months</item>
+    </plurals>
+    <plurals name="monthly_interval_lower">
+        <item quantity="other">%1$d လတိုင်း</item>
+        <item quantity="one">လစဉ်</item>
+        <item quantity="two">%1$d လတိုင်း</item>
+        <item quantity="few">%1$d လတိုင်း</item>
+        <item quantity="many">%1$d လတိုင်း</item>
+    </plurals>
+    <plurals name="yearly_interval_plain">
+        <item quantity="other">%1$d နှစ်တိုင်း</item>
+        <item quantity="one">နှစ်စဉ်</item>
+        <item quantity="two">%1$d နှစ်တိုင်း</item>
+        <item quantity="few">%1$d နှစ်တိုင်း</item>
+        <item quantity="many">%1$d နှစ်တိုင်း</item>
+    </plurals>
+    <plurals name="yearly_interval_lower">
+        <item quantity="other">%1$d နှစ်တိုင်း</item>
+        <item quantity="one">နှစ်တိုင်း</item>
+        <item quantity="two">%1$d နှစ်တိုင်း</item>
+        <item quantity="few">%1$d နှစ်တိုင်း</item>
+        <item quantity="many">%1$d နှစ်တိုင်း</item>
+    </plurals>
+    <plurals name="duration_in_hours">
+        <item quantity="other">%1$d နာရီ</item>
+        <item quantity="one">%1$d နာရီ</item>
+    </plurals>
+    <plurals name="duration_in_hours_short">
+        <item quantity="other">%1$d နာရီ</item>
+        <item quantity="one">%1$d နာရီ</item>
+    </plurals>
+    <plurals name="duration_in_minutes">
+        <item quantity="other">%1$d မိနစ်</item>
+        <item quantity="one">%1$d မိနစ်</item>
+    </plurals>
+    <plurals name="duration_in_minutes_short">
+        <item quantity="other">%1$d မိနစ်</item>
+        <item quantity="one">%1$d မိနစ်</item>
+    </plurals>
+    <plurals name="duration_in_days">
+        <item quantity="other">%1$d ရက်</item>
+        <item quantity="one">%1$d ရက်</item>
+    </plurals>
+    <plurals name="duration_in_days_short">
+        <item quantity="other">%1$d ရက်</item>
+        <item quantity="one">%1$d ရက်</item>
+    </plurals>
+    <plurals name="duration_in_months">
+        <item quantity="other">%1$d လ</item>
+        <item quantity="one">%1$d လ</item>
+    </plurals>
+    <plurals name="duration_in_months_short">
+        <item quantity="other">%1$d လ</item>
+        <item quantity="one">%1$d လ</item>
+    </plurals>
+    <plurals name="duration_in_years">
+        <item quantity="other">%1$d နှစ်</item>
+        <item quantity="one">%1$d နှစ်</item>
+    </plurals>
+    <plurals name="duration_in_years_short">
+        <item quantity="other">%1$d နှစ်</item>
+        <item quantity="one">%1$d နှစ်</item>
+    </plurals>
+    <plurals name="items_from_without_colon">
+        <item quantity="other">မှပစ္စည်း%1$d ခု</item>
+        <item quantity="one">%1$d အရာများ</item>
+    </plurals>
+    <plurals name="last_bus_home_departure_time">
+        <item quantity="other">%2$s%1$d မိနစ် %3$s တွင်နောက်ဆုံးရထားဆိုက်ရောက်မည်</item>
+        <item quantity="one">%2$s%1$d မိနစ် %3$s တွင်နောက်ဆုံးရထားဆိုက်ရောက်မည်</item>
+    </plurals>
+    <plurals name="last_bus_to_hotel_departure_time">
+        <item quantity="other">%2$s%1$d မိနစ် %3$s တွင် ဟိုတယ်သို့နောက်ဆုံးရထားဆိုက်ရောက်မည်</item>
+        <item quantity="one">%2$s%1$d မိနစ် %3$s တွင် ဟိုတယ်‌သို့နောက်ဆုံးရထားဆိုက်ရောက်မည်</item>
+    </plurals>
+    <plurals name="last_train_home_departure_time">
+        <item quantity="other">အိမ်သို့ နောက်ဆုံးရထား %2$s%1$d မိနစ်%3$sအတွင်း ဆိုက်ရောက်မည်</item>
+        <item quantity="one">အိမ်သို့ နောက်ဆုံးရထား %2$s1 မိနစ်%3$sအတွင်း ဆိုက်ရောက်မည်</item>
+    </plurals>
+    <plurals name="last_train_to_hotel_departure_time">
+        <item quantity="other">ဟိုတယ်သို့နောက်ဆုံးရထား %2$s%1$d မိနစ်%3$s အတွင်းဆိုက်ရောက်မည်</item>
+        <item quantity="one">ဟိုတယ်သို့ နောက်ဆုံးရထား%2$s1 မိနစ်%3$sအတွင်း ဆိုက်ရောက်မည်</item>
+    </plurals>
+    <plurals name="last_transit_home_departure_time">
+        <item quantity="other">%2$s%1$d မိနစ် %3$s တွင်နောက်ဆုံးကားအိမ်ရောက်ပါမည်</item>
+        <item quantity="one">%2$s%1$d မိနစ် %3$s တွင်နောက်ဆုံးကားအိမ်ရောက်ပါမည်</item>
+    </plurals>
+    <plurals name="last_transit_to_hotel_departure_time">
+        <item quantity="other">%2$s%1$d မိနစ် %3$s တွင်ဟိုတယ်သို့နောက်ဆုံးကားရောက်ပါမည်</item>
+        <item quantity="one">%2$s%1$d မိနစ် %3$s တွင်ဟိုတယ်သို့နောက်ဆုံးကားရောက်ပါမည်</item>
+    </plurals>
+    <plurals name="transit_next_line_departure_subtext_no_platform">
+        <item quantity="other">%1$d သို့ %2$s မိနစ်လမ်းလျောက်ရန်</item>
+        <item quantity="one">1 မိနစ် %2$s သို့လမ်းလျှောက်ရန်</item>
+    </plurals>
+    <plurals name="minutes_delay">
+        <item quantity="other">%1$d မိနစ်နောက်ကျ</item>
+        <item quantity="one">1 မိနစ်နောက်ကျ</item>
+    </plurals>
+    <plurals name="minutes_delay_more_than_usual">
+        <item quantity="other">%1$d မိနစ် ခါတိုင်းထက်ပို</item>
+        <item quantity="one">1 မိနစ် ခါတိုင်းထက်ပို</item>
+    </plurals>
+    <plurals name="minutes_delay_less_than_usual">
+        <item quantity="other">%1$d မိနစ် ခါတိုင်းထက်လျော့</item>
+        <item quantity="one">1 မိနစ် ခါတိုင်းထက်လျော့</item>
+    </plurals>
+    <plurals name="usual_traffic_minutes_delay">
+        <item quantity="other">ပုံမှန် ယာဉ်ကြောအသွားအလာ: %1$d မိနစ်ကြန့်ကြာ</item>
+        <item quantity="one">ပုံမှန် ယာဉ်ကြောအသွားအလာ: 1 မိနစ်ကြန့်ကြာ</item>
+    </plurals>
+    <plurals name="num_min_late">
+        <item quantity="other">%1$d မိနစ်နောက်ကျ</item>
+        <item quantity="one">1 မိနစ်နောက်ကျ</item>
+    </plurals>
+    <plurals name="num_min_early">
+        <item quantity="other">%1$d မိနစ်စော</item>
+        <item quantity="one">1 မိနစ်စော</item>
+    </plurals>
+    <plurals name="transit_interval_in_minutes">
+        <item quantity="other">%1$s မိနစ်တိုင်း</item>
+        <item quantity="one">%1$s မိနစ်တိုင်း</item>
+    </plurals>
+    <plurals name="transit_interval_in_hours">
+        <item quantity="other">%1$d နာရီတိုင်း</item>
+        <item quantity="one">%1$d နာရီတိုင်း</item>
+    </plurals>
+    <plurals name="qp_transit_interval_in_minutes">
+        <item quantity="other">%1$s မိနစ်တိုင်း</item>
+        <item quantity="one">%1$s မိနစ်တိုင်း</item>
+    </plurals>
+    <plurals name="qp_transit_interval_in_hours">
+        <item quantity="other">%1$d နာရီတိုင်း</item>
+        <item quantity="one">%1$d မိနစ်တိုင်း</item>
+    </plurals>
+    <plurals name="sports_overtime_period_header">
+        <item quantity="other">%1$dအချိန်ပို</item>
+        <item quantity="one">အချိန်ပို</item>
+    </plurals>
+    <plurals name="time_to_leave_user_arrival_generic">
+        <item quantity="other">%1$d မိနစ်စော ရောက်ရှိ</item>
+        <item quantity="one">%1$d မိနစ်စော ရောက်ရှိ</item>
+    </plurals>
+    <plurals name="time_to_leave_user_arrival_flight">
+        <item quantity="other">မထွက်ခွာမှီ %1$d မိနစ်တွင် ရောက်ရှိ</item>
+        <item quantity="one">မထွက်ခွာမှီ %1$d မိနစ် တွင်ရောက်ရှိ</item>
+    </plurals>
+    <plurals name="time_to_leave_user_arrival_reservation">
+        <item quantity="other">ကြိုတင်မမှာယူမှီ %1$d မိနစ် တွင်ရောက်ရှိ</item>
+        <item quantity="one">ကြိုတင်မမှာယူမှီ %1$d မိနစ် တွင်ရောက်ရှိ</item>
+    </plurals>
+    <plurals name="time_to_leave_user_arrival_movie">
+        <item quantity="other">ရုပ်ရှင်မစမှီ %1$d မိနစ်တွင် ရောက်ရှိ</item>
+        <item quantity="one">ရုပ်ရှင်မစမှီ %1$d မိနစ်တွင် ရောက်ရှိ</item>
+    </plurals>
+    <plurals name="time_to_leave_user_arrival_concert">
+        <item quantity="other">တေးဂီတဖျော်ဖြေပွဲ မစမှီ %1$d မိနစ် တွင်ရောက်ရှိ</item>
+        <item quantity="one">တေးဂီတဖျော်ဖြေပွဲ မစမှီ %1$d မိနစ် တွင်ရောက်ရှိ</item>
+    </plurals>
+    <plurals name="email_everyone">
+        <item quantity="other">အားလုံးသောသူများ (%1$d)ကိုအီးမေးလ်ပို့ရန်</item>
+        <item quantity="one">အားလုံးသောသူများ (%1$d)ကိုအီးမေးလ်ပို့ရန်</item>
+    </plurals>
+    <plurals name="card_count">
+        <item quantity="other">%1$d ကဒ်များ</item>
+        <item quantity="one">ကဒ်</item>
+    </plurals>
+    <plurals name="num_movie_tickets">
+        <item quantity="other">လက်မှတ် %1$d စောင်</item>
+        <item quantity="one">လက်မှတ် %1$d စောင်</item>
+    </plurals>
+    <plurals name="qp_hotel_reservation_length">
+        <item quantity="other">%1$d ညအတွက်အခန်းဘွတ်ကင်ယူခြင်း</item>
+        <item quantity="one">%1$d ညအတွက်အခန်းဘွတ်ကင်ယူခြင်း</item>
+    </plurals>
+    <plurals name="reminders">
+        <item quantity="other">အသိပေးချက် %1$d ခု</item>
+        <item quantity="one">အသိပေးချက် %1$d ခု</item>
+    </plurals>
+    <plurals name="number_of_location_sharers">
+        <item quantity="other">%1$dသင်နှင့်အတူ လူယောက်ဝေမျှနေသည်</item>
+        <item quantity="one">သင်နှင့်အတူ လူ %1$d ယောက်ဝေမျှနေသည်</item>
+    </plurals>
+    <plurals name="expiring_duration_in_days">
+        <item quantity="other">%1$d ရက်တွင်သက်တမ်းကုန်ပါမည်</item>
+        <item quantity="one">%1$d ရက်တွင်သက်တမ်းကုန်ပါမည်</item>
+    </plurals>
+    <plurals name="expiring_duration_in_hours">
+        <item quantity="other">%1$d နာရီတွင်သက်တမ်းကုန်ပါမည်</item>
+        <item quantity="one">%1$d နာရီတွင်သက်တမ်းကုန်ပါမည်</item>
+    </plurals>
+    <plurals name="expiring_duration_in_minutes">
+        <item quantity="other">%1$d မိနစ်တွင် သက်တမ်းကုန်ပါမည်</item>
+        <item quantity="one">%1$d မိနစ်တွင် သက်တမ်းကုန်ပါမည်</item>
+    </plurals>
+    <plurals name="view_count">
+        <item quantity="other">ကြည့်ရှုသူ %1$,d ဦး</item>
+        <item quantity="one">ကြည့်ရှုသူ %1$,d ဦး</item>
+    </plurals>
+    <plurals name="transportation_seat">
+        <item quantity="other">ထိုင်ခုံ %1$d ခု</item>
+        <item quantity="one">ထိုင်ခုံ</item>
+    </plurals>
+    <plurals name="more_directions">
+        <item quantity="other">+ %1$d ထက်ပိုသောလမ်းညွှန်များ</item>
+        <item quantity="one">+ %1$d ထက်ပိုသောလမ်းညွှန်</item>
+    </plurals>
+    <plurals name="time_duration_spoken_hour">
+        <item quantity="other">%1$d နာရီ</item>
+        <item quantity="one">၁ နာရီ</item>
+    </plurals>
+    <plurals name="time_duration_spoken_minute">
+        <item quantity="other">%1$d မိနစ်</item>
+        <item quantity="one">၁ မိနစ်</item>
+    </plurals>
+    <plurals name="time_duration_spoken_second">
+        <item quantity="other">%1$d စက္ကန့်</item>
+        <item quantity="one">၁ စက္ကန့်</item>
+    </plurals>
+    <plurals name="agenda_eyes_free_all_day_events">
+        <item quantity="other">%2$sတစ်နေ့လုံး သင်လုပ်စရာ %1$d ခုရှိသည်- %3$s</item>
+        <item quantity="one">%2$sတစ်နေ့လုံး သင်လုပ်စရာရှိသည်- %3$s</item>
+    </plurals>
+</resources>

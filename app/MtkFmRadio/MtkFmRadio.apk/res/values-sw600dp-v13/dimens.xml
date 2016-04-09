@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="fm_rl_imgbtnpart_margin_left">0.0dip</dimen>
+    <dimen name="fm_rl_imgbtnpart_margin_right">48.0dip</dimen>
+    <dimen name="fm_frequency_text_size_start">68.0dip</dimen>
+    <dimen name="fm_control_buttons_margin_top_start">28.0dip</dimen>
+    <dimen name="fm_frequency_text_size_first_target">68.0dip</dimen>
+</resources>

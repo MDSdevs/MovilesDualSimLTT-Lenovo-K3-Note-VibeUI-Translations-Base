@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="user_nickname">Jina la utani</string>
+    <string name="show_owner_info_on_lockscreen_label">Onyesha maelezo ya mmiliki skrini inapofunga</string>
+    <string name="show_profile_info_on_lockscreen_label">Onyesha maelezo ya wasifu kwenye skrini iliyofungwa</string>
+    <string name="show_user_info_on_lockscreen_label">Onyesha maelezo ya mtumiaji kwenye skrini ya kufunga</string>
+    <string name="lockpassword_confirm_your_pattern_header">Thibitisha mchoro wako</string>
+    <string name="security_settings_title">Usalama</string>
+    <string name="security_passwords_title">Manenosiri</string>
+    <string name="show_password">Fanya manenosiri yaonekane</string>
+    <string name="lock_after_timeout">Funga kiotomatiki</string>
+    <string name="lock_after_timeout_summary">%1$s baada ya kuingia katika hali tulivu</string>
+    <string name="lock_after_timeout_summary_with_exception">%1$s baada ya hali tuli, isipokuwa kinapowekwa bila kufungwa na %2$s</string>
+    <string name="owner_info_settings_title">Maelezo ya mmiliki</string>
+    <string name="owner_info_settings_summary" />
+    <string name="owner_info_settings_edit_text_hint">Andika maandishi ya kuonyeshwa kwenye skrini ya kufunga</string>
+    <string name="lock_settings_picker_title">Mbinu ya kufunga skrini?</string>
+    <string name="biometric_weak_improve_matching_title">Boresha ulinganishaji sura</string>
+    <string name="biometric_weak_liveliness_title">Ukaguzi wa moja kwa moja</string>
+    <string name="biometric_weak_liveliness_summary">Inahitaji kukopesa jicho inapofungua</string>
+    <string name="lockpassword_choose_your_password_header">Chagua nenosiri lako</string>
+    <string name="lockpassword_choose_your_pattern_header">Chagua mchoro wako</string>
+    <string name="lockpassword_choose_your_pin_header">Chagua PIn yako</string>
+    <string name="lockpassword_confirm_passwords_dont_match">Nenosiri halilingani</string>
+    <string name="lockpassword_confirm_pins_dont_match">PIN hailingani</string>
+    <string name="lock_settings_title">Usalama wa skrini</string>
+    <string name="lockpattern_change_lock_pattern_label">Badilisha umbo la kufungua</string>
+    <string name="lockpattern_change_lock_pin_label">Badilisha PIN ya kufungua</string>
+    <string name="lockpattern_need_to_unlock">Thibitisha mchoro uliohifadhiwa</string>
+    <string name="lockpattern_need_to_unlock_wrong">Jaribu tena:</string>
+    <string name="lockpattern_recording_intro_header">Mchoro wa kufungua</string>
+    <string name="lockpattern_recording_intro_footer">Bonyeza menyu upate usaidizi</string>
+    <string name="lockpattern_recording_inprogress">Ondoa kidole ukimaliza</string>
+    <string name="lockpattern_recording_incorrect_too_short">Unganisha angalau vitone %d. Jaribu tena.</string>
+    <string name="lockpattern_pattern_entered_header">Mchoro wa kufungua umerekodiwa</string>
+    <string name="lockpattern_need_to_confirm">Chora tena mchoro wa kufungua ili kuthibitisha</string>
+    <string name="lockpattern_pattern_confirmed_header">Mchoro wako mpya wa kufungua</string>
+    <string name="lockpattern_confirm_button_text">Thibitisha</string>
+    <string name="lockpattern_restart_button_text">Chora tena</string>
+    <string name="lockpattern_retry_button_text">Jaribu tena</string>
+    <string name="lockpattern_continue_button_text">Endelea</string>
+    <string name="lockpattern_settings_title">Mchoro wa kufungua</string>
+    <string name="lockpattern_settings_enable_title">Inahitaji mchoro</string>
+    <string name="lockpattern_settings_enable_summary">Lazima uchore umbo kufungua skrini</string>
+    <string name="lockpattern_settings_enable_visible_pattern_title">Fanya mchoro uonekane</string>
+    <string name="lockpattern_settings_enable_tactile_feedback_title">Iteteme inapoguswa</string>
+    <string name="lockpattern_settings_enable_power_button_instantly_locks">Zima kwa kitufe cha nishati</string>
+    <string name="lockpattern_settings_power_button_instantly_locks_summary">Isipokuwa kinapowekwa bila kufungwa na %1$s</string>
+    <string name="lockpattern_settings_choose_lock_pattern">Weka mchoro wa kufungua</string>
+    <string name="lockpattern_settings_change_lock_pattern">Badilisha umbo la kufungua</string>
+    <string name="lockpattern_settings_help_how_to_record">Jinsi ya kuchora mchoro wa kufungua</string>
+    <string name="lockpattern_too_many_failed_confirmation_attempts_header">Mjarabio mengi yasiyo sahihi</string>
+    <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Jaribu tena baada ya sekunde %d.</string>
+    <string name="unlock_set_unlock_launch_picker_title">Kufunga skrini</string>
+    <string name="unlock_set_unlock_launch_picker_change_title">badilisha kufunga kwa skrini</string>
+    <string name="unlock_set_unlock_launch_picker_change_summary">Badilisha au zima umbo, PIn, au usalama wa neniosiri</string>
+    <string name="unlock_set_unlock_launch_picker_enable_summary">Chagua mbinu ili kufunga skrini</string>
+    <string name="unlock_backup_info_summary">Wakati Face Unlock haiwezi kukuona wewe, je utaifungua aje?</string>
+    <string name="unlock_set_unlock_off_title">Hamna</string>
+    <string name="unlock_set_unlock_off_summary" />
+    <string name="unlock_set_unlock_none_title">Telezesha kidole</string>
+    <string name="unlock_set_unlock_none_summary">Hakuna salama</string>
+    <string name="unlock_set_unlock_biometric_weak_title">Kufungua kwa Uso</string>
+    <string name="unlock_set_unlock_biometric_weak_summary">Usalama wa chini, wa kujaribu</string>
+    <string name="unlock_set_unlock_pattern_title">Mchoro</string>
+    <string name="unlock_set_unlock_pattern_summary">Usalama wastani</string>
+    <string name="unlock_set_unlock_pin_title">PIN</string>
+    <string name="unlock_set_unlock_pin_summary">Wastani hadi usalama wa juu</string>
+    <string name="unlock_set_unlock_password_title">Nenosiri</string>
+    <string name="unlock_set_unlock_password_summary">Usalama wa juu</string>
+    <string name="unlock_set_unlock_disabled_summary">Imelemazwa na msimamizi, sera ya usimbaji fiche, au hifadhi ya stakabadhi</string>
+    <string name="unlock_set_unlock_mode_off">Hamna</string>
+    <string name="unlock_set_unlock_mode_none">Telezesha kidole</string>
+    <string name="unlock_set_unlock_mode_biometric_weak">Kufungua kwa Uso</string>
+    <string name="unlock_set_unlock_mode_pattern">Mchoro</string>
+    <string name="unlock_set_unlock_mode_pin">PIN</string>
+    <string name="unlock_set_unlock_mode_password">Nenosiri</string>
+    <string name="unlock_disable_lock_title">Lemaza kufungwa kwa skrini</string>
+    <string name="unlock_disable_lock_pattern_summary">Ondoa umbo la kufungua</string>
+    <string name="unlock_disable_lock_pin_summary">Ondoa PIN ufunguaji</string>
+    <string name="unlock_disable_lock_password_summary">Ondoa nenosiri la kufungua</string>
+    <string name="unlock_change_lock_pattern_title">Badilisha umbo la kufungua</string>
+    <string name="unlock_change_lock_pin_title">Badilisha PIN ya kufungua</string>
+    <string name="unlock_change_lock_password_title">Badilisha nenosiri la kufungua</string>
+    <string name="keywords_lockscreen">telezesha kidole nenosiri mchoro pin</string>
+    <string name="switch_on_text">Imewashwa</string>
+    <string name="switch_off_text">Imezimwa</string>
+    <string name="screen_pinning_title">Ubandikaji wa skrini</string>
+    <string name="screen_pinning_description">"Mipangilio hii ikiwashwa, unaweza kuweka kifaa katika hali itakayoendelea kuonyesha skrini ya sasa.
+
+Ili ubandike skrini:
+
+1. Washa mipangilio hii.
+
+2. Fungua programu.
+
+3. Gusa kitufe cha Hivi Majuzi.
+
+4. Gusa aikoni ya kubandika."</string>
+    <string name="settings_safetylegal_activity_loading">Inapakia…</string>
+    <string name="no_applications">Hakuna programu.</string>
+    <string name="help_label">Usaidizi na maoni</string>
+    <string name="lockpassword_ok_label">Sawa</string>
+    <string name="lockpattern_tutorial_cancel_label">Ghairi</string>
+    <string name="lockpattern_tutorial_continue_label">Ifuatayo</string>
+    <string name="lockpassword_confirm_your_pin_header">Thibitisha PIn yako</string>
+    <string name="lockpassword_confirm_your_password_header">Thibitisha nenosiri lako</string>
+    <string name="cancel">Ghairi</string>
+    <string name="lock_screen_notifications_title">Kifaa kikiwa kimefungwa</string>
+    <string name="lock_screen_notifications_summary_show">Onyesha arifa za maudhui yote</string>
+    <string name="lock_screen_notifications_summary_hide">Ficha arifa za maudhui nyeti</string>
+    <string name="lock_screen_notifications_summary_disable">Usionyeshe arifa kabisa</string>
+    <string name="lock_screen_notifications_interstitial_message">Je, ungependa arifa vipi zionyeshwe wakati kifaa kimefungwa?</string>
+    <string name="app_notifications_dialog_done">Nimemaliza</string>
+    <string name="lockpassword_cancel_label">Ghairi</string>
+    <string name="lockpassword_password_too_long">Nenosiri lazima liwe na vibambo chini ya %d.</string>
+    <string name="lockpassword_pin_too_long">Nenosiri lazima liwe chini ya tarakimu %d.</string>
+    <string name="lockpassword_password_too_short">Nenosiri lazima iwe angalau na vibambo %d</string>
+    <string name="lockpassword_press_continue">Gusa Endelea wakati imekamilaka</string>
+    <string name="lockpassword_continue_label">Endelea</string>
+    <string name="lockpassword_pin_no_sequential_digits">Mlolongo wa kupanda, kushuka au kujirudia wa tarakakimu hauruhusiwi</string>
+    <string name="lockpassword_pin_contains_non_digits">PIN lazima iwe na tarakimu 0-9.</string>
+    <string name="lockpassword_pin_recently_used">Kidhibiti cha kifaa hakiruhusu kutumia PIN iliyotumiwa hivi karibuni.</string>
+    <string name="lockpassword_illegal_character">Nenosiri lina herufi isiyo sahihi.</string>
+    <string name="lockpassword_password_requires_alpha">Nenosiri lazima liwe na angalau herufi moja.</string>
+    <string name="lockpassword_password_requires_digit">Nenosiri lazima liwe na angalau tarakimu moja.</string>
+    <string name="lockpassword_password_requires_symbol">Nenosiri lazima liwe na angalau alama moja.</string>
+    <string name="lockpassword_password_recently_used">Kidhibiti cha kifaa haruhusu kutumia nenosiri lililotumiwa hivi karibuni.</string>
+    <string name="backup_lock_settings_picker_title">Chagua kifungio cha hifadhi</string>
+    <string name="profile_info_settings_title">Maelezo ya wasifu</string>
+    <string name="user_info_settings_title">Maelezo ya mtumiaji</string>
+    <string name="credential_storage_type_hardware">Inaweza kutumiwa na maunzi</string>
+    <string name="credential_storage_type_software">Programu pekee</string>
+    <string name="error_title" />
+    <string name="lockpassword_choose_lock_generic_header">Fungua uchaguzi</string>
+</resources>

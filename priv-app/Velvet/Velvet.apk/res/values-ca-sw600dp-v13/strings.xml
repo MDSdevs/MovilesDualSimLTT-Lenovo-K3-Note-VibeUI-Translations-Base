@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="search_phone_or_tablet">Cerca a la tauleta</string>
+    <string name="corpus_name_summons">Tauleta</string>
+    <string name="search_sources">Cerca a la tauleta</string>
+    <string name="no_summons_found">"No s'ha trobat cap resultat
+a la tauleta."</string>
+    <string name="hands_free_unlock_device">Per fer una cerca per veu a Google, desbloqueja la tauleta.</string>
+    <string name="icing_manage_storage_summary">Accelerem la cerca a la tauleta proporcionant un motor de cerca que poden fer servir les teves aplicacions.</string>
+</resources>

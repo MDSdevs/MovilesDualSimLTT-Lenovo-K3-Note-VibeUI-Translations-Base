@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="line_width">2.0px</dimen>
+    <dimen name="timer_popwindow_width">50.0dip</dimen>
+    <dimen name="timer_popwindow_height">34.0dip</dimen>
+    <dimen name="timer_popwindow_marginbottom">65.0dip</dimen>
+</resources>

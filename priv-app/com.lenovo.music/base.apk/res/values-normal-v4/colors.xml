@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#ffffffff</color>
+    <color name="audio_effect_reset_btn_color">#ff999999</color>
+    <color name="black">#ff000000</color>
+    <color name="background_tab_pressed">@color/rose_color</color>
+    <color name="grey">#ff999999</color>
+    <color name="online_songers_underline">#ffcccccc</color>
+    <color name="artist_songer_search_press">#64fafafa</color>
+    <color name="local_playlist_tag_text_normal">@color/local_playlist_tag_text_color_sel</color>
+    <color name="local_playlist_tag_text_press">@color/pink</color>
+    <color name="effect_actionbar_switch">#fff58220</color>
+    <color name="setting_category_title">#ff707070</color>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.ColorActionbar" parent="@style/Theme.SettingsBase">
+        <item name="android:actionBarTheme">@null</item>
+    </style>
+    <style name="AccentColorDialog" parent="@android:style/Theme.DeviceDefault.Light.Dialog">
+        <item name="android:colorAccent">@color/head_background</item>
+    </style>
+    <style name="AccentColorAlertDialog" parent="@android:style/Theme.DeviceDefault.Light.Dialog.Alert">
+        <item name="android:colorAccent">@color/head_background</item>
+    </style>
+</resources>

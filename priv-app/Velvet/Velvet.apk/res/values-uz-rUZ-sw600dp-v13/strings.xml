@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="search_phone_or_tablet">Planshetdan qidirish</string>
+    <string name="corpus_name_summons">Planshet</string>
+    <string name="search_sources">Planshetda qidirish</string>
+    <string name="no_summons_found">"Planshetingizdan hech
+narsa topilmadi."</string>
+    <string name="hands_free_unlock_device">Ovozli qidiruvdan foydalanish uchun plenshetingiz qulfini oching</string>
+    <string name="icing_manage_storage_summary">Qidiruv tezroq ishlashi uchun qurilmangizdagi ilovalar qidiruv indeksidan foydalanishi mumkin.</string>
+</resources>

@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="baseball_innings">
+        <item>1-топ берүү кезеги</item>
+        <item>2-топ берүү кезеги</item>
+        <item>3-топ берүү кезеги</item>
+        <item>4-топ берүү кезеги</item>
+        <item>5-топ берүү кезеги</item>
+        <item>6-топ берүү кезеги</item>
+        <item>7-топ берүү кезеги</item>
+        <item>8-топ берүү кезеги</item>
+        <item>9-топ берүү кезеги</item>
+        <item>10-топ берүү кезеги</item>
+        <item>11-топ берүү кезеги</item>
+        <item>12-топ берүү кезеги</item>
+    </string-array>
+    <string-array name="qp_top_baseball_innings">
+        <item>1-жогорку жарымы</item>
+        <item>2-жогорку жарымы</item>
+        <item>3-жогорку жарымы</item>
+        <item>4-жогорку жарымы</item>
+        <item>5-жогорку жарымы</item>
+        <item>6-жогорку жарымы</item>
+        <item>7-жогорку жарымы</item>
+        <item>8-жогорку жарымы</item>
+        <item>9-жогорку жарымы</item>
+        <item>10-жогорку жарымы</item>
+        <item>11-жогорку жарымы</item>
+        <item>12-жогорку жарымы</item>
+    </string-array>
+    <string-array name="qp_bottom_baseball_innings">
+        <item>1-төмөнкү жарымы</item>
+        <item>2-төмөнкү жарымы</item>
+        <item>3-төмөнкү жарымы</item>
+        <item>4-төмөнкү жарымы</item>
+        <item>5-төмөнкү жарымы</item>
+        <item>6-төмөнкү жарымы</item>
+        <item>7-төмөнкү жарымы</item>
+        <item>8-төмөнкү жарымы</item>
+        <item>9-төмөнкү жарымы</item>
+        <item>10-төмөнкү жарымы</item>
+        <item>11-төмөнкү жарымы</item>
+        <item>12-төмөнкү жарымы</item>
+    </string-array>
+    <string-array name="local_results_markers">
+        <item>A</item>
+        <item>млрд</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>М</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>квадрлн</item>
+        <item>R</item>
+        <item>S</item>
+        <item>Т</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+    </string-array>
+    <string-array name="languageNames">
+        <item>Африкаансча (Түштүк Африка)</item>
+        <item>Арабча (Алжир)</item>
+        <item>Арабча (Египет)</item>
+        <item>Арабча (Ирак)</item>
+        <item>Арабча (Израиль)</item>
+        <item>Арабча (Иордания)</item>
+        <item>Арабча (Кувейт)</item>
+        <item>Арабча (Ливан)</item>
+        <item>Арабча (Ливия)</item>
+        <item>Арабча (Морокко)</item>
+        <item>Арабча (Катар)</item>
+        <item>Арабча (Сауд Арабиясы)</item>
+        <item>Арабча (Судан)</item>
+        <item>Арабча (Сирия)</item>
+        <item>Арабча (Тунис)</item>
+        <item>Арабча (Бириккен Араб Эмираттары)</item>
+        <item>Арабча (Йемен)</item>
+        <item>Беларусча (Беларусия)</item>
+        <item>Бенгаличе (Бангладеш)</item>
+        <item>Болгарча (Болгария)</item>
+        <item>Каталанча (Испания)</item>
+        <item>Кытайча, Мандарин (Кытай, жөнөкөйлөштүрүлгөн)</item>
+        <item>Кытайча, Мандарин (Гонг Конг, Жөнөкөйлөштүрүлгөн)</item>
+        <item>Кытайча, Мандарин (Гонг Конг, салттык)</item>
+        <item>Кытайча, Мандарин (Сингапур, Жөнөкөйлөштүрүлгөн)</item>
+        <item>Кытайча, Мандарин (Тайвань, жөнөкөйлөштүрүлгөн)</item>
+        <item>Кытайча, Мандарин (Тайвань, Салттык)</item>
+        <item>Кытайча, Йю (Кытай, жөнөкөйлөштүрүлгөн)</item>
+        <item>Кытайча, Юе (Гонконг, Салттык)</item>
+        <item>Хорватча (Хорватия)</item>
+        <item>Чехче (Чех Республикасы)</item>
+        <item>Даниялыкча (Дания)</item>
+        <item>Голландча (немисче) (Бельгия)</item>
+        <item>Голландча (Нидерланддар)</item>
+        <item>Англисче (Жалпы)</item>
+        <item>Англисче (Австралия)</item>
+        <item>Англисче (Бангладеш)</item>
+        <item>Англисче (Канада)</item>
+        <item>Англисче (Гонконг)</item>
+        <item>Англисче (Индия)</item>
+        <item>Англисче (Ирландия)</item>
+        <item>Англисче (Кения)</item>
+        <item>Англисче (Малайзия)</item>
+        <item>Англисче (Жаңы Зеландия)</item>
+        <item>Англисче (Нигерия)</item>
+        <item>Англисче (Пакистан)</item>
+        <item>Англисче (Филиппины)</item>
+        <item>Англисче (Сингапур)</item>
+        <item>Англисче (Түштүк Африка)</item>
+        <item>Англисче (Судан)</item>
+        <item>Англисче (Танзания)</item>
+        <item>Англисче (Уганда)</item>
+        <item>Англисче (Улуу Британия)</item>
+        <item>Англисче (АКШ)</item>
+        <item>Эстончо (Эстония)</item>
+        <item>Филиппинче (Филиппины)</item>
+        <item>Финче (Финляндия)</item>
+        <item>Французча (Белгия)</item>
+        <item>Французча (Канада)</item>
+        <item>Французча (Франция)</item>
+        <item>Французча (Швейцария)</item>
+        <item>Галисияча (Испания)</item>
+        <item>Немисче (Австрия)</item>
+        <item>Немисче (Германия)</item>
+        <item>Немисче (Швейцария)</item>
+        <item>Немисче (Лихтенштейн)</item>
+        <item>Грекче (Греция)</item>
+        <item>Ивритче (Израиль)</item>
+        <item>Хиндиче (Индия)</item>
+        <item>Венгерче (Венгрия)</item>
+        <item>Исландча (Исландия)</item>
+        <item>Индонезийче (Индонезия)</item>
+        <item>Ирландча (Ирландия)</item>
+        <item>Ндебелече (Түштүк Африка)</item>
+        <item>Исикосача (Түштүк Африка)</item>
+        <item>Исизулуча (Түштүк Африка)</item>
+        <item>Итальянча (Италия)</item>
+        <item>Итальянча (Швейцария)</item>
+        <item>Япончо (Япония)</item>
+        <item>Корейче (Түштүк Корея)</item>
+        <item>Латышча (Латвия)</item>
+        <item>Литвача (Литва)</item>
+        <item>Малайча (Малайзия)</item>
+        <item>Малайча (Сингапур)</item>
+        <item>Норвегиялык бокмалча (Норвегия)</item>
+        <item>Норвежче (Норвегия)</item>
+        <item>Персче (Иран)</item>
+        <item>Польша тили (Польша)</item>
+        <item>Португалча (Ангола)</item>
+        <item>Португалча (Бразилия)</item>
+        <item>Португалча (Португалия)</item>
+        <item>Румынча (Румыния)</item>
+        <item>Орусча (Белорусь)</item>
+        <item>Орусча (Россия)</item>
+        <item>Сепедиче (Түштүк Африка)</item>
+        <item>Сербче (Сербия, Кирил)</item>
+        <item>Сесоточо (Түштүк Африка)</item>
+        <item>Сетсванча (Түштүк Африка)</item>
+        <item>Сисватиче (Түштүк Африка)</item>
+        <item>Словакча (Словакия)</item>
+        <item>Словенче (Словения)</item>
+        <item>Испанча (Аргентина)</item>
+        <item>Испанча (Боливия)</item>
+        <item>Испанча (Чили)</item>
+        <item>Испанча (Колумбия)</item>
+        <item>Испанча (Коста-Рика)</item>
+        <item>Испанча (Куба)</item>
+        <item>Испанча (Доминикан Республикасы)</item>
+        <item>Испанча (Эквадор)</item>
+        <item>Испанча (Сальвадор)</item>
+        <item>Испанча (Гватемала)</item>
+        <item>Испанча (Гондурас)</item>
+        <item>Испанча (Мексико)</item>
+        <item>Испанча (Никарагуа)</item>
+        <item>Испанча (Панама)</item>
+        <item>Испанча (Парагвай)</item>
+        <item>Испанча (Перу)</item>
+        <item>Испанча (Пуэрто Рико)</item>
+        <item>Испанча (Испания)</item>
+        <item>Испанча (АКШ)</item>
+        <item>Испанча (Уругвай)</item>
+        <item>Испанча (Венесуэла)</item>
+        <item>Суахиличе (Кения)</item>
+        <item>Суахиличе (Танзания)</item>
+        <item>Свахили (Уганда)</item>
+        <item>Шведче (Финляндия)</item>
+        <item>Шведче (Швеция)</item>
+        <item>Тайча (Тайланд)</item>
+        <item>Тшивендача (Түштүк Африка)</item>
+        <item>Түркчө (Түркия)</item>
+        <item>Украинче (Украина)</item>
+        <item>Урду (Пакистан)</item>
+        <item>Вьетнамча (Вьетнам)</item>
+        <item>Тсонга тили (Түштүк Африка)</item>
+    </string-array>
+    <string-array name="edit_reminder_day">
+        <item>Бүгүн</item>
+        <item>Эртең</item>
+        <item>Кээде</item>
+        <item>Күн коюу…</item>
+    </string-array>
+    <string-array name="edit_reminder_time">
+        <item>Эртең менен</item>
+        <item>Түштө</item>
+        <item>Кечинде</item>
+        <item>Түн</item>
+        <item>Бир күн бою</item>
+        <item>Убакыт коюу…</item>
+    </string-array>
+    <string-array name="edit_reminder_location_trigger_type">
+        <item>Келүү</item>
+        <item>Кетүү</item>
+    </string-array>
+    <string-array name="edit_reminder_location">
+        <item>Үй</item>
+        <item>Жумуш</item>
+        <item>Жайгашкан жерди коюу…</item>
+    </string-array>
+    <string-array name="network_error_tts_messages">
+        <item>Учурда бул Интернет туташуусу ишенимдүү эмес.</item>
+        <item>Учурда бул Интернет туташуусу ишенимдүү эмес.</item>
+        <item>Учурда бул Интернет туташуусу туруктуу эмес.</item>
+        <item>Учурда бул Интернет туташуусу туруктуу эмес.</item>
+        <item>Учурда бул Интернет туташуусу талаптагыдай күчтүү эмес.</item>
+        <item>Азыркы учурда бул Интернет туташуусу талаптагыдай күчтүү эмес.</item>
+    </string-array>
+    <string-array name="read_it_grammar">
+        <item>муну окуу</item>
+        <item>билдирүүнү окуу</item>
+        <item>ошол текстти окуу</item>
+    </string-array>
+    <string-array name="reply_grammar">
+        <item>жооп берүү</item>
+        <item>жооп жөнөтүү</item>
+        <item>жооп жөнөтүү</item>
+        <item>SMS билдирүүсүнө жооп берүү</item>
+        <item>буга жооп жөнөтүү</item>
+    </string-array>
+    <string-array name="call_back_grammar">
+        <item>акыркы билдирүүнү жөнөткөн адамга чалуу</item>
+        <item>ага чалуу</item>
+        <item>ага чалып коюу</item>
+        <item>ага чалуу</item>
+        <item>ага чалып коюу</item>
+    </string-array>
+</resources>

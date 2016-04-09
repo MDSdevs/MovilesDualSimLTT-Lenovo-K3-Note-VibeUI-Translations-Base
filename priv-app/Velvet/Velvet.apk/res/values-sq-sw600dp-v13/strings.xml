@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="search_phone_or_tablet">Kërko në tablet</string>
+    <string name="corpus_name_summons">Tablet</string>
+    <string name="search_sources">Kërkim tableti</string>
+    <string name="no_summons_found">"Nuk u gjetën rezultate 
+në tabletin tënd."</string>
+    <string name="hands_free_unlock_device">Për të bërë një kërkim me zë në Google, shkyçe tabletin tënd.</string>
+    <string name="icing_manage_storage_summary">Ne e përshpejtojmë kërkimin në tablet duke ofruar një motor kërkimi që ta përdorin aplikacionet e tua.</string>
+</resources>

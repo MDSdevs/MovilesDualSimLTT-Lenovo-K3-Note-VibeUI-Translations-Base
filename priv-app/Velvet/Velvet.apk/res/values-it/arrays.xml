@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="recurrence_freq">
+        <item>RIPETI OGNI GIORNO</item>
+        <item>RIPETI OGNI SETTIMANA</item>
+        <item>RIPETI OGNI MESE</item>
+        <item>RIPETI OGNI ANNO</item>
+    </string-array>
+    <string-array name="edit_recurrence">
+        <item>Non si ripete</item>
+        <item>Ogni giorno</item>
+        <item>Ogni settimana</item>
+        <item>Ogni mese</item>
+        <item>Ogni anno</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>ogni prima domenica</item>
+        <item>ogni seconda domenica</item>
+        <item>ogni terza domenica</item>
+        <item>ogni quarta domenica</item>
+        <item>ogni ultima domenica</item>
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>ogni primo lunedì</item>
+        <item>ogni secondo lunedì</item>
+        <item>ogni terzo lunedì</item>
+        <item>ogni quarto lunedì</item>
+        <item>ogni ultimo lunedì</item>
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>ogni primo martedì</item>
+        <item>ogni secondo martedì</item>
+        <item>ogni terzo martedì</item>
+        <item>ogni quarto martedì</item>
+        <item>ogni ultimo martedì</item>
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>ogni primo mercoledì</item>
+        <item>ogni secondo mercoledì</item>
+        <item>ogni terzo mercoledì</item>
+        <item>ogni quarto mercoledì</item>
+        <item>ogni ultimo mercoledì</item>
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>ogni primo giovedì</item>
+        <item>ogni secondo giovedì</item>
+        <item>ogni terzo giovedì</item>
+        <item>ogni quarto giovedì</item>
+        <item>ogni ultimo giovedì</item>
+    </string-array>
+    <string-array name="repeat_by_nth_fri">
+        <item>ogni primo venerdì</item>
+        <item>ogni secondo venerdì</item>
+        <item>ogni terzo venerdì</item>
+        <item>ogni quarto venerdì</item>
+        <item>ogni ultimo venerdì</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>ogni primo sabato</item>
+        <item>ogni secondo sabato</item>
+        <item>ogni terzo sabato</item>
+        <item>ogni quarto sabato</item>
+        <item>ogni ultimo sabato</item>
+    </string-array>
+    <string-array name="baseball_innings">
+        <item>1° inning</item>
+        <item>2° inning</item>
+        <item>3° inning</item>
+        <item>4° inning</item>
+        <item>5° inning</item>
+        <item>6° inning</item>
+        <item>7° inning</item>
+        <item>8° inning</item>
+        <item>9° inning</item>
+        <item>10° inning</item>
+        <item>11° inning</item>
+        <item>12° inning</item>
+    </string-array>
+    <string-array name="qp_top_baseball_innings">
+        <item>Prima 1°</item>
+        <item>Prima 2°</item>
+        <item>Prima 3°</item>
+        <item>Prima 4°</item>
+        <item>Prima 5°</item>
+        <item>Prima 6°</item>
+        <item>Prima 7°</item>
+        <item>Prima 8°</item>
+        <item>Prima 9°</item>
+        <item>Prima 10°</item>
+        <item>Prima 11°</item>
+        <item>Prima 12°</item>
+    </string-array>
+    <string-array name="qp_bottom_baseball_innings">
+        <item>Sec. 1°</item>
+        <item>Sec. 2°</item>
+        <item>Sec. 3°</item>
+        <item>Sec. 4°</item>
+        <item>Sec. 5°</item>
+        <item>Sec. 6°</item>
+        <item>Sec. 7°</item>
+        <item>Sec. 8°</item>
+        <item>Sec. 9°</item>
+        <item>Sec. 10°</item>
+        <item>Sec. 11°</item>
+        <item>Sec. 12°</item>
+    </string-array>
+    <string-array name="local_results_markers">
+        <item>A</item>
+        <item>miliardi</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>T</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>o</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>Mer</item>
+        <item>X</item>
+        <item>S</item>
+        <item>Z</item>
+    </string-array>
+    <string-array name="languageNames">
+        <item>Afrikaans (Sudafrica)</item>
+        <item>Arabo (Algeria)</item>
+        <item>Arabo (Egitto)</item>
+        <item>Arabo (Iraq)</item>
+        <item>Arabo (Israele)</item>
+        <item>Arabo (Giordania)</item>
+        <item>Arabo (Kuwait)</item>
+        <item>Arabic (Lebanon)</item>
+        <item>Arabo (Libia)</item>
+        <item>Arabo (Marocco)</item>
+        <item>Arabic (Qatar)</item>
+        <item>Arabo (Arabia Saudita)</item>
+        <item>Arabo (Sudan)</item>
+        <item>Arabo (Siria)</item>
+        <item>Arabo (Tunisia)</item>
+        <item>Arabo (Emirati Arabi Uniti)</item>
+        <item>Arabo (Yemen)</item>
+        <item>Bielorusso (Bielorussia)</item>
+        <item>Bengalese (Bangladesh)</item>
+        <item>Bulgaro (Bulgaria)</item>
+        <item>Catalano (Spagna)</item>
+        <item>Cinese, mandarino (Cina, semplificato)</item>
+        <item>Cinese, mandarino (Hong Kong, semplificato)</item>
+        <item>Cinese, mandarino (Hong Kong, tradizionale)</item>
+        <item>Cinese, mandarino (Singapore, semplificato)</item>
+        <item>Cinese, mandarino (Taiwan, semplificato)</item>
+        <item>Cinese, mandarino (Taiwan, tradizionale)</item>
+        <item>Cinese, cantonese (Cina, semplificato)</item>
+        <item>Cinese, cantonese (Hong Kong, tradizionale)</item>
+        <item>Croato (Croazia)</item>
+        <item>Ceco (Repubblica Ceca)</item>
+        <item>Danese (Danimarca)</item>
+        <item>Olandese (Belgio)</item>
+        <item>Olandese (Paesi Bassi)</item>
+        <item>Inglese (generico)</item>
+        <item>Inglese (Australia)</item>
+        <item>Inglese (Bangladesh)</item>
+        <item>Inglese (Canada)</item>
+        <item>Inglese (Hong Kong)</item>
+        <item>Inglese (India)</item>
+        <item>Inglese (Irlanda)</item>
+        <item>English (Kenya)</item>
+        <item>Inglese (Malesia)</item>
+        <item>Inglese (Nuova Zelanda)</item>
+        <item>Inglese (Nigeria)</item>
+        <item>Inglese (Pakistan)</item>
+        <item>Inglese (Filippine)</item>
+        <item>Inglese (Singapore)</item>
+        <item>Inglese (Sudafrica)</item>
+        <item>English (Sudan)</item>
+        <item>Inglese (Tanzania)</item>
+        <item>Inglese (Uganda)</item>
+        <item>Inglese (Regno Unito)</item>
+        <item>Inglese (USA)</item>
+        <item>Estone (Estonia)</item>
+        <item>Filippino (Filippine)</item>
+        <item>Finlandese (Finlandia)</item>
+        <item>Francese (Belgio)</item>
+        <item>Francese (Canada)</item>
+        <item>Francese (Francia)</item>
+        <item>Francese (Svizzera)</item>
+        <item>Galiziano (Spagna)</item>
+        <item>Tedesco (Austria)</item>
+        <item>Tedesco (Germania)</item>
+        <item>Tedesco (Svizzera)</item>
+        <item>Tedesco (Liechtenstein)</item>
+        <item>Greco (Grecia)</item>
+        <item>Ebraico (Israele)</item>
+        <item>Hindi (India)</item>
+        <item>Ungherese (Ungheria)</item>
+        <item>Islandese (Islanda)</item>
+        <item>Indonesiano (Indonesia)</item>
+        <item>Irlandese (Irlanda)</item>
+        <item>isiNdebele (Sudafrica)</item>
+        <item>isiXhosa (South Africa)</item>
+        <item>isiZulu (Sudafrica)</item>
+        <item>Italiano (Italia)</item>
+        <item>Italiano (Svizzera)</item>
+        <item>Giapponese (Giappone)</item>
+        <item>Coreano (Corea del Sud)</item>
+        <item>Lettone (Lettonia)</item>
+        <item>Lituano (Lituania)</item>
+        <item>Malese (Malesia)</item>
+        <item>Malese (Singapore)</item>
+        <item>Norwegian Bokmål (Norway)</item>
+        <item>Norvegese nynorsk (Norvegia)</item>
+        <item>Persiano (Iran)</item>
+        <item>Polacco (Polonia)</item>
+        <item>Portoghese (Angola)</item>
+        <item>Portoghese (Brasile)</item>
+        <item>Portoghese (Portogallo)</item>
+        <item>Romanian (Romania)</item>
+        <item>Russo (Bielorussia)</item>
+        <item>Russo (Russia)</item>
+        <item>Sepedi (Sudafrica)</item>
+        <item>Serbian (Serbia, Cyrillic)</item>
+        <item>Sesotho (Sudafrica)</item>
+        <item>Setswana (Sudafrica)</item>
+        <item>siSwati (Sudafrica)</item>
+        <item>Slovak (Slovakia)</item>
+        <item>Sloveno (Slovenia)</item>
+        <item>Spagnolo (Argentina)</item>
+        <item>Spanish (Bolivia)</item>
+        <item>Spagnolo (Cile)</item>
+        <item>Spagnolo (Colombia)</item>
+        <item>Spagnolo (Costa Rica)</item>
+        <item>Spanish (Cuba)</item>
+        <item>Spanish (Dominican Republic)</item>
+        <item>Spagnolo (Ecuador)</item>
+        <item>Spagnolo (El Salvador)</item>
+        <item>Spagnolo (Guatemala)</item>
+        <item>Spagnolo (Honduras)</item>
+        <item>Spagnolo (Messico)</item>
+        <item>Spagnolo (Nicaragua)</item>
+        <item>Spagnolo (Panama)</item>
+        <item>Spagnolo (Paraguay)</item>
+        <item>Spagnolo (Perù)</item>
+        <item>Spagnolo (Portorico)</item>
+        <item>Spagnolo (Spagna)</item>
+        <item>Spagnolo (USA)</item>
+        <item>Spagnolo (Uruguay)</item>
+        <item>Spagnolo (Venezuela)</item>
+        <item>Swahili (Kenya)</item>
+        <item>Swahili (Tanzania)</item>
+        <item>Swahili (Uganda)</item>
+        <item>Svedese (Finlandia)</item>
+        <item>Svedese (Svezia)</item>
+        <item>Thailandese (Thailandia)</item>
+        <item>Tshivenda (South Africa)</item>
+        <item>Turco (Turchia)</item>
+        <item>Ucraino (Ucraina)</item>
+        <item>Urdu (Pakistan)</item>
+        <item>Vietnamita (Vietnam)</item>
+        <item>Xitsonga (Sudafrica)</item>
+    </string-array>
+    <string-array name="edit_reminder_day">
+        <item>Oggi</item>
+        <item>Domani</item>
+        <item>Di tanto in tanto</item>
+        <item>Imposta data...</item>
+    </string-array>
+    <string-array name="edit_reminder_time">
+        <item>Mattina</item>
+        <item>Pomeriggio</item>
+        <item>Sera</item>
+        <item>Notte</item>
+        <item>Tutto il giorno</item>
+        <item>Imposta ora...</item>
+    </string-array>
+    <string-array name="edit_reminder_location_trigger_type">
+        <item>Arrivo</item>
+        <item>Partenza alle ore</item>
+    </string-array>
+    <string-array name="edit_reminder_location">
+        <item>Casa</item>
+        <item>Lavoro</item>
+        <item>Imposta posizione...</item>
+    </string-array>
+    <string-array name="network_error_tts_messages">
+        <item>La connessione Internet non è attualmente affidabile.</item>
+        <item>La connessione Internet non è affidabile al momento.</item>
+        <item>La connessione Internet non è attualmente stabile.</item>
+        <item>La connessione Internet non è stabile al momento.</item>
+        <item>La connessione Internet non è abbastanza stabile attualmente.</item>
+        <item>La connessione Internet non è abbastanza stabile al momento.</item>
+    </string-array>
+    <string-array name="read_it_grammar">
+        <item>leggilo</item>
+        <item>leggi il messaggio</item>
+        <item>leggi il testo</item>
+    </string-array>
+    <string-array name="reply_grammar">
+        <item>rispondi</item>
+        <item>invia risposta</item>
+        <item>invia una risposta</item>
+        <item>"rispondi all'SMS"</item>
+        <item>invia risposta al messaggio</item>
+    </string-array>
+    <string-array name="call_back_grammar">
+        <item>"richiama mittente dell'ultimo messaggio"</item>
+        <item>chiamalo</item>
+        <item>richiamalo</item>
+        <item>chiamala</item>
+        <item>richiamala</item>
+    </string-array>
+</resources>

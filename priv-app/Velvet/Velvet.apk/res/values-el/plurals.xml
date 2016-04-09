@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">%1$d επιλεγμένα</item>
+        <item quantity="zero">%1$d επιλεγμένα</item>
+        <item quantity="one">%1$d επιλεγμένα</item>
+    </plurals>
+    <plurals name="recurrence_end_count">
+        <item quantity="other">Για %d συμβάντα</item>
+        <item quantity="one">Για %d συμβάν</item>
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+        <item quantity="other">Κάθε %d ημέρες</item>
+        <item quantity="one">Κάθε %d ημέρα</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+        <item quantity="other">Κάθε %d εβδομάδες</item>
+        <item quantity="one">Κάθε %d εβδομάδα</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+        <item quantity="other">Κάθε %d μήνες</item>
+        <item quantity="one">Κάθε %d μήνα</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+        <item quantity="other">Κάθε %d έτη</item>
+        <item quantity="one">Κάθε %d έτος</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item quantity="other">, για %d φορές</item>
+        <item quantity="one">, για μία φορά</item>
+    </plurals>
+    <plurals name="daily">
+        <item quantity="other">Κάθε %d ημέρες</item>
+        <item quantity="one">Καθημερινά</item>
+        <item quantity="two">Κάθε %d ημέρες</item>
+        <item quantity="few">Κάθε %d ημέρες</item>
+        <item quantity="many">Κάθε %d ημέρες</item>
+    </plurals>
+    <plurals name="daily_lower">
+        <item quantity="other">κάθε %d ημέρες</item>
+        <item quantity="one">καθημερινά</item>
+        <item quantity="two">κάθε %d ημέρες</item>
+        <item quantity="few">κάθε %d ημέρες</item>
+        <item quantity="many">κάθε %d ημέρες</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="other">Κάθε %1$d εβδομάδες, μέρες %2$s</item>
+        <item quantity="one">Κάθε εβδομάδα, μέρα %2$s</item>
+        <item quantity="two">Κάθε %1$d εβδομάδες, μέρες %2$s</item>
+        <item quantity="few">Κάθε %1$d εβδομάδες, μέρες %2$s</item>
+        <item quantity="many">Κάθε %1$d εβδομάδες, μέρες %2$s</item>
+    </plurals>
+    <plurals name="weekly_lower">
+        <item quantity="other">κάθε %1$d εβδομάδες, μέρες %2$s</item>
+        <item quantity="one">εβδομαδιαία, μέρα %2$s</item>
+        <item quantity="two">κάθε %1$d εβδομάδες, μέρες %2$s</item>
+        <item quantity="few">κάθε %1$d εβδομάδες, μέρες %2$s</item>
+        <item quantity="many">κάθε %1$d εβδομάδες, μέρες %2$s</item>
+    </plurals>
+    <plurals name="monthly_interval">
+        <item quantity="other">Κάθε %1$d μήνες</item>
+        <item quantity="one">Μηνιαίως</item>
+        <item quantity="two">Κάθε %1$d μήνες</item>
+        <item quantity="few">Κάθε %1$d μήνες</item>
+        <item quantity="many">Κάθε %1$d μήνες</item>
+    </plurals>
+    <plurals name="monthly_interval_lower">
+        <item quantity="other">κάθε %1$d μήνες</item>
+        <item quantity="one">μηνιαίως</item>
+        <item quantity="two">κάθε %1$d μήνες</item>
+        <item quantity="few">κάθε %1$d μήνες</item>
+        <item quantity="many">κάθε %1$d μήνες</item>
+    </plurals>
+    <plurals name="yearly_interval_plain">
+        <item quantity="other">Κάθε %1$d έτη</item>
+        <item quantity="one">Ετησίως</item>
+        <item quantity="two">Κάθε %1$d έτη</item>
+        <item quantity="few">Κάθε %1$d έτη</item>
+        <item quantity="many">Κάθε %1$d έτη</item>
+    </plurals>
+    <plurals name="yearly_interval_lower">
+        <item quantity="other">κάθε %1$d έτη</item>
+        <item quantity="one">ετησίως</item>
+        <item quantity="two">κάθε %1$d έτη</item>
+        <item quantity="few">κάθε %1$d έτη</item>
+        <item quantity="many">κάθε %1$d έτη</item>
+    </plurals>
+    <plurals name="duration_in_hours">
+        <item quantity="other">%1$d ώρες</item>
+        <item quantity="one">%1$d ώρα</item>
+    </plurals>
+    <plurals name="duration_in_hours_short">
+        <item quantity="other">%1$d ώρες</item>
+        <item quantity="one">%1$d ώρα</item>
+    </plurals>
+    <plurals name="duration_in_minutes">
+        <item quantity="other">%1$d λεπτά</item>
+        <item quantity="one">%1$d λεπτό</item>
+    </plurals>
+    <plurals name="duration_in_minutes_short">
+        <item quantity="other">%1$d λεπτά</item>
+        <item quantity="one">%1$d λεπτό</item>
+    </plurals>
+    <plurals name="duration_in_days">
+        <item quantity="other">%1$d ημέρες</item>
+        <item quantity="one">%1$d ημέρα</item>
+    </plurals>
+    <plurals name="duration_in_days_short">
+        <item quantity="other">%1$d ημέρες</item>
+        <item quantity="one">%1$d ημέρα</item>
+    </plurals>
+    <plurals name="duration_in_months">
+        <item quantity="other">%1$d μήνες</item>
+        <item quantity="one">%1$d μήνας</item>
+    </plurals>
+    <plurals name="duration_in_months_short">
+        <item quantity="other">%1$d μήνες</item>
+        <item quantity="one">%1$d μήνας</item>
+    </plurals>
+    <plurals name="duration_in_years">
+        <item quantity="other">%1$d έτη</item>
+        <item quantity="one">%1$d έτος</item>
+    </plurals>
+    <plurals name="duration_in_years_short">
+        <item quantity="other">%1$d έτη</item>
+        <item quantity="one">%1$d έτος</item>
+    </plurals>
+    <plurals name="items_from_without_colon">
+        <item quantity="other">%1$d στοιχεία από</item>
+        <item quantity="one">%1$d στοιχείο από</item>
+    </plurals>
+    <plurals name="last_bus_home_departure_time">
+        <item quantity="other">Τελευταίο λεωφορείο για το σπίτι σε %2$s%1$d λεπτά%3$s</item>
+        <item quantity="one">Τελευταίο λεωφορείο για το σπίτι σε %2$s%1$d λεπτό%3$s</item>
+    </plurals>
+    <plurals name="last_bus_to_hotel_departure_time">
+        <item quantity="other">Τελευταίο λεωφορείο για το ξενοδοχείο σε %2$s%1$d λεπτά%3$s</item>
+        <item quantity="one">Τελευταίο λεωφορείο για το ξενοδοχείο σε %2$s%1$d λεπτό%3$s</item>
+    </plurals>
+    <plurals name="last_train_home_departure_time">
+        <item quantity="other">Τελευταίο τρένο για το σπίτι σε %2$s%1$dλεπτά%3$s</item>
+        <item quantity="one">Τελευταίο τρένο για το σπίτι σε %2$s1 λεπτό%3$s</item>
+    </plurals>
+    <plurals name="last_train_to_hotel_departure_time">
+        <item quantity="other">Τελευταία τρένο για το ξενοδοχείο σε %2$s%1$dλεπτά%3$s</item>
+        <item quantity="one">Τελευταία τρένο για το ξενοδοχείο σε %2$s1 λεπτό%3$s</item>
+    </plurals>
+    <plurals name="last_transit_home_departure_time">
+        <item quantity="other">Τελευταίο μέσο μεταφοράς για το σπίτι σε %2$s%1$d λεπτά%3$s</item>
+        <item quantity="one">Τελευταίο μέσο μεταφοράς για το σπίτι σε %2$s%1$d λεπτό%3$s</item>
+    </plurals>
+    <plurals name="last_transit_to_hotel_departure_time">
+        <item quantity="other">Τελευταίο μέσο μεταφοράς για το ξενοδοχείο σε %2$s%1$d λεπτά%3$s</item>
+        <item quantity="one">Τελευταίο μέσο μεταφοράς για το ξενοδοχείο σε %2$s%1$d λεπτό%3$s</item>
+    </plurals>
+    <plurals name="transit_next_line_departure_subtext_no_platform">
+        <item quantity="other">Περπατήστε %1$d λεπτά έως την πλατφόρμα %2$s</item>
+        <item quantity="one">Περπατήστε 1 λεπτό έως τον σταθμό %2$s</item>
+    </plurals>
+    <plurals name="minutes_delay">
+        <item quantity="other">%1$d λεπτά καθυστέρηση</item>
+        <item quantity="one">1 λεπτό καθυστέρηση</item>
+    </plurals>
+    <plurals name="minutes_delay_more_than_usual">
+        <item quantity="other">%1$d λεπτά περισσ. από συνηθ.</item>
+        <item quantity="one">1 λεπτό περισσ. από συνηθ.</item>
+    </plurals>
+    <plurals name="minutes_delay_less_than_usual">
+        <item quantity="other">%1$d λεπτά λιγ. από συνηθ.</item>
+        <item quantity="one">1 λεπτό λιγ. από συνηθ.</item>
+    </plurals>
+    <plurals name="usual_traffic_minutes_delay">
+        <item quantity="other">Συνήθης κίνηση: %1$d λεπτά καθυστ.</item>
+        <item quantity="one">Συνήθης κίνηση: 1 λεπτό καθυστ.</item>
+    </plurals>
+    <plurals name="num_min_late">
+        <item quantity="other">%1$d λεπτά αργότερα</item>
+        <item quantity="one">1 λεπτό αργότερα</item>
+    </plurals>
+    <plurals name="num_min_early">
+        <item quantity="other">%1$d λεπτά νωρίτερα</item>
+        <item quantity="one">1 λεπτό νωρίτερα</item>
+    </plurals>
+    <plurals name="transit_interval_in_minutes">
+        <item quantity="other">· κάθε %1$s λεπτά</item>
+        <item quantity="one">· κάθε %1$s λεπτό</item>
+    </plurals>
+    <plurals name="transit_interval_in_hours">
+        <item quantity="other">· κάθε %1$d ώρες</item>
+        <item quantity="one">· κάθε %1$d ώρα</item>
+    </plurals>
+    <plurals name="qp_transit_interval_in_minutes">
+        <item quantity="other">Κάθε %1$s λεπτά</item>
+        <item quantity="one">Κάθε %1$s λεπτό</item>
+    </plurals>
+    <plurals name="qp_transit_interval_in_hours">
+        <item quantity="other">Κάθε %1$d ώρες</item>
+        <item quantity="one">Κάθε %1$d ώρα</item>
+    </plurals>
+    <plurals name="sports_overtime_period_header">
+        <item quantity="other">%1$dΠΑΡ.</item>
+        <item quantity="one">ΠΑΡ.</item>
+    </plurals>
+    <plurals name="time_to_leave_user_arrival_generic">
+        <item quantity="other">Άφιξη %1$d λεπτά νωρίτερα</item>
+        <item quantity="one">Άφιξη %1$d λεπτό νωρίτερα</item>
+    </plurals>
+    <plurals name="time_to_leave_user_arrival_flight">
+        <item quantity="other">Άφιξη %1$d λεπτά πριν από την αναχώρηση</item>
+        <item quantity="one">Άφιξη %1$d λεπτό πριν από την αναχώρηση</item>
+    </plurals>
+    <plurals name="time_to_leave_user_arrival_reservation">
+        <item quantity="other">Άφιξη %1$d λεπτά πριν από την κράτηση</item>
+        <item quantity="one">Άφιξη %1$d λεπτό πριν από την κράτηση</item>
+    </plurals>
+    <plurals name="time_to_leave_user_arrival_movie">
+        <item quantity="other">Άφιξη %1$d λεπτά πριν από την ταινία</item>
+        <item quantity="one">Άφιξη %1$d λεπτό πριν από την ταινία</item>
+    </plurals>
+    <plurals name="time_to_leave_user_arrival_concert">
+        <item quantity="other">Άφιξη %1$d λεπτά πριν από τη συναυλία</item>
+        <item quantity="one">Άφιξη %1$d λεπτό πριν από τη συναυλία</item>
+    </plurals>
+    <plurals name="email_everyone">
+        <item quantity="other">Αποστολή μηνύματος ηλεκτρονικού ταχυδρομείου σε όλους (%1$d)</item>
+        <item quantity="one">Αποστολή μηνύματος ηλεκτρονικού ταχυδρομείου σε όλους (%1$d)</item>
+    </plurals>
+    <plurals name="card_count">
+        <item quantity="other">%1$d κάρτες</item>
+        <item quantity="one">1 κάρτα</item>
+    </plurals>
+    <plurals name="num_movie_tickets">
+        <item quantity="other">%1$d εισιτήρια</item>
+        <item quantity="one">%1$d εισιτήριο</item>
+    </plurals>
+    <plurals name="qp_hotel_reservation_length">
+        <item quantity="other">Κράτηση δωματίου για %1$d διανυκτερεύσεις</item>
+        <item quantity="one">Κράτηση δωματίου για %1$d διανυκτέρευση</item>
+    </plurals>
+    <plurals name="reminders">
+        <item quantity="other">%1$d υπενθυμίσεις</item>
+        <item quantity="one">%1$d υπενθύμιση</item>
+    </plurals>
+    <plurals name="number_of_location_sharers">
+        <item quantity="other">%1$d άτομα μοιράζονται περιεχόμενο μαζί σας</item>
+        <item quantity="one">%1$d άτομο μοιράζεται περιεχόμενο μαζί σας</item>
+    </plurals>
+    <plurals name="expiring_duration_in_days">
+        <item quantity="other">Λήγει σε %1$d ημέρες</item>
+        <item quantity="one">Λήγει σε %1$d ημέρα</item>
+    </plurals>
+    <plurals name="expiring_duration_in_hours">
+        <item quantity="other">Λήγει σε %1$d ώρες</item>
+        <item quantity="one">Λήγει σε %1$d ώρα</item>
+    </plurals>
+    <plurals name="expiring_duration_in_minutes">
+        <item quantity="other">Λήγει σε %1$d λεπτά</item>
+        <item quantity="one">Λήγει σε %1$d λεπτό</item>
+    </plurals>
+    <plurals name="view_count">
+        <item quantity="other">%1$,d προβολές</item>
+        <item quantity="one">%1$,d προβολή</item>
+    </plurals>
+    <plurals name="transportation_seat">
+        <item quantity="other">%1$d Καθίσματα</item>
+        <item quantity="one">Κάθισμα</item>
+    </plurals>
+    <plurals name="more_directions">
+        <item quantity="other">+ %1$d οδηγίες ακόμη</item>
+        <item quantity="one">+ %1$d οδηγία ακόμη</item>
+    </plurals>
+    <plurals name="time_duration_spoken_hour">
+        <item quantity="other">%1$d ώρες</item>
+        <item quantity="one">1 ώρα</item>
+    </plurals>
+    <plurals name="time_duration_spoken_minute">
+        <item quantity="other">%1$d λεπτά</item>
+        <item quantity="one">1 λεπτό</item>
+    </plurals>
+    <plurals name="time_duration_spoken_second">
+        <item quantity="other">%1$d δευτερόλεπτα</item>
+        <item quantity="one">1 δευτερόλεπτο</item>
+    </plurals>
+    <plurals name="agenda_eyes_free_all_day_events">
+        <item quantity="other">%2$s υπάρχουν %1$d ολοήμερα συμβάντα: %3$s.</item>
+        <item quantity="one">%2$s υπάρχει ένα ολοήμερο συμβάν: %3$s.</item>
+    </plurals>
+</resources>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="titles_size">180.0dip</dimen>
+    <dimen name="multisel_margin">250.0dip</dimen>
+    <dimen name="controller_relative_marginLeft">5.0dip</dimen>
+    <dimen name="controller_relative_marginRight">90.0dip</dimen>
+    <dimen name="image_relative_marginRight">5.0dip</dimen>
+    <dimen name="online_first_page_img_filed_img_margin_rl">13.0dip</dimen>
+    <dimen name="online_first_page_banner_item_width">679.0dip</dimen>
+    <dimen name="online_first_page_banner_item_height">260.0dip</dimen>
+    <dimen name="online_first_page_banner_space">-115.0dip</dimen>
+    <item type="dimen" name="navigation_bar_height">@android:dimen/navigation_bar_height</item>
+    <dimen name="widget_full_width">315.0dip</dimen>
+    <dimen name="widget_full_height">214.0dip</dimen>
+    <dimen name="min_widget_full_width">312.0dip</dimen>
+    <dimen name="min_widget_full_height">200.0dip</dimen>
+    <dimen name="widget_visible_width">315.0dip</dimen>
+    <dimen name="widget_visible_height">214.0dip</dimen>
+    <dimen name="widget_round_width">315.0dip</dimen>
+    <dimen name="widget_round_height">214.0dip</dimen>
+    <dimen name="VideoThumbnail_width">289.0dip</dimen>
+    <dimen name="VideoThumbnail_height">170.0dip</dimen>
+    <dimen name="widget_bottom_visiableblock_marginbottom">-3.0dip</dimen>
+    <dimen name="widget_bottom_frame_height">106.0dip</dimen>
+    <dimen name="widget_playButton_margin_right">30.0dip</dimen>
+    <dimen name="widget_title_frame_width">220.0dip</dimen>
+    <dimen name="widget_title_marginTop">32.0dip</dimen>
+    <dimen name="widget_title_textSize">24.0dip</dimen>
+    <dimen name="widget_duration_marginTop">8.0dip</dimen>
+    <dimen name="widget_duration_textSize">16.0dip</dimen>
+    <dimen name="widget_control_play_marginTop">15.0dip</dimen>
+    <dimen name="widget_playButton_width">51.0dip</dimen>
+    <dimen name="widget_playButton_height">63.0dip</dimen>
+</resources>

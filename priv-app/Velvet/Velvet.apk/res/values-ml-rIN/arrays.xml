@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="recurrence_freq">
+        <item>ദിവസവും ആവർത്തിക്കുക</item>
+        <item>എല്ലാ ആഴ്‌ചയും ആവർത്തിക്കുക</item>
+        <item>എല്ലാമാസവും ആവർത്തിക്കുക</item>
+        <item>എല്ലാവർഷവും ആവർത്തിക്കുക</item>
+    </string-array>
+    <string-array name="edit_recurrence">
+        <item>ആവർത്തിക്കുന്നില്ല</item>
+        <item>എല്ലാ ദിവസവും</item>
+        <item>എല്ലാ ആഴ്‌ചയിലും</item>
+        <item>എല്ലാ മാസവും</item>
+        <item>എല്ലാ വർഷവും</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>എല്ലാ ആദ്യ ഞായറാഴ്‌ചയും</item>
+        <item>എല്ലാ രണ്ടാമത്തെ ഞായറാഴ്‌ചയും</item>
+        <item>എല്ലാ മൂന്നാമത്തെ ഞായറാഴ്‌ചയും</item>
+        <item>എല്ലാ നാലാമത്തെ ഞായറാഴ്‌ചയും</item>
+        <item>എല്ലാ അവസാന ഞായറാഴ്‌ചയും</item>
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>എല്ലാ ആദ്യ തിങ്കളാഴ്‌ചയും</item>
+        <item>എല്ലാ രണ്ടാമത്തെ തിങ്കളാഴ്‌ചയും</item>
+        <item>എല്ലാ മൂന്നാമത്തെ തിങ്കളാഴ്‌ചയും</item>
+        <item>എല്ലാ നാലാമത്തെ തിങ്കളാഴ്‌ചയും</item>
+        <item>എല്ലാ അവസാന തിങ്കളാഴ്‌ചകളിലും</item>
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>എല്ലാ ആദ്യ ചൊവ്വാഴ്‌ചയും</item>
+        <item>എല്ലാ രണ്ടാമത്തെ ചൊവ്വാഴ്‌ചയും</item>
+        <item>എല്ലാ മൂന്നാമത്തെ ചൊവ്വാഴ്‌ചയും</item>
+        <item>എല്ലാ നാലാമത്തെ ചൊവ്വാഴ്‌ചയും</item>
+        <item>എല്ലാ അവസാന ചൊവ്വാഴ്‌ചകളിലും</item>
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>എല്ലാ ആദ്യ ബുധനാഴ്‌ചയും</item>
+        <item>എല്ലാ രണ്ടാമത്തെ ബുധനാഴ്‌ചയും</item>
+        <item>എല്ലാ മൂന്നാമത്തെ ബുധനാഴ്‌ചയും</item>
+        <item>എല്ലാ നാലാമത്തെ ബുധനാഴ്‌ചയും</item>
+        <item>എല്ലാ അവസാന ബുധനാഴ്‌ചയും</item>
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>എല്ലാ ആദ്യ വ്യാഴാഴ്‌ചയും</item>
+        <item>എല്ലാ രണ്ടാമത്തെ വ്യാഴാഴ്‌ചയും</item>
+        <item>എല്ലാ മൂന്നാമത്തെ വ്യാഴാഴ്‌ചയും</item>
+        <item>എല്ലാ നാലാമത്തെ വ്യാഴാഴ്‌ചയും</item>
+        <item>എല്ലാ അവസാന വ്യാഴാഴ്‌ചയും</item>
+    </string-array>
+    <string-array name="repeat_by_nth_fri">
+        <item>എല്ലാ ആദ്യ വെള്ളിയാഴ്‌ചയും</item>
+        <item>എല്ലാ രണ്ടാമത്തെ വെള്ളിയാഴ്‌ചയും</item>
+        <item>എല്ലാ മൂന്നാമത്തെ വെള്ളിയാഴ്‌ചയും</item>
+        <item>എല്ലാ നാലാമത്തെ വെള്ളിയാഴ്‌ചയും</item>
+        <item>എല്ലാ അവസാന വെള്ളിയാഴ്‌ചയും</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>എല്ലാ ആദ്യ ശനിയാഴ്‌ചയും</item>
+        <item>എല്ലാ രണ്ടാമത്തെ ശനിയാഴ്‌ചയും</item>
+        <item>എല്ലാ മൂന്നാമത്തെ ശനിയാഴ്‌ചയും</item>
+        <item>എല്ലാ നാലാമത്തെ ശനിയാഴ്‌ചയും</item>
+        <item>എല്ലാ അവസാന ശനിയാഴ്‌ചയും</item>
+    </string-array>
+    <string-array name="baseball_innings">
+        <item>ആദ്യ ഇന്നിംഗ്</item>
+        <item>രണ്ടാമത്തെ ഇന്നിംഗ്</item>
+        <item>മൂന്നാമത്തെ ഇന്നിംഗ്</item>
+        <item>നാലാമത്തെ ഇന്നിംഗ്</item>
+        <item>അഞ്ചാമത്തെ ഇന്നിംഗ്</item>
+        <item>ആറാമത്തെ ഇന്നിംഗ്</item>
+        <item>ഏഴാമത്തെ ഇന്നിംഗ്</item>
+        <item>എട്ടാമത്തെ ഇന്നിംഗ്</item>
+        <item>ഒമ്പതാമത്തെ ഇന്നിംഗ്</item>
+        <item>പത്താമത്തെ ഇന്നിംഗ്</item>
+        <item>പതിനൊന്നാമത്തെ ഇന്നിംഗ്‌</item>
+        <item>പന്ത്രണ്ടാമത്തെ ഇന്നിംഗ്</item>
+    </string-array>
+    <string-array name="qp_top_baseball_innings">
+        <item>ഒന്നാമത്തെ ടോപ്പ്</item>
+        <item>രണ്ടാമത്തെ ടോപ്പ്</item>
+        <item>മൂന്നാമത്തെ ടോപ്പ്</item>
+        <item>നാലാമത്തെ ടോപ്പ്</item>
+        <item>അഞ്ചാമത്തെ ടോപ്പ്</item>
+        <item>ആറാമത്തെ ടോപ്പ്</item>
+        <item>ഏഴാമത്തെ ടോപ്പ്</item>
+        <item>എട്ടാമത്തെ ടോപ്പ്</item>
+        <item>ഒമ്പതാമത്തെ ടോപ്പ്</item>
+        <item>പത്താമത്തെ ടോപ്പ്</item>
+        <item>പതിനൊന്നാമത്തെ ടോപ്പ്</item>
+        <item>പന്ത്രണ്ടാമത്തെ ടോപ്പ്</item>
+    </string-array>
+    <string-array name="qp_bottom_baseball_innings">
+        <item>ഒന്നാമത്തെ ബോട്ടം</item>
+        <item>രണ്ടാമത്തെ ബോട്ടം</item>
+        <item>മൂന്നാമത്തെ ബോട്ടം</item>
+        <item>നാലാമത്തെ ബോട്ടം</item>
+        <item>അഞ്ചാമത്തെ ബോട്ടം</item>
+        <item>ആറാമത്തെ ബോട്ടം</item>
+        <item>ഏഴാമത്തെ ബോട്ടം</item>
+        <item>എട്ടാമത്തെ ബോട്ടം</item>
+        <item>ഒമ്പതാമത്തെ ബോട്ടം</item>
+        <item>പത്താമത്തെ ബോട്ടം</item>
+        <item>പതിനൊന്നാമത്തെ ബോട്ടം</item>
+        <item>പന്ത്രണ്ടാമത്തെ ബോട്ടം</item>
+    </string-array>
+    <string-array name="local_results_markers">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>വലുത്</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+    </string-array>
+    <string-array name="languageNames">
+        <item>ആഫ്രിക്കാൻസ് (ദക്ഷിണാഫ്രിക്ക)</item>
+        <item>അറബിക്ക് (അൾജീരിയ)</item>
+        <item>അറബിക് (ഈജിപ്റ്റ്)</item>
+        <item>അറബിക് (ഇറാഖ്)</item>
+        <item>അറബിക് (ഇസ്രായേൽ)</item>
+        <item>അറബിക് (ജോർദ്ദാൻ)</item>
+        <item>അറബിക് (കുവൈറ്റ്)</item>
+        <item>അറബിക് (ലെബനൻ)</item>
+        <item>അറബിക് (ലിബിയ)</item>
+        <item>അറബിക് (മൊറോക്കോ)</item>
+        <item>അറബിക് (ഖത്തർ)</item>
+        <item>അറബിക് (സൗദി അറേബ്യ)</item>
+        <item>അറബിക് (സുഡാൻ)</item>
+        <item>അറബിക് (സിറിയ)</item>
+        <item>അറബിക് (ടുണീഷ്യ)</item>
+        <item>അറബിക് (യുണൈറ്റഡ് അറബ് എമിറേറ്റ്സ്)</item>
+        <item>അറബിക് (യെമൻ)</item>
+        <item>ബെലാറുഷ്യൻ (ബെലാറസ്)</item>
+        <item>ബംഗാളി (ബംഗ്ലാദേശ്)</item>
+        <item>ബൾഗേറിയൻ (ബൾഗേറിയ)</item>
+        <item>കാറ്റലൻ (സ്‌പെയിൻ)</item>
+        <item>ചൈനീസ്, മന്ദാരിൻ (ചൈന, ലളിതം)</item>
+        <item>ചൈനീസ്, മാൻഡരിൻ (ഹോങ്കോങ്ങ്, ലളിതം)</item>
+        <item>ചൈനീസ്, മന്ദാരിൻ (ഹോങ്കോങ്ങ്, പരമ്പരാഗതം)</item>
+        <item>ചൈനീസ്, മാൻഡരിൻ (സിംഗപ്പൂർ, ലളിതം)</item>
+        <item>ചൈനീസ്, മാൻഡരിൻ (തായ്‌വാൻ, ലളിതം)</item>
+        <item>ചൈനീസ്, മന്ദാരിൻ (തായ്‌വാൻ, പരമ്പരാഗതം)</item>
+        <item>ചൈനീസ്, യൂ (ചൈന, ലളിതം)</item>
+        <item>ചൈനീസ്, യൂ (ഹോങ്കോങ്ങ്, പരമ്പരാഗതം)</item>
+        <item>ക്രൊയേഷ്യൻ (ക്രൊയേഷ്യ)</item>
+        <item>ചെക്ക് (ചെക്ക് റിപ്പബ്ലിക്)</item>
+        <item>ഡാനിഷ് (ഡെൻമാർക്ക്)</item>
+        <item>ഡച്ച് (ബൽജിയം)</item>
+        <item>ഡച്ച് (നെതർലാൻഡ്‌സ്)</item>
+        <item>ഇംഗ്ലീഷ് (പൊതുവായത്)</item>
+        <item>ഇംഗ്ലീഷ് (ഓസ്ട്രേലിയ)</item>
+        <item>ഇംഗ്ലീഷ് (ബംഗ്ലാദേശ്)</item>
+        <item>ഇംഗ്ലീഷ് (കാനഡ)</item>
+        <item>ഇംഗ്ലീഷ് (ഹോങ്കോങ്ങ്)</item>
+        <item>ഇംഗ്ലീഷ് (ഇന്ത്യ)</item>
+        <item>ഇംഗ്ലീഷ് (അയർലന്റ്)</item>
+        <item>ഇംഗ്ലീഷ് (കെനിയ)</item>
+        <item>ഇംഗ്ലീഷ് (മലേഷ്യ)</item>
+        <item>ഇംഗ്ലീഷ് (ന്യൂസിലാന്റ്)</item>
+        <item>ഇംഗ്ലീഷ് (നൈജീരിയ)</item>
+        <item>ഇംഗ്ലീഷ് (പാകിസ്ഥാൻ)</item>
+        <item>ഇംഗ്ലീഷ് (ഫിലിപ്പൈൻസ്)</item>
+        <item>ഇംഗ്ലീഷ് (സിംഗപ്പൂർ)</item>
+        <item>ഇംഗ്ലീഷ് (ദക്ഷിണാഫ്രിക്ക)</item>
+        <item>ഇംഗ്ലീഷ് (സുഡാൻ)</item>
+        <item>ഇംഗ്ലീഷ് (ടാൻസാനിയ)</item>
+        <item>ഇംഗ്ലീഷ് (ഉഗാണ്ട)</item>
+        <item>ഇംഗ്ലീഷ് (യുകെ)</item>
+        <item>ഇംഗ്ലീഷ് (യുഎസ്)</item>
+        <item>എസ്റ്റോണിയൻ (എസ്റ്റോണിയ)</item>
+        <item>ഫിലിപ്പിനോ (ഫിലിപ്പൈൻസ്)</item>
+        <item>ഫിന്നിഷ് (ഫിൻലാൻഡ്)</item>
+        <item>ഫ്രഞ്ച് (ബൽജിയം)</item>
+        <item>ഫ്രഞ്ച് (കാനഡ)</item>
+        <item>ഫ്രഞ്ച് (ഫ്രാൻസ്)</item>
+        <item>ഫ്രഞ്ച് (സ്വിറ്റ്‌സര്‍‌ലാന്‍റ്)</item>
+        <item>ഗലീഷ്യൻ (സ്‌പെയിൻ)</item>
+        <item>ജർമ്മൻ (ഓ‌സ്‌ട്രിയ)</item>
+        <item>ജർമ്മൻ (ജർമ്മനി)</item>
+        <item>ജർമ്മൻ (സ്വിറ്റ്‌സർലന്റ്)</item>
+        <item>ജർമ്മൻ (ലിച്ചെൻസ്റ്റീൻ)</item>
+        <item>ഗ്രീക്ക് (ഗ്രീസ്)</item>
+        <item>ഹീബ്രു (ഇസ്രായേൽ)</item>
+        <item>ഹിന്ദി (ഇന്ത്യ)</item>
+        <item>ഹംഗേറിയൻ (ഹംഗറി)</item>
+        <item>ഐസ്‌ലാൻഡിക് (ഐസ്‌ലാൻഡ്)</item>
+        <item>ഇന്തോനേഷ്യൻ (ഇന്തോനേഷ്യ)</item>
+        <item>ഐറിഷ് (അയർലാന്റ്)</item>
+        <item>ഐസെൻദെബെൽ (ദക്ഷിണാഫ്രിക്ക)</item>
+        <item>ഇസിക്കോസ (ദക്ഷിണാഫ്രിക്ക)</item>
+        <item>ഇസിസുലു (ദക്ഷിണാഫ്രിക്ക)</item>
+        <item>ഇറ്റാലിയൻ (ഇറ്റലി)</item>
+        <item>ഇറ്റാലിയൻ (സ്വിറ്റ്‌സർലാൻഡ്)</item>
+        <item>ജാപ്പനീസ് (ജപ്പാൻ)</item>
+        <item>കൊറിയൻ (ദക്ഷിണ കൊറിയ)</item>
+        <item>ലാറ്റ്‌വിയൻ (ലാറ്റ്‌വിയ)</item>
+        <item>ലിത്വാനിയൻ (ലിത്വാനിയ)</item>
+        <item>മലെയ് (മലേഷ്യ)</item>
+        <item>മലയ്‌ (സിംഗപ്പൂർ)</item>
+        <item>നോർവീജിയൻ ബോക്ക്മാൽ (നോർവെ)</item>
+        <item>നോർവീജിയൻ നിനോർസ്‌ക് (നോർവെ)</item>
+        <item>പേർഷ്യൻ (ഇറാൻ)</item>
+        <item>പോളിഷ് (പോളണ്ട്)</item>
+        <item>പോർച്ചുഗീസ് (അംഗോള)</item>
+        <item>പോര്‍‌ച്ചുഗീസ് (ബ്രസീല്‍‌)</item>
+        <item>പോർച്ചുഗീസ് (പോർച്ചുഗൽ)</item>
+        <item>റൊമേനിയൻ (റൊമാനിയ)</item>
+        <item>റഷ്യൻ (ബെലാറസ്)</item>
+        <item>റഷ്യൻ (റഷ്യ)</item>
+        <item>സെപെഡി (ദക്ഷിണാഫ്രിക്ക)</item>
+        <item>സെർബിയൻ (സെർബിയ, സിറിലിക്)</item>
+        <item>സെസൊതോ (ദക്ഷിണാഫ്രിക്ക)</item>
+        <item>സെറ്റ്‌സ്വാന (ദക്ഷിണാഫ്രിക്ക)</item>
+        <item>സിസ്വാറ്റി (ദക്ഷിണാഫ്രിക്ക)</item>
+        <item>സ്ലോവാക് (സ്ലോവാക്യ)</item>
+        <item>സ്ലോവേനിയൻ (സ്ലോവേനിയ)</item>
+        <item>സ്‌പാനിഷ് (അർജന്റീന)</item>
+        <item>സ്‌പാനിഷ് (ബൊളീവിയ)</item>
+        <item>സ്‌പാനിഷ് (ചിലി)</item>
+        <item>സ്‌പാനിഷ് (കൊളംബിയ)</item>
+        <item>സ്‌പാനിഷ് (കോസ്റ്റാറിക്ക)</item>
+        <item>സ്‌പാനിഷ് (ക്യൂബ)</item>
+        <item>സ്‌പാനിഷ് (ഡൊമിനിക്കൻ റിപ്പബ്ലിക്ക്)</item>
+        <item>സ്‌പാനിഷ് (ഇക്വഡോർ)</item>
+        <item>സ്‌പാനിഷ് (എൽ സാൽവദോർ)</item>
+        <item>സ്പാനിഷ് (ഗ്വാട്ടിമാല)</item>
+        <item>സ്‌പാനിഷ് (ഹോണ്ടുറാസ്)</item>
+        <item>സ്പാനിഷ് (മെക്സിക്കോ)</item>
+        <item>സ്‌പാനിഷ് (നിക്കരാഗ്വ)</item>
+        <item>സ്‌പാനിഷ് (പനാമ)</item>
+        <item>സ്‌പാനിഷ് (പരാഗ്വേ)</item>
+        <item>സ്പാനിഷ് (പെറു)</item>
+        <item>സ്‌പാനിഷ് (പ്യൂർട്ടോറിക്കോ)</item>
+        <item>സ്‌പാനിഷ് (സ്‌പെയിൻ)</item>
+        <item>സ്‌പാനിഷ് (യുഎസ്)</item>
+        <item>സ്‌പാനിഷ് (ഉറുഗ്വേ)</item>
+        <item>സ്‌പാനിഷ് (വെനിസ്വേല)</item>
+        <item>സ്വാഹിലി (കെനിയ)</item>
+        <item>സ്വാഹിലി (ടാൻസാനിയ)</item>
+        <item>സ്വാഹിലി (ഉഗാണ്ട)</item>
+        <item>സ്വീഡിഷ് (ഫിൻലാൻഡ്)</item>
+        <item>സ്വീഡിഷ് (സ്വീഡൻ)</item>
+        <item>തായ് (തായ്ലന്റ്)</item>
+        <item>ഷിവെൻഡാ (ദക്ഷിണാഫ്രിക്ക)</item>
+        <item>ടർക്കിഷ് (ടർക്കി)</item>
+        <item>ഉക്രേനിയൻ (ഉക്രെയ്‌ൻ)</item>
+        <item>ഉർദു (പാക്കിസ്ഥാൻ)</item>
+        <item>വിയറ്റ്നാമീസ് (വിയറ്റ്നാം)</item>
+        <item>സോംഗ (ദക്ഷിണാഫ്രിക്ക)</item>
+    </string-array>
+    <string-array name="edit_reminder_day">
+        <item>ഇന്ന്</item>
+        <item>നാളെ</item>
+        <item>ഇടയ്ക്കിടെ</item>
+        <item>തീയതി സജ്ജീകരിക്കുക…</item>
+    </string-array>
+    <string-array name="edit_reminder_time">
+        <item>രാവിലെ</item>
+        <item>ഉച്ചതിരിഞ്ഞ്</item>
+        <item>വൈകുന്നേരം</item>
+        <item>രാത്രി</item>
+        <item>എല്ലാ ദിവസവും</item>
+        <item>സമയം സജ്ജീകരിക്കുക…</item>
+    </string-array>
+    <string-array name="edit_reminder_location_trigger_type">
+        <item>എത്തിച്ചേരുക</item>
+        <item>പുറപ്പെടുക</item>
+    </string-array>
+    <string-array name="edit_reminder_location">
+        <item>വീട്</item>
+        <item>ജോലിസ്ഥലം</item>
+        <item>ലൊക്കേഷൻ സജ്ജീകരിക്കുക…</item>
+    </string-array>
+    <string-array name="network_error_tts_messages">
+        <item>ഈ ഇന്റർനെറ്റ് കണക്ഷന് നിലവിൽ വേണ്ടത്ര ശേഷിയില്ല.</item>
+        <item>ഈ ഇന്റർനെറ്റ് കണക്ഷന് ഇപ്പോൾ വേണ്ടത്ര ശേഷിയില്ല.</item>
+        <item>ഈ ഇന്റർനെറ്റ് കണക്ഷന് നിലവിൽ സ്ഥിരതയില്ല.</item>
+        <item>ഈ ഇന്റർനെറ്റ് കണക്ഷന് ഇപ്പോൾ സ്ഥിരതയില്ല.</item>
+        <item>ഈ ഇന്റർനെറ്റ് കണക്ഷന് നിലവിൽ വേണ്ടത്ര ശക്തിയില്ല.</item>
+        <item>ഈ ഇന്റർനെറ്റ് കണക്ഷന് ഇപ്പോൾ വേണ്ടത്ര ശക്തിയില്ല.</item>
+    </string-array>
+    <string-array name="read_it_grammar">
+        <item>അത് വായിക്കുക</item>
+        <item>സന്ദേശം വായിക്കുക</item>
+        <item>ആ ടെക്‌സ്റ്റ് വായിക്കുക</item>
+    </string-array>
+    <string-array name="reply_grammar">
+        <item>മറുപടി</item>
+        <item>മറുപടി അയയ്ക്കുക</item>
+        <item>ഒരു മറുപടി അയയ്ക്കുക</item>
+        <item>ടെക്‌സ്റ്റ് സന്ദേശത്തിന് മറുപടി നൽകുക</item>
+        <item>അതിന് മറുപടി അയയ്ക്കുക</item>
+    </string-array>
+    <string-array name="call_back_grammar">
+        <item>അവസാന സന്ദേശം അയച്ചയാളെ തിരികെ വിളിക്കുക</item>
+        <item>അവനെ വിളിക്കുക</item>
+        <item>അവനെ തിരികെ വിളിക്കുക</item>
+        <item>അവളെ വിളിക്കുക</item>
+        <item>അവളെ തിരികെ വിളിക്കുക</item>
+    </string-array>
+</resources>

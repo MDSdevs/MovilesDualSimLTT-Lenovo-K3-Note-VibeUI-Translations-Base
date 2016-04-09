@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">极速抢拍</string>
+    <string name="title">极速抢拍</string>
+    <string name="summary">黑屏时双击音量上或下键抢拍照片</string>
+    <string name="help_message">黑屏时双击音量上或下键抢拍照片（后台在播放音乐时仅作音量调整）</string>
+    <string name="i_know_it">我知道了</string>
+    <string name="status_opened">开启</string>
+    <string name="status_closed">关闭</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="search_phone_or_tablet">Căutaţi pe tabletă</string>
+    <string name="corpus_name_summons">Tabletă</string>
+    <string name="search_sources">Căutare pe tabletă</string>
+    <string name="no_summons_found">"Niciun rezultat
+pe tabletă."</string>
+    <string name="hands_free_unlock_device">Pentru a efectua o căutare vocală pe Google, deblocați tableta.</string>
+    <string name="icing_manage_storage_summary">Accelerăm căutarea pe tabletă, oferind un motor de căutare pentru a fi utilizat de aplicațiile dvs.</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="search_phone_or_tablet">Zoeken op tablet</string>
+    <string name="corpus_name_summons">Tablet</string>
+    <string name="search_sources">Zoeken op tablet</string>
+    <string name="no_summons_found">"Geen resultaten gevonden
+op uw tablet."</string>
+    <string name="hands_free_unlock_device">Ontgrendel uw tablet als u een gesproken Google-zoekopdracht wilt uitvoeren.</string>
+    <string name="icing_manage_storage_summary">We versnellen het zoeken op uw tablet door een zoekmachine te bieden die uw apps kunnen gebruiken.</string>
+</resources>

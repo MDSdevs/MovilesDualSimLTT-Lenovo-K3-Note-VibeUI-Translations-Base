@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="items_for_allVideo">
+        <item>Spela</item>
+        <item>Byt namn</item>
+        <item>Delete</item>
+        <item>Information</item>
+        <item>Dela</item>
+        <item>Välj flera</item>
+    </string-array>
+    <string-array name="items_for_allVideo_aruba">
+        <item>Spela</item>
+        <item>Byt namn</item>
+        <item>Delete</item>
+    </string-array>
+    <string-array name="items_for_recentVideo">
+        <item>Spela</item>
+        <item>Delete</item>
+        <item>Rensa listan</item>
+    </string-array>
+    <string-array name="items_for_externalCaller">
+        <item>Spela</item>
+        <item>Lägg till den här videon</item>
+    </string-array>
+</resources>

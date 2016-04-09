@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lenovo_keyguard_leather_sheath_weather_description_unknown">請在桌面天氣中新增城市</string>
+    <string name="lenovo_call_state_incoming">來電</string>
+    <string name="lenovo_call_state_active">通話中</string>
+    <string name="lenovo_call_state_background">掛斷電話</string>
+    <string name="lenovo_call_state_null">不明</string>
+    <string name="lenovo_call_unknow_number">不明號碼</string>
+</resources>

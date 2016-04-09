@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">已選取 %1$d 張</item>
+        <item quantity="zero">已選取 %1$d 張</item>
+        <item quantity="one">已選取 %1$d 張</item>
+    </plurals>
+    <plurals name="recurrence_end_count">
+        <item quantity="other">%d 次活動</item>
+        <item quantity="one">%d 次活動</item>
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+        <item quantity="other">每 %d 天</item>
+        <item quantity="one">每 %d 天</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+        <item quantity="other">每 %d 星期</item>
+        <item quantity="one">每 %d 星期</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+        <item quantity="other">每 %d 個月</item>
+        <item quantity="one">每 %d 個月</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+        <item quantity="other">每 %d 年</item>
+        <item quantity="one">每 %d 年</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item quantity="other">；%d 次</item>
+        <item quantity="one">；1 次</item>
+    </plurals>
+    <plurals name="daily">
+        <item quantity="other">每 %d 日</item>
+        <item quantity="one">每天</item>
+        <item quantity="two">每 %d 日</item>
+        <item quantity="few">每 %d 日</item>
+        <item quantity="many">每 %d 日</item>
+    </plurals>
+    <plurals name="daily_lower">
+        <item quantity="other">每 %d 日</item>
+        <item quantity="one">每天</item>
+        <item quantity="two">每 %d 日</item>
+        <item quantity="few">每 %d 日</item>
+        <item quantity="many">每 %d 日</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="other">每 %1$d 星期 (逢%2$s)</item>
+        <item quantity="one">每星期 (逢%2$s)</item>
+        <item quantity="two">每 %1$d 星期 (逢%2$s)</item>
+        <item quantity="few">每 %1$d 星期 (逢%2$s)</item>
+        <item quantity="many">每 %1$d 星期 (逢%2$s)</item>
+    </plurals>
+    <plurals name="weekly_lower">
+        <item quantity="other">每 %1$d 星期 (逢%2$s)</item>
+        <item quantity="one">每星期 (逢%2$s)</item>
+        <item quantity="two">每 %1$d 星期 (逢%2$s)</item>
+        <item quantity="few">每 %1$d 星期 (逢%2$s)</item>
+        <item quantity="many">每 %1$d 星期 (逢%2$s)</item>
+    </plurals>
+    <plurals name="monthly_interval">
+        <item quantity="other">每 %1$d 個月</item>
+        <item quantity="one">每月</item>
+        <item quantity="two">每 %1$d 個月</item>
+        <item quantity="few">每 %1$d 個月</item>
+        <item quantity="many">每 %1$d 個月</item>
+    </plurals>
+    <plurals name="monthly_interval_lower">
+        <item quantity="other">每 %1$d 個月</item>
+        <item quantity="one">每月</item>
+        <item quantity="two">每 %1$d 個月</item>
+        <item quantity="few">每 %1$d 個月</item>
+        <item quantity="many">每 %1$d 個月</item>
+    </plurals>
+    <plurals name="yearly_interval_plain">
+        <item quantity="other">每 %1$d 年</item>
+        <item quantity="one">每年</item>
+        <item quantity="two">每 %1$d 年</item>
+        <item quantity="few">每 %1$d 年</item>
+        <item quantity="many">每 %1$d 年</item>
+    </plurals>
+    <plurals name="yearly_interval_lower">
+        <item quantity="other">每 %1$d 年</item>
+        <item quantity="one">每年</item>
+        <item quantity="two">每 %1$d 年</item>
+        <item quantity="few">每 %1$d 年</item>
+        <item quantity="many">每 %1$d 年</item>
+    </plurals>
+    <plurals name="duration_in_hours">
+        <item quantity="other">%1$d 小時</item>
+        <item quantity="one">%1$d 小時</item>
+    </plurals>
+    <plurals name="duration_in_hours_short">
+        <item quantity="other">%1$d 小時</item>
+        <item quantity="one">%1$d 小時</item>
+    </plurals>
+    <plurals name="duration_in_minutes">
+        <item quantity="other">%1$d 分鐘</item>
+        <item quantity="one">%1$d 分鐘</item>
+    </plurals>
+    <plurals name="duration_in_minutes_short">
+        <item quantity="other">%1$d 分鐘</item>
+        <item quantity="one">%1$d 分鐘</item>
+    </plurals>
+    <plurals name="duration_in_days">
+        <item quantity="other">%1$d 天</item>
+        <item quantity="one">%1$d 天</item>
+    </plurals>
+    <plurals name="duration_in_days_short">
+        <item quantity="other">%1$d 天</item>
+        <item quantity="one">%1$d 天</item>
+    </plurals>
+    <plurals name="duration_in_months">
+        <item quantity="other">%1$d 個月</item>
+        <item quantity="one">%1$d 個月</item>
+    </plurals>
+    <plurals name="duration_in_months_short">
+        <item quantity="other">%1$d 個月</item>
+        <item quantity="one">%1$d 個月</item>
+    </plurals>
+    <plurals name="duration_in_years">
+        <item quantity="other">%1$d 年</item>
+        <item quantity="one">%1$d 年</item>
+    </plurals>
+    <plurals name="duration_in_years_short">
+        <item quantity="other">%1$d 年</item>
+        <item quantity="one">%1$d 年</item>
+    </plurals>
+    <plurals name="items_from_without_colon">
+        <item quantity="other">%1$d 個項目來自</item>
+        <item quantity="one">%1$d 個項目來自</item>
+    </plurals>
+    <plurals name="last_bus_home_departure_time">
+        <item quantity="other">回家的尾班巴士將於 %2$s%1$d 分鐘%3$s後開出</item>
+        <item quantity="one">回家的尾班巴士將於 %2$s%1$d 分鐘%3$s後開出</item>
+    </plurals>
+    <plurals name="last_bus_to_hotel_departure_time">
+        <item quantity="other">開往酒店的尾班巴士將於 %2$s%1$d 分鐘%3$s後開出</item>
+        <item quantity="one">開往酒店的尾班巴士將於 %2$s%1$d 分鐘%3$s後開出</item>
+    </plurals>
+    <plurals name="last_train_home_departure_time">
+        <item quantity="other">回家的尾班車將於 %2$s%1$d 分鐘%3$s後開出</item>
+        <item quantity="one">回家的尾班車將於 %2$s1 分鐘%3$s後開出</item>
+    </plurals>
+    <plurals name="last_train_to_hotel_departure_time">
+        <item quantity="other">開往酒店的尾班車將於 %2$s%1$d 分鐘%3$s後出發</item>
+        <item quantity="one">開往酒店的尾班車將於 %2$s1 分鐘%3$s後出發</item>
+    </plurals>
+    <plurals name="last_transit_home_departure_time">
+        <item quantity="other">回家的尾班車將於 %2$s%1$d 分鐘%3$s後開出</item>
+        <item quantity="one">回家的尾班車將於 %2$s%1$d 分鐘%3$s後開出</item>
+    </plurals>
+    <plurals name="last_transit_to_hotel_departure_time">
+        <item quantity="other">開往酒店的尾班車將於 %2$s%1$d 分鐘%3$s後開出</item>
+        <item quantity="one">開往酒店的尾班車將於 %2$s%1$d 分鐘%3$s後開出</item>
+    </plurals>
+    <plurals name="transit_next_line_departure_subtext_no_platform">
+        <item quantity="other">步行前往%2$s需時 %1$d 分鐘</item>
+        <item quantity="one">步行前往%2$s需時 1 分鐘</item>
+    </plurals>
+    <plurals name="minutes_delay">
+        <item quantity="other">延遲 %1$d 分鐘</item>
+        <item quantity="one">延遲 1 分鐘</item>
+    </plurals>
+    <plurals name="minutes_delay_more_than_usual">
+        <item quantity="other">比平常遲 %1$d 分鐘</item>
+        <item quantity="one">比平常遲 1 分鐘</item>
+    </plurals>
+    <plurals name="minutes_delay_less_than_usual">
+        <item quantity="other">比平常早 %1$d 分鐘</item>
+        <item quantity="one">比平常早 1 分鐘</item>
+    </plurals>
+    <plurals name="usual_traffic_minutes_delay">
+        <item quantity="other">交通正常：延遲 %1$d 分鐘</item>
+        <item quantity="one">交通正常：延遲 1 分鐘</item>
+    </plurals>
+    <plurals name="num_min_late">
+        <item quantity="other">遲 %1$d 分鐘</item>
+        <item quantity="one">遲 1 分鐘</item>
+    </plurals>
+    <plurals name="num_min_early">
+        <item quantity="other">早 %1$d 分鐘</item>
+        <item quantity="one">早 1 分鐘</item>
+    </plurals>
+    <plurals name="transit_interval_in_minutes">
+        <item quantity="other">每 %1$s 分鐘一班</item>
+        <item quantity="one">每 %1$s 分鐘一班</item>
+    </plurals>
+    <plurals name="transit_interval_in_hours">
+        <item quantity="other">每 %1$d 小時一班</item>
+        <item quantity="one">每 %1$d 小時一班</item>
+    </plurals>
+    <plurals name="qp_transit_interval_in_minutes">
+        <item quantity="other">每 %1$s 分鐘一班</item>
+        <item quantity="one">每 %1$s 分鐘一班</item>
+    </plurals>
+    <plurals name="qp_transit_interval_in_hours">
+        <item quantity="other">每 %1$d 小時一班</item>
+        <item quantity="one">每 %1$d 小時一班</item>
+    </plurals>
+    <plurals name="sports_overtime_period_header">
+        <item quantity="other">%1$d 個加時賽</item>
+        <item quantity="one">加時賽</item>
+    </plurals>
+    <plurals name="time_to_leave_user_arrival_generic">
+        <item quantity="other">早 %1$d 分鐘抵達</item>
+        <item quantity="one">早 %1$d 分鐘抵達</item>
+    </plurals>
+    <plurals name="time_to_leave_user_arrival_flight">
+        <item quantity="other">航班起飛前 %1$d 分鐘抵達</item>
+        <item quantity="one">航班起飛前 %1$d 分鐘抵達</item>
+    </plurals>
+    <plurals name="time_to_leave_user_arrival_reservation">
+        <item quantity="other">預約時間前 %1$d 分鐘抵達</item>
+        <item quantity="one">預約時間前 %1$d 分鐘抵達</item>
+    </plurals>
+    <plurals name="time_to_leave_user_arrival_movie">
+        <item quantity="other">電影開場前 %1$d 分鐘抵達</item>
+        <item quantity="one">電影開場前 %1$d 分鐘抵達</item>
+    </plurals>
+    <plurals name="time_to_leave_user_arrival_concert">
+        <item quantity="other">演奏會開始前 %1$d 分鐘抵達</item>
+        <item quantity="one">演奏會開始前 %1$d 分鐘抵達</item>
+    </plurals>
+    <plurals name="email_everyone">
+        <item quantity="other">發電郵給每個人 (%1$d)</item>
+        <item quantity="one">發電郵給每個人 (%1$d)</item>
+    </plurals>
+    <plurals name="card_count">
+        <item quantity="other">%1$d 張資訊卡</item>
+        <item quantity="one">1 張資訊卡</item>
+    </plurals>
+    <plurals name="num_movie_tickets">
+        <item quantity="other">%1$d 張門票</item>
+        <item quantity="one">%1$d 張門票</item>
+    </plurals>
+    <plurals name="qp_hotel_reservation_length">
+        <item quantity="other">酒店訂房：入住 %1$d 晚</item>
+        <item quantity="one">酒店訂房：入住 %1$d 晚</item>
+    </plurals>
+    <plurals name="reminders">
+        <item quantity="other">%1$d 則提醒</item>
+        <item quantity="one">%1$d 則提醒</item>
+    </plurals>
+    <plurals name="number_of_location_sharers">
+        <item quantity="other">%1$d 人與您分享</item>
+        <item quantity="one">%1$d 人與您分享</item>
+    </plurals>
+    <plurals name="expiring_duration_in_days">
+        <item quantity="other">%1$d 天後到期</item>
+        <item quantity="one">%1$d 天後到期</item>
+    </plurals>
+    <plurals name="expiring_duration_in_hours">
+        <item quantity="other">%1$d 小時後到期</item>
+        <item quantity="one">%1$d 小時後到期</item>
+    </plurals>
+    <plurals name="expiring_duration_in_minutes">
+        <item quantity="other">%1$d 分鐘後到期</item>
+        <item quantity="one">%1$d 分鐘後到期</item>
+    </plurals>
+    <plurals name="view_count">
+        <item quantity="other">觀看次數：%1$,d</item>
+        <item quantity="one">觀看次數：%1$,d</item>
+    </plurals>
+    <plurals name="transportation_seat">
+        <item quantity="other">%1$d 個座位</item>
+        <item quantity="one">1 個座位</item>
+    </plurals>
+    <plurals name="more_directions">
+        <item quantity="other">+另外 %1$d 條路線</item>
+        <item quantity="one">+另外 %1$d 條路線</item>
+    </plurals>
+    <plurals name="time_duration_spoken_hour">
+        <item quantity="other">%1$d 小時</item>
+        <item quantity="one">1 小時</item>
+    </plurals>
+    <plurals name="time_duration_spoken_minute">
+        <item quantity="other">%1$d 分鐘</item>
+        <item quantity="one">1 分鐘</item>
+    </plurals>
+    <plurals name="time_duration_spoken_second">
+        <item quantity="other">%1$d 秒</item>
+        <item quantity="one">1 秒</item>
+    </plurals>
+    <plurals name="agenda_eyes_free_all_day_events">
+        <item quantity="other">您%2$s有 %1$d 項全天活動：%3$s。</item>
+        <item quantity="one">您%2$s有全天活動：%3$s。</item>
+    </plurals>
+</resources>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="@android:style/Theme.DeviceDefault.Light">
+        <item name="android:windowDisablePreview">true</item>
+        <item name="android:actionBarStyle">@style/app_ColorActionBarStyle</item>
+        <item name="android:dialogTheme">@style/AccentColorDialog</item>
+        <item name="android:alertDialogTheme">@style/AccentColorAlertDialog</item>
+        <item name="android:colorPrimary">@color/vibeui_actionbar_color</item>
+        <item name="android:colorPrimaryDark">@color/vibeui_actionbar_color</item>
+    </style>
+    <style name="DefaultTransparentTheme" parent="@android:style/Theme.DeviceDefault.Light">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:dialogTheme">@style/AccentColorDialog</item>
+        <item name="android:alertDialogTheme">@style/AccentColorAlertDialog</item>
+    </style>
+    <style name="LoadingTransparentTheme" parent="@android:style/Theme.DeviceDefault.Light">
+        <item name="android:windowBackground">@drawable/loading_bg</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:dialogTheme">@style/AccentColorDialog</item>
+        <item name="android:alertDialogTheme">@style/AccentColorAlertDialog</item>
+    </style>
+    <style name="DeviceDefaultNoLight" parent="@android:style/Theme.DeviceDefault">
+        <item name="android:colorBackground">#4c000000</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowActionBarOverlay">true</item>
+        <item name="android:dialogTheme">@style/AccentColorDialog</item>
+        <item name="android:alertDialogTheme">@style/AccentColorAlertDialog</item>
+        <item name="android:colorPrimary">#00000000</item>
+        <item name="android:colorPrimaryDark">#00000000</item>
+    </style>
+    <style name="LightDialog" parent="@android:style/Theme.DeviceDefault.Light">
+        <item name="android:dialogTheme">@style/AccentColorDialog</item>
+        <item name="android:alertDialogTheme">@style/AccentColorAlertDialog</item>
+    </style>
+    <style name="AccentColorDialog" parent="@android:style/Theme.DeviceDefault.Light.Dialog" />
+    <style name="AccentColorAlertDialog" parent="@android:style/Theme.DeviceDefault.Light.Dialog" />
+</resources>

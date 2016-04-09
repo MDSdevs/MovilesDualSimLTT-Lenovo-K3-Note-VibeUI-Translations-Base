@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="user_nickname">Prezývka</string>
+    <string name="show_owner_info_on_lockscreen_label">Zobrazovať vlastníka na uzamknutej obrazovke</string>
+    <string name="show_profile_info_on_lockscreen_label">Zobraziť inform. o profile na uzamknutej obrazovke</string>
+    <string name="show_user_info_on_lockscreen_label">Zobrazovať používateľa na uzamknutej obrazovke</string>
+    <string name="lockpassword_confirm_your_pattern_header">Potvrdenie vzoru</string>
+    <string name="security_settings_title">Zabezpečenie</string>
+    <string name="security_passwords_title">Heslá</string>
+    <string name="show_password">Zobrazovať heslá</string>
+    <string name="lock_after_timeout">Automaticky zamknúť</string>
+    <string name="lock_after_timeout_summary">%1$s po prechode do spánku</string>
+    <string name="lock_after_timeout_summary_with_exception">%1$s po režime spánku, ak odomknutie nie je udržované pomocou %2$s</string>
+    <string name="owner_info_settings_title">Info o vlastníkovi</string>
+    <string name="owner_info_settings_summary" />
+    <string name="owner_info_settings_edit_text_hint">Zadajte text, ktorý sa zobrazí na uzamknutej obrazovke</string>
+    <string name="lock_settings_picker_title">Zámka obrazovky</string>
+    <string name="biometric_weak_improve_matching_title">Zlepšiť priraďovanie tvárí</string>
+    <string name="biometric_weak_liveliness_title">Kontrola živosti</string>
+    <string name="biometric_weak_liveliness_summary">Pri odomykaní vyžadovať žmurknutie okom</string>
+    <string name="lockpassword_choose_your_password_header">Zvoľte heslo</string>
+    <string name="lockpassword_choose_your_pattern_header">Voľba vzoru</string>
+    <string name="lockpassword_choose_your_pin_header">Zvoľte kód PIN</string>
+    <string name="lockpassword_confirm_passwords_dont_match">Heslá sa nezhodujú</string>
+    <string name="lockpassword_confirm_pins_dont_match">Kódy PIN nie sú zhodné</string>
+    <string name="lock_settings_title">Zabezpečenie obrazovky</string>
+    <string name="lockpattern_change_lock_pattern_label">Zmena bezpečnostného vzoru</string>
+    <string name="lockpattern_change_lock_pin_label">Zmena bezpečnostného kódu PIN</string>
+    <string name="lockpattern_need_to_unlock">Potvrďte uložený vzor</string>
+    <string name="lockpattern_need_to_unlock_wrong">Skúste to znova</string>
+    <string name="lockpattern_recording_intro_header">Nakreslite bezpečnostný vzor</string>
+    <string name="lockpattern_recording_intro_footer">Pomocníka zobrazíte stlačením klávesy Menu.</string>
+    <string name="lockpattern_recording_inprogress">Na záver zdvihnite prst z obrazovky</string>
+    <string name="lockpattern_recording_incorrect_too_short">Minimálny počet spojených bodov je %d. Skúste to znova.</string>
+    <string name="lockpattern_pattern_entered_header">Vzor bol zaznamenaný</string>
+    <string name="lockpattern_need_to_confirm">Znovu nakreslite pre potvrdenie</string>
+    <string name="lockpattern_pattern_confirmed_header">Nový bezpečnostný vzor</string>
+    <string name="lockpattern_confirm_button_text">Potvrdiť</string>
+    <string name="lockpattern_restart_button_text">Nakresliť znova</string>
+    <string name="lockpattern_retry_button_text">Skúsiť znova</string>
+    <string name="lockpattern_continue_button_text">Pokračovať</string>
+    <string name="lockpattern_settings_title">Bezpečnostný vzor</string>
+    <string name="lockpattern_settings_enable_title">Vyžadovať vzor</string>
+    <string name="lockpattern_settings_enable_summary">Obrazovku musíte odomknúť nakreslením bezpečnostného vzoru.</string>
+    <string name="lockpattern_settings_enable_visible_pattern_title">Zobrazovať vzor</string>
+    <string name="lockpattern_settings_enable_tactile_feedback_title">Vibrovanie pri dotyku</string>
+    <string name="lockpattern_settings_enable_power_button_instantly_locks">Zamknúť tlačidlom napájania</string>
+    <string name="lockpattern_settings_power_button_instantly_locks_summary">Ak odomknutie nie je udržované pomocou %1$s</string>
+    <string name="lockpattern_settings_choose_lock_pattern">Nastaviť bezpečnostný vzor</string>
+    <string name="lockpattern_settings_change_lock_pattern">Zmena bezpečnostného vzoru</string>
+    <string name="lockpattern_settings_help_how_to_record">Bezpečnostný vzor obrazovky nakreslite takto</string>
+    <string name="lockpattern_too_many_failed_confirmation_attempts_header">Príliš veľa chybných pokusov.</string>
+    <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Počet sekúnd zostávajúcich do ďalšieho pokusu: %d.</string>
+    <string name="unlock_set_unlock_launch_picker_title">Zámka obrazovky</string>
+    <string name="unlock_set_unlock_launch_picker_change_title">Zmeniť uzamknutie obrazovky</string>
+    <string name="unlock_set_unlock_launch_picker_change_summary">Zmeniť alebo zakázať bezpečnostný vzor, kód PIN alebo heslo</string>
+    <string name="unlock_set_unlock_launch_picker_enable_summary">Vyberte spôsob uzamknutia obrazovky</string>
+    <string name="unlock_backup_info_summary">Ako chcete zariadenie odomknúť v prípade, že vás aplikácia Odomknutie tvárou nevidí?</string>
+    <string name="unlock_set_unlock_off_title">Žiadne</string>
+    <string name="unlock_set_unlock_off_summary" />
+    <string name="unlock_set_unlock_none_title">Prejdenie prstom</string>
+    <string name="unlock_set_unlock_none_summary">Bez zabezpečenia</string>
+    <string name="unlock_set_unlock_biometric_weak_title">Odomknutie tvárou</string>
+    <string name="unlock_set_unlock_biometric_weak_summary">Nízka bezpečnosť, experimentálne</string>
+    <string name="unlock_set_unlock_pattern_title">Vzor</string>
+    <string name="unlock_set_unlock_pattern_summary">Stredné zabezpečenie</string>
+    <string name="unlock_set_unlock_pin_title">PIN</string>
+    <string name="unlock_set_unlock_pin_summary">Stredné až vysoké zabezpečenie</string>
+    <string name="unlock_set_unlock_password_title">Heslo</string>
+    <string name="unlock_set_unlock_password_summary">Vysoké zabezpečenie</string>
+    <string name="unlock_set_unlock_disabled_summary">Zakázané správcom, pravidlom šifrovania alebo úložiskom poverení</string>
+    <string name="unlock_set_unlock_mode_off">Žiadne</string>
+    <string name="unlock_set_unlock_mode_none">Prejdenie prstom</string>
+    <string name="unlock_set_unlock_mode_biometric_weak">Odomknutie tvárou</string>
+    <string name="unlock_set_unlock_mode_pattern">Vzor</string>
+    <string name="unlock_set_unlock_mode_pin">PIN</string>
+    <string name="unlock_set_unlock_mode_password">Heslo</string>
+    <string name="unlock_disable_lock_title">Vypnúť zámku obrazovky</string>
+    <string name="unlock_disable_lock_pattern_summary">Odstrániť bezpečnostný vzor</string>
+    <string name="unlock_disable_lock_pin_summary">Odstrániť bezpečnostný kód PIN</string>
+    <string name="unlock_disable_lock_password_summary">Odstrániť bezpečnostné heslo</string>
+    <string name="unlock_change_lock_pattern_title">Zmena bezpečnostného vzoru</string>
+    <string name="unlock_change_lock_pin_title">Zmena bezpečnostného kódu PIN</string>
+    <string name="unlock_change_lock_password_title">Zmeniť bezpečnostné heslo</string>
+    <string name="keywords_lockscreen">prejsť prstom heslo vzor pin</string>
+    <string name="switch_on_text">Zapnuté</string>
+    <string name="switch_off_text">Vypnuté</string>
+    <string name="screen_pinning_title">Pripnutie k obrazovke</string>
+    <string name="screen_pinning_description">"Po zapnutí tohto nastavenia môžete zariadenie prepnúť do stavu, v ktorom sa bude zobrazovať iba aktuálna obrazovka.
+
+Postup pripnutia obrazovky:
+
+1. Zapnite toto nastavenie.
+
+2. Otvorte požadovanú aplikáciu.
+
+3. Dotknite sa tlačidla Nedávne.
+
+4. Dotknite sa ikony špendlíka."</string>
+    <string name="settings_safetylegal_activity_loading">Prebieha načítavanie…</string>
+    <string name="no_applications">Žiadne aplikácie.</string>
+    <string name="help_label">Pomocník a spät. väzba</string>
+    <string name="lockpassword_ok_label">OK</string>
+    <string name="lockpattern_tutorial_cancel_label">Zrušiť</string>
+    <string name="lockpattern_tutorial_continue_label">Ďalej</string>
+    <string name="lockpassword_confirm_your_pin_header">Potvrďte kód PIN</string>
+    <string name="lockpassword_confirm_your_password_header">Potvrďte heslo</string>
+    <string name="cancel">Zrušiť</string>
+    <string name="lock_screen_notifications_title">Keď je zariadenie uzamknuté</string>
+    <string name="lock_screen_notifications_summary_show">Zobraziť všetok obsah upozornení</string>
+    <string name="lock_screen_notifications_summary_hide">Skryť citlivý obsah upozornení</string>
+    <string name="lock_screen_notifications_summary_disable">Nezobrazovať upozornenia</string>
+    <string name="lock_screen_notifications_interstitial_message">Akým spôsobom chcete zobrazovať upozornenia na uzamknutom zariadení?</string>
+    <string name="app_notifications_dialog_done">Hotovo</string>
+    <string name="lockpassword_cancel_label">Zrušiť</string>
+    <string name="lockpassword_password_too_long">Heslo musí mať menej ako %d znakov.</string>
+    <string name="lockpassword_pin_too_long">Kód PIN musí mať menej ako %d číslic.</string>
+    <string name="lockpassword_password_too_short">Heslo musí obsahovať najmenej %d znakov</string>
+    <string name="lockpassword_pin_too_short">Kód PIN musí obsahovať najmenej %d číslic</string>
+    <string name="lockpassword_press_continue">Po dokončení sa dotknite tlačidla Pokračovať</string>
+    <string name="lockpassword_continue_label">Pokračovať</string>
+    <string name="lockpassword_pin_no_sequential_digits">Vzostupná, zostupná alebo opakovaná sekvencia čísiel je zakázaná</string>
+    <string name="lockpassword_pin_contains_non_digits">Kód PIN musí obsahovať len číslice 0 až 9.</string>
+    <string name="lockpassword_pin_recently_used">Správca zariadení neumožňuje používanie nedávneho kódu PIN.</string>
+    <string name="lockpassword_illegal_character">Heslo obsahuje neplatný znak.</string>
+    <string name="lockpassword_password_requires_alpha">Heslo musí obsahovať najmenej jedno písmeno.</string>
+    <string name="lockpassword_password_requires_digit">Heslo musí obsahovať najmenej jednu číslicu.</string>
+    <string name="lockpassword_password_requires_symbol">Heslo musí obsahovať najmenej jeden symbol.</string>
+    <string name="lockpassword_password_recently_used">Správca zariadení neumožňuje používanie nedávneho hesla.</string>
+    <string name="backup_lock_settings_picker_title">Vybrať zámku zálohy</string>
+    <string name="profile_info_settings_title">Informácie o profile</string>
+    <string name="user_info_settings_title">Inf. o používateľovi</string>
+    <string name="credential_storage_type_hardware">Hardvérové</string>
+    <string name="credential_storage_type_software">Iba softvérový</string>
+    <string name="error_title" />
+    <string name="lockpassword_choose_lock_generic_header">Odomknúť výber</string>
+</resources>

@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">%1$d தேர்ந்தெடுக்கப்பட்டன</item>
+        <item quantity="zero">%1$d தேர்ந்தெடுக்கப்பட்டன</item>
+        <item quantity="one">%1$d தேர்ந்தெடுக்கப்பட்டது</item>
+    </plurals>
+    <plurals name="recurrence_end_count">
+        <item quantity="other">%d நிகழ்வுகளுக்கு</item>
+        <item quantity="one">%d நிகழ்விற்கு</item>
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+        <item quantity="other">%d நாட்களுக்கு ஒருமுறை</item>
+        <item quantity="one">%d நாளுக்கு ஒருமுறை</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+        <item quantity="other">%d வாரங்களுக்கு ஒருமுறை</item>
+        <item quantity="one">%d வாரத்திற்கு ஒருமுறை</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+        <item quantity="other">%d மாதங்களுக்கு ஒருமுறை</item>
+        <item quantity="one">%d மாதத்திற்கு ஒருமுறை</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+        <item quantity="other">%d ஆண்டுகளுக்கு ஒருமுறை</item>
+        <item quantity="one">%d ஆண்டிற்கு ஒருமுறை</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item quantity="other">; %d முறைகள்</item>
+        <item quantity="one">; ஒரு முறை</item>
+    </plurals>
+    <plurals name="daily">
+        <item quantity="other">%d நாட்களுக்கு ஒருமுறை</item>
+        <item quantity="one">தினசரி</item>
+        <item quantity="two">%d நாட்களுக்கு ஒருமுறை</item>
+        <item quantity="few">%d நாட்களுக்கு ஒருமுறை</item>
+        <item quantity="many">%d நாட்களுக்கு ஒருமுறை</item>
+    </plurals>
+    <plurals name="daily_lower">
+        <item quantity="other">%d நாட்களுக்கு ஒருமுறை</item>
+        <item quantity="one">தினசரி</item>
+        <item quantity="two">%d நாட்களுக்கு ஒருமுறை</item>
+        <item quantity="few">%d நாட்களுக்கு ஒருமுறை</item>
+        <item quantity="many">%d நாட்களுக்கு ஒருமுறை</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="other">ஒவ்வொரு %1$d வாரங்களில் - %2$s</item>
+        <item quantity="one">வாரந்தோறும் - %2$s</item>
+        <item quantity="two">ஒவ்வொரு %1$d வாரங்களில் - %2$s</item>
+        <item quantity="few">ஒவ்வொரு %1$d வாரங்களில் - %2$s</item>
+        <item quantity="many">ஒவ்வொரு %1$d வாரங்களில் - %2$s</item>
+    </plurals>
+    <plurals name="weekly_lower">
+        <item quantity="other">ஒவ்வொரு %1$d வாரங்களில் - %2$s</item>
+        <item quantity="one">வாரந்தோறும் - %2$s</item>
+        <item quantity="two">ஒவ்வொரு %1$d வாரங்களில் - %2$s</item>
+        <item quantity="few">ஒவ்வொரு %1$d வாரங்களில் - %2$s</item>
+        <item quantity="many">ஒவ்வொரு %1$d வாரங்களில் - %2$s</item>
+    </plurals>
+    <plurals name="monthly_interval">
+        <item quantity="other">%1$d மாதங்களுக்கு ஒருமுறை</item>
+        <item quantity="one">மாதந்தோறும்</item>
+        <item quantity="two">%1$d மாதங்களுக்கு ஒருமுறை</item>
+        <item quantity="few">%1$d மாதங்களுக்கு ஒருமுறை</item>
+        <item quantity="many">%1$d மாதங்களுக்கு ஒருமுறை</item>
+    </plurals>
+    <plurals name="monthly_interval_lower">
+        <item quantity="other">%1$d மாதங்களுக்கு ஒருமுறை</item>
+        <item quantity="one">மாதந்தோறும்</item>
+        <item quantity="two">%1$d மாதங்களுக்கு ஒருமுறை</item>
+        <item quantity="few">%1$d மாதங்களுக்கு ஒருமுறை</item>
+        <item quantity="many">%1$d மாதங்களுக்கு ஒருமுறை</item>
+    </plurals>
+    <plurals name="yearly_interval_plain">
+        <item quantity="other">%1$d ஆண்டுகளுக்கு ஒருமுறை</item>
+        <item quantity="one">ஆண்டுதோறும்</item>
+        <item quantity="two">%1$d ஆண்டுகளுக்கு ஒருமுறை</item>
+        <item quantity="few">%1$d ஆண்டுகளுக்கு ஒருமுறை</item>
+        <item quantity="many">%1$d ஆண்டுகளுக்கு ஒருமுறை</item>
+    </plurals>
+    <plurals name="yearly_interval_lower">
+        <item quantity="other">%1$d ஆண்டுகளுக்கு ஒருமுறை</item>
+        <item quantity="one">ஆண்டுதோறும்</item>
+        <item quantity="two">%1$d ஆண்டுகளுக்கு ஒருமுறை</item>
+        <item quantity="few">%1$d ஆண்டுகளுக்கு ஒருமுறை</item>
+        <item quantity="many">%1$d ஆண்டுகளுக்கு ஒருமுறை</item>
+    </plurals>
+    <plurals name="duration_in_hours">
+        <item quantity="other">%1$d மணிநேரம்</item>
+        <item quantity="one">%1$d மணிநேரம்</item>
+    </plurals>
+    <plurals name="duration_in_hours_short">
+        <item quantity="other">%1$d மணிநேரம்</item>
+        <item quantity="one">%1$d மணிநேரம்</item>
+    </plurals>
+    <plurals name="duration_in_minutes">
+        <item quantity="other">%1$d நிமிடங்கள்</item>
+        <item quantity="one">%1$d நிமிடம்</item>
+    </plurals>
+    <plurals name="duration_in_minutes_short">
+        <item quantity="other">%1$d நி.</item>
+        <item quantity="one">%1$d நி.</item>
+    </plurals>
+    <plurals name="duration_in_days">
+        <item quantity="other">%1$d நாட்கள்</item>
+        <item quantity="one">%1$d நாள்</item>
+    </plurals>
+    <plurals name="duration_in_days_short">
+        <item quantity="other">%1$d நாட்கள்</item>
+        <item quantity="one">%1$d நாள்</item>
+    </plurals>
+    <plurals name="duration_in_months">
+        <item quantity="other">%1$d மாதங்கள்</item>
+        <item quantity="one">%1$d மாதம்</item>
+    </plurals>
+    <plurals name="duration_in_months_short">
+        <item quantity="other">%1$d மாதங்கள்</item>
+        <item quantity="one">%1$d மாதம்</item>
+    </plurals>
+    <plurals name="duration_in_years">
+        <item quantity="other">%1$d ஆண்டுகள்</item>
+        <item quantity="one">%1$d ஆண்டு</item>
+    </plurals>
+    <plurals name="duration_in_years_short">
+        <item quantity="other">%1$d ஆண்டுகள்</item>
+        <item quantity="one">%1$d ஆண்டு</item>
+    </plurals>
+    <plurals name="items_from_without_colon">
+        <item quantity="other">பின்வருவதிலிருந்து %1$d உருப்படிகள்:</item>
+        <item quantity="one">பின்வருவதிலிருந்து %1$d உருப்படி:</item>
+    </plurals>
+    <plurals name="last_bus_home_departure_time">
+        <item quantity="other">வீட்டிற்கான கடைசி பேருந்து %2$s%1$d நிமிடங்களில்%3$s புறப்படும்</item>
+        <item quantity="one">வீட்டிற்கான கடைசி பேருந்து %2$s%1$d நிமிடத்தில்%3$s புறப்படும்</item>
+    </plurals>
+    <plurals name="last_bus_to_hotel_departure_time">
+        <item quantity="other">ஹோட்டலுக்கான கடைசி பேருந்து %2$s%1$d நிமிடங்களில்%3$s புறப்படும்</item>
+        <item quantity="one">ஹோட்டலுக்கான கடைசி பேருந்து %2$s%1$d நிமிடத்தில்%3$s புறப்படும்</item>
+    </plurals>
+    <plurals name="last_train_home_departure_time">
+        <item quantity="other">வீட்டிற்கான கடைசி இரயில் %2$s%1$d நிமிடங்களில்%3$s</item>
+        <item quantity="one">வீட்டிற்கான கடைசி இரயில் %2$s1 நிமிடத்தில்%3$s</item>
+    </plurals>
+    <plurals name="last_train_to_hotel_departure_time">
+        <item quantity="other">ஹோட்டலுக்கான கடைசி இரயில் %2$s%1$d நிமிடங்களில்%3$s</item>
+        <item quantity="one">ஹோட்டலுக்கான கடைசி இரயில் %2$s1 நிமிடத்தில்%3$s</item>
+    </plurals>
+    <plurals name="last_transit_home_departure_time">
+        <item quantity="other">வீட்டிற்கான கடைசி வாகனம், %2$s%1$d நிமிடங்களில்%3$s புறப்படும்</item>
+        <item quantity="one">வீட்டிற்கான கடைசி வாகனம், %2$s%1$d நிமிடத்தில்%3$s புறப்படும்</item>
+    </plurals>
+    <plurals name="last_transit_to_hotel_departure_time">
+        <item quantity="other">ஹோட்டலுக்கான கடைசி வாகனம், %2$s%1$d நிமிடங்களில்%3$s புறப்படும்</item>
+        <item quantity="one">ஹோட்டலுக்கான கடைசி வாகனம், %2$s%1$d நிமிடத்தில்%3$s புறப்படும்</item>
+    </plurals>
+    <plurals name="transit_next_line_departure_subtext_no_platform">
+        <item quantity="other">%2$sக்குச் செல்ல %1$d நிமிடங்கள் நடக்கவும்</item>
+        <item quantity="one">%2$sக்குச் செல்ல 1 நிமிடம் நடக்கவும்</item>
+    </plurals>
+    <plurals name="minutes_delay">
+        <item quantity="other">%1$d நிமிடங்கள் தாமதம்</item>
+        <item quantity="one">1 நிமிடம் தாமதம்</item>
+    </plurals>
+    <plurals name="minutes_delay_more_than_usual">
+        <item quantity="other">வழக்கத்தைவிட %1$d நிமிடங்கள் அதிகம்</item>
+        <item quantity="one">வழக்கத்தைவிட 1 நிமிடம் அதிகம்</item>
+    </plurals>
+    <plurals name="minutes_delay_less_than_usual">
+        <item quantity="other">வழக்கத்தைவிட %1$d நிமிடங்கள் குறைவு</item>
+        <item quantity="one">வழக்கத்தைவிட 1 நிமிடம் குறைவு</item>
+    </plurals>
+    <plurals name="usual_traffic_minutes_delay">
+        <item quantity="other">வழக்கமான ட்ராஃபிக்: %1$d நிமிடங்கள் தாமதம்</item>
+        <item quantity="one">வழக்கமான ட்ராஃபிக்: 1 நிமிடம் தாமதம்</item>
+    </plurals>
+    <plurals name="num_min_late">
+        <item quantity="other">%1$d நிமிடங்கள் தாமதம்</item>
+        <item quantity="one">1 நிமிடம் தாமதம்</item>
+    </plurals>
+    <plurals name="num_min_early">
+        <item quantity="other">%1$d நி. முன்னதாக</item>
+        <item quantity="one">1 நி. முன்னதாக</item>
+    </plurals>
+    <plurals name="transit_interval_in_minutes">
+        <item quantity="other">· %1$s நிமிடங்களுக்கு ஒருமுறை</item>
+        <item quantity="one">· %1$s நிமிடத்திற்கு ஒருமுறை</item>
+    </plurals>
+    <plurals name="transit_interval_in_hours">
+        <item quantity="other">· %1$d மணிநேரத்திற்கு ஒருமுறை</item>
+        <item quantity="one">· %1$d மணிநேரத்திற்கு ஒருமுறை</item>
+    </plurals>
+    <plurals name="qp_transit_interval_in_minutes">
+        <item quantity="other">%1$s நிமிடங்களுக்கு ஒருமுறை</item>
+        <item quantity="one">%1$s நிமிடத்திற்கு ஒருமுறை</item>
+    </plurals>
+    <plurals name="qp_transit_interval_in_hours">
+        <item quantity="other">%1$d மணிநேரத்திற்கு ஒருமுறை</item>
+        <item quantity="one">%1$d மணிநேரத்திற்கு ஒருமுறை</item>
+    </plurals>
+    <plurals name="sports_overtime_period_header">
+        <item quantity="other">%1$dOT</item>
+        <item quantity="one">OT</item>
+    </plurals>
+    <plurals name="time_to_leave_user_arrival_generic">
+        <item quantity="other">%1$d நிமிடங்கள் முன்னதாக வருவீர்கள்</item>
+        <item quantity="one">%1$d நிமிடம் முன்னதாக வருவீர்கள்</item>
+    </plurals>
+    <plurals name="time_to_leave_user_arrival_flight">
+        <item quantity="other">புறப்படுவதற்கு %1$d நிமிடங்கள் முன்னதாக வருவீர்கள்</item>
+        <item quantity="one">புறப்படுவதற்கு %1$d நிமிடம் முன்னதாக வருவீர்கள்</item>
+    </plurals>
+    <plurals name="time_to_leave_user_arrival_reservation">
+        <item quantity="other">முன்பதிவு செய்ததற்கு %1$d நிமிடங்கள் முன்னதாக வருவீர்கள்</item>
+        <item quantity="one">முன்பதிவு செய்ததற்கு %1$d நிமிடம் முன்னதாக வருவீர்கள்</item>
+    </plurals>
+    <plurals name="time_to_leave_user_arrival_movie">
+        <item quantity="other">திரைப்படத்திற்குச் செல்வதற்கு %1$d நிமிடங்கள் முன்னதாக வருவீர்கள்</item>
+        <item quantity="one">திரைப்படத்திற்குச் செல்ல %1$d நிமிடம் முன்னதாக வருவீர்கள்</item>
+    </plurals>
+    <plurals name="time_to_leave_user_arrival_concert">
+        <item quantity="other">கச்சேரிக்குச் செல்ல %1$d நிமிடங்கள் முன்னதாக வருவீர்கள்</item>
+        <item quantity="one">கச்சேரிக்குச் செல்ல %1$d நிமிடம் முன்னதாக வருவீர்கள்</item>
+    </plurals>
+    <plurals name="email_everyone">
+        <item quantity="other">அனைவருக்கும் (%1$d) மின்னஞ்சல் அனுப்பு</item>
+        <item quantity="one">அனைவருக்கும் (%1$d) மின்னஞ்சல் அனுப்பு</item>
+    </plurals>
+    <plurals name="card_count">
+        <item quantity="other">%1$d கார்டுகள்</item>
+        <item quantity="one">1 கார்டு</item>
+    </plurals>
+    <plurals name="num_movie_tickets">
+        <item quantity="other">%1$d டிக்கெட்டுகள்</item>
+        <item quantity="one">%1$d டிக்கெட்</item>
+    </plurals>
+    <plurals name="qp_hotel_reservation_length">
+        <item quantity="other">%1$d இரவுகளுக்கான அறை முன்பதிவு</item>
+        <item quantity="one">%1$d இரவுக்கான அறை முன்பதிவு</item>
+    </plurals>
+    <plurals name="reminders">
+        <item quantity="other">%1$d நினைவூட்டல்கள்</item>
+        <item quantity="one">%1$d நினைவூட்டல்</item>
+    </plurals>
+    <plurals name="number_of_location_sharers">
+        <item quantity="other">%1$d பேர் உங்களுடன் இருப்பிடத்தைப் பகிர்கிறார்கள்</item>
+        <item quantity="one">%1$d நபர் உங்களுடன் இருப்பிடத்தைப் பகிர்கிறார்</item>
+    </plurals>
+    <plurals name="expiring_duration_in_days">
+        <item quantity="other">%1$d நாட்களில் காலாவதியாகும்</item>
+        <item quantity="one">%1$d நாளில் காலாவதியாகும்</item>
+    </plurals>
+    <plurals name="expiring_duration_in_hours">
+        <item quantity="other">%1$d மணிநேரத்தில் காலாவதியாகும்</item>
+        <item quantity="one">%1$d மணிநேரத்தில் காலாவதியாகும்</item>
+    </plurals>
+    <plurals name="expiring_duration_in_minutes">
+        <item quantity="other">%1$d நிமிடங்களில் காலாவதியாகும்</item>
+        <item quantity="one">%1$d நிமிடத்தில் காலாவதியாகும்</item>
+    </plurals>
+    <plurals name="view_count">
+        <item quantity="other">%1$,d பார்வைகள்</item>
+        <item quantity="one">%1$,d பார்வை</item>
+    </plurals>
+    <plurals name="transportation_seat">
+        <item quantity="other">%1$d இருக்கைகள்</item>
+        <item quantity="one">இருக்கை</item>
+    </plurals>
+    <plurals name="more_directions">
+        <item quantity="other">மேலும் %1$d திசைகள்</item>
+        <item quantity="one">மேலும் %1$d திசை</item>
+    </plurals>
+    <plurals name="time_duration_spoken_hour">
+        <item quantity="other">%1$d மணிநேரம்</item>
+        <item quantity="one">1 மணிநேரம்</item>
+    </plurals>
+    <plurals name="time_duration_spoken_minute">
+        <item quantity="other">%1$d நிமிடங்கள்</item>
+        <item quantity="one">1 நிமிடம்</item>
+    </plurals>
+    <plurals name="time_duration_spoken_second">
+        <item quantity="other">%1$d வினாடிகள்</item>
+        <item quantity="one">1 வினாடி</item>
+    </plurals>
+    <plurals name="agenda_eyes_free_all_day_events">
+        <item quantity="other">%2$s அன்று உங்களுக்கு நாள் முழுவதுமான %1$d நிகழ்வுகள் உள்ளன: %3$s.</item>
+        <item quantity="one">%2$s அன்று உங்களுக்கு நாள் முழுவதுமான நிகழ்வு ஒன்று உள்ளது: %3$s.</item>
+    </plurals>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="search_phone_or_tablet">Søk på nettbrettet</string>
+    <string name="corpus_name_summons">Nettbrett</string>
+    <string name="search_sources">Nettbrettsøk</string>
+    <string name="no_summons_found">"Fant ingen resultater
+på nettbrettet ditt."</string>
+    <string name="hands_free_unlock_device">Du må låse opp nettbrettet for å gjøre et Google-talesøk.</string>
+    <string name="icing_manage_storage_summary">Vi akselererer søk på nettbrettet ditt ved å levere en søkemotor appene dine kan bruke.</string>
+</resources>

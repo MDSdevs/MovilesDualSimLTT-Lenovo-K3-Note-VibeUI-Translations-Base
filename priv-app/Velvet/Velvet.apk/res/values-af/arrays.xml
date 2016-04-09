@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="recurrence_freq">
+        <item>HERHAAL DAAGLIKS</item>
+        <item>HERHAAL WEEKLIKS</item>
+        <item>HERHAAL MAANDELIKS</item>
+        <item>HERHAAL JAARLIKS</item>
+    </string-array>
+    <string-array name="edit_recurrence">
+        <item>Herhaal nie</item>
+        <item>Elke dag</item>
+        <item>Elke week</item>
+        <item>Elke maand</item>
+        <item>Elke jaar</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>op elke eerste Sondag</item>
+        <item>op elke tweede Sondag</item>
+        <item>op elke derde Sondag</item>
+        <item>op elke vierde Sondag</item>
+        <item>op elke laaste Sondag</item>
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>op elke eerste Maandag</item>
+        <item>op elke tweede Maandag</item>
+        <item>op elke derde Maandag</item>
+        <item>op elke vierde Maandag</item>
+        <item>op elke laaste Maandag</item>
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>op elke eerste Dinsdag</item>
+        <item>op elke tweede Dinsdag</item>
+        <item>op elke derde Dinsdag</item>
+        <item>op elke vierde Dinsdag</item>
+        <item>op elke laaste Dinsdag</item>
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>op elke eerste Woensdag</item>
+        <item>op elke tweede Woensdag</item>
+        <item>op elke derde Woensdag</item>
+        <item>op elke vierde Woensdag</item>
+        <item>op elke laaste Woensdag</item>
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>op elke eerste Donderdag</item>
+        <item>op elke tweede Donderdag</item>
+        <item>op elke derde Donderdag</item>
+        <item>op elke vierde Donderdag</item>
+        <item>op elke laaste Donderdag</item>
+    </string-array>
+    <string-array name="repeat_by_nth_fri">
+        <item>op elke eerste Vrydag</item>
+        <item>op elke tweede Vrydag</item>
+        <item>op elke derde Vrydag</item>
+        <item>op elke vierde Vrydag</item>
+        <item>op elke laaste Vrydag</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>op elke eerste Saterdag</item>
+        <item>op elke tweede Saterdag</item>
+        <item>op elke derde Saterdag</item>
+        <item>op elke vierde Saterdag</item>
+        <item>op elke laaste Saterdag</item>
+    </string-array>
+    <string-array name="baseball_innings">
+        <item>1ste beurt</item>
+        <item>2de beurt</item>
+        <item>3de beurt</item>
+        <item>4de beurt</item>
+        <item>5de beurt</item>
+        <item>6de beurt</item>
+        <item>7de beurt</item>
+        <item>8ste beurt</item>
+        <item>9de beurt</item>
+        <item>10de beurt</item>
+        <item>11de beurt</item>
+        <item>12de beurt</item>
+    </string-array>
+    <string-array name="qp_top_baseball_innings">
+        <item>Boonste van die 1e beurt</item>
+        <item>Boonste van die 2e beurt</item>
+        <item>Boonste van die 3e beurt</item>
+        <item>Boonste van die 4e beurt</item>
+        <item>Boonste van die 5e beurt</item>
+        <item>Boonste van die 6e beurt</item>
+        <item>Boonste van die 7e beurt</item>
+        <item>Boonste van die 8e beurt</item>
+        <item>Boonste van die 9e beurt</item>
+        <item>Boonste van die 10e beurt</item>
+        <item>Boonste van die 11e beurt</item>
+        <item>Boonste van die 12e beurt</item>
+    </string-array>
+    <string-array name="qp_bottom_baseball_innings">
+        <item>Onderste van die 1e beurt</item>
+        <item>Onderste van die 2e beurt</item>
+        <item>Onderste van die 3e beurt</item>
+        <item>Onderste van die 4e beurt</item>
+        <item>Onderste van die 5e beurt</item>
+        <item>Onderste van die 6e beurt</item>
+        <item>Onderste van die 7e beurt</item>
+        <item>Onderste van die 8e beurt</item>
+        <item>Onderste van die 9e beurt</item>
+        <item>Onderste van 10e beurt</item>
+        <item>Onderste van 11e beurt</item>
+        <item>Onderste van 12e beurt</item>
+    </string-array>
+    <string-array name="local_results_markers">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+    </string-array>
+    <string-array name="languageNames">
+        <item>Afrikaans (Suid-Afrika)</item>
+        <item>Arabies (Algerië)</item>
+        <item>Arabies (Egipte)</item>
+        <item>Arabies (Irak)</item>
+        <item>Arabies (Israel)</item>
+        <item>Arabies (Jordanië)</item>
+        <item>Arabies (Koeweit)</item>
+        <item>Arabies (Libanon)</item>
+        <item>Arabies (Libië)</item>
+        <item>Arabies (Marokko)</item>
+        <item>Arabies (Katar)</item>
+        <item>Arabies (Saoedi-Arabië)</item>
+        <item>Arabies (Soedan)</item>
+        <item>Arabies (Sirië)</item>
+        <item>Arabies (Tunisië)</item>
+        <item>Arabies (Verenigde Arabiese Emirate)</item>
+        <item>Arabies (Jemen)</item>
+        <item>Belo-Russies (Belo-Rusland)</item>
+        <item>Bengaals (Bangladesj)</item>
+        <item>Bulgaars (Bulgarye)</item>
+        <item>Katalaans (Spanje)</item>
+        <item>Chinees, Mandaryns (China, vereenvoudig)</item>
+        <item>Chinees, Mandaryns (Hongkong, vereenvoudig)</item>
+        <item>Chinees, Mandaryns (Hongkong, tradisioneel)</item>
+        <item>Chinees, Mandaryns (Singapoer, vereenvoudig)</item>
+        <item>Chinees, Mandaryns (Taiwan, vereenvoudig)</item>
+        <item>Chinees, Mandaryns (Taiwan, tradisioneel)</item>
+        <item>Chinees, Yue (China, vereenvoudig)</item>
+        <item>Sjinees, Yue (Hongkong, tradisioneel)</item>
+        <item>Kroaties (Kroasië)</item>
+        <item>Tsjeggies (Tsjeggiese Republiek)</item>
+        <item>Deens (Denemarke)</item>
+        <item>Nederlands (België)</item>
+        <item>Nederlands (Nederland)</item>
+        <item>Engels (Generies)</item>
+        <item>Engels (Australië)</item>
+        <item>Engels (Bangladesj)</item>
+        <item>Engels (Kanada)</item>
+        <item>Engels (Hongkong)</item>
+        <item>Engels (Indië)</item>
+        <item>Engels (Ierland)</item>
+        <item>Engels (Kenia)</item>
+        <item>Engels (Maleisië)</item>
+        <item>Engels (Nieu-Seeland)</item>
+        <item>Engels (Nigerië)</item>
+        <item>Engels (Pakistan)</item>
+        <item>Engels (Filippyne)</item>
+        <item>Engels (Singapoer)</item>
+        <item>Engels (Suid-Afrika)</item>
+        <item>Engels (Soedan)</item>
+        <item>Engels (Tanzanië)</item>
+        <item>Engels (Uganda)</item>
+        <item>English (VK)</item>
+        <item>Engels (VS)</item>
+        <item>Estnies (Estland)</item>
+        <item>Filippyns (Filippyne)</item>
+        <item>Fins (Finland)</item>
+        <item>Frans (België)</item>
+        <item>Frans (Kanada)</item>
+        <item>Frans (Frankryk)</item>
+        <item>Frans (Switserland)</item>
+        <item>Galisies (Spanje)</item>
+        <item>Duits (Oostenryk)</item>
+        <item>Duits (Duitsland)</item>
+        <item>Duits (Switserland)</item>
+        <item>Duits (Liechtenstein)</item>
+        <item>Grieks (Griekeland)</item>
+        <item>Hebreeus (Israel)</item>
+        <item>Hindi (Indië)</item>
+        <item>Hongaars (Hongarye)</item>
+        <item>Yslands (Ysland)</item>
+        <item>Indonesies (Indonesië)</item>
+        <item>Iers (Ierland)</item>
+        <item>Ndebele (Suid-Afrika)</item>
+        <item>Xhosa (Suid-Afrika)</item>
+        <item>Zoeloe (Suid-Afrika)</item>
+        <item>Italiaans (Italië)</item>
+        <item>Italiaans (Switserland)</item>
+        <item>Japannees (Japan)</item>
+        <item>Koreaans (Suid-Korea)</item>
+        <item>Letties (Letland)</item>
+        <item>Litaus (Litaue)</item>
+        <item>Maleisies (Maleisië)</item>
+        <item>Maleisies (Singapoer)</item>
+        <item>Noorse Bokmål (Noorweë)</item>
+        <item>Noorse Nynorsk (Noorweë)</item>
+        <item>Persies (Iran)</item>
+        <item>Pools (Pole)</item>
+        <item>Portugees (Angola)</item>
+        <item>Portugees (Brasilië)</item>
+        <item>Portugees (Portugal)</item>
+        <item>Roemeens (Roemenië)</item>
+        <item>Russies (Belo-Rusland)</item>
+        <item>Russies (Rusland)</item>
+        <item>Pedi (Suid-Afrika)</item>
+        <item>Serwies (Serwië, Cyrillies)</item>
+        <item>Sotho (Suid-Afrika)</item>
+        <item>Tswana (Suid-Afrika)</item>
+        <item>Swazi (Suid-Afrika)</item>
+        <item>Slowaaks (Slowakye)</item>
+        <item>Sloweens (Slowenië)</item>
+        <item>Spaans (Argentinië)</item>
+        <item>Spaans (Bolivië)</item>
+        <item>Spaans (Chili)</item>
+        <item>Spaans (Kolombië)</item>
+        <item>Spaans (Costa Rica)</item>
+        <item>Spaans (Kuba)</item>
+        <item>Spaans (Dominikaanse Republiek)</item>
+        <item>Spaans (Ecuador)</item>
+        <item>Spaans (El Salvador)</item>
+        <item>Spaans (Guatemala)</item>
+        <item>Spaans (Honduras)</item>
+        <item>Spaans (Mexiko)</item>
+        <item>Spaans (Nicaragua)</item>
+        <item>Spaans (Panama)</item>
+        <item>Spaans (Paraguay)</item>
+        <item>Spaans (Peru)</item>
+        <item>Spaans (Puerto Rico)</item>
+        <item>Spaans (Spanje)</item>
+        <item>Spaans (VS)</item>
+        <item>Spaans (Uruguay)</item>
+        <item>Spaans (Venezuela)</item>
+        <item>Swahili (Kenia)</item>
+        <item>Swahili (Tanzanië)</item>
+        <item>Swahili (Uganda)</item>
+        <item>Sweeds (Finland)</item>
+        <item>Sweeds (Swede)</item>
+        <item>Thais (Thailand)</item>
+        <item>Venda (Suid-Afrika)</item>
+        <item>Turks (Turkye)</item>
+        <item>Oekraïens (Oekraïne)</item>
+        <item>Oerdoe (Pakistan)</item>
+        <item>Viëtnamees (Viëtnam)</item>
+        <item>Tsonga (Suid-Afrika)</item>
+    </string-array>
+    <string-array name="edit_reminder_day">
+        <item>Vandag</item>
+        <item>Môre</item>
+        <item>Soms</item>
+        <item>Stel datum…</item>
+    </string-array>
+    <string-array name="edit_reminder_time">
+        <item>Oggend</item>
+        <item>Middag</item>
+        <item>Aand</item>
+        <item>Nag</item>
+        <item>Heeldag</item>
+        <item>Stel tyd…</item>
+    </string-array>
+    <string-array name="edit_reminder_location_trigger_type">
+        <item>Aankoms</item>
+        <item>Vertrek</item>
+    </string-array>
+    <string-array name="edit_reminder_location">
+        <item>Tuis</item>
+        <item>Werk</item>
+        <item>Stel ligging…</item>
+    </string-array>
+    <string-array name="network_error_tts_messages">
+        <item>Tans is hierdie internetverbinding nie betroubaar nie.</item>
+        <item>Hierdie internetverbinding is op die oomblik nie betroubaar nie.</item>
+        <item>Tans is hierdie internetverbinding nie stabiel nie.</item>
+        <item>Hierdie internetverbinding is op die oomblik nie stabiel nie.</item>
+        <item>Tans is hierdie internetverbinding nie sterk genoeg nie.</item>
+        <item>Hierdie internetverbinding is op die oomblik nie sterk genoeg nie.</item>
+    </string-array>
+    <string-array name="read_it_grammar">
+        <item>lees dit</item>
+        <item>lees die boodskap</item>
+        <item>lees daardie SMS</item>
+    </string-array>
+    <string-array name="reply_grammar">
+        <item>antwoord</item>
+        <item>stuur antwoord</item>
+        <item>"stuur 'n antwoord"</item>
+        <item>antwoord op die SMS</item>
+        <item>stuur antwoord daarop</item>
+    </string-array>
+    <string-array name="call_back_grammar">
+        <item>bel stuurder van jongste boodskap terug</item>
+        <item>bel hom</item>
+        <item>bel hom terug</item>
+        <item>bel haar</item>
+        <item>bel haar terug</item>
+    </string-array>
+</resources>

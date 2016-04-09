@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="search_phone_or_tablet">ຊອກ​ຫາ​ແທັບ​ເລັດ</string>
+    <string name="corpus_name_summons">ແທັບເລັດ</string>
+    <string name="search_sources">ການຊອກຫາແທັບເລັດ</string>
+    <string name="no_summons_found">"ບໍ່ພົບເຫັນຜົນການຊອກຫາ
+ໃນແທັບເລັດຂອງທ່ານ."</string>
+    <string name="hands_free_unlock_device">ເພື່ອ​ຊອກຫາ​ດ້ວຍ​ສຽງ​ໃນ Google, ກະ​ລຸ​ນາ​ປົດລັອກ​ແທັບເລັດ​ຂອງ​ທ່ານ​ກ່ອນ.</string>
+    <string name="icing_manage_storage_summary">ພວກເຮົາເລັ່ງການຊອກຫາໃນແທັບເລັດຂອງທ່ານ ໂດຍການສະໜອງລະບົບການຊອກຫາໃຫ້ແອັບຯທ່ານໃຊ້.</string>
+</resources>

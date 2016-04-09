@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WLAN位置绑定</string>
+    <string name="enable_wifi_hint">检测到有可用的无线网络，WLAN位置绑定将帮您连接无线网络以节省流量</string>
+    <string name="disable_wifi_hint">检测到WLAN处于空闲状态，WLAN位置绑定将帮您关闭WLAN以节省电量</string>
+    <string name="wifi_switch_settings_title">WLAN位置绑定</string>
+</resources>

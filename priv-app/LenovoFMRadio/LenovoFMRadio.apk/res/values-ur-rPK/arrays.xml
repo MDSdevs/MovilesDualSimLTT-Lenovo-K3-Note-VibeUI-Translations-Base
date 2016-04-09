@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarm_set">
+        <item>یہ الارم ابھی سے 1 منٹ سے کم کے لیے سیٹ کیا گیا ہے۔</item>
+        <item>"یہ الارم اب%1$sھی  لیے سیٹ کیا گیا ہے۔"</item>
+        <item>"یہ الارم اب%2$sھی  لیے سیٹ کیا گیا ہے۔"</item>
+        <item>ابھی سے %2$s اور%1$s کے لیے سیٹ ہے۔</item>
+        <item>"یہ الارم اب%3$sھی  لیے سیٹ کیا گیا ہے۔"</item>
+        <item>ابھی سے %3$s اور%1$s کے لیے سیٹ ہے۔</item>
+        <item>ابھی سے %3$s اور%2$s کے لیے سیٹ ہے۔</item>
+        <item>یہ الارم ابھی سے %1$s&lt;/xliff:g>, &lt;xliff:g id=HOURS>%2$s اور %3$s کے لیے سیٹ ہے۔</item>
+    </string-array>
+</resources>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="anim_curve_01_startOffset">0</integer>
+    <integer name="anim_curve_01_duration">150</integer>
+    <integer name="anim_curve_02_startOffset">100</integer>
+    <integer name="anim_curve_02_duration">300</integer>
+    <integer name="anim_curve_03_startOffset">200</integer>
+    <integer name="anim_curve_03_duration">300</integer>
+    <integer name="anim_curve_04_startOffset">300</integer>
+    <integer name="anim_curve_04_duration">300</integer>
+    <integer name="anim_curve_05_startOffset">400</integer>
+    <integer name="anim_curve_05_duration">300</integer>
+    <integer name="anim_curve_06_startOffset">500</integer>
+    <integer name="anim_curve_06_duration">150</integer>
+    <integer name="widget_dot_translate_1_duration">350</integer>
+    <integer name="widget_dot_translate_2_duration">250</integer>
+    <integer name="widget_dot_alpha_duration">600</integer>
+    <integer name="widget_dot_translate_1_01_startOffset">0</integer>
+    <integer name="widget_dot_translate_2_01_startOffset">350</integer>
+    <integer name="widget_dot_translate_1_02_startOffset">100</integer>
+    <integer name="widget_dot_translate_2_02_startOffset">450</integer>
+    <integer name="widget_dot_translate_1_03_startOffset">200</integer>
+    <integer name="widget_dot_translate_2_03_startOffset">550</integer>
+    <integer name="widget_dot_translate_1_04_startOffset">300</integer>
+    <integer name="widget_dot_translate_2_04_startOffset">650</integer>
+    <integer name="widget_dot_translate_1_05_startOffset">400</integer>
+    <integer name="widget_dot_translate_2_05_startOffset">750</integer>
+    <integer name="widget_color_bg_duration">300</integer>
+    <integer name="widget_color_bg_01_startOffset">0</integer>
+    <integer name="widget_color_bg_02_startOffset">100</integer>
+    <integer name="widget_color_bg_03_startOffset">200</integer>
+    <integer name="widget_color_bg_04_startOffset">300</integer>
+    <integer name="widget_color_bg_05_startOffset">400</integer>
+    <integer name="widget_weather_icon_set_startOffset">0</integer>
+    <integer name="widget_weather_icon_set_duration">600</integer>
+</resources>

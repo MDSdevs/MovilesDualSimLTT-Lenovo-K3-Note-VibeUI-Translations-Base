@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="search_phone_or_tablet">टॅब्लेट शोधा</string>
+    <string name="corpus_name_summons">टॅब्लेट</string>
+    <string name="search_sources">टॅब्लेट शोध</string>
+    <string name="no_summons_found">"आपल्या टॅब्लेटवर
+कोणतेही परिणाम आढळले नाहीत."</string>
+    <string name="hands_free_unlock_device">Google व्हॉइस शोध घेण्यासाठी, कृपया आपला टॅब्लेट अनलॉक करा.</string>
+    <string name="icing_manage_storage_summary">आम्ही आपल्या Apps साठी वापर करण्‍याकरिता शोध इंजिन प्रदान करुन आपल्या टॅब्लेटवर शोध गती वाढवतो.</string>
+</resources>

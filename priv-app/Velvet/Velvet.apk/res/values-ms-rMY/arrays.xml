@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="recurrence_freq">
+        <item>ULANG SETIAP HARI</item>
+        <item>ULANG SETIAP MINGGU</item>
+        <item>ULANG SETIAP BULAN</item>
+        <item>ULANG SETIAP TAHUN</item>
+    </string-array>
+    <string-array name="edit_recurrence">
+        <item>Tidak berulang</item>
+        <item>Setiap hari</item>
+        <item>Setiap minggu</item>
+        <item>Setiap bulan</item>
+        <item>Setiap tahun</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>pada setiap Ahad pertama</item>
+        <item>pada setiap Ahad kedua</item>
+        <item>pada setiap Ahad ketiga</item>
+        <item>pada setiap Ahad keempat</item>
+        <item>pada setiap Ahad terakhir</item>
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>pada setiap Isnin pertama</item>
+        <item>pada setiap Isnin kedua</item>
+        <item>pada setiap Isnin ketiga</item>
+        <item>pada setiap Isnin keempat</item>
+        <item>pada setiap Isnin terakhir</item>
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>pada setiap Selasa pertama</item>
+        <item>pada setiap Selasa kedua</item>
+        <item>pada setiap Selasa ketiga</item>
+        <item>pada setiap Selasa keempat</item>
+        <item>pada setiap Selasa terakhir</item>
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>pada setiap Rabu pertama</item>
+        <item>pada setiap Rabu kedua</item>
+        <item>pada setiap Rabu ketiga</item>
+        <item>pada setiap Rabu keempat</item>
+        <item>pada setiap Rabu terakhir</item>
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>pada setiap Khamis pertama</item>
+        <item>pada setiap Khamis kedua</item>
+        <item>pada setiap Khamis ketiga</item>
+        <item>pada setiap Khamis keempat</item>
+        <item>pada setiap Khamis terakhir</item>
+    </string-array>
+    <string-array name="repeat_by_nth_fri">
+        <item>pada setiap Jumaat pertama</item>
+        <item>pada setiap Jumaat kedua</item>
+        <item>pada setiap Jumaat ketiga</item>
+        <item>pada setiap Jumaat keempat</item>
+        <item>pada setiap Jumaat terakhir</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>pada setiap Sabtu pertama</item>
+        <item>pada setiap Sabtu kedua</item>
+        <item>pada setiap Sabtu ketiga</item>
+        <item>pada setiap Sabtu keempat</item>
+        <item>pada setiap Sabtu terakhir</item>
+    </string-array>
+    <string-array name="baseball_innings">
+        <item>Pusingan pertama</item>
+        <item>Pusingan kedua</item>
+        <item>Pusingan ketiga</item>
+        <item>Pusingan keempat</item>
+        <item>Pusingan kelima</item>
+        <item>Pusingan keenam</item>
+        <item>Pusingan ketujuh</item>
+        <item>Pusingan kelapan</item>
+        <item>Pusingan kesembilan</item>
+        <item>Pusingan kesepuluh</item>
+        <item>Pusingan ke-11</item>
+        <item>Pusingan ke-12</item>
+    </string-array>
+    <string-array name="qp_top_baseball_innings">
+        <item>Ats 1</item>
+        <item>Ats 2</item>
+        <item>Ats 3</item>
+        <item>Ats 4</item>
+        <item>Ats 5</item>
+        <item>Ats 6</item>
+        <item>Ats 7</item>
+        <item>Ats 8</item>
+        <item>Ats 9</item>
+        <item>Ats 10</item>
+        <item>Ats 11</item>
+        <item>Ats 12</item>
+    </string-array>
+    <string-array name="qp_bottom_baseball_innings">
+        <item>Bwh 1</item>
+        <item>Bwh 2</item>
+        <item>Bwh 3</item>
+        <item>Bwh 4</item>
+        <item>Bwh 5</item>
+        <item>Bwh 6</item>
+        <item>Bwh 7</item>
+        <item>Bwh 8</item>
+        <item>Bwh 9</item>
+        <item>Bwh 10</item>
+        <item>Bwh 11</item>
+        <item>Bwh 12</item>
+    </string-array>
+    <string-array name="local_results_markers">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+    </string-array>
+    <string-array name="languageNames">
+        <item>Bahasa Afrika (Afrika Selatan)</item>
+        <item>Bahasa Arab (Algeria)</item>
+        <item>Bahasa Arab (Mesir)</item>
+        <item>Bahasa Arab (Iraq)</item>
+        <item>Bahasa Arab (Israel)</item>
+        <item>Bahasa Arab (Jordan)</item>
+        <item>Bahasa Arab (Kuwait)</item>
+        <item>Bahasa Arab (Lubnan)</item>
+        <item>Bahasa Arab (Libya)</item>
+        <item>Bahasa Arab (Maghribi)</item>
+        <item>Bahasa Arab (Qatar)</item>
+        <item>Bahasa Arab (Arab Saudi)</item>
+        <item>Bahasa Arab (Sudan)</item>
+        <item>Bahasa Arab (Syria)</item>
+        <item>Bahasa Arab (Tunisia)</item>
+        <item>Bahasa Arab (Emiriah Arab Bersatu)</item>
+        <item>Bahasa Arab (Yaman)</item>
+        <item>Bahasa Belarus (Belarus)</item>
+        <item>Bahasa Bengali (Bangladesh)</item>
+        <item>Bahasa Bulgaria (Bulgaria)</item>
+        <item>Bahasa Catalonia (Sepanyol)</item>
+        <item>Bahasa Cina, Mandarin (Cina, Ringkas)</item>
+        <item>Bahasa Cina, Mandarin (Hong Kong, Mudah)</item>
+        <item>Bahasa Cina, Mandarin (Hong Kong, Tradisional)</item>
+        <item>Bahasa Cina, Mandarin (Singapura, Mudah)</item>
+        <item>Bahasa Cina, Mandarin (Taiwan, Mudah)</item>
+        <item>Bahasa China, Mandarin (Taiwan, Tradisional)</item>
+        <item>Bahasa Cina, Yue (Cina, Mudah)</item>
+        <item>Bahasa Cina, Yue (Hong Kong, Tradisional)</item>
+        <item>Bahasa Croatia (Croatia)</item>
+        <item>Bahasa Czech (Republik Czech)</item>
+        <item>Bahasa Denmark (Denmark)</item>
+        <item>Bahasa Belanda (Belgium)</item>
+        <item>Bahasa Belanda (Belanda)</item>
+        <item>Bahasa Inggeris (Umum)</item>
+        <item>Bahasa Inggeris (Australia)</item>
+        <item>Bahasa Inggeris (Bangladesh)</item>
+        <item>Bahasa Inggeris (Kanada)</item>
+        <item>Bahasa Inggeris (Hong Kong)</item>
+        <item>Bahasa Inggeris (India)</item>
+        <item>Bahasa Inggeris (Ireland)</item>
+        <item>Bahasa Inggeris (Kenya)</item>
+        <item>Bahasa Inggeris (Malaysia)</item>
+        <item>Bahasa Inggeris (New Zealand)</item>
+        <item>Bahasa Inggeris (Nigeria)</item>
+        <item>Bahasa Inggeris (Pakistan)</item>
+        <item>Bahasa Inggeris (Filipina)</item>
+        <item>Bahasa Inggeris (Singapura)</item>
+        <item>Bahasa Inggeris (Afrika Selatan)</item>
+        <item>Bahasa Inggeris (Sudan)</item>
+        <item>Bahasa Inggeris (Tanzania)</item>
+        <item>Bahasa Inggeris (Uganda)</item>
+        <item>Inggeris (UK)</item>
+        <item>Bahasa Inggeris (AS)</item>
+        <item>Bahasa Estonia (Estonia)</item>
+        <item>Filipina (Filipina)</item>
+        <item>Bahasa Finland (Finland)</item>
+        <item>Bahasa Perancis (Belgium)</item>
+        <item>Bahasa Perancis (Kanada)</item>
+        <item>Bahasa Perancis (Perancis)</item>
+        <item>Bahasa Perancis (Switzerland)</item>
+        <item>Bahasa Galicia (Sepanyol)</item>
+        <item>Bahasa Jerman (Austria)</item>
+        <item>Bahasa Jerman (Jerman)</item>
+        <item>Bahasa Jerman (Switzerland)</item>
+        <item>Bahasa Jerman (Liechtenstein)</item>
+        <item>Bahasa Greek (Greece)</item>
+        <item>Bahasa Ibrani (Israel)</item>
+        <item>Bahasa Hindi (India)</item>
+        <item>Bahasa Hungary (Hungary)</item>
+        <item>Bahasa Iceland (Iceland)</item>
+        <item>Bahasa Indonesia (Indonesia)</item>
+        <item>Bahasa Ireland (Ireland)</item>
+        <item>Bahasa isiNdebele (Afrika Selatan)</item>
+        <item>Bahasa isiXhosa (Afrika Selatan)</item>
+        <item>Bahasa isiZulu (Afrika Selatan)</item>
+        <item>Bahasa Itali (Itali)</item>
+        <item>Bahasa Itali (Switzerland)</item>
+        <item>Bahasa Jepun (Jepun)</item>
+        <item>Bahasa Korea (Korea Selatan)</item>
+        <item>Bahasa Latvia (Latvia)</item>
+        <item>Bahasa Lithuania (Lithuania)</item>
+        <item>Bahasa Melayu (Malaysia)</item>
+        <item>Bahasa Melayu (Singapura)</item>
+        <item>Bahasa Bokmål Norway (Norway)</item>
+        <item>Bahasa Nynorsk Norway (Norway)</item>
+        <item>Bahasa Parsi (Iran)</item>
+        <item>Bahasa Poland (Poland)</item>
+        <item>Bahasa Portugis (Angola)</item>
+        <item>Bahasa Portugis (Brazil)</item>
+        <item>Portugis (Portugal)</item>
+        <item>Bahasa Romania (Romania)</item>
+        <item>Bahasa Rusia (Belarus)</item>
+        <item>Bahasa Rusia (Rusia)</item>
+        <item>Bahasa Sepedi (Afrika Selatan)</item>
+        <item>Bahasa Serbia (Serbia, Cyril)</item>
+        <item>Bahasa Sesotho (Afrika Selatan)</item>
+        <item>Bahasa Setswana (Afrika Selatan)</item>
+        <item>Bahasa siSwati (Afrika Selatan)</item>
+        <item>Bahasa Slovak (Slovakia)</item>
+        <item>Bahasa Slovenia (Slovenia)</item>
+        <item>Bahasa Sepanyol (Argentina)</item>
+        <item>Bahasa Sepanyol (Bolivia)</item>
+        <item>Bahasa Sepanyol (Chile)</item>
+        <item>Bahasa Sepanyol (Colombia)</item>
+        <item>Bahasa Sepanyol (Costa Rica)</item>
+        <item>Bahasa Sepanyol (Cuba)</item>
+        <item>Bahasa Sepanyol (Republik Dominica)</item>
+        <item>Bahasa Sepanyol (Ecuador)</item>
+        <item>Bahasa Sepanyol (El Salvador)</item>
+        <item>Bahasa Sepanyol (Guatemala)</item>
+        <item>Bahasa Sepanyol (Honduras)</item>
+        <item>Bahasa Sepanyol (Mexico)</item>
+        <item>Bahasa Sepanyol (Nicaragua)</item>
+        <item>Bahasa Sepanyol (Panama)</item>
+        <item>Bahasa Sepanyol (Paraguay)</item>
+        <item>Bahasa Sepanyol (Peru)</item>
+        <item>Bahasa Sepanyol (Puerto Rico)</item>
+        <item>Bahasa Sepanyol (Sepanyol)</item>
+        <item>Bahasa Sepanyol (AS)</item>
+        <item>Bahasa Sepanyol (Uruguay)</item>
+        <item>Bahasa Sepanyol (Venezuela)</item>
+        <item>Bahasa Swahili (Kenya)</item>
+        <item>Bahasa Swahili (Tanzania)</item>
+        <item>Bahasa Swahili (Uganda)</item>
+        <item>Bahasa Sweden (Finland)</item>
+        <item>Bahasa Sweden (Sweden)</item>
+        <item>Bahasa Thai (Thailand)</item>
+        <item>Bahasa Tshivenda (Afrika Selatan)</item>
+        <item>Bahasa Turki (Turki)</item>
+        <item>Bahasa Ukraine (Ukraine)</item>
+        <item>Bahasa Urdu (Pakistan)</item>
+        <item>Bahasa Vietnam (Vietnam)</item>
+        <item>Bahasa Xitsonga (Afrika Selatan)</item>
+    </string-array>
+    <string-array name="edit_reminder_day">
+        <item>Hari ini</item>
+        <item>Esok</item>
+        <item>Kadangkala</item>
+        <item>Tetapkan tarikh...</item>
+    </string-array>
+    <string-array name="edit_reminder_time">
+        <item>Pagi</item>
+        <item>Tengah hari</item>
+        <item>Petang</item>
+        <item>Malam</item>
+        <item>Sepanjang hari</item>
+        <item>Tetapkan masa...</item>
+    </string-array>
+    <string-array name="edit_reminder_location_trigger_type">
+        <item>Tiba</item>
+        <item>Bertolak</item>
+    </string-array>
+    <string-array name="edit_reminder_location">
+        <item>Laman Utama</item>
+        <item>Tempat Kerja</item>
+        <item>Tetapkan lokasi...</item>
+    </string-array>
+    <string-array name="network_error_tts_messages">
+        <item>Sambungan Internet ini tidak andal sekarang.</item>
+        <item>Sambungan Internet ini tidak andal pada masa ini.</item>
+        <item>Sambungan Internet ini tidak stabil sekarang.</item>
+        <item>Sambungan Internet ini tidak stabil pada masa ini.</item>
+        <item>Sambungan Internet ini tidak cukup kuat sekarang.</item>
+        <item>Sambungan Internet ini tidak cukup kuat pada masa ini.</item>
+    </string-array>
+    <string-array name="read_it_grammar">
+        <item>baca</item>
+        <item>baca mesej</item>
+        <item>baca teks itu</item>
+    </string-array>
+    <string-array name="reply_grammar">
+        <item>balas</item>
+        <item>hantar balasan</item>
+        <item>hantar balasan</item>
+        <item>balas mesej teks</item>
+        <item>hantar balasan kepada mesej</item>
+    </string-array>
+    <string-array name="call_back_grammar">
+        <item>panggil kembali penghantar mesej terakhir</item>
+        <item>panggil dia</item>
+        <item>panggil dia kembali</item>
+        <item>panggil dia</item>
+        <item>panggil dia kembali</item>
+    </string-array>
+</resources>

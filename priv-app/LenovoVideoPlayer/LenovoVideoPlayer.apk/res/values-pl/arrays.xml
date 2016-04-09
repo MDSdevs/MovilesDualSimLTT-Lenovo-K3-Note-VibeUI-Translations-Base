@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="items_for_allVideo">
+        <item>Odtwórz</item>
+        <item>Zmień nazwę</item>
+        <item>Usuń</item>
+        <item>Informacje</item>
+        <item>Udostępnij</item>
+        <item>Wybór wielu</item>
+    </string-array>
+    <string-array name="items_for_allVideo_aruba">
+        <item>Odtwórz</item>
+        <item>Zmień nazwę</item>
+        <item>Usuń</item>
+    </string-array>
+    <string-array name="items_for_recentVideo">
+        <item>Odtwórz</item>
+        <item>Usuń</item>
+        <item>Wyczyść listę</item>
+    </string-array>
+    <string-array name="items_for_externalCaller">
+        <item>Odtwórz</item>
+        <item>Dodaj ten film</item>
+    </string-array>
+</resources>

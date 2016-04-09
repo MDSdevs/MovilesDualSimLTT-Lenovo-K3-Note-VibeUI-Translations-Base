@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="recurrence_freq">
+        <item>ຊ້ຳທຸກໆມື້</item>
+        <item>ຊ້ຳທຸກໆອາທິດ</item>
+        <item>ຊ້ຳທຸກໆເດືອນ</item>
+        <item>ຊ້ຳທຸກໆປີ</item>
+    </string-array>
+    <string-array name="edit_recurrence">
+        <item>ບໍ່​ເກີດ​ຂຶ້ນ​ຊ້ຳໆ</item>
+        <item>ທຸກໆມື້</item>
+        <item>ທຸກໆ​ອາ​ທິດ</item>
+        <item>ທຸກໆ​ເດືອນ</item>
+        <item>ທຸກໆ​ປີ</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>ໃນ​ທຸກໆ​ວັນ​ອາ​ທິດ</item>
+        <item>ໃນ​ທຸກໆ​ວັນອາທິດທີສອງ</item>
+        <item>ໃນ​ທຸກໆ​ວັນອາທິດທີສາມ</item>
+        <item>ໃນ​ທຸກໆ​ວັນອາທິດທີສີ່</item>
+        <item>ໃນ​ທຸກໆ​ວັນອາທິດສຸດທ້າຍ</item>
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>ໃນ​ທຸກໆ​ວັນຈັນທຳອິດ</item>
+        <item>ໃນ​ທຸກໆ​ວັນຈັນທີສອງ</item>
+        <item>ໃນ​ທຸກໆ​ວັນຈັນທີສາມ</item>
+        <item>ໃນ​ທຸກໆ​ວັນຈັນທີສີ່</item>
+        <item>ໃນ​ທຸກໆ​ວັນຈັນສຸດທ້າຍ</item>
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>ໃນ​ທຸກໆ​ວັນອັງຄານທຳອິດ</item>
+        <item>ໃນ​ທຸກໆ​ວັນອັງຄານທີສອງ</item>
+        <item>ໃນ​ທຸກໆ​ວັນອັງຄານທີສາມ</item>
+        <item>ໃນ​ທຸກໆ​ວັນອັງຄານທີສີ່</item>
+        <item>ໃນ​ທຸກໆ​ວັນອັງຄານສຸດທ້າຍ</item>
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>ໃນ​ທຸກໆ​ວັນພຸດທຳອິດ</item>
+        <item>ໃນ​ທຸກໆ​ວັນພຸດທີສອງ</item>
+        <item>ໃນ​ທຸກໆ​ວັນພຸດທີສາມ</item>
+        <item>ໃນ​ທຸກໆ​ວັນພຸດທີສີ່</item>
+        <item>ໃນ​ທຸກໆ​ວັນພຸດທີສຸດທ້າຍ</item>
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>ໃນ​ທຸກໆ​ວັນພະຫັດທຳອິດ</item>
+        <item>ໃນ​ທຸກໆ​ວັນພະຫັດທີສອງ</item>
+        <item>ໃນ​ທຸກໆ​ວັນພະຫັດທີສາມ</item>
+        <item>ໃນ​ທຸກໆ​ວັນພະຫັດທີສີ່</item>
+        <item>ໃນ​ທຸກໆ​ວັນພະຫັດທີສຸດທ້າຍ</item>
+    </string-array>
+    <string-array name="repeat_by_nth_fri">
+        <item>ໃນ​ທຸກໆ​ວັນສຸກທໍາອິດ</item>
+        <item>ໃນ​ທຸກໆ​ວັນສຸກທີສອງ</item>
+        <item>ໃນ​ທຸກໆ​ວັນສຸກທີສາມ</item>
+        <item>ໃນ​ທຸກໆ​ວັນສຸກທີສີ່</item>
+        <item>ໃນ​ທຸກໆ​ວັນສຸກສຸດທ້າຍ</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>ໃນ​ທຸກໆ​ວັນເສົາທຳອິດ</item>
+        <item>ໃນ​ທຸກໆ​ວັນເສົາທີສອງ</item>
+        <item>ໃນ​ທຸກໆ​ວັນເສົາທີສາມ</item>
+        <item>ໃນ​ທຸກໆ​ວັນເສົາທີສີ່</item>
+        <item>ໃນ​ທຸກໆ​ວັນເສົາສຸດທ້າຍ</item>
+    </string-array>
+    <string-array name="baseball_innings">
+        <item>ອິນນິ່ງທຳອິດ</item>
+        <item>ອິນນິ່ງທີ່ 2</item>
+        <item>ອິນນິ່ງທີ່ 13</item>
+        <item>ອິນນິ່ງທີ່ 4</item>
+        <item>ອິນນິ່ງທີ່ 5</item>
+        <item>ອິນນິ່ງທີ່ 6</item>
+        <item>ອິນນິ່ງທີ່ 7</item>
+        <item>ອິນນິ່ງທີ່ 8</item>
+        <item>ອິນນິ່ງທີ່ 9</item>
+        <item>ອິນນິ່ງທີ່ 10</item>
+        <item>ອິນນິ່ງທີ່ 11</item>
+        <item>ອິນນິ່ງທີ່ 12</item>
+    </string-array>
+    <string-array name="qp_top_baseball_innings">
+        <item>ທີ 1</item>
+        <item>ທີ 2</item>
+        <item>ທີ 3</item>
+        <item>ທີ 4</item>
+        <item>ທີ 5</item>
+        <item>ທີ 6</item>
+        <item>ທີ 7</item>
+        <item>ທີ 8</item>
+        <item>ທີ 9</item>
+        <item>ທີ 10</item>
+        <item>ທີ 11</item>
+        <item>ທີ 12</item>
+    </string-array>
+    <string-array name="qp_bottom_baseball_innings">
+        <item>ບັອດໂຕທີ 1</item>
+        <item>ບັອດໂຕທີ 2</item>
+        <item>ບັອດໂຕທີ 3</item>
+        <item>ບັອດໂຕທີ 4</item>
+        <item>ບັອດໂຕທີ 5</item>
+        <item>ບັອດໂຕທີ 6</item>
+        <item>ບັອດໂຕທີ 7</item>
+        <item>ບັອດໂຕທີ 8</item>
+        <item>ບັອດໂຕທີ 9</item>
+        <item>ບັອດໂຕທີ 10</item>
+        <item>ບັອດໂຕທີ 11</item>
+        <item>ບັອດໂຕທີ 12</item>
+    </string-array>
+    <string-array name="local_results_markers">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+    </string-array>
+    <string-array name="languageNames">
+        <item>ອາຟຣິການ (ອາຟຣິກາໃຕ້)</item>
+        <item>ອາຣາບິກ (ອັລຈິເຣຍ)</item>
+        <item>ອາຣາບິກ (ອີຢິບ)</item>
+        <item>ອາຣາບິກ (ອີຣັກ)</item>
+        <item>ອາຣາບິກ (ອິສຣາເອວ)</item>
+        <item>ອາຣາບິກ (ຈໍແດນ)</item>
+        <item>ອາຣາບິກ (ຄູເວດ)</item>
+        <item>ອາຣາບິກ (ເລບານອນ)</item>
+        <item>ອາຣາບິກ (ລິບເບຍ)</item>
+        <item>ອາຣາບິກ (ມໍຣັອກໂຄ)</item>
+        <item>ອາຣາບິກ (ກາຕາ)</item>
+        <item>ອາຣາບິກ (ຊາອູດິ ອາຣາເບຍ)</item>
+        <item>ອາຣາບິກ (ຊູດານ)</item>
+        <item>ອາຣາບິກ (ຊີເຣຍ)</item>
+        <item>ອາຣາບິກ (ຕູນິເຊຍ)</item>
+        <item>ອາຣາບິກ (ສະຫະລັດອາຣັບອາມິເຣດ)</item>
+        <item>ອາຣາບິກ (ເຢເມນ)</item>
+        <item>ເບລາຣຸສຊຽນ (ເບລາຣຸສ)</item>
+        <item>ເບັງກາລີ (ບັງກະລາເທດ)</item>
+        <item>ບັງກາຣຽນ (ບັງກາເຣຍ)</item>
+        <item>ກາຕາແລນ (ສະເປນ)</item>
+        <item>ຈີນ, ແມນດາຣິນ (ຈີນ, ແບບງ່າຍ)</item>
+        <item>ຈີນ, ແມນດາຣິນ (ຮອງກົງ, ແບບງ່າຍ)</item>
+        <item>ຈີນ, ແມນດາຣິນ (ຮອງກົງ, ດັ້ງເດີມ)</item>
+        <item>ຈີນ, ແມນດາຣິນ (ສິງກະໂປ, ແບບງ່າຍ)</item>
+        <item>ຈີນ, ແມນດາຣິນ (ໄຕ້ຫວັນ, ແບບງ່າຍ)</item>
+        <item>ຈີນ, ແມນດາຣິນ (ໄຕ້ຫວັນ, ດັ້ງເດີມ)</item>
+        <item>ຈີນ, ກວາງຕຸ້ງ (ຈີນ, ແບບງ່າຍ)</item>
+        <item>ຈີນ, ກວາງຕຸ້ງ (ຮອງກົງ, ດັ້ງເດີມ)</item>
+        <item>ໂຄຣເອທຽນ (ໂຄຣເອເທຍ)</item>
+        <item>ເຊກ (ສາທາລະນະລັດເຊກ)</item>
+        <item>ແດນນິຊ (ເດັນມາກ)</item>
+        <item>ດັດຊ໌ (ເບວຢຽມ)</item>
+        <item>ດັດຊ໌ (ເນເທີແລນ)</item>
+        <item>ອັງກິດ (ທົ່ວໄປ)</item>
+        <item>ອັງກິດ (ອອດສະເຕຣເລຍ)</item>
+        <item>ອັງກິດ (ບັງກະລາເທດ)</item>
+        <item>ອັງກິດ (ຄານາດາ)</item>
+        <item>ອັງກິດ (ຮອງກົງ)</item>
+        <item>ອັງກິດ (ອິນເດຍ)</item>
+        <item>ອັງກິດ (ເອີຣແລນ)</item>
+        <item>ພາສາອັງກິດ (ເຄນຢາ)</item>
+        <item>ອັງກິດ (ມາເລເຊຍ)</item>
+        <item>ອັງກິດ (ນິວຊີແລນ)</item>
+        <item>ອັງກິດ (ໄນຈີເຣຍ)</item>
+        <item>ອັງກິດ (ປາກີສະຖານ)</item>
+        <item>ອັງກິດ (ຟີລິບປິນ)</item>
+        <item>ອັງກິດ (ສິງກະໂປ)</item>
+        <item>ອັງກິດ (ອາຟຣິກາໃຕ້)</item>
+        <item>ພາສາອັງກິດ (ຊູດານ)</item>
+        <item>ອັງກິດ (ທານຊາເນຍ)</item>
+        <item>ອັງກິດ (ອູການດາ)</item>
+        <item>ອັງກິດ (ສະຫະລາດຊະອານາຈັກ)</item>
+        <item>ອັງກິດ (ສະຫະລັດຯ)</item>
+        <item>ເອສໂຕນຽນ (ເອສໂຕເນຍ)</item>
+        <item>ຟິລິປິນໂນ (ຟີລິບປິນ)</item>
+        <item>ຟິນນິຊ (ຟິນແລນ)</item>
+        <item>ຝຣັ່ງ (ເບວຢຽມ)</item>
+        <item>ຝຣັ່ງ (ຄານາດາ)</item>
+        <item>ຝຣັ່ງ (ປະເທດຝຣັ່ງ)</item>
+        <item>ຝຣັ່ງ (ສະວິດເຊີແລນ)</item>
+        <item>ກາລິຊຽນ (ສະເປນ)</item>
+        <item>ເຢຍລະມັນ (ອອສເຕຣຍ)</item>
+        <item>ເຢຍລະມັນ (ເຢຍລະມັນ)</item>
+        <item>ເຢຍລະມັນ (ສະວິດເຊີແລນ)</item>
+        <item>ເຢຍລະມັນ (ລິກເທນສະຕາຍ)</item>
+        <item>ກຣີກ (ກຣີຊ)</item>
+        <item>ຮີບຣິວ (ອິສຣາເອວ)</item>
+        <item>ຮິນດິ (ອິນເດຍ)</item>
+        <item>ຮັງກາຣຽນ (ຮັງກາຣີ)</item>
+        <item>ໄອສແລນດິກ (ໄອສແລນ)</item>
+        <item>ອິນໂດເນຊຽນ (ອິນໂດເນເຊຍ)</item>
+        <item>ໄອຣິຊ (ໄອຣແລນ)</item>
+        <item>ອິຊິເດບິລີ (ອາຟຣິກາໃຕ້)</item>
+        <item>ອິຊິໂຊຊາ (ອາຟຣິກກາໃຕ້)</item>
+        <item>ອິຊິຊູລູ (ອາຟຣິກາໃຕ້)</item>
+        <item>ອິຕາລຽນ (ອີຕາລີ)</item>
+        <item>ອິຕາລຽນ (ສະວິດເຊີແລນ)</item>
+        <item>ຍີ່ປຸ່ນ (ຍີ່ປຸ່ນ)</item>
+        <item>ເກົາຫລີ (ເກົາຫລີໃຕ້)</item>
+        <item>ລັດວຽນ (ລັດເວຍ)</item>
+        <item>ລີທົວນຽນ (ລິທົວເນຍ)</item>
+        <item>ມາເລ (ມາເລເຊຍ)</item>
+        <item>ມາເລ (ສິງກະໂປ)</item>
+        <item>ນໍເວກຽນ ບັອກໄມ (ນໍເວ)</item>
+        <item>ນໍເວກຽນ ນີນອກ (ນໍເວ)</item>
+        <item>ເປີຊຽນ (ອີຣານ)</item>
+        <item>ໂປລິຊ (ໂປແລນ)</item>
+        <item>ປໍຕູກີສ (ແອງໂກລາ)</item>
+        <item>ປໍຕູກີສ (ບຣາຊິລ)</item>
+        <item>ປໍຕູກີສ (ປໍຕູກອລ)</item>
+        <item>ໂຣເມນຽນ (ໂຣເມເນຍ)</item>
+        <item>ຣັດຊຽນ (ເບລາຣຸສ)</item>
+        <item>ຣັດຊຽນ (ຣັດເຊຍ)</item>
+        <item>ເຊັບເປດິ (ອາຟຣິກາໃຕ້)</item>
+        <item>ເຊີບຽນ (ເຊີເບຍ, ຄຣີລິກ)</item>
+        <item>ເຊໂຊໂທ (ອາຟຣິກກາໃຕ້)</item>
+        <item>ເຊຊະວານາ (ອາຟຣິກາໃຕ້)</item>
+        <item>ຊິຊະວາຕິ (ອາຟຣິກາໃຕ້)</item>
+        <item>ສະໂລແວັກ (ສະໂລວາເກຍ)</item>
+        <item>ສະໂລເວນຽນ (ສະໂລເວເນຍ)</item>
+        <item>ສະແປນນິຊ (ອາເຈນຕິນາ)</item>
+        <item>ສະແປນນິຊ (ໂບລິເວຍ)</item>
+        <item>ສະແປນນິຊ (ຊິລີ)</item>
+        <item>ສະແປນນິຊ (ໂຄລົມເບຍ)</item>
+        <item>ສະແປນນິຊ (ໂຄສຕາ ຣິກາ)</item>
+        <item>ສະແປນນິຊ (ຄິວບາ)</item>
+        <item>ສະແປນນິຊ (ສາທາລະນະລັດໂດມິນິກັນ)</item>
+        <item>ສະແປນນິຊ (ເອກົວດໍ)</item>
+        <item>ສະແປນນິຊ (ເອວ ຊາວາດໍ)</item>
+        <item>ສະແປນນິຊ (ກົວເຕມາລາ)</item>
+        <item>ສະແປນນິຊ (ຮອນດູຣາສ)</item>
+        <item>ສະແປນນິຊ (ເມັກຊິໂກ)</item>
+        <item>ສະແປນນິຊ (ນິກາຣາກົວ)</item>
+        <item>ສະແປນນິຊ (ພານາມາ)</item>
+        <item>ສະແປນນິຊ (ພາຣາກວຍ)</item>
+        <item>ສະແປນນິຊ (ເປຣູ)</item>
+        <item>ສະແປນນິຊ (ເປີໂຕ ຣິໂອ)</item>
+        <item>ສະແປນນິຊ (ສະເປນ)</item>
+        <item>ສະແປນນິຊ (ສະຫະລັດຯ)</item>
+        <item>ສະແປນນິຊ (ອູຣູກວຍ)</item>
+        <item>ສະແປນນິຊ (ເວນາຊູເອລາ)</item>
+        <item>ຊະວາຮີລີ (ເຄນຢາ)</item>
+        <item>ຊະວາຮີລິ (ທານຊາເນຍ)</item>
+        <item>ຊວາຮິລີ (ອູການດາ)</item>
+        <item>ສະວີດິຊ (ຟິນແລນ)</item>
+        <item>ສະວີດິຊ (ສະວີເດັນ)</item>
+        <item>ໄທ (ໄທ)</item>
+        <item>ຊິເວນດາ (ອາຟຣິກກາໃຕ້)</item>
+        <item>ເຕີກິຊ (ເຕີກີ)</item>
+        <item>ຢູເຄຣນຽນ (ຢູເຄຣນ)</item>
+        <item>ອູຣາດູ (ປາກີສະຖານ)</item>
+        <item>ຫວຽດນາມ (ຫວຽດນາມ)</item>
+        <item>ຊິດຊອງກາ (ອາຟຣິກາໃຕ້)</item>
+    </string-array>
+    <string-array name="edit_reminder_day">
+        <item>ມື້ນີ້</item>
+        <item>ມື້ອື່ນ</item>
+        <item>ເປັນ​ບາງ​ຄັ້ງ</item>
+        <item>ຕັ້ງວັນທີ...</item>
+    </string-array>
+    <string-array name="edit_reminder_time">
+        <item>ຕອນເຊົ້າ</item>
+        <item>ຕອນສວາຍ</item>
+        <item>ຕອນແລງ</item>
+        <item>ກາງຄືນ</item>
+        <item>ໝົດມື້</item>
+        <item>ຕັ້ງເວລາ...</item>
+    </string-array>
+    <string-array name="edit_reminder_location_trigger_type">
+        <item>ມາຮອດ</item>
+        <item>ອອກ</item>
+    </string-array>
+    <string-array name="edit_reminder_location">
+        <item>ເຮືອນ</item>
+        <item>ບ່ອນເຮັດວຽກ</item>
+        <item>ລະບຸສະຖານທີ່...</item>
+    </string-array>
+    <string-array name="network_error_tts_messages">
+        <item>ການ​ເຊື່ອມ​ຕໍ່​ອິນ​ເຕີ​ເນັດ​ນີ້​ບໍ່​ເຊື່ອ​ຖື​ໄດ້​ດຽວ​ນີ້.</item>
+        <item>ການ​ເຊື່ອມ​ຕໍ່​ອິນ​ເຕີ​ເນັດ​ບໍ່​ເຊື່ອ​ຖື​ໄດ້​ຢູ່​ໃນ​ເວ​ລາ​ນີ້.</item>
+        <item>ການ​ເຊື່ອມ​ຕໍ່ອິນ​ເຕີ​ເນັດ​ນີ້​ບໍ່​ສະ​ຖຽນ​ໃນ​ເວ​ລາ​ນີ້.</item>
+        <item>ການ​ເຊື່ອມ​ຕໍ່ອິນ​ເຕີ​ເນັດ​ນີ້​ບໍ່​ສະ​ຖຽນ​ໃນ​ຂະ​ນະ​ນີ້.</item>
+        <item>ການ​ເຊື່ອມ​ຕໍ່​ອິນ​ເຕີ​ເນັດ​ນີ້​ບໍ່​ແຂງ​ແຮງ​ພໍ​ໃນ​ເວ​ລາ​ນີ້.</item>
+        <item>ການ​ເຊື່ອມ​ຕໍ່​ອິນ​ເຕີ​ເນັດ​ນີ້​ບໍ່​ແຂງ​ແຮງ​ພໍ​ໃນ​ຂະ​ນະ​ນີ້.</item>
+    </string-array>
+    <string-array name="read_it_grammar">
+        <item>ອ່ານມັນ</item>
+        <item>ອ່ານຂໍ້​ຄວາມ</item>
+        <item>ອ່ານຂໍ້​ຄວາມ​ນັ້ນ</item>
+    </string-array>
+    <string-array name="reply_grammar">
+        <item>ຕອບຄືນ</item>
+        <item>ສົ່ງການ​ຕອບ​ຄືນ</item>
+        <item>ສົ່ງ​ການຕອບ​ຄືນ</item>
+        <item>ຕອບ​ຄືນຂໍ້​ຄວາມ​ດັ່ງ​ກ່າວ</item>
+        <item>ສົ່ງ​ການ​ຕອບ​ຄືນ​ຫາ​ມັນ​ໄດ້</item>
+    </string-array>
+    <string-array name="call_back_grammar">
+        <item>ໂທ​ກັບໄປ​ຫາຄົນ​ທີ່ສົ່ງ​ຂໍ້ຄວາມ​ມາລ້າສຸດ</item>
+        <item>ໂທ​ຫາ​ລາວ</item>
+        <item>ໂທ​ກັບ​ຫາ​ລາວ</item>
+        <item>ໂທຫາ​ລາວ</item>
+        <item>ໂທ​ກັບ​ຫາ​ລາວ</item>
+    </string-array>
+</resources>

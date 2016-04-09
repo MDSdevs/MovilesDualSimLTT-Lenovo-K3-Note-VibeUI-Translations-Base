@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="search_phone_or_tablet">Αναζήτηση tablet</string>
+    <string name="corpus_name_summons">Tablet</string>
+    <string name="search_sources">Αναζήτηση Tablet</string>
+    <string name="no_summons_found">"Δεν βρέθηκαν αποτελέσματα
+στο tablet σας."</string>
+    <string name="hands_free_unlock_device">Για να πραγματοποιήσετε μια Φωνητική αναζήτηση Google, ξεκλειδώστε το tablet σας.</string>
+    <string name="icing_manage_storage_summary">Επιταχύνουμε την αναζήτηση στο tablet σας, παρέχοντας μια μηχανή αναζήτησης για χρήση από τις εφαρμογές σας.</string>
+</resources>

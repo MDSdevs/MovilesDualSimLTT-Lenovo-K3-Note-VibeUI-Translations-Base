@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="alert_time24or12_text_size">40.0sp</dimen>
+    <dimen name="alert_time24or12_layout_marginTop">80.0dip</dimen>
+    <dimen name="alert_time_layout_marginTop">60.0dip</dimen>
+    <dimen name="alert_lable_layout_marginTop">40.0dip</dimen>
+    <dimen name="alert_TVAlarmLabel_text_size">25.0sp</dimen>
+    <dimen name="alert_weather_tpye_text_size">25.0sp</dimen>
+    <dimen name="alert_weather_temp_text_size">25.0sp</dimen>
+    <dimen name="line_width">1.0px</dimen>
+    <dimen name="action_bottom_bar_height">71.0dip</dimen>
+    <dimen name="action_two_bottom_margin">20.0px</dimen>
+    <dimen name="action_two_bottom_margin_between">10.0px</dimen>
+    <dimen name="action_bottom_button_height">54.0dip</dimen>
+    <dimen name="repeat_day_width">100.0dip</dimen>
+    <dimen name="arrow_margin_right">100.0dip</dimen>
+    <dimen name="alert_weather_layout_marginBottom">60.0dip</dimen>
+    <dimen name="stopwatch_hour_text_marginRight">3.0dip</dimen>
+    <dimen name="stopwatch_label_shadow_text_size">20.0px</dimen>
+    <dimen name="stopwatch_list_item_ns_imageline_paddingRight">30.0dip</dimen>
+    <dimen name="actonbar_btn_shadow_test_size">18.0px</dimen>
+    <dimen name="actonbar_btn_shadow_noimg_test_size">24.0px</dimen>
+    <dimen name="action_bottom_margin">20.0px</dimen>
+    <dimen name="action_bottom_add_alarm_marginLeft">125.0px</dimen>
+    <dimen name="zone_list_item_test1_size">22.0sp</dimen>
+    <dimen name="zone_list_item_test2_size">18.0sp</dimen>
+</resources>

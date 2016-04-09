@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="activity_name">范例</string>
+    <string name="settings_detail">封面应用范例</string>
+    <string name="settings_activity_name">主题设置</string>
+    <string name="init_tip">正在加载锁屏主题包……</string>
+</resources>

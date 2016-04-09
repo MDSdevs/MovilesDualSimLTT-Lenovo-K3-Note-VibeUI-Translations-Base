@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="transparent_background">#ffffffff</color>
+    <color name="blue">#ff87cefa</color>
+    <color name="appwidget_text">#ffffffff</color>
+    <color name="backview_divider">#ff686868</color>
+    <color name="subtitle_color">#ffffffff</color>
+    <color name="divider_color">#ff77787b</color>
+    <color name="transparent_color">#00000000</color>
+    <color name="alphabet_category_color">#ff2a2b2d</color>
+    <color name="playlist_devider_color">#ffafaeae</color>
+    <color name="page_title_color">#ff2b2b2b</color>
+    <color name="display_name_color">#ff5f5f5f</color>
+    <color name="artist_name_color">#ff8e8e8e</color>
+    <color name="dialog_bg_color">#ffffffff</color>
+    <color name="dialog_top_color">#ff000000</color>
+    <color name="dialog_bottom_color">#ffaaaaaa</color>
+    <color name="dialog_button_color">#ff777777</color>
+    <color name="dialog_title_text_color">#ffffffff</color>
+    <color name="dialog_line_color">#ffe2e2e2</color>
+    <color name="cover_artist_color">#ff535353</color>
+    <color name="theme_color">#ffffffff</color>
+    <color name="nowplaying_time_color">#ff2b2b2b</color>
+    <color name="playlist320_artist_color">#ffa0a0a0</color>
+    <color name="album_artist_color">#ff999999</color>
+    <color name="artist_detail_color">#ffa0a0a0</color>
+    <color name="content_is_null">#ff2b2b2b</color>
+</resources>

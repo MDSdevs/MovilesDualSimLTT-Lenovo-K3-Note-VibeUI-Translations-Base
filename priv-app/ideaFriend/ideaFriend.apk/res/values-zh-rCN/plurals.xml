@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="duration_sec_change">
+        <item quantity="other">持续时间 (%s 秒)</item>
+        <item quantity="one">持续时间 (%s 秒)</item>
+        <item quantity="few">持续时间 (%s 秒)</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">系统将删除 %1$s 个会话。</item>
+        <item quantity="one">系统将删除 1 个会话。</item>
+    </plurals>
+    <plurals name="slide_duration">
+        <item quantity="other">%s秒</item>
+        <item quantity="one">%s秒</item>
+        <item quantity="few">%s秒</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">%1$s 条符合“%2$s”的搜索结果</item>
+        <item quantity="one">%1$s 条符合“%2$s”的搜索结果</item>
+    </plurals>
+    <plurals name="message_count_notification_overflow">
+        <item quantity="other">+%1$s 条其他短信</item>
+        <item quantity="one">+%1$s 条其他短信</item>
+    </plurals>
+    <plurals name="recipient_count">
+        <item quantity="other">%1$s 个人</item>
+    </plurals>
+    <plurals name="notification_voicemail_title">
+        <item quantity="other">%1$d 封语音邮件</item>
+        <item quantity="one">语音邮件</item>
+    </plurals>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">找到 %d 位联系人</item>
+        <item quantity="one">找到 1 位联系人</item>
+    </plurals>
+    <plurals name="listTotalPhoneContacts">
+        <item quantity="other">%d 位联系人有电话号码</item>
+        <item quantity="one">1 位联系人有电话号码</item>
+    </plurals>
+    <plurals name="listFoundAllContacts">
+        <item quantity="other">找到 %d 个联系人</item>
+        <item quantity="one">找到 1 个联系人</item>
+    </plurals>
+    <plurals name="merge_info">
+        <item quantity="other">合并自 %0$d 个来源</item>
+        <item quantity="one">未合并</item>
+    </plurals>
+    <plurals name="num_groups_in_account">
+        <item quantity="other">%0$d个群组</item>
+        <item quantity="one">1个群组</item>
+    </plurals>
+    <plurals name="num_contacts_in_group">
+        <item quantity="other">有 %1$d 人来自%2$s</item>
+        <item quantity="one">%2$s中有 %1$d 个联系人</item>
+    </plurals>
+    <plurals name="group_list_num_contacts_in_group">
+        <item quantity="other">%1$d 位</item>
+        <item quantity="one">%1$d 位</item>
+    </plurals>
+    <plurals name="notification_multiple">
+        <item quantity="other">%d 条未读信息。</item>
+        <item quantity="one">%d 条未读信息。</item>
+    </plurals>
+    <plurals name="contact_detail_calllog_duration_minute">
+        <item quantity="other">" %d 分"</item>
+        <item quantity="one">" %d 分"</item>
+    </plurals>
+    <plurals name="contact_detail_calllog_duration_second">
+        <item quantity="other">" %d 秒"</item>
+        <item quantity="one">" %d 秒"</item>
+    </plurals>
+    <plurals name="search_listTotalAllContacts">
+        <item quantity="other">搜索联系人 | 共 %d 位</item>
+        <item quantity="one">搜索联系人 | 共 1 位</item>
+    </plurals>
+    <plurals name="blocknumber_total_count">
+        <item quantity="other">%d 人标记</item>
+    </plurals>
+</resources>

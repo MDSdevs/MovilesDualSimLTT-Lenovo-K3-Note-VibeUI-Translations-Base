@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="recurrence_freq">
+        <item>KORDA IGA PÄEV</item>
+        <item>KORDA IGA NÄDAL</item>
+        <item>KORDA IGA KUU</item>
+        <item>KORDA IGA AASTA</item>
+    </string-array>
+    <string-array name="edit_recurrence">
+        <item>Ei kordu</item>
+        <item>Iga päev</item>
+        <item>Iga nädal</item>
+        <item>Iga kuu</item>
+        <item>Iga aasta</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>iga kuu esimesel pühapäeval</item>
+        <item>iga kuu teisel pühapäeval</item>
+        <item>iga kuu kolmandal pühapäeval</item>
+        <item>iga kuu neljandal pühapäeval</item>
+        <item>iga kuu viimasel pühapäeval</item>
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>iga kuu esimesel esmaspäeval</item>
+        <item>iga kuu teisel esmaspäeval</item>
+        <item>iga kuu kolmandal esmaspäeval</item>
+        <item>iga kuu neljandal esmaspäeval</item>
+        <item>iga kuu viimasel esmaspäeval</item>
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>iga kuu esimesel teisipäeval</item>
+        <item>iga kuu teisel teisipäeval</item>
+        <item>iga kuu kolmandal teisipäeval</item>
+        <item>iga kuu neljandal teisipäeval</item>
+        <item>iga kuu viimasel teisipäeval</item>
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>iga kuu esimesel kolmapäeval</item>
+        <item>iga kuu teisel kolmapäeval</item>
+        <item>iga kuu kolmandal kolmapäeval</item>
+        <item>iga kuu neljandal kolmapäeval</item>
+        <item>iga kuu viimasel kolmapäeval</item>
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>iga kuu esimesel neljapäeval</item>
+        <item>iga kuu teisel neljapäeval</item>
+        <item>iga kuu kolmandal neljapäeval</item>
+        <item>iga kuu neljandal neljapäeval</item>
+        <item>iga kuu viimasel neljapäeval</item>
+    </string-array>
+    <string-array name="repeat_by_nth_fri">
+        <item>iga kuu esimesel reedel</item>
+        <item>iga kuu teisel reedel</item>
+        <item>iga kuu kolmandal reedel</item>
+        <item>iga kuu neljandal reedel</item>
+        <item>iga kuu viimasel reedel</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>iga kuu esimesel laupäeval</item>
+        <item>iga kuu teisel laupäeval</item>
+        <item>iga kuu kolmandal laupäeval</item>
+        <item>iga kuu neljandal laupäeval</item>
+        <item>iga kuu viimasel laupäeval</item>
+    </string-array>
+    <string-array name="baseball_innings">
+        <item>1. inning</item>
+        <item>2. inning</item>
+        <item>3. inning</item>
+        <item>4. inning</item>
+        <item>5. inning</item>
+        <item>6. inning</item>
+        <item>7. inning</item>
+        <item>8. inning</item>
+        <item>9. inning</item>
+        <item>10. inning</item>
+        <item>11. inning</item>
+        <item>12. inning</item>
+    </string-array>
+    <string-array name="qp_top_baseball_innings">
+        <item>1.</item>
+        <item>2.</item>
+        <item>3.</item>
+        <item>4.</item>
+        <item>5.</item>
+        <item>6.</item>
+        <item>7.</item>
+        <item>8.</item>
+        <item>9.</item>
+        <item>10.</item>
+        <item>11.</item>
+        <item>12.</item>
+    </string-array>
+    <string-array name="qp_bottom_baseball_innings">
+        <item>Tagant 1.</item>
+        <item>Tagant 2.</item>
+        <item>Tagant 3.</item>
+        <item>Tagant 4.</item>
+        <item>Tagant 5.</item>
+        <item>Tagant 6.</item>
+        <item>Tagant 7.</item>
+        <item>Tagant 8.</item>
+        <item>Tagant 9.</item>
+        <item>Tagant 10.</item>
+        <item>Tagant 11.</item>
+        <item>Tagant 12.</item>
+    </string-array>
+    <string-array name="local_results_markers">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+    </string-array>
+    <string-array name="languageNames">
+        <item>afrikaani keel (LAV)</item>
+        <item>araabia keel (Alžeeria)</item>
+        <item>araabia keel (Egiptus)</item>
+        <item>araabia keel (Iraak)</item>
+        <item>araabia keel (Iisrael)</item>
+        <item>araabia keel (Jordaania)</item>
+        <item>araabia keel (Kuveit)</item>
+        <item>araabia keel (Liibanon)</item>
+        <item>araabia keel (Liibüa)</item>
+        <item>araabia keel (Maroko)</item>
+        <item>araabia keel (Katar)</item>
+        <item>araabia keel (Saudi Araabia)</item>
+        <item>araabia keel (Sudaan)</item>
+        <item>araabia keel (Süüria)</item>
+        <item>araabia keel (Tuneesia)</item>
+        <item>araabia keel (Araabia Ühendemiraadid)</item>
+        <item>araabia keel (Jeemen)</item>
+        <item>valgevene keel (Valgevene)</item>
+        <item>bengali keel (Bangladesh)</item>
+        <item>bulgaaria keel (Bulgaaria)</item>
+        <item>katalaani keel (Hispaania)</item>
+        <item>hiina, mandariini keel (Hiina, lihtsustatud)</item>
+        <item>hiina, mandariini keel (Hongkong, lihtsustatud)</item>
+        <item>hiina, mandariini keel (Hongkong, traditsiooniline)</item>
+        <item>hiina, mandariini keel (Singapur, lihtsustatud)</item>
+        <item>hiina, mandariini keel (Taiwan, lihtsustatud)</item>
+        <item>hiina, mandariini keel (Taiwan, traditsiooniline)</item>
+        <item>hiina, yue keel (Hiina, lihtsustatud)</item>
+        <item>hiina, yue keel (Hongkong, traditsiooniline)</item>
+        <item>horvaadi keel (Horvaatia)</item>
+        <item>tšehhi keel (Tšehhi Vabariik)</item>
+        <item>taani keel (Taani)</item>
+        <item>hollandi keel (Belgia)</item>
+        <item>hollandi keel (Holland)</item>
+        <item>inglise keel (üldine)</item>
+        <item>inglise keel (Austraalia)</item>
+        <item>inglise keel (Bangladesh)</item>
+        <item>inglise keel (Kanada)</item>
+        <item>inglise keel (Hongkong)</item>
+        <item>inglise keel (India)</item>
+        <item>inglise keel (Iirimaa)</item>
+        <item>inglise keel (Keenia)</item>
+        <item>inglise keel (Malaisia)</item>
+        <item>inglise keel (Uus-Meremaa)</item>
+        <item>inglise keel (Nigeeria)</item>
+        <item>inglise keel (Pakistan)</item>
+        <item>inglise keel (Filipiinid)</item>
+        <item>inglise keel (Singapur)</item>
+        <item>inglise keel (LAV)</item>
+        <item>inglise keel (Sudaan)</item>
+        <item>inglise keel (Tansaania)</item>
+        <item>inglise keel (Uganda)</item>
+        <item>inglise keel (Ühendkuningriik)</item>
+        <item>inglise keel (USA)</item>
+        <item>eesti keel (Eesti)</item>
+        <item>filipino keel (Filipiinid)</item>
+        <item>soome keel (Soome)</item>
+        <item>prantsuse keel (Belgia)</item>
+        <item>prantsuse keel (Kanada)</item>
+        <item>prantsuse keel (Prantsusmaa)</item>
+        <item>prantsuse keel (Šveits)</item>
+        <item>galeegi keel (Hispaania)</item>
+        <item>saksa keel (Austria)</item>
+        <item>saksa keel (Saksamaa)</item>
+        <item>saksa keel (Šveits)</item>
+        <item>saksa keel (Liechtenstein)</item>
+        <item>kreeka keel (Kreeka)</item>
+        <item>heebrea keel (Iisrael)</item>
+        <item>hindi keel (India)</item>
+        <item>ungari keel (Ungari)</item>
+        <item>islandi keel (Island)</item>
+        <item>indoneesia keel (Indoneesia)</item>
+        <item>iiri keel (Iirimaa)</item>
+        <item>ndebele keel (LAV)</item>
+        <item>koosa keel (LAV)</item>
+        <item>suulu keel (LAV)</item>
+        <item>itaalia keel (Itaalia)</item>
+        <item>itaalia keel (Šveits)</item>
+        <item>jaapani keel (Jaapan)</item>
+        <item>korea keel (Lõuna-Korea)</item>
+        <item>läti keel (Läti)</item>
+        <item>leedu keel (Leedu)</item>
+        <item>malai keel (Malaisia)</item>
+        <item>malai keel (Singapur)</item>
+        <item>Norra bokmål (Norra)</item>
+        <item>uusnorra keel (Norra)</item>
+        <item>pärsia keel (Iraan)</item>
+        <item>poola keel (Poola)</item>
+        <item>portugali keel (Angola)</item>
+        <item>portugali keel (Brasiilia)</item>
+        <item>portugali keel (Portugal)</item>
+        <item>rumeenia keel (Rumeenia)</item>
+        <item>vene keel (Valgevene)</item>
+        <item>vene keel (Venemaa)</item>
+        <item>pedi keel (LAV)</item>
+        <item>serbia keel (Serbia, kirillitsa)</item>
+        <item>sotho keel (LAV)</item>
+        <item>tsvana keel (LAV)</item>
+        <item>svaasi keel (LAV)</item>
+        <item>slovaki keel (Slovakkia)</item>
+        <item>sloveeni keel (Sloveenia)</item>
+        <item>hispaania keel (Argentina)</item>
+        <item>hispaania keel (Boliivia)</item>
+        <item>hispaania keel (Tšiili)</item>
+        <item>hispaania keel (Colombia)</item>
+        <item>hispaania keel (Costa Rica)</item>
+        <item>hispaania keel (Kuuba)</item>
+        <item>hispaania keel (Dominikaani Vabariik)</item>
+        <item>hispaania keel (Ecuador)</item>
+        <item>hispaania keel (El Salvador)</item>
+        <item>hispaania keel (Guatemala)</item>
+        <item>hispaania keel (Honduras)</item>
+        <item>hispaania keel (Mehhiko)</item>
+        <item>hispaania keel (Nicaragua)</item>
+        <item>hispaania keel (Panama)</item>
+        <item>hispaania keel (Paraguay)</item>
+        <item>hispaania keel (Peruu)</item>
+        <item>hispaania keel (Puerto Rico)</item>
+        <item>hispaania keel (Hispaania)</item>
+        <item>hispaania keel (USA)</item>
+        <item>hispaania keel (Uruguay)</item>
+        <item>hispaania keel (Venezuela)</item>
+        <item>suahiili keel (Keenia)</item>
+        <item>suahiili keel (Tansaania)</item>
+        <item>suahiili keel (Uganda)</item>
+        <item>rootsi keel (Soome)</item>
+        <item>rootsi keel (Rootsi)</item>
+        <item>tai keel (Tai)</item>
+        <item>tshivenda keel (LAV)</item>
+        <item>türgi keel (Türgi)</item>
+        <item>ukraina keel (Ukraina)</item>
+        <item>urdu keel (Pakistan)</item>
+        <item>vietnami keel (Vietnam)</item>
+        <item>tsonga keel (LAV)</item>
+    </string-array>
+    <string-array name="edit_reminder_day">
+        <item>Täna</item>
+        <item>Homme</item>
+        <item>Aeg-ajalt</item>
+        <item>Kuupäeva määramine ...</item>
+    </string-array>
+    <string-array name="edit_reminder_time">
+        <item>Hommik</item>
+        <item>Pärastlõuna</item>
+        <item>Õhtu</item>
+        <item>Öö</item>
+        <item>Kogu päev</item>
+        <item>Kellaaja määramine ...</item>
+    </string-array>
+    <string-array name="edit_reminder_location_trigger_type">
+        <item>Saabumine</item>
+        <item>Lahkumine</item>
+    </string-array>
+    <string-array name="edit_reminder_location">
+        <item>Avaleht</item>
+        <item>Töö</item>
+        <item>Asukoha määramine ...</item>
+    </string-array>
+    <string-array name="network_error_tts_messages">
+        <item>See Interneti-ühendus pole praegu usaldusväärne.</item>
+        <item>See Interneti-ühendus pole hetkel usaldusväärne.</item>
+        <item>See Interneti-ühendus pole praegu stabiilne.</item>
+        <item>See Interneti-ühendus pole hetkel stabiilne.</item>
+        <item>See Interneti-ühendus pole praegu piisavalt tugev.</item>
+        <item>See Interneti-ühendus pole hetkel piisavalt tugev.</item>
+    </string-array>
+    <string-array name="read_it_grammar">
+        <item>kuva see</item>
+        <item>kuva sõnum</item>
+        <item>kuva see tekst</item>
+    </string-array>
+    <string-array name="reply_grammar">
+        <item>vasta</item>
+        <item>saada vastus</item>
+        <item>saada vastus</item>
+        <item>vasta tekstsõnumile</item>
+        <item>saada sellele vastus</item>
+    </string-array>
+    <string-array name="call_back_grammar">
+        <item>helista tagasi viimase sõnumi saatjale</item>
+        <item>helista talle</item>
+        <item>helista talle tagasi</item>
+        <item>helista talle</item>
+        <item>helista talle tagasi</item>
+    </string-array>
+</resources>

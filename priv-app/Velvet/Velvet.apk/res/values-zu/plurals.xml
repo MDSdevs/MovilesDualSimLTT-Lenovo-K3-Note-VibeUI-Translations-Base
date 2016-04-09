@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">%1$d khethiwe</item>
+        <item quantity="zero">%1$d khethiwe</item>
+        <item quantity="one">%1$d khethiwe</item>
+    </plurals>
+    <plurals name="recurrence_end_count">
+        <item quantity="other">Okwemicimbi engu-%d</item>
+        <item quantity="one">Okomcimbi ongu-%d</item>
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+        <item quantity="other">Njalo ngezinsuku ezingu-%d</item>
+        <item quantity="one">Njalo ngosuku olungu-%d</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+        <item quantity="other">Njalo ngamaviki angu-%d</item>
+        <item quantity="one">Njalo ngeviki elingu-%d</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+        <item quantity="other">Njalo ezinyangeni ezingu-%d</item>
+        <item quantity="one">Njalo ngenyanga engu-%d</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+        <item quantity="other">Njalo eminyakeni engu-%d</item>
+        <item quantity="one">Njalo ngonyaka ongu-%d</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item quantity="other">; okwezikhathi ezingu-%d</item>
+        <item quantity="one">; okwesikhathi esisodwa</item>
+    </plurals>
+    <plurals name="daily">
+        <item quantity="other">Njalo ezinsukwini ezingu-%d</item>
+        <item quantity="one">Nsuku zonke</item>
+        <item quantity="two">Njalo ezinsukwini ezingu-%d</item>
+        <item quantity="few">Njalo ezinsukwini ezingu-%d</item>
+        <item quantity="many">Njalo ezinsukwini ezingu-%d</item>
+    </plurals>
+    <plurals name="daily_lower">
+        <item quantity="other">ezinsukwini ezingu-%d</item>
+        <item quantity="one">nsuku zonke</item>
+        <item quantity="two">ezinsukwini ezingu-%d</item>
+        <item quantity="few">ezinsukwini ezingu-%d</item>
+        <item quantity="many">ezinsukwini ezingu-%d</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="other">Njalo emavikini angu-%1$d ngo-%2$s</item>
+        <item quantity="one">Njalo ngeviki nge-%2$s</item>
+        <item quantity="two">Njalo emavikini angu-%1$d ngo-%2$s</item>
+        <item quantity="few">Njalo emavikini angu-%1$d ngo-%2$s</item>
+        <item quantity="many">Njalo emavikini angu-%1$d ngo-%2$s</item>
+    </plurals>
+    <plurals name="weekly_lower">
+        <item quantity="other">njalo ngo-%1$d emavikini ngo-%2$s</item>
+        <item quantity="one">maviki wonke ngo-%2$s</item>
+        <item quantity="two">njalo ngo-%1$d emavikini ngo-%2$s</item>
+        <item quantity="few">njalo ngo-%1$d emavikini ngo-%2$s</item>
+        <item quantity="many">njalo ngo-%1$d emavikini ngo-%2$s</item>
+    </plurals>
+    <plurals name="monthly_interval">
+        <item quantity="other">Njalo ezinyangeni ezingu-%1$d</item>
+        <item quantity="one">Njalo ngenyanga</item>
+        <item quantity="two">Njalo ezinyangeni ezingu-%1$d</item>
+        <item quantity="few">Njalo ezinyangeni ezingu-%1$d</item>
+        <item quantity="many">Njalo ezinyangeni ezingu-%1$d</item>
+    </plurals>
+    <plurals name="monthly_interval_lower">
+        <item quantity="other">ezinyangeni ezingu-%1$d</item>
+        <item quantity="one">nyanga zonke</item>
+        <item quantity="two">ezinyangeni ezingu-%1$d</item>
+        <item quantity="few">ezinyangeni ezingu-%1$d</item>
+        <item quantity="many">ezinyangeni ezingu-%1$d</item>
+    </plurals>
+    <plurals name="yearly_interval_plain">
+        <item quantity="other">Njalo eminyakeni engu-%1$d</item>
+        <item quantity="one">Njalo ngonyaka</item>
+        <item quantity="two">Njalo eminyakeni engu-%1$d</item>
+        <item quantity="few">Njalo eminyakeni engu-%1$d</item>
+        <item quantity="many">Njalo eminyakeni engu-%1$d</item>
+    </plurals>
+    <plurals name="yearly_interval_lower">
+        <item quantity="other">eminyakeni engu-%1$d</item>
+        <item quantity="one">minyaka yonke</item>
+        <item quantity="two">eminyakeni engu-%1$d</item>
+        <item quantity="few">eminyakeni engu-%1$d</item>
+        <item quantity="many">eminyakeni engu-%1$d</item>
+    </plurals>
+    <plurals name="duration_in_hours">
+        <item quantity="other">%1$d amahora</item>
+        <item quantity="one">%1$d amahora</item>
+    </plurals>
+    <plurals name="duration_in_hours_short">
+        <item quantity="other">%1$d amahora</item>
+        <item quantity="one">%1$d amahora</item>
+    </plurals>
+    <plurals name="duration_in_minutes">
+        <item quantity="other">%1$d amaminithi</item>
+        <item quantity="one">%1$d amaminithi</item>
+    </plurals>
+    <plurals name="duration_in_minutes_short">
+        <item quantity="other">%1$d amaminithi</item>
+        <item quantity="one">%1$d amaminithi</item>
+    </plurals>
+    <plurals name="duration_in_days">
+        <item quantity="other">%1$d izinsuku</item>
+        <item quantity="one">%1$d izinsuku</item>
+    </plurals>
+    <plurals name="duration_in_days_short">
+        <item quantity="other">%1$d izinsuku</item>
+        <item quantity="one">%1$d izinsuku</item>
+    </plurals>
+    <plurals name="duration_in_months">
+        <item quantity="other">%1$d izinyanga</item>
+        <item quantity="one">%1$d izinyanga</item>
+    </plurals>
+    <plurals name="duration_in_months_short">
+        <item quantity="other">%1$d izinyanga</item>
+        <item quantity="one">%1$d izinyanga</item>
+    </plurals>
+    <plurals name="duration_in_years">
+        <item quantity="other">%1$d iminyaka</item>
+        <item quantity="one">%1$d iminyaka</item>
+    </plurals>
+    <plurals name="duration_in_years_short">
+        <item quantity="other">%1$d iminyaka</item>
+        <item quantity="one">%1$d iminyaka</item>
+    </plurals>
+    <plurals name="items_from_without_colon">
+        <item quantity="other">%1$d izinto kusuka ku-</item>
+        <item quantity="one">%1$d izinto kusuka ku-</item>
+    </plurals>
+    <plurals name="last_bus_home_departure_time">
+        <item quantity="other">Ibhasi lokugcina eliya ekhaya %2$skumaminithi angu-%1$d%3$s</item>
+        <item quantity="one">Ibhasi lokugcina eliya ekhaya %2$skumaminithi angu-%1$d%3$s</item>
+    </plurals>
+    <plurals name="last_bus_to_hotel_departure_time">
+        <item quantity="other">Ibhasi lokugcina eliya ehhotela %2$skumaminithi angu-%1$d%3$s</item>
+        <item quantity="one">Ibhasi lokugcina eliya ehhotela %2$s%1$d minutes%3$s</item>
+    </plurals>
+    <plurals name="last_train_home_departure_time">
+        <item quantity="other">Isitimela sokugcina esiya ekhaya%2$skumaminithi angu-%1$d%3$s</item>
+        <item quantity="one">Isitimela sokugcina esiya ekhaya%2$skumaminithi angu-%1$d%3$s</item>
+    </plurals>
+    <plurals name="last_train_to_hotel_departure_time">
+        <item quantity="other">Isitimela sokugcina esiya ehhotela kumaminithi angu-%2$s%1$d%3$s</item>
+        <item quantity="one">Isitimela sokugcina esiya ehhotela kumaminithi angu-%2$s%1$d%3$s</item>
+    </plurals>
+    <plurals name="last_transit_home_departure_time">
+        <item quantity="other">Uhambo lokugcina oluya ekhaya %2$skumaminithi angu-%1$d%3$s</item>
+        <item quantity="one">Uhambo lokugcina oluya ekhaya %2$skumaminithi angu-%1$d%3$s</item>
+    </plurals>
+    <plurals name="last_transit_to_hotel_departure_time">
+        <item quantity="other">Uhambo lokugcina oluya ehhotela %2$skumaminithi angu-%1$d%3$s</item>
+        <item quantity="one">Uhambo lokugcina oluya ehhotela %2$skumaminithi angu-%1$d%3$s</item>
+    </plurals>
+    <plurals name="transit_next_line_departure_subtext_no_platform">
+        <item quantity="other">Hamba ngezinyawo amaminithi angu-%1$d uye e-%2$s</item>
+        <item quantity="one">Hamba ngezinyawo amaminithi angu-%1$d uye e-%2$s</item>
+    </plurals>
+    <plurals name="minutes_delay">
+        <item quantity="other">%1$d amaminithi wokulibaziseka</item>
+        <item quantity="one">%1$d amaminithi wokulibaziseka</item>
+    </plurals>
+    <plurals name="minutes_delay_more_than_usual">
+        <item quantity="other">%1$d amaminithi ngaphezulu kokujwayelekile</item>
+        <item quantity="one">%1$d amaminithi ngaphezulu kokujwayelekile</item>
+    </plurals>
+    <plurals name="minutes_delay_less_than_usual">
+        <item quantity="other">%1$d amaminithi ngaphansi kunokujwayelekile</item>
+        <item quantity="one">%1$d amaminithi ngaphansi kunokujwayelekile</item>
+    </plurals>
+    <plurals name="usual_traffic_minutes_delay">
+        <item quantity="other">Ithrafikhi ejwayelekile: %1$d amaminithi wokulibaziseka</item>
+        <item quantity="one">Ithrafikhi ejwayelekile: %1$d amaminithi wokulibaziseka</item>
+    </plurals>
+    <plurals name="num_min_late">
+        <item quantity="other">%1$d amaminithi wangemuva kwesikhathi</item>
+        <item quantity="one">%1$d amaminithi wangemuva kwesikhathi</item>
+    </plurals>
+    <plurals name="num_min_early">
+        <item quantity="other">%1$d amaminithi ngaphambi kwesikhathi</item>
+        <item quantity="one">%1$d amaminithi ngaphambi kwesikhathi</item>
+    </plurals>
+    <plurals name="transit_interval_in_minutes">
+        <item quantity="other">· njalo kumaminithi angu-%1$s</item>
+        <item quantity="one">· njalo kumaminithi angu-%1$s</item>
+    </plurals>
+    <plurals name="transit_interval_in_hours">
+        <item quantity="other">· njalo kumahora angu-%1$d</item>
+        <item quantity="one">· njalo kumahora angu-%1$d</item>
+    </plurals>
+    <plurals name="qp_transit_interval_in_minutes">
+        <item quantity="other">Njalo kumaminithi angu-%1$s</item>
+        <item quantity="one">Njalo kumaminithi angu-%1$s</item>
+    </plurals>
+    <plurals name="qp_transit_interval_in_hours">
+        <item quantity="other">Njalo kumahora angu-%1$d</item>
+        <item quantity="one">Njalo kumahora angu-%1$d</item>
+    </plurals>
+    <plurals name="sports_overtime_period_header">
+        <item quantity="other">%1$dOT</item>
+        <item quantity="one">%1$dOT</item>
+    </plurals>
+    <plurals name="time_to_leave_user_arrival_generic">
+        <item quantity="other">Fika ngamaminithi angu-%1$d ngaphambi kwesikhathi</item>
+        <item quantity="one">Fika ngamaminithi angu-%1$d ngaphambi kwesikhathi</item>
+    </plurals>
+    <plurals name="time_to_leave_user_arrival_flight">
+        <item quantity="other">Fika ngamaminithi angu-%1$d ngaphambi kokuhamba</item>
+        <item quantity="one">Fika ngamaminithi angu-%1$d ngaphambi kokuhamba</item>
+    </plurals>
+    <plurals name="time_to_leave_user_arrival_reservation">
+        <item quantity="other">Fika ngamaminithi angu-%1$d ngaphambi kokubhuka</item>
+        <item quantity="one">Fika ngamaminithi angu-%1$d ngaphambi kokubhuka</item>
+    </plurals>
+    <plurals name="time_to_leave_user_arrival_movie">
+        <item quantity="other">Fika ngamaminithi angu-%1$d ngaphambi kwe-movie</item>
+        <item quantity="one">Fika ngamaminithi angu-%1$d ngaphambi kwe-movie</item>
+    </plurals>
+    <plurals name="time_to_leave_user_arrival_concert">
+        <item quantity="other">Fika ngamaminithi angu-%1$d ngaphambi kwekhonsethi</item>
+        <item quantity="one">Fika ngamaminithi angu-%1$d ngaphambi kwekhonsethi</item>
+    </plurals>
+    <plurals name="email_everyone">
+        <item quantity="other">Email everyone (%1$d)</item>
+        <item quantity="one">Email everyone (%1$d)</item>
+    </plurals>
+    <plurals name="card_count">
+        <item quantity="other">%1$d amakhadi</item>
+        <item quantity="one">%1$d amakhadi</item>
+    </plurals>
+    <plurals name="num_movie_tickets">
+        <item quantity="other">%1$d amathikithi</item>
+        <item quantity="one">%1$d amathikithi</item>
+    </plurals>
+    <plurals name="qp_hotel_reservation_length">
+        <item quantity="other">Ukubhukwa kwegumbi ubusuku obungu-%1$d</item>
+        <item quantity="one">Ukubhukwa kwegumbi ubusuku obungu-%1$d</item>
+    </plurals>
+    <plurals name="reminders">
+        <item quantity="other">%1$d izikhumbuzi</item>
+        <item quantity="one">%1$d izikhumbuzi</item>
+    </plurals>
+    <plurals name="number_of_location_sharers">
+        <item quantity="other">%1$d abantu ababelana nawe</item>
+        <item quantity="one">%1$d abantu ababelana nawe</item>
+    </plurals>
+    <plurals name="expiring_duration_in_days">
+        <item quantity="other">Kuphelelwa isikhathi ezinsukwini ezingu-%1$d</item>
+        <item quantity="one">Kuphelelwa isikhathi ezinsukwini ezingu-%1$d</item>
+    </plurals>
+    <plurals name="expiring_duration_in_hours">
+        <item quantity="other">Kuphelelwa isikhathi emahoreni angu-%1$d</item>
+        <item quantity="one">Kuphelelwa isikhathi emahoreni angu-%1$d</item>
+    </plurals>
+    <plurals name="expiring_duration_in_minutes">
+        <item quantity="other">Kuphelelwa isikhathi kumaminithi angu-%1$d</item>
+        <item quantity="one">Kuphelelwa isikhathi kumaminithi angu-%1$d</item>
+    </plurals>
+    <plurals name="view_count">
+        <item quantity="other">%1$,d ukubukwa</item>
+        <item quantity="one">%1$,d ukubukwa</item>
+    </plurals>
+    <plurals name="transportation_seat">
+        <item quantity="other">%1$d Izihlalo</item>
+        <item quantity="one">%1$d Izihlalo</item>
+    </plurals>
+    <plurals name="more_directions">
+        <item quantity="other">+ %1$d izinkomba-ndlela</item>
+        <item quantity="one">+ %1$d izinkomba-ndlela</item>
+    </plurals>
+    <plurals name="time_duration_spoken_hour">
+        <item quantity="other">%1$d amahora</item>
+        <item quantity="one">%1$d amahora</item>
+    </plurals>
+    <plurals name="time_duration_spoken_minute">
+        <item quantity="other">%1$d amaminithi</item>
+        <item quantity="one">%1$d amaminithi</item>
+    </plurals>
+    <plurals name="time_duration_spoken_second">
+        <item quantity="other">%1$d amasekhondi</item>
+        <item quantity="one">%1$d amasekhondi</item>
+    </plurals>
+    <plurals name="agenda_eyes_free_all_day_events">
+        <item quantity="other">%2$s unemicimbi engu-%1$d yansuku zonke: %3$s.</item>
+        <item quantity="one">%2$s unemicimbi engu-%1$d yansuku zonke: %3$s.</item>
+    </plurals>
+</resources>

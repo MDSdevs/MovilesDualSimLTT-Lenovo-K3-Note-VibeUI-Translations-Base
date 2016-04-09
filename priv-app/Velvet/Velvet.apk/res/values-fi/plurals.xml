@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">%1$d valittu</item>
+        <item quantity="zero">%1$d valittu</item>
+        <item quantity="one">%1$d valittu</item>
+    </plurals>
+    <plurals name="recurrence_end_count">
+        <item quantity="other">%d tapahtuman ajan</item>
+        <item quantity="one">%d tapahtuman ajan</item>
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+        <item quantity="other">%d päivän välein</item>
+        <item quantity="one">%d päivän välein</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+        <item quantity="other">%d viikon välein</item>
+        <item quantity="one">%d viikon välein</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+        <item quantity="other">%d kuukauden välein</item>
+        <item quantity="one">%d kuukauden välein</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+        <item quantity="other">%d vuoden välein</item>
+        <item quantity="one">%d vuoden välein</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item quantity="other">%d kertaa</item>
+        <item quantity="one">, yhden kerran</item>
+    </plurals>
+    <plurals name="daily">
+        <item quantity="other">%d päivän välein</item>
+        <item quantity="one">Päivittäin</item>
+        <item quantity="two">%d päivän välein</item>
+        <item quantity="few">%d päivän välein</item>
+        <item quantity="many">%d päivän välein</item>
+    </plurals>
+    <plurals name="daily_lower">
+        <item quantity="other">%d päivän välein</item>
+        <item quantity="one">päivittäin</item>
+        <item quantity="two">%d päivän välein</item>
+        <item quantity="few">%d päivän välein</item>
+        <item quantity="many">%d päivän välein</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="other">%1$d viikon välein joka %2$s</item>
+        <item quantity="one">Viikoittain joka %2$s</item>
+        <item quantity="two">%1$d viikon välein joka %2$s</item>
+        <item quantity="few">%1$d viikon välein joka %2$s</item>
+        <item quantity="many">%1$d viikon välein joka %2$s</item>
+    </plurals>
+    <plurals name="weekly_lower">
+        <item quantity="other">%1$d viikon välein joka %2$s</item>
+        <item quantity="one">viikoittain joka %2$s</item>
+        <item quantity="two">%1$d viikon välein joka %2$s</item>
+        <item quantity="few">%1$d viikon välein joka %2$s</item>
+        <item quantity="many">%1$d viikon välein joka %2$s</item>
+    </plurals>
+    <plurals name="monthly_interval">
+        <item quantity="other">%1$d kuukauden välein</item>
+        <item quantity="one">Kuukausittain</item>
+        <item quantity="two">%1$d kuukauden välein</item>
+        <item quantity="few">%1$d kuukauden välein</item>
+        <item quantity="many">%1$d kuukauden välein</item>
+    </plurals>
+    <plurals name="monthly_interval_lower">
+        <item quantity="other">%1$d kuukauden välein</item>
+        <item quantity="one">kuukausittain</item>
+        <item quantity="two">%1$d kuukauden välein</item>
+        <item quantity="few">%1$d kuukauden välein</item>
+        <item quantity="many">%1$d kuukauden välein</item>
+    </plurals>
+    <plurals name="yearly_interval_plain">
+        <item quantity="other">%1$d vuoden välein</item>
+        <item quantity="one">Vuosittain</item>
+        <item quantity="two">%1$d vuoden välein</item>
+        <item quantity="few">%1$d vuoden välein</item>
+        <item quantity="many">%1$d vuoden välein</item>
+    </plurals>
+    <plurals name="yearly_interval_lower">
+        <item quantity="other">%1$d vuoden välein</item>
+        <item quantity="one">vuosittain</item>
+        <item quantity="two">%1$d vuoden välein</item>
+        <item quantity="few">%1$d vuoden välein</item>
+        <item quantity="many">%1$d vuoden välein</item>
+    </plurals>
+    <plurals name="duration_in_hours">
+        <item quantity="other">%1$d tuntia</item>
+        <item quantity="one">%1$d tunti</item>
+    </plurals>
+    <plurals name="duration_in_hours_short">
+        <item quantity="other">%1$d t</item>
+        <item quantity="one">%1$d t</item>
+    </plurals>
+    <plurals name="duration_in_minutes">
+        <item quantity="other">%1$d minuuttia</item>
+        <item quantity="one">%1$d minuutti</item>
+    </plurals>
+    <plurals name="duration_in_minutes_short">
+        <item quantity="other">%1$d min</item>
+        <item quantity="one">%1$d min</item>
+    </plurals>
+    <plurals name="duration_in_days">
+        <item quantity="other">%1$d päivää</item>
+        <item quantity="one">%1$d päivä</item>
+    </plurals>
+    <plurals name="duration_in_days_short">
+        <item quantity="other">%1$d pv</item>
+        <item quantity="one">%1$d pv</item>
+    </plurals>
+    <plurals name="duration_in_months">
+        <item quantity="other">%1$d kuukautta</item>
+        <item quantity="one">%1$d kuukausi</item>
+    </plurals>
+    <plurals name="duration_in_months_short">
+        <item quantity="other">%1$d kk</item>
+        <item quantity="one">%1$d kk</item>
+    </plurals>
+    <plurals name="duration_in_years">
+        <item quantity="other">%1$d vuotta</item>
+        <item quantity="one">%1$d vuosi</item>
+    </plurals>
+    <plurals name="duration_in_years_short">
+        <item quantity="other">%1$d v</item>
+        <item quantity="one">%1$d v</item>
+    </plurals>
+    <plurals name="items_from_without_colon">
+        <item quantity="other">%1$d kohdetta kohteesta</item>
+        <item quantity="one">%1$d kohde kohteesta</item>
+    </plurals>
+    <plurals name="last_bus_home_departure_time">
+        <item quantity="other">Viimeinen bussi kotiin lähtee %2$s%1$d minuutin%3$s kuluttua.</item>
+        <item quantity="one">Viimeinen bussi kotiin lähtee %2$s%1$d minuutin%3$s kuluttua.</item>
+    </plurals>
+    <plurals name="last_bus_to_hotel_departure_time">
+        <item quantity="other">Viimeinen bussi hotellille lähtee %2$s%1$d minuutin%3$s kuluttua.</item>
+        <item quantity="one">Viimeinen bussi hotellille lähtee %2$s%1$d minuutin%3$s kuluttua.</item>
+    </plurals>
+    <plurals name="last_train_home_departure_time">
+        <item quantity="other">Viimeinen juna kotiin lähtee %2$s%1$d min%3$s kuluttua</item>
+        <item quantity="one">Viimeinen juna kotiin lähtee %2$s1 min%3$s kuluttua</item>
+    </plurals>
+    <plurals name="last_train_to_hotel_departure_time">
+        <item quantity="other">Viimeinen juna hotellille lähtee %2$s%1$d min%3$s kuluttua</item>
+        <item quantity="one">Viimeinen juna hotellille lähtee %2$s1 min%3$s kuluttua</item>
+    </plurals>
+    <plurals name="last_transit_home_departure_time">
+        <item quantity="other">Viimeinen kyyti kotiin lähtee %2$s%1$d minuutin%3$s kuluttua.</item>
+        <item quantity="one">Viimeinen kyyti kotiin lähtee %2$s%1$d minuutin%3$s kuluttua.</item>
+    </plurals>
+    <plurals name="last_transit_to_hotel_departure_time">
+        <item quantity="other">Viimeinen kyyti hotellille lähtee %2$s%1$d minuutin%3$s kuluttua.</item>
+        <item quantity="one">Viimeinen kyyti hotellille lähtee %2$s%1$d minuutin%3$s kuluttua.</item>
+    </plurals>
+    <plurals name="transit_next_line_departure_subtext_no_platform">
+        <item quantity="other">Kävele %1$d min asemalle %2$s.</item>
+        <item quantity="one">Kävele 1 min asemalle %2$s.</item>
+    </plurals>
+    <plurals name="minutes_delay">
+        <item quantity="other">%1$d min viive</item>
+        <item quantity="one">1 min viive</item>
+    </plurals>
+    <plurals name="minutes_delay_more_than_usual">
+        <item quantity="other">%1$d min tavallista enemmän</item>
+        <item quantity="one">1 min tavallista enemmän</item>
+    </plurals>
+    <plurals name="minutes_delay_less_than_usual">
+        <item quantity="other">%1$d min tavallista vähemmän</item>
+        <item quantity="one">1 min tavallista vähemmän</item>
+    </plurals>
+    <plurals name="usual_traffic_minutes_delay">
+        <item quantity="other">Tavallinen liikenne: %1$d min viive</item>
+        <item quantity="one">Tavallinen liikenne: 1 min viive</item>
+    </plurals>
+    <plurals name="num_min_late">
+        <item quantity="other">%1$d min myöhässä</item>
+        <item quantity="one">1 min myöhässä</item>
+    </plurals>
+    <plurals name="num_min_early">
+        <item quantity="other">%1$d min etuajassa</item>
+        <item quantity="one">1 min etuajassa</item>
+    </plurals>
+    <plurals name="transit_interval_in_minutes">
+        <item quantity="other">· %1$s minuutin välein.</item>
+        <item quantity="one">· %1$s minuutin välein.</item>
+    </plurals>
+    <plurals name="transit_interval_in_hours">
+        <item quantity="other">· %1$d tunnin välein.</item>
+        <item quantity="one">· %1$d tunnin välein.</item>
+    </plurals>
+    <plurals name="qp_transit_interval_in_minutes">
+        <item quantity="other">%1$s minuutin välein.</item>
+        <item quantity="one">%1$s minuutin välein.</item>
+    </plurals>
+    <plurals name="qp_transit_interval_in_hours">
+        <item quantity="other">%1$d tunnin välein.</item>
+        <item quantity="one">%1$d tunnin välein.</item>
+    </plurals>
+    <plurals name="sports_overtime_period_header">
+        <item quantity="other">%1$d. JA</item>
+        <item quantity="one">JA</item>
+    </plurals>
+    <plurals name="time_to_leave_user_arrival_generic">
+        <item quantity="other">Saavut %1$d min etuajassa.</item>
+        <item quantity="one">Saavut %1$d min etuajassa.</item>
+    </plurals>
+    <plurals name="time_to_leave_user_arrival_flight">
+        <item quantity="other">Saavut %1$d min ennen koneen lähtöä.</item>
+        <item quantity="one">Saavut %1$d min ennen koneen lähtöä.</item>
+    </plurals>
+    <plurals name="time_to_leave_user_arrival_reservation">
+        <item quantity="other">Saavut %1$d min ennen varauksen alkua.</item>
+        <item quantity="one">Saavut %1$d min ennen varauksen alkua.</item>
+    </plurals>
+    <plurals name="time_to_leave_user_arrival_movie">
+        <item quantity="other">Saavut %1$d min ennen elokuvan alkua.</item>
+        <item quantity="one">Saavut %1$d min ennen elokuvan alkua.</item>
+    </plurals>
+    <plurals name="time_to_leave_user_arrival_concert">
+        <item quantity="other">Saavut %1$d min ennen konsertin alkua.</item>
+        <item quantity="one">Saavut %1$d min ennen konsertin alkua.</item>
+    </plurals>
+    <plurals name="email_everyone">
+        <item quantity="other">Lähetä sähköpostia kaikille (%1$d).</item>
+        <item quantity="one">Lähetä sähköpostia kaikille (%1$d).</item>
+    </plurals>
+    <plurals name="card_count">
+        <item quantity="other">%1$d korttia</item>
+        <item quantity="one">1 kortti</item>
+    </plurals>
+    <plurals name="num_movie_tickets">
+        <item quantity="other">%1$d lippua</item>
+        <item quantity="one">%1$d lippu</item>
+    </plurals>
+    <plurals name="qp_hotel_reservation_length">
+        <item quantity="other">Huonevaraus %1$d yölle</item>
+        <item quantity="one">Huonevaraus %1$d yölle</item>
+    </plurals>
+    <plurals name="reminders">
+        <item quantity="other">%1$d muistutusta</item>
+        <item quantity="one">%1$d muistutus</item>
+    </plurals>
+    <plurals name="number_of_location_sharers">
+        <item quantity="other">%1$d henkilöä jakaa sijainnin kanssasi.</item>
+        <item quantity="one">%1$d henkilö jakaa sijainnin kanssasi.</item>
+    </plurals>
+    <plurals name="expiring_duration_in_days">
+        <item quantity="other">Vanhenee %1$d päivän kuluttua.</item>
+        <item quantity="one">Vanhenee %1$d päivän kuluttua.</item>
+    </plurals>
+    <plurals name="expiring_duration_in_hours">
+        <item quantity="other">Vanhenee %1$d tunnin kuluttua.</item>
+        <item quantity="one">Vanhenee %1$d tunnin kuluttua.</item>
+    </plurals>
+    <plurals name="expiring_duration_in_minutes">
+        <item quantity="other">Vanhenee %1$d minuutin kuluttua.</item>
+        <item quantity="one">Vanhenee %1$d minuutin kuluttua.</item>
+    </plurals>
+    <plurals name="view_count">
+        <item quantity="other">%1$,d katselua</item>
+        <item quantity="one">%1$,d katselu</item>
+    </plurals>
+    <plurals name="transportation_seat">
+        <item quantity="other">%1$d paikkaa</item>
+        <item quantity="one">Paikka</item>
+    </plurals>
+    <plurals name="more_directions">
+        <item quantity="other">+ %1$d muuta reittiä</item>
+        <item quantity="one">+ %1$d muu reitti</item>
+    </plurals>
+    <plurals name="time_duration_spoken_hour">
+        <item quantity="other">%1$d tuntia</item>
+        <item quantity="one">1 tunti</item>
+    </plurals>
+    <plurals name="time_duration_spoken_minute">
+        <item quantity="other">%1$d minuuttia</item>
+        <item quantity="one">1 minuutti</item>
+    </plurals>
+    <plurals name="time_duration_spoken_second">
+        <item quantity="other">%1$d sekuntia</item>
+        <item quantity="one">1 sekunti</item>
+    </plurals>
+    <plurals name="agenda_eyes_free_all_day_events">
+        <item quantity="other">%2$s ohjelmassasi on %1$d koko päivän tapahtumaa: %3$s.</item>
+        <item quantity="one">%2$s ohjelmassasi on koko päivän tapahtuma: %3$s.</item>
+    </plurals>
+</resources>

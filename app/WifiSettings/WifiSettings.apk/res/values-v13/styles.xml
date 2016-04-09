@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="setup_wizard_navbar_button_style" parent="@android:style/Widget.Material.Button.Borderless">
+        <item name="android:textSize">@dimen/setup_wizard_navbar_text_size</item>
+        <item name="android:textColor">?setup_wizard_navbar_text_color</item>
+        <item name="android:background">@drawable/setup_wizard_navbar_btn_bg</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:minWidth">0.0dip</item>
+        <item name="android:drawablePadding">@dimen/setup_wizard_navbar_button_drawable_padding</item>
+        <item name="android:layout_weight">0.0</item>
+        <item name="android:textAllCaps">true</item>
+    </style>
+    <style name="SetupAddWifiNetwork">
+        <item name="android:textAppearance">@android:style/TextAppearance.Small</item>
+        <item name="android:textColor">?android:colorAccent</item>
+        <item name="android:gravity">start|center</item>
+        <item name="android:textAllCaps">true</item>
+    </style>
+    <style name="TextAppearance.PagerTabs" parent="@android:style/TextAppearance.Material.Small">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textAllCaps">true</item>
+    </style>
+    <style name="Theme.SubSettingsDialogWhenLarge" parent="@style/Theme.DialogWhenLarge">
+        <item name="android:actionBarWidgetTheme">@null</item>
+        <item name="preferenceBackgroundColor">@drawable/preference_background</item>
+    </style>
+</resources>

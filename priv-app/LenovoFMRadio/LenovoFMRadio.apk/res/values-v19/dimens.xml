@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="titlepaddingtop">25.0dip</dimen>
+    <dimen name="titleandpadding">77.0dip</dimen>
+    <dimen name="headerheight">252.0dip</dimen>
+</resources>

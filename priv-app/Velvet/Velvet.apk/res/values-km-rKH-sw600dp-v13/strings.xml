@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="search_phone_or_tablet">ស្វែងរក​កុំព្យូទ័រ​បន្ទះ</string>
+    <string name="corpus_name_summons">កុំព្យូទ័រ​បន្ទះ</string>
+    <string name="search_sources">ស្វែងរក​កុំព្យូទ័រ​បន្ទះ</string>
+    <string name="no_summons_found">"រក​មិន​ឃើញ​លទ្ធផល​ 
+ នៅ​លើ​កុំព្យូទ័រ​បន្ទះ​របស់​អ្នក​។"</string>
+    <string name="hands_free_unlock_device">ដើម្បី​ស្វែងរក​សំឡេង​តាម Google សូម​ដោះ​សោ​កុំព្យូទ័រ​បន្ទះ​របស់​អ្នក។</string>
+    <string name="icing_manage_storage_summary">យើង​ពន្លឿន​ការ​ស្វែង​រក​នៅ​លើ​កុំព្យូទ័រ​បន្ទះ​របស់​អ្នក​ដោយ​ការ​ផ្ដល់​ជូន​នូវ​ម៉ាស៊ីន​ស្វែងរក​សម្រាប់​កម្មវិធី​របស់​អ្នក​ដើម្បី​ប្រើ​។</string>
+</resources>

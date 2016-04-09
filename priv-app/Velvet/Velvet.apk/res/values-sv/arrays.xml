@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="recurrence_freq">
+        <item>UPPREPA VARJE DAG</item>
+        <item>UPPREPA VARJE VECKA</item>
+        <item>UPPREPA VARJE MÅNAD</item>
+        <item>UPPREPA VARJE ÅR</item>
+    </string-array>
+    <string-array name="edit_recurrence">
+        <item>Inträffar inte igen</item>
+        <item>Varje dag</item>
+        <item>Varje vecka</item>
+        <item>Varje månad</item>
+        <item>Varje år</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>den första söndagen i månaden</item>
+        <item>den andra söndagen i månaden</item>
+        <item>den tredje söndagen i månaden</item>
+        <item>den fjärde söndagen i månaden</item>
+        <item>den sista söndagen i månaden</item>
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>den första måndagen i månaden</item>
+        <item>den andra måndagen i månaden</item>
+        <item>den tredje måndagen i månaden</item>
+        <item>den fjärde måndagen i månaden</item>
+        <item>den sista måndagen i månaden</item>
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>den första tisdagen i månaden</item>
+        <item>den andra tisdagen i månaden</item>
+        <item>den tredje tisdagen i månaden</item>
+        <item>den fjärde tisdagen i månaden</item>
+        <item>den sista tisdagen i månaden</item>
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>den första onsdagen i månaden</item>
+        <item>den andra onsdagen i månaden</item>
+        <item>den tredje onsdagen i månaden</item>
+        <item>den fjärde onsdagen i månaden</item>
+        <item>den sista onsdagen i månaden</item>
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>den första torsdagen i månaden</item>
+        <item>den andra torsdagen i månaden</item>
+        <item>den tredje torsdagen i månaden</item>
+        <item>den fjärde torsdagen i månaden</item>
+        <item>den sista torsdagen i månaden</item>
+    </string-array>
+    <string-array name="repeat_by_nth_fri">
+        <item>den första fredagen i månaden</item>
+        <item>den andra fredagen i månaden</item>
+        <item>den tredje fredagen i månaden</item>
+        <item>den fjärde fredagen i månaden</item>
+        <item>den sista fredagen i månaden</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>den första lördagen i månaden</item>
+        <item>den andra lördagen i månaden</item>
+        <item>den tredje lördagen i månaden</item>
+        <item>den fjärde lördagen i månaden</item>
+        <item>den sista lördagen i månaden</item>
+    </string-array>
+    <string-array name="baseball_innings">
+        <item>Första inningen</item>
+        <item>Andra inningen</item>
+        <item>Tredje inningen</item>
+        <item>Fjärde inningen</item>
+        <item>Femte inningen</item>
+        <item>Sjätte inningen</item>
+        <item>Sjunde inningen</item>
+        <item>Åttonde inningen</item>
+        <item>Nionde inningen</item>
+        <item>Tionde inningen</item>
+        <item>Elfte inningen</item>
+        <item>Tolfte inningen</item>
+    </string-array>
+    <string-array name="qp_top_baseball_innings">
+        <item>Första hälft av omgång 1</item>
+        <item>Första hälft av omgång 2</item>
+        <item>Första hälft av omgång 3</item>
+        <item>Första hälft av omgång 4</item>
+        <item>Första hälft av omgång 5</item>
+        <item>Första hälft av omgång 6</item>
+        <item>Första hälft av omgång 7</item>
+        <item>Första hälft av omgång 8</item>
+        <item>Första hälft av omgång 9</item>
+        <item>Första hälft av omgång 10</item>
+        <item>Första hälft av omgång 11</item>
+        <item>Första hälft av omgång 12</item>
+    </string-array>
+    <string-array name="qp_bottom_baseball_innings">
+        <item>Andra hälft av omgång 1</item>
+        <item>Andra hälft av omgång 2</item>
+        <item>Andra hälft av omgång 3</item>
+        <item>Andra hälft av omgång 4</item>
+        <item>Andra hälft av omgång 5</item>
+        <item>Andra hälft av omgång 6</item>
+        <item>Andra hälft av omgång 7</item>
+        <item>Andra hälft av omgång 8</item>
+        <item>Andra hälft av omgång 9</item>
+        <item>Andra hälft av omgång 10</item>
+        <item>Andra hälft av omgång 11</item>
+        <item>Andra hälft av omgång 12</item>
+    </string-array>
+    <string-array name="local_results_markers">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>V</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+    </string-array>
+    <string-array name="languageNames">
+        <item>afrikaans (Sydafrika)</item>
+        <item>arabiska (Algeriet)</item>
+        <item>arabiska (Egypten)</item>
+        <item>arabiska (Irak)</item>
+        <item>arabiska (Israel)</item>
+        <item>arabiska (Jordanien)</item>
+        <item>arabiska (Kuwait)</item>
+        <item>arabiska (Libanon)</item>
+        <item>arabiska (Libyen)</item>
+        <item>arabiska (Marocko)</item>
+        <item>arabiska (Qatar)</item>
+        <item>arabiska (Saudiarabien)</item>
+        <item>arabiska (Sudan)</item>
+        <item>arabiska (Syrien)</item>
+        <item>arabiska (Tunisien)</item>
+        <item>arabiska (Förenade Arabemiraten)</item>
+        <item>arabiska (Jemen)</item>
+        <item>vitryska (Vitryssland)</item>
+        <item>bengali (Bangladesh)</item>
+        <item>bulgariska (Bulgarien)</item>
+        <item>katalanska (Spanien)</item>
+        <item>kinesiska, mandarin (Kina, förenklad)</item>
+        <item>kinesiska, mandarin (Hongkong, förenklad)</item>
+        <item>kinesiska, mandarin (Hongkong, traditionell)</item>
+        <item>kinesiska, mandarin (Singapore, förenklad)</item>
+        <item>kinesiska, mandarin (Taiwan, förenklad)</item>
+        <item>kinesiska, mandarin (Taiwan, traditionell)</item>
+        <item>kinesiska, yue (Kina, förenklad)</item>
+        <item>kinesiska, yue (Hongkong, traditionell)</item>
+        <item>kroatiska (Kroatien)</item>
+        <item>tjeckiska (Tjeckien)</item>
+        <item>danska (Danmark)</item>
+        <item>holländska (Belgien)</item>
+        <item>nederländska (Nederländerna)</item>
+        <item>engelska (allmän)</item>
+        <item>Engelska (Australien)</item>
+        <item>engelska (Bangladesh)</item>
+        <item>engelska (Kanada)</item>
+        <item>engelska (Hongkong)</item>
+        <item>engelska (Indien)</item>
+        <item>engelska (Irland)</item>
+        <item>engelska (Kenya)</item>
+        <item>engelska (Malaysia)</item>
+        <item>engelska (Nya Zeeland)</item>
+        <item>engelska (Nigeria)</item>
+        <item>engelska (Pakistan)</item>
+        <item>engelska (Filippinerna)</item>
+        <item>engelska (Singapore)</item>
+        <item>engelska (Sydafrika)</item>
+        <item>engelska (Sudan)</item>
+        <item>engelska (Tanzania)</item>
+        <item>engelska (Uganda)</item>
+        <item>engelska (Storbritannien)</item>
+        <item>engelska (USA)</item>
+        <item>estniska (Estland)</item>
+        <item>filippinska (Filippinerna)</item>
+        <item>finska (Finland)</item>
+        <item>franska (Belgien)</item>
+        <item>franska (Kanada)</item>
+        <item>franska (Frankrike)</item>
+        <item>franska (Schweiz)</item>
+        <item>galiciska (Spanien)</item>
+        <item>tyska (Österrike)</item>
+        <item>tyska (Tyskland)</item>
+        <item>tyska (Schweiz)</item>
+        <item>tyska (Liechtenstein)</item>
+        <item>grekiska (Grekland)</item>
+        <item>hebreiska (Israel)</item>
+        <item>hindi (Indien)</item>
+        <item>ungerska (Ungern)</item>
+        <item>isländska (Island)</item>
+        <item>indonesiska (Indonesien)</item>
+        <item>irländska (Irland)</item>
+        <item>sydndebele (Sydafrika)</item>
+        <item>xhosa (Sydafrika)</item>
+        <item>zulu (Sydafrika)</item>
+        <item>italienska (Italien)</item>
+        <item>italienska (Schweiz)</item>
+        <item>japanska (Japan)</item>
+        <item>koreanska (Sydkorea)</item>
+        <item>lettiska (Lettland)</item>
+        <item>litauiska (Litauen)</item>
+        <item>malajiska (Malaysia)</item>
+        <item>malajiska (Singapore)</item>
+        <item>bokmål (Norge)</item>
+        <item>nynorsk (Norge)</item>
+        <item>persiska (Iran)</item>
+        <item>polska (Polen)</item>
+        <item>portugisiska (Angola)</item>
+        <item>portugisiska (Brasilien)</item>
+        <item>portugisiska (Portugal)</item>
+        <item>rumänska (Rumänien)</item>
+        <item>ryska (Vitryssland)</item>
+        <item>ryska (Ryssland)</item>
+        <item>sepedi (Sydafrika)</item>
+        <item>serbiska (Serbien, kyrillisk)</item>
+        <item>sesotho (Sydafrika)</item>
+        <item>tswana (Sydafrika)</item>
+        <item>siswati (Sydafrika)</item>
+        <item>slovakiska (Slovakien)</item>
+        <item>slovenska (Slovenien)</item>
+        <item>spanska (Argentina)</item>
+        <item>spanska (Bolivia)</item>
+        <item>spanska (Chile)</item>
+        <item>spanska (Colombia)</item>
+        <item>spanska (Costa Rica)</item>
+        <item>spanska (Kuba)</item>
+        <item>spanska (Dominikanska republiken)</item>
+        <item>spanska (Ecuador)</item>
+        <item>spanska (El Salvador)</item>
+        <item>spanska (Guatemala)</item>
+        <item>spanska (Honduras)</item>
+        <item>spanska (Mexiko)</item>
+        <item>spanska (Nicaragua)</item>
+        <item>spanska (Panama)</item>
+        <item>spanska (Paraguay)</item>
+        <item>spanska (Peru)</item>
+        <item>spanska (Puerto Rico)</item>
+        <item>spanska (Spanien)</item>
+        <item>spanska (USA)</item>
+        <item>spanska (Uruguay)</item>
+        <item>spanska (Venezuela)</item>
+        <item>swahili (Kenya)</item>
+        <item>swahili (Tanzania)</item>
+        <item>swahili (Uganda)</item>
+        <item>svenska (Finland)</item>
+        <item>svenska (Sverige)</item>
+        <item>thailändska (Thailand)</item>
+        <item>tshivenda (Sydafrika)</item>
+        <item>turkiska (Turkiet)</item>
+        <item>ukrainska (Ukraina)</item>
+        <item>urdu (Pakistan)</item>
+        <item>vietnamesiska (Vietnam)</item>
+        <item>tsonga (Sydafrika)</item>
+    </string-array>
+    <string-array name="edit_reminder_day">
+        <item>Idag</item>
+        <item>Imorgon</item>
+        <item>Ibland</item>
+        <item>Ange datum ...</item>
+    </string-array>
+    <string-array name="edit_reminder_time">
+        <item>Morgon</item>
+        <item>Eftermiddag</item>
+        <item>Kväll</item>
+        <item>Natt</item>
+        <item>Hela dagen</item>
+        <item>Ange tid ...</item>
+    </string-array>
+    <string-array name="edit_reminder_location_trigger_type">
+        <item>Ankomst</item>
+        <item>Avfärd</item>
+    </string-array>
+    <string-array name="edit_reminder_location">
+        <item>Hemma</item>
+        <item>Jobbet</item>
+        <item>Ange plats ...</item>
+    </string-array>
+    <string-array name="network_error_tts_messages">
+        <item>Internetanslutningen är inte tillförlitlig just nu.</item>
+        <item>Internetanslutningen är inte tillförlitlig för närvarande.</item>
+        <item>Internetanslutningen är inte stabil just nu.</item>
+        <item>Internetanslutningen är inte stabil för närvarande.</item>
+        <item>Internetanslutningen är inte tillräckligt bra just nu.</item>
+        <item>Internetanslutningen är inte tillräckligt bra för tillfället.</item>
+    </string-array>
+    <string-array name="read_it_grammar">
+        <item>läs det</item>
+        <item>läs meddelandet</item>
+        <item>läs detta sms</item>
+    </string-array>
+    <string-array name="reply_grammar">
+        <item>svara</item>
+        <item>skicka svar</item>
+        <item>skicka ett svar</item>
+        <item>svara på detta sms</item>
+        <item>skicka ett svar på det</item>
+    </string-array>
+    <string-array name="call_back_grammar">
+        <item>ring upp den som skickade det senaste meddelandet</item>
+        <item>ring honom</item>
+        <item>ring upp honom</item>
+        <item>ring henne</item>
+        <item>ring upp henne</item>
+    </string-array>
+</resources>

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="user_nickname">Надимак</string>
+    <string name="show_owner_info_on_lockscreen_label">Прикажи информације о власнику на закључ. екрану</string>
+    <string name="show_profile_info_on_lockscreen_label">Прикажи податке о профилу на закључаном екрану</string>
+    <string name="show_user_info_on_lockscreen_label">Прикажи информације о кориснику на закљ. екрану</string>
+    <string name="lockpassword_confirm_your_pattern_header">Потврдите шаблон</string>
+    <string name="security_settings_title">Безбедност</string>
+    <string name="security_passwords_title">Лозинке</string>
+    <string name="show_password">Учини лозинке видљивим</string>
+    <string name="lock_after_timeout">Аутоматски закључај</string>
+    <string name="lock_after_timeout_summary">%1$s после стања спавања</string>
+    <string name="lock_after_timeout_summary_with_exception">%1$s после спавања, осим када га %2$s оставља откључаним</string>
+    <string name="owner_info_settings_title">Власник информација</string>
+    <string name="owner_info_settings_summary" />
+    <string name="owner_info_settings_edit_text_hint">Унесите текст за приказ на екрану за закључавање</string>
+    <string name="lock_settings_picker_title">Избор закључав. екрана</string>
+    <string name="biometric_weak_improve_matching_title">Побољшање подударања лица</string>
+    <string name="biometric_weak_liveliness_title">Провера живости</string>
+    <string name="biometric_weak_liveliness_summary">Тражи трептај ока при откључавању</string>
+    <string name="lockpassword_choose_your_password_header">Одаберите лозинку</string>
+    <string name="lockpassword_choose_your_pattern_header">Изаберите шаблон</string>
+    <string name="lockpassword_choose_your_pin_header">Одаберите PIN</string>
+    <string name="lockpassword_confirm_passwords_dont_match">Лозинке се не подударају</string>
+    <string name="lockpassword_confirm_pins_dont_match">PIN-ови се не подударају</string>
+    <string name="lock_settings_title">Безбедност екрана</string>
+    <string name="lockpattern_change_lock_pattern_label">Промени шаблон за откључавање</string>
+    <string name="lockpattern_change_lock_pin_label">Промени PIN за откључавање</string>
+    <string name="lockpattern_need_to_unlock">Потврдите сачувани шаблон</string>
+    <string name="lockpattern_need_to_unlock_wrong">Покушајте поново:</string>
+    <string name="lockpattern_recording_intro_header">Нацртајте шаблон за откључавање</string>
+    <string name="lockpattern_recording_intro_footer">Притисните „Мени“ да бисте добили помоћ.</string>
+    <string name="lockpattern_recording_inprogress">Подигните прст када завршите</string>
+    <string name="lockpattern_recording_incorrect_too_short">Повежите најмање %d тачке. Покушајте поново.</string>
+    <string name="lockpattern_pattern_entered_header">Шаблон је снимљен</string>
+    <string name="lockpattern_need_to_confirm">Поново нацртајте шаблон да бисте потврдили</string>
+    <string name="lockpattern_pattern_confirmed_header">Нови шаблон за откључавање</string>
+    <string name="lockpattern_confirm_button_text">Потврди</string>
+    <string name="lockpattern_restart_button_text">Поново нацртај</string>
+    <string name="lockpattern_retry_button_text">Покушај поново</string>
+    <string name="lockpattern_continue_button_text">Настави</string>
+    <string name="lockpattern_settings_title">Шаблон за откључавање</string>
+    <string name="lockpattern_settings_enable_title">Захтевај шаблон</string>
+    <string name="lockpattern_settings_enable_summary">Потребно је да нацртате шаблон за откључавање екрана</string>
+    <string name="lockpattern_settings_enable_visible_pattern_title">Учини шаблон видљивим</string>
+    <string name="lockpattern_settings_enable_tactile_feedback_title">Вибрирај при додиру</string>
+    <string name="lockpattern_settings_enable_power_button_instantly_locks">Дугме за напај. одмах закљ.</string>
+    <string name="lockpattern_settings_power_button_instantly_locks_summary">Осим када га %1$s оставља откључаним</string>
+    <string name="lockpattern_settings_choose_lock_pattern">Подешавање шаблона за откључавање</string>
+    <string name="lockpattern_settings_change_lock_pattern">Промени шаблон за откључавање</string>
+    <string name="lockpattern_settings_help_how_to_record">Како нацртати шаблон за откључавање</string>
+    <string name="lockpattern_too_many_failed_confirmation_attempts_header">Превише нетачних покушаја!</string>
+    <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Покушајте поново за %d секунде(и).</string>
+    <string name="unlock_set_unlock_launch_picker_title">Закључавање екрана</string>
+    <string name="unlock_set_unlock_launch_picker_change_title">Промена закључ. екрана</string>
+    <string name="unlock_set_unlock_launch_picker_change_summary">Мењање или онемогућавање шаблона, PIN кода или безбедности лозинке</string>
+    <string name="unlock_set_unlock_launch_picker_enable_summary">Изаберите метод закључавања екрана</string>
+    <string name="unlock_backup_info_summary">Када Откључавање лицем не може да вас види, како желите да откључате?</string>
+    <string name="unlock_set_unlock_off_title">Ништа</string>
+    <string name="unlock_set_unlock_off_summary" />
+    <string name="unlock_set_unlock_none_title">Превлачење</string>
+    <string name="unlock_set_unlock_none_summary">Нема безбедности</string>
+    <string name="unlock_set_unlock_biometric_weak_title">Откључавање лицем</string>
+    <string name="unlock_set_unlock_biometric_weak_summary">Низак ниво безбедности, експериментално</string>
+    <string name="unlock_set_unlock_pattern_title">Шаблон</string>
+    <string name="unlock_set_unlock_pattern_summary">Средњи ниво безбедности</string>
+    <string name="unlock_set_unlock_pin_title">PIN</string>
+    <string name="unlock_set_unlock_pin_summary">Средњи до високог нивоа безбедности</string>
+    <string name="unlock_set_unlock_password_title">Лозинка</string>
+    <string name="unlock_set_unlock_password_summary">Висок ниво безбедности</string>
+    <string name="unlock_set_unlock_disabled_summary">Онемогућио администратор, смернице за шифровање или складиштење акредитива</string>
+    <string name="unlock_set_unlock_mode_off">Ништа</string>
+    <string name="unlock_set_unlock_mode_none">Превуците</string>
+    <string name="unlock_set_unlock_mode_biometric_weak">Откључавање лицем</string>
+    <string name="unlock_set_unlock_mode_pattern">Шаблон</string>
+    <string name="unlock_set_unlock_mode_pin">PIN</string>
+    <string name="unlock_set_unlock_mode_password">Лозинка</string>
+    <string name="unlock_disable_lock_title">Искључивање закључавања екрана</string>
+    <string name="unlock_disable_lock_pattern_summary">Уклањање шаблона за откључавање</string>
+    <string name="unlock_disable_lock_pin_summary">Уклањање PIN кода за откључавање</string>
+    <string name="unlock_disable_lock_password_summary">Уклањање лозинке за откључавање</string>
+    <string name="unlock_change_lock_pattern_title">Промена шаблона за откључавање</string>
+    <string name="unlock_change_lock_pin_title">Промена PIN-а за откључавање</string>
+    <string name="unlock_change_lock_password_title">Промена лозинке за откључавање</string>
+    <string name="keywords_lockscreen">превлачење лозинка шаблон pin</string>
+    <string name="switch_on_text">Укључено</string>
+    <string name="switch_off_text">Искључено</string>
+    <string name="screen_pinning_title">Качење екрана</string>
+    <string name="screen_pinning_description">"Када је ово подешавање укључено, можете да пребаците уређај у стање у ком ће актуелни екран увек бити видљив.
+
+Да бисте закачили екран:
+
+1. Укључите ово подешавање.
+
+2. Отворите ову апликацију.
+
+3. Додирните дугме Недавно.
+
+4. Додирните икону чиоде."</string>
+    <string name="settings_safetylegal_activity_loading">Учитавање…</string>
+    <string name="no_applications">Нема апликација.</string>
+    <string name="help_label">Помоћ и повр. инфор.</string>
+    <string name="lockpassword_ok_label">Потврди</string>
+    <string name="lockpattern_tutorial_cancel_label">Откажи</string>
+    <string name="lockpattern_tutorial_continue_label">Следеће</string>
+    <string name="lockpassword_confirm_your_pin_header">Потврдите PIN</string>
+    <string name="lockpassword_confirm_your_password_header">Потврдите лозинку</string>
+    <string name="cancel">Откажи</string>
+    <string name="lock_screen_notifications_title">Када је уређај закључан</string>
+    <string name="lock_screen_notifications_summary_show">Прикажи сав садржај обавештења</string>
+    <string name="lock_screen_notifications_summary_hide">Сакриј осетљив садржај обавештења</string>
+    <string name="lock_screen_notifications_summary_disable">Не приказуј никаква обавештења</string>
+    <string name="lock_screen_notifications_interstitial_message">Када је уређај закључан, како желите да се обавештења приказују?</string>
+    <string name="app_notifications_dialog_done">Готово</string>
+    <string name="lockpassword_cancel_label">Откажи</string>
+    <string name="lockpassword_password_too_long">Лозинка мора да има мање од %d знак(ов)а.</string>
+    <string name="lockpassword_pin_too_long">PIN мора да има мање од %d цифре(ара).</string>
+    <string name="lockpassword_password_too_short">Минимални број знакова који лозинка мора да садржи је %d</string>
+    <string name="lockpassword_pin_too_short">Минимални број цифара у PIN-у је %d</string>
+    <string name="lockpassword_press_continue">Додирните „Настави“ када завршите</string>
+    <string name="lockpassword_continue_label">Настави</string>
+    <string name="lockpassword_pin_no_sequential_digits">Растући, опадајући или поновљени низ цифара је забрањен</string>
+    <string name="lockpassword_pin_contains_non_digits">PIN мора да садржи само цифре 0–9.</string>
+    <string name="lockpassword_pin_recently_used">Администратор уређаја не дозвољава употребу недавно коришћеног PIN-а.</string>
+    <string name="lockpassword_illegal_character">Лозинка садржи неважећи знак.</string>
+    <string name="lockpassword_password_requires_alpha">Лозинка мора да садржи најмање једно слово.</string>
+    <string name="lockpassword_password_requires_digit">Лозинка мора да садржи најмање једну цифру.</string>
+    <string name="lockpassword_password_requires_symbol">Лозинка мора да садржи најмање један симбол.</string>
+    <string name="lockpassword_password_recently_used">Администратор уређаја не дозвољава употребу недавно коришћене лозинке.</string>
+    <string name="backup_lock_settings_picker_title">Закључавање рез. коп.</string>
+    <string name="profile_info_settings_title">Подаци о профилу</string>
+    <string name="user_info_settings_title">Подаци о кориснику</string>
+    <string name="credential_storage_type_hardware">Подржан хардвером</string>
+    <string name="credential_storage_type_software">Само софтверски</string>
+    <string name="error_title" />
+    <string name="lockpassword_choose_lock_generic_header">Избор начина откључавања</string>
+</resources>

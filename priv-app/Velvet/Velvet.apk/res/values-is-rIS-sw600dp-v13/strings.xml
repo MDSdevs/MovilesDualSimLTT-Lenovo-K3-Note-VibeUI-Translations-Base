@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="search_phone_or_tablet">Leita í spjaldtölvu</string>
+    <string name="corpus_name_summons">Spjaldtölva</string>
+    <string name="search_sources">Leit í spjaldtölvu</string>
+    <string name="no_summons_found">"Engar niðurstöður fundust
+í spjaldtölvunni."</string>
+    <string name="hands_free_unlock_device">Taktu spjaldtölvuna úr lás til að framkvæma Google raddleit.</string>
+    <string name="icing_manage_storage_summary">Við flýtum fyrir leit í spjaldtölvunni með því að bjóða upp á leitarvél sem forritin þín geta notað.</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="search_phone_or_tablet">Rechercher dans la tablettte</string>
+    <string name="corpus_name_summons">Tablette</string>
+    <string name="search_sources">Recherche sur la tablette</string>
+    <string name="no_summons_found">"Aucun résultat trouvé
+sur votre tablette."</string>
+    <string name="hands_free_unlock_device">Pour effectuer une recherche vocale Google, veuillez déverrouiller votre tablette.</string>
+    <string name="icing_manage_storage_summary">La fonction de recherche est accélérée sur votre tablette grâce à un moteur de recherche pouvant être utilisé par vos applications.</string>
+</resources>

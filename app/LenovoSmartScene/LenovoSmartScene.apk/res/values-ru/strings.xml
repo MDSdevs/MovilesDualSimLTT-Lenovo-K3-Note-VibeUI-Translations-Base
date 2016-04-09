@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_mode_done">Готово</string>
+    <string name="abc_action_bar_home_description">Перейти на главный экран</string>
+    <string name="abc_action_bar_up_description">Перейти вверх</string>
+    <string name="abc_action_menu_overflow_description">Другие параметры</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_searchview_description_search">Поиск</string>
+    <string name="abc_searchview_description_query">Поисковый запрос</string>
+    <string name="abc_searchview_description_clear">Удалить запрос</string>
+    <string name="abc_searchview_description_submit">Отправить запрос</string>
+    <string name="abc_searchview_description_voice">Голосовой поиск</string>
+    <string name="abc_activitychooserview_choose_application">Выбрать приложение</string>
+    <string name="abc_activity_chooser_view_see_all">Показать все</string>
+    <string name="abc_shareactionprovider_share_with_application">Открыть доступ пользователю %s</string>
+    <string name="abc_shareactionprovider_share_with">Открыть доступ</string>
+    <string name="cancel">Отмена</string>
+    <string name="app_name">Смарт-сценарии</string>
+    <string name="audio_profiles_title">Профили звука</string>
+    <string name="bind_ap_title">По привязке WLAN</string>
+    <string name="empty">Нет сценариев. Пожалуйста, добавьте сценарий</string>
+    <string name="normal">Стандарт</string>
+    <string name="meeting">Вибро</string>
+    <string name="mute">Без звука</string>
+    <string name="outdoor">Улица</string>
+    <string name="audio_profiles">Профили звука</string>
+    <string name="delete">Удалить</string>
+    <string name="save">Сохранить</string>
+    <string name="new_scene">Новый сценарий</string>
+    <string name="WLAN">WLAN</string>
+    <string name="edit_title">Имя сценария</string>
+    <string name="split">~</string>
+    <string name="alarmTitle">Расписание</string>
+    <string name="lunch">Обед</string>
+    <string name="office">Офис</string>
+    <string name="meetings">Совещание</string>
+    <string name="home">Дневной режим</string>
+    <string name="rest_in_night">Спальня</string>
+    <string name="redefine">Пользовательский сценарий</string>
+    <string name="scene_feature">Параметры сценария</string>
+    <string name="scene_bind">Метод включения</string>
+    <string name="alarm_title">По расписанию</string>
+    <string name="scene_start">Время запуска</string>
+    <string name="scene_end">Время остановки</string>
+    <string name="switch_time">Период активности</string>
+    <string name="switch_time_frequency">Повтор</string>
+    <string name="switch_every_day">Каждый день</string>
+    <string name="switch_week_day">По будним дням</string>
+    <string name="switch_week_end">По выходным дням</string>
+    <string name="menu_help">Справка</string>
+    <string name="no_available_bind_ap">Нет доступных WLAN</string>
+    <string name="invalid_alarm_time_setting">Недопустимая настройка времени</string>
+    <string name="scene_enter_notification_summary">Активирован сценарий \"%s\"</string>
+    <string name="scene_exit_toast">Сценарий \"%s\" выполнен</string>
+    <string name="scene_title_empty_name_note">Введите имя сценария</string>
+    <string name="scene_title_used_name_note">Такое имя сценария уже существует. Введите другое.</string>
+    <string name="scene_title_invaild_name">Имя сценария содержит недопустимые символы</string>
+    <string name="scene_enable_time_conflict">Запуск сценария прерван. Конфликта с текущим активным сценарием.</string>
+    <string name="trigger_nfc_note">Сценарий активируется по NFC метке</string>
+    <string name="trigger_ap_note">Сценарий активируется при подключении к выбранной точке доступа WLAN</string>
+    <string name="trigger_alarm_note">Сценарий активируется в указанные дни и промежуток времени</string>
+    <string name="car">Автомобиль</string>
+    <string name="action_add">Добавить задачу</string>
+    <string name="bluetooth_title">Bluetooth</string>
+    <string name="no_bundle_ap">Нет привязанных точек доступа WLAN</string>
+    <string name="nfc_title">Сценарии NFC</string>
+    <string name="airplane_title">Режим полета</string>
+    <string name="open_app_title">Запуск приложения</string>
+    <string name="data_connection_title">Мобильный Интернет</string>
+    <string name="brightness_title">Яркость подсветки</string>
+    <string name="gps_title">GPS</string>
+    <string name="brightness_auto">Авто</string>
+    <string name="brightness_darker">Темная</string>
+    <string name="brightness_middle">Средняя</string>
+    <string name="brightness_brighter">Яркая</string>
+    <string name="brightness_brightest">Самая яркая</string>
+    <string name="scene_enable_null_action">Задачи сценария не добавлены</string>
+    <string name="sim_on">Вкл.</string>
+    <string name="sim_off">Отключен</string>
+    <string name="sim_not_found">Нет SIM</string>
+    <string name="scene_edit">Изменить сценарий</string>
+    <string name="title_activity_nfc_write">Записать NFC метку</string>
+    <string name="nfc_note_write_nfc">Для записи поместите NFC метку рядом с тыльной стороной устройства</string>
+    <string name="nfc_note_bundle_nfc">Для привязки поместите NFC метку рядом с тыльной стороной устройства</string>
+    <string name="nfc_write_success">NFC метка записана</string>
+    <string name="nfc_write_failed">Не удалось записать метку</string>
+    <string name="nfc_bundle_success">Метка успешно привязана</string>
+    <string name="nfc_write_len_extend">Сбой записи. Объем данных превышает емкость NFC метки</string>
+    <string name="title_activity_action_scene">Активный сценарий</string>
+    <string name="action_open">Вкл.</string>
+    <string name="action_close">Отключен</string>
+    <string name="open_nfc_dialog_message">Метки нельзя привязать или записать, если не активирован NFC. Перейти к настройкам?</string>
+    <string name="nfc_tag_scene_enter_title">Активирован NFC сценарий \"%s\"</string>
+    <string name="nfc_bind_ok">Привязано к NFC метке</string>
+    <string name="nfc_bind_no">Нет привязанных NFC меток (коснитесь NFC метки, для привязки)</string>
+    <string name="nfc_tag_note">Сценарий по NFC метке</string>
+    <string name="not_found_app">Не найдено соответствующее приложение для \"%s\"</string>
+    <string name="airplane_data_connection_conflit">Одновременное включение мобильного Интернета и режима полета недопустимо. Выберите что-то одно</string>
+    <string name="icon_get_camera">Сделать фото</string>
+    <string name="icon_get_picture">Картинка</string>
+    <string name="trigger_select_title">Активаторы сценария</string>
+    <string name="write_nfc">Записать NFC метку</string>
+    <string name="bundle_nfc">Привязать метку</string>
+    <string name="nfc_write_note">После записи метки другие устройства Lenovo, поддерживающие смарт-сценарии NFC, также могут использовать записанные сценарии</string>
+    <string name="nfc_bundle_note">После привязки метки поднесите устройство к этой метке для активации NFC сценария.</string>
+    <string name="nfc_tag_bundled_message">Примечание: NFC метка уже привязана к сценарию на данном устройстве. Данный сценарий, записанный в NFC метку, можно запустить на других устройствах Lenovo, поддерживающих NFC и смарт-сценарии.</string>
+    <string name="null_package_name_note">Приложения не выбраны</string>
+    <string name="next">Далее</string>
+    <string name="title_activity_help">Справка</string>
+    <string name="help_title">Смарт-сценарии</string>
+    <string name="help_summary">Предлагается несколько вариантов сценариев:</string>
+    <string name="help_content">"1. По расписанию:
+ Запуск сценария по расписанию;
+
+2. По привязке WLAN:
+ Запуск сценария при подключении к WLAN;
+
+3. По расписанию занятий:
+ Запуск и остановка сценария по расписанию занятий – на уроках он запускается, на переменах останавливается. 
+
+
+Приоритет: По расписанию занятий > По расписанию > По привязке WLAN"</string>
+    <string name="help_summary_nfc">Предлагается три типа сценариев</string>
+    <string name="help_content_nfc">"1. По расписанию:
+ Запуск сценария по расписанию;
+
+2. WLAN сценарии:
+ Запуск сценария при подключении к WLAN;
+
+3. NFC сценарии:
+ Запуск сценария по NFC метке;
+
+
+Приоритетность сценариев: NFC сценарии > По расписанию > WLAN сценарии"</string>
+    <string name="new_sim">Новая SIM</string>
+    <string name="icon_select_title">Значок сценария</string>
+    <string name="exit_edit_dialog_title">Отмена</string>
+    <string name="exit_edit_dialog_message">Отменить изменения?</string>
+    <string name="wlan_select_head_available">Привязка к точке доступа WLAN:</string>
+    <string name="wlan_select_head_bound">Привязанные к сценариям WLAN:</string>
+    <string name="wlan_select_open_wlan">WLAN подключение не активно. Открыть настройки WLAN?</string>
+    <string name="scene_name_too_long">Слишком длинное имя сценария</string>
+    <string name="morning_lesson">Начало утренних занятий</string>
+    <string name="afternoon_lesson">Начало дневных занятий</string>
+    <string name="class_length">Длительность занятия</string>
+    <string name="break_length">Длительность перерыва</string>
+    <string name="short_break_length">Короткий перерыв</string>
+    <string name="long_break_length">Длинный перерыв</string>
+    <string name="my_time">Самоподготовка</string>
+    <string name="repeat_week">Дни занятий</string>
+    <string name="class_day">День занятий</string>
+    <string name="add">Добавить</string>
+    <string name="minute">мин.</string>
+    <string name="curriculum_scene_title">По расписанию занятий</string>
+    <string name="curriculum_scene_note">Сценарий активируется согласно расписанию занятий.</string>
+    <string name="curriculum_event_note">Введите имя события</string>
+    <string name="to">~</string>
+    <string name="lesson">Занятия</string>
+    <string name="night_study">Вечернее обучение</string>
+    <string name="class_length_0">Вы шутите? Длительность занятия не может быть 0 мин.</string>
+    <string name="break_length_0">Вы шутите? Время перерыва должно быть более 0.</string>
+    <string name="class_out_of_day">Последнее занятие должно завершиться до полуночи. Внесите изменения.</string>
+    <string name="morning_class_out">Ваше последнее утреннее занятие не может быть после обеда (12 часов)</string>
+    <string name="scene_out_of_max">Слишком много сценариев, нельзя добавить новый</string>
+    <string name="smart_scene_summary">Переключение сценария</string>
+    <string name="curriculum_time_set">Параметры занятий</string>
+    <string name="class_information">Параметры занятий</string>
+    <string name="class_free_set">Расписание занятий</string>
+    <string name="common_scene">Стандартные сценарии</string>
+    <string name="other_scene">Другие сценарии</string>
+    <string name="stay_notification">Постоянное уведомление</string>
+    <string name="stay_notification_summary">Постоянное отображение уведомления при активном сценарии</string>
+    <string name="export_into_file">Экспорт в файл</string>
+    <string name="export_into_file_summary">Экспорт смарт-сценариев</string>
+    <string name="import_from_file">Импорт из файла</string>
+    <string name="import_from_file_summary">Импорт смарт-сценариев</string>
+    <string name="action_settings">Настройка</string>
+    <string name="export_check_note">Данные будут экспортированы в</string>
+    <string name="export_success">Экспорт завершен</string>
+    <string name="export_failed">Сбой экспорта</string>
+    <string name="import_file_not_found">"Файл не найден: "</string>
+    <string name="import_file_found">"Файл для импорта найден: "</string>
+    <string name="import_check_note">Текущие сценарии будут заменены импортированными. Продолжить?</string>
+    <string name="import_success">Импорт завершен</string>
+    <string name="progressing">Подождите...</string>
+    <string name="frequency_empty">Задайте хотя бы один день недели для выполнения сценария</string>
+    <string name="move_into">Переместить в</string>
+    <string name="morning">До обеда</string>
+    <string name="afternoon">После обеда</string>
+    <string name="ringer">Звук</string>
+    <string name="sleep">Ночной режим</string>
+    <string name="scene_in_toast">Сейчас в сценарии \"%s\"</string>
+    <string name="time_error_note">Измените интервал: %s.</string>
+    <string name="storage_path0">Основная память</string>
+    <string name="scene_list_head_alarm">Запланированные сценарии</string>
+    <string name="scene_list_head_ap">WLAN сценарии</string>
+    <string name="scene_list_head_nfc">NFC сценарии</string>
+    <string name="night_mode">Ночной режим</string>
+    <string name="interruption_level_all_general">Все (Звук)</string>
+    <string name="interruption_level_all_vibration">Все (Вибро)</string>
+    <string name="interruption_level_priority_general">Важные (Звук)</string>
+    <string name="interruption_level_priority_vibration">Важные (Вибро)</string>
+    <string name="interruption_level_none">Не беспокоить</string>
+    <string name="Interuptions_title">Режимы оповещений</string>
+    <string name="title_activity_brightness">Регулировка яркости</string>
+    <string name="dummy_button">Фальш-кнопка</string>
+    <string name="dummy_content">"ФАЛЬШ-КН.
+КОНТЕНТ"</string>
+    <string name="volume_title">Громкость</string>
+    <string name="volume_ring">Громкость входящего сигнала/сообщения</string>
+    <string name="volume_notifiaction">Громкость уведомления</string>
+    <string name="volume_system">Громкость системы</string>
+    <string name="volume_music">Громкость мультимедиа/игр</string>
+    <string name="volume_vibrate">Вибрация</string>
+    <string name="volume_set_info">Функция сцены позволяет менять настройки звука вызова, мультимедиа и системы, а также вибрации</string>
+    <string name="scene_widget_welcome">Интеллектуальная регулировка настроек телефона для создания собственных конфигураций</string>
+    <string name="scene_widget_no_opened_title">В настоящий момент ни одна сцена не включена. Попробуйте прямо сейчас!</string>
+    <string name="scene_widget_waiting_title">Ваш персональный секретарь готовится переключить сцену</string>
+    <string name="ringtone_call">Мелодия звонка</string>
+    <string name="ringtone_message">Мелодия сообщения</string>
+    <string name="ringtone_notification">Уведомление по умолчанию</string>
+    <string name="scene_working">Сценарий активен</string>
+    <string name="empty_action_note">Коснитесь кнопки «+» для добавления задачи</string>
+    <string name="set_time">Установить время</string>
+    <string name="brightness_set_auto_note">Авторегулировка яркости</string>
+    <string name="brightness_darkest">Самая темная</string>
+    <string name="delete_scene">Удаление сценария</string>
+    <string name="delete_scene_message">Вы уверены, что хотите удалить сценарий \"%s\"?</string>
+    <string name="ring_been_delete">Файл мелодии вызова удален</string>
+    <string name="repeat">Повтор</string>
+    <string name="user_define">Пользовательский</string>
+    <string name="loading">Загрузка...</string>
+</resources>

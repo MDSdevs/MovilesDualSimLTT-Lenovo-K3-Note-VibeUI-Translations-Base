@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="user_nickname">Nadimak</string>
+    <string name="show_owner_info_on_lockscreen_label">Prikaži vlasniku informacije o zaključanom zaslonu</string>
+    <string name="show_profile_info_on_lockscreen_label">Prikaži informacije profila na zaključanom zaslonu</string>
+    <string name="show_user_info_on_lockscreen_label">Prikaži podatke o korisniku na zaključanom zaslonu</string>
+    <string name="lockpassword_confirm_your_pattern_header">Potvrdite uzorak</string>
+    <string name="security_settings_title">Sigurnost</string>
+    <string name="security_passwords_title">Zaporke</string>
+    <string name="show_password">Zaporke vidljive</string>
+    <string name="lock_after_timeout">Automatsko zaključavanje</string>
+    <string name="lock_after_timeout_summary">%1$s nakon mirovanja</string>
+    <string name="lock_after_timeout_summary_with_exception">%1$s nakon mirovanja, osim kad ga %2$s drži oključanim</string>
+    <string name="owner_info_settings_title">Info o vlasniku</string>
+    <string name="owner_info_settings_summary" />
+    <string name="owner_info_settings_edit_text_hint">Unesite tekst za prikaz na zaključanom zaslonu</string>
+    <string name="lock_settings_picker_title">Odaberite zaključavanje zaslona</string>
+    <string name="biometric_weak_improve_matching_title">Poboljšanje podudaranja lica</string>
+    <string name="biometric_weak_liveliness_title">Provjera živosti</string>
+    <string name="biometric_weak_liveliness_summary">Prilikom otključavanja potrebno je trepnuti</string>
+    <string name="lockpassword_choose_your_password_header">Odaberite svoju zaporku</string>
+    <string name="lockpassword_choose_your_pattern_header">Odaberite uzorak</string>
+    <string name="lockpassword_choose_your_pin_header">Odaberite PIN</string>
+    <string name="lockpassword_confirm_passwords_dont_match">Zaporke se ne podudaraju</string>
+    <string name="lockpassword_confirm_pins_dont_match">PIN-ovi se ne podudaraju</string>
+    <string name="lock_settings_title">Sigurnost zaslona</string>
+    <string name="lockpattern_change_lock_pattern_label">Izmijeni uzorak za otključavanje</string>
+    <string name="lockpattern_change_lock_pin_label">Promijeni PIN za otključavanje</string>
+    <string name="lockpattern_need_to_unlock">Potvrdi spremljeni uzorak</string>
+    <string name="lockpattern_need_to_unlock_wrong">Pokušajte ponovo:</string>
+    <string name="lockpattern_recording_intro_header">Iscrtajte uzorak za otključavanje</string>
+    <string name="lockpattern_recording_intro_footer">Pritisnite Izbornik za pomoć.</string>
+    <string name="lockpattern_recording_inprogress">Maknite prst ako ste gotovi</string>
+    <string name="lockpattern_recording_incorrect_too_short">Povežite barem ovoliko točaka: %d. Pokušajte ponovo.</string>
+    <string name="lockpattern_pattern_entered_header">Uzorak je snimljen</string>
+    <string name="lockpattern_need_to_confirm">Ponovno iscrtajte uzorak za potvrdu</string>
+    <string name="lockpattern_pattern_confirmed_header">Vaš novi uzorak za otključavanje</string>
+    <string name="lockpattern_confirm_button_text">Potvrdi</string>
+    <string name="lockpattern_restart_button_text">Iscrtajte ponovno</string>
+    <string name="lockpattern_retry_button_text">Pokušaj ponovo</string>
+    <string name="lockpattern_continue_button_text">Nastavi</string>
+    <string name="lockpattern_settings_title">Uzorak za otključavanje</string>
+    <string name="lockpattern_settings_enable_title">Potreban je uzorak</string>
+    <string name="lockpattern_settings_enable_summary">Morate iscrtati uzorak za otključavanje zaslona</string>
+    <string name="lockpattern_settings_enable_visible_pattern_title">Učini uzorak vidljivim</string>
+    <string name="lockpattern_settings_enable_tactile_feedback_title">Vibracija na dodir</string>
+    <string name="lockpattern_settings_enable_power_button_instantly_locks">Gumb napajanja zaključava telefon</string>
+    <string name="lockpattern_settings_power_button_instantly_locks_summary">Osim kad ga %1$s drži otključanim</string>
+    <string name="lockpattern_settings_choose_lock_pattern">Postavi uzorak za otključavanje</string>
+    <string name="lockpattern_settings_change_lock_pattern">Izmijeni uzorak za otključavanje</string>
+    <string name="lockpattern_settings_help_how_to_record">Kako iscrtati uzorak za otključavanje</string>
+    <string name="lockpattern_too_many_failed_confirmation_attempts_header">Previše netočnih pokušaja!</string>
+    <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Pokušajte ponovo za %d s.</string>
+    <string name="unlock_set_unlock_launch_picker_title">Zaključavanje zaslona</string>
+    <string name="unlock_set_unlock_launch_picker_change_title">Promjena zaklj. zasl.</string>
+    <string name="unlock_set_unlock_launch_picker_change_summary">Promijenite ili onemogućite sigurnosni uzorak, PIN ili zaporku</string>
+    <string name="unlock_set_unlock_launch_picker_enable_summary">Odaberite metodu za zaključavanje zaslona</string>
+    <string name="unlock_backup_info_summary">Kada vas Otključavanje licem ne može vidjeti, kako želite otključati?</string>
+    <string name="unlock_set_unlock_off_title">Ništa</string>
+    <string name="unlock_set_unlock_off_summary" />
+    <string name="unlock_set_unlock_none_title">Prelazak prstom</string>
+    <string name="unlock_set_unlock_none_summary">Nema zaštite</string>
+    <string name="unlock_set_unlock_biometric_weak_title">Otključavanje licem</string>
+    <string name="unlock_set_unlock_biometric_weak_summary">Niska sigurnost, eksperimentalno</string>
+    <string name="unlock_set_unlock_pattern_title">Uzorak</string>
+    <string name="unlock_set_unlock_pattern_summary">Srednja razina sigurnosti</string>
+    <string name="unlock_set_unlock_pin_title">PIN</string>
+    <string name="unlock_set_unlock_pin_summary">Srednja do visoka sigurnost</string>
+    <string name="unlock_set_unlock_password_title">Zaporka</string>
+    <string name="unlock_set_unlock_password_summary">Visoka sigurnost</string>
+    <string name="unlock_set_unlock_disabled_summary">Onemogućili administrator, pravila enkripcije ili pohrana vjerodajnica</string>
+    <string name="unlock_set_unlock_mode_off">Ništa</string>
+    <string name="unlock_set_unlock_mode_none">Prelazak prstom</string>
+    <string name="unlock_set_unlock_mode_biometric_weak">Otključavanje licem</string>
+    <string name="unlock_set_unlock_mode_pattern">Uzorak</string>
+    <string name="unlock_set_unlock_mode_pin">PIN</string>
+    <string name="unlock_set_unlock_mode_password">Zaporka</string>
+    <string name="unlock_disable_lock_title">Isključi zaključavanje zaslona</string>
+    <string name="unlock_disable_lock_pattern_summary">Ukloni uzorak za otključavanje</string>
+    <string name="unlock_disable_lock_pin_summary">Ukloni otključavanje PIN-a</string>
+    <string name="unlock_disable_lock_password_summary">Ukloni zaporku za zaključavanje</string>
+    <string name="unlock_change_lock_pattern_title">Izmijeni uzorak za otključavanje</string>
+    <string name="unlock_change_lock_pin_title">Promijeni PIN za otključavanje</string>
+    <string name="unlock_change_lock_password_title">Promijeni zaporku za otključavanje</string>
+    <string name="keywords_lockscreen">kliziti zaporka uzorak PIN</string>
+    <string name="switch_on_text">Uključeno</string>
+    <string name="switch_off_text">Isključeno</string>
+    <string name="screen_pinning_title">Prikvačivanje zaslona</string>
+    <string name="screen_pinning_description">"Kada je ta postavka uključena, možete postaviti uređaj tako da prikaz ostane na trenutačnom zaslonu.
+
+Da biste prikvačili zaslon:
+
+1. Uključite tu postavku.
+
+2. Otvorite aplikaciju.
+
+3. Dodirnite gumb Nedavno.
+
+4. Dodirnite ikonu pribadače."</string>
+    <string name="settings_safetylegal_activity_loading">Učitavanje…</string>
+    <string name="no_applications">Nema aplikacija.</string>
+    <string name="help_label">Pomoć/povratne inf.</string>
+    <string name="lockpassword_ok_label">U redu</string>
+    <string name="lockpattern_tutorial_cancel_label">Odustani</string>
+    <string name="lockpattern_tutorial_continue_label">Dalje</string>
+    <string name="lockpassword_confirm_your_pin_header">Potvrdite svoj PIN</string>
+    <string name="lockpassword_confirm_your_password_header">Potvrdite svoju zaporku</string>
+    <string name="cancel">Odustani</string>
+    <string name="lock_screen_notifications_title">Kada je uređaj zaključan</string>
+    <string name="lock_screen_notifications_summary_show">Prikaži sav sadržaj obavijesti</string>
+    <string name="lock_screen_notifications_summary_hide">Sakrij osjetljiv sadržaj obavijesti</string>
+    <string name="lock_screen_notifications_summary_disable">Uopće ne prikazuj obavijesti</string>
+    <string name="lock_screen_notifications_interstitial_message">Kada je uređaj zaključan, kako želite da se obavijesti prikazuju?</string>
+    <string name="app_notifications_dialog_done">Gotovo</string>
+    <string name="lockpassword_cancel_label">Odustani</string>
+    <string name="lockpassword_password_too_long">Zaporka mora imati manje od ovoliko znakova: %d.</string>
+    <string name="lockpassword_pin_too_long">PIN mora imati manje od ovoliko znamenki: %d</string>
+    <string name="lockpassword_password_too_short">Zaporka mora imati najmanje ovoliko znakova: %d</string>
+    <string name="lockpassword_pin_too_short">PIN mora imati najmanje ovoliko znakova: %d</string>
+    <string name="lockpassword_press_continue">Dodirnite Nastavak kad završite</string>
+    <string name="lockpassword_continue_label">Nastavi</string>
+    <string name="lockpassword_pin_no_sequential_digits">Uzastopno rastući ili padajući slijed brojeva ili ponavljanje brojeva nije dopušteno</string>
+    <string name="lockpassword_pin_contains_non_digits">PIN mora sadržavati samo znamenke od 0 do 9.</string>
+    <string name="lockpassword_pin_recently_used">Administrator uređaja ne dopušta upotrebu nedavnog PIN-a.</string>
+    <string name="lockpassword_illegal_character">Zaporka sadrži nedopušteni znak.</string>
+    <string name="lockpassword_password_requires_alpha">Zaporka treba sadržavati barem jedno slovo.</string>
+    <string name="lockpassword_password_requires_digit">Zaporka mora sadržavati barem jednu znamenku.</string>
+    <string name="lockpassword_password_requires_symbol">Zaporka treba sadržavati barem jedan simbol.</string>
+    <string name="lockpassword_password_recently_used">Administrator uređaja ne dopušta upotrebu nedavne zaporke.</string>
+    <string name="backup_lock_settings_picker_title">Odabir sig. zaključ.</string>
+    <string name="profile_info_settings_title">Informacije profila</string>
+    <string name="user_info_settings_title">Podaci o korisniku</string>
+    <string name="credential_storage_type_hardware">Hardverska</string>
+    <string name="credential_storage_type_software">Samo softverska</string>
+    <string name="error_title" />
+    <string name="lockpassword_choose_lock_generic_header">Odabir načina otključavanja</string>
+</resources>

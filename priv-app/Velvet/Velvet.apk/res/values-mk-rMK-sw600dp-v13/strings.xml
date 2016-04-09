@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="search_phone_or_tablet">Пребарaj таблет</string>
+    <string name="corpus_name_summons">Таблет</string>
+    <string name="search_sources">Пребарување на таблет</string>
+    <string name="no_summons_found">"Не се пронајдени резултати
+на вашиот таблет."</string>
+    <string name="hands_free_unlock_device">Отклучете го таблетот за да направите гласовно пребарување на Google.</string>
+    <string name="icing_manage_storage_summary">Го забрзуваме пребарувањето на вашиот таблет преку пребарувач што може да го користат вашите апликации.</string>
+</resources>

@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="baseball_innings">
+        <item>1-ші доп беру кезегі</item>
+        <item>2-ші доп беру кезегі</item>
+        <item>3-ші доп беру кезегі</item>
+        <item>4-ші доп беру кезегі</item>
+        <item>5-ші доп беру кезегі</item>
+        <item>6-шы доп беру кезегі</item>
+        <item>7-ші доп беру кезегі</item>
+        <item>8-ші доп беру кезегі</item>
+        <item>9-шы доп беру кезегі</item>
+        <item>10-шы доп беру кезегі</item>
+        <item>11-ші доп беру кезегі</item>
+        <item>12-ші доп беру кезегі</item>
+    </string-array>
+    <string-array name="qp_top_baseball_innings">
+        <item>Жоғ. 1-ші</item>
+        <item>Жоғ. 2-ші</item>
+        <item>Жоғ. 3-ші</item>
+        <item>Жоғ. 4-ші</item>
+        <item>Жоғ. 5-ші</item>
+        <item>Жоғ. 6-шы</item>
+        <item>Жоғ. 7-ші</item>
+        <item>Жоғ. 8-ші</item>
+        <item>Жоғ. 9-шы</item>
+        <item>Жоғ. 10-шы</item>
+        <item>Жоғ. 11-ші</item>
+        <item>Жоғ. 12-ші</item>
+    </string-array>
+    <string-array name="qp_bottom_baseball_innings">
+        <item>Төм. 1-ші</item>
+        <item>Төм. 2-ші</item>
+        <item>Төм. 3-ші</item>
+        <item>Төм. 4-ші</item>
+        <item>Төм. 5-ші</item>
+        <item>Төм. 6-шы</item>
+        <item>Төм. 7-ші</item>
+        <item>Төм. 8-ші</item>
+        <item>Төм. 9-шы</item>
+        <item>Төм. 10-шы</item>
+        <item>Төм. 11-ші</item>
+        <item>Төм. 12-ші</item>
+    </string-array>
+    <string-array name="local_results_markers">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+    </string-array>
+    <string-array name="languageNames">
+        <item>Африкаанс (Оңтүстік Африка)</item>
+        <item>Араб (Алжир)</item>
+        <item>Араб (Мысыр)</item>
+        <item>Араб (Ирак)</item>
+        <item>Араб (Израиль)</item>
+        <item>Араб (Йордания)</item>
+        <item>Араб (Кувейт)</item>
+        <item>Араб (Ливан)</item>
+        <item>Араб (Ливия)</item>
+        <item>Араб (Марокко)</item>
+        <item>Араб (Катар)</item>
+        <item>Араб (Сауд Арабиясы)</item>
+        <item>Араб (Судан)</item>
+        <item>Араб (Сирия)</item>
+        <item>Араб (Тунис)</item>
+        <item>Араб (Біріккен Араб Әмірліктері)</item>
+        <item>Араб (Йемен)</item>
+        <item>Белорус (Беларусь)</item>
+        <item>Бенгал (Бангладеш)</item>
+        <item>Болгар (Болгария)</item>
+        <item>Каталан (Испания)</item>
+        <item>Қытай, мандарин (Қытай, жеңілдетілген)</item>
+        <item>Қытай, мандарин (Гонконг, жеңілдетілген)</item>
+        <item>Қытай, мандарин (Гонконг, дәстүрлі)</item>
+        <item>Қытай, мандарин (Сингапур, жеңілдетілген)</item>
+        <item>Қытай, мандарин (Тайвань, жеңілдетілген)</item>
+        <item>Қытай, мандарин (Тайвань, дәстүрлі)</item>
+        <item>Қытай, Юэ (Қытай, жеңілдетілген)</item>
+        <item>Қытай, юэ (Гонконг, дәстүрлі)</item>
+        <item>Хорват (Хорватия)</item>
+        <item>Чех (Чех Республикасы)</item>
+        <item>Дат (Дания)</item>
+        <item>Нидерланд (Бельгия)</item>
+        <item>Нидерланд (Нидерланд)</item>
+        <item>Ағылшын (жалпы)</item>
+        <item>Ағылшын (Aвстралия)</item>
+        <item>Ағылшын (Бангладеш)</item>
+        <item>Ағылшын (Канада)</item>
+        <item>Ағылшын (Гонконг)</item>
+        <item>Ағылшын (Үндістан)</item>
+        <item>Ағылшын (Ирландия)</item>
+        <item>Ағылшын (Кения)</item>
+        <item>Ағылшын (Малайзия)</item>
+        <item>Ағылшын (Жаңа Зеландия)</item>
+        <item>Ағылшын (Нигерия)</item>
+        <item>Ағылшын (Пәкістан)</item>
+        <item>Ағылшын (Филиппин)</item>
+        <item>Ағылшын (Сингапур)</item>
+        <item>Ағылшын (Оңтүстік Африка)</item>
+        <item>Ағылшын (Судан)</item>
+        <item>Ағылшын (Танзания)</item>
+        <item>Ағылшын (Уганда)</item>
+        <item>Ағылшын (ҚК)</item>
+        <item>Ағылшын (АҚШ)</item>
+        <item>Эстон (Эстония)</item>
+        <item>Филиппин (Филиппин)</item>
+        <item>Фин (Финляндия)</item>
+        <item>Француз (Бельгия)</item>
+        <item>Француз (Канада)</item>
+        <item>Француз (Франция)</item>
+        <item>Француз (Швейцария)</item>
+        <item>Гали (Испания)</item>
+        <item>Неміс (Австрия)</item>
+        <item>Неміс (Германия)</item>
+        <item>Неміс (Швейцария)</item>
+        <item>Неміс (Лихтенштейн)</item>
+        <item>Грек (Грекия)</item>
+        <item>Иврит (Израиль)</item>
+        <item>Хинди (Үндістан)</item>
+        <item>Венгр (Венгрия)</item>
+        <item>Исланд (Исландия)</item>
+        <item>Индонезия (Индонезия)</item>
+        <item>Ирланд (Ирландия)</item>
+        <item>Исиндебеле (Оңтүстік Африка)</item>
+        <item>Исикоса (Оңтүстік Африка)</item>
+        <item>Исизулу (Оңтүстік Африка)</item>
+        <item>Итальян (Италия)</item>
+        <item>Итальян (Швейцария)</item>
+        <item>Жапон (Жапония)</item>
+        <item>Корей (Оңтүстік Корея)</item>
+        <item>Латыш (Латвия)</item>
+        <item>Литван (Литва)</item>
+        <item>Малай (Малайзия)</item>
+        <item>Малай (Сингапур)</item>
+        <item>Норвег букмол (Норвегия)</item>
+        <item>Норвег, Нюнорск (Норвегия)</item>
+        <item>Парсы (Иран)</item>
+        <item>Поляк (Польша)</item>
+        <item>Португал (Ангола)</item>
+        <item>Португал (Бразилия)</item>
+        <item>Португал (Португалия)</item>
+        <item>Румын (Румыния)</item>
+        <item>Орыс (Беларусь)</item>
+        <item>Орыс (Ресей)</item>
+        <item>Сепеди (Оңтүстік Африка)</item>
+        <item>Серб (Сербия, кириллица)</item>
+        <item>Сесото (Оңтүстік Африка)</item>
+        <item>Сетсвана (Оңтүстік Африка)</item>
+        <item>Сисвати (Оңтүстік Африка)</item>
+        <item>Словак (Словакия)</item>
+        <item>Словен (Словения)</item>
+        <item>Испан (Аргентина)</item>
+        <item>Испан (Боливия)</item>
+        <item>Испан (Чили)</item>
+        <item>Испан (Колумбия)</item>
+        <item>Испан (Коста-Рика)</item>
+        <item>Испан (Куба)</item>
+        <item>Испан (Доминикан Республикасы)</item>
+        <item>Испан (Эквадор)</item>
+        <item>Испан (Сальвадор)</item>
+        <item>Испан (Гватемала)</item>
+        <item>Испан (Гондурас)</item>
+        <item>Испан (Мексика)</item>
+        <item>Испан (Никарагуа)</item>
+        <item>Испан (Панама)</item>
+        <item>Испан (Парагвай)</item>
+        <item>Испан (Перу)</item>
+        <item>Испан (Пуэрто-Рико)</item>
+        <item>Испан (Испания)</item>
+        <item>Испан (АҚШ)</item>
+        <item>Испан (Уругвай)</item>
+        <item>Испан (Венесуэла)</item>
+        <item>Суахили (Кения)</item>
+        <item>Суахили (Танзания)</item>
+        <item>Суахили (Уганда)</item>
+        <item>Швед (Финляндия)</item>
+        <item>Швед (Швеция)</item>
+        <item>Тай (Тайланд)</item>
+        <item>Тшивенда (Оңтүстік Африка)</item>
+        <item>Түрік (Түркия)</item>
+        <item>Украин (Украина)</item>
+        <item>Урду (Пәкістан)</item>
+        <item>Вьетнам (Вьетнам)</item>
+        <item>Тсонга (Оңтүстік Африка)</item>
+    </string-array>
+    <string-array name="edit_reminder_day">
+        <item>Бүгін</item>
+        <item>Ертең</item>
+        <item>Оқтын-оқтын</item>
+        <item>Күнді орнату…</item>
+    </string-array>
+    <string-array name="edit_reminder_time">
+        <item>Таң</item>
+        <item>Түс</item>
+        <item>Кеш</item>
+        <item>Түн</item>
+        <item>Күні бойы</item>
+        <item>Уақытты орнату…</item>
+    </string-array>
+    <string-array name="edit_reminder_location_trigger_type">
+        <item>Келу</item>
+        <item>Шығу</item>
+    </string-array>
+    <string-array name="edit_reminder_location">
+        <item>Үй</item>
+        <item>Жұмыс</item>
+        <item>Орынды орнату…</item>
+    </string-array>
+    <string-array name="network_error_tts_messages">
+        <item>Интернет байланысы дәл қазір сенімді емес.</item>
+        <item>Интернет байланысы қазір сенімді емес.</item>
+        <item>Интернет байланысы дәл қазір тұрақты емес.</item>
+        <item>Интернет байланысы қазір тұрақты емес.</item>
+        <item>Интернет байланысы дәл қазір соншалықты қатты емес.</item>
+        <item>Интернет байланысы қазір соншалықты қатты емес.</item>
+    </string-array>
+    <string-array name="read_it_grammar">
+        <item>оны оқу</item>
+        <item>хабарды оқу</item>
+        <item>сол мәтіндік хабарды оқу</item>
+    </string-array>
+    <string-array name="reply_grammar">
+        <item>жауап беру</item>
+        <item>жауап жіберу</item>
+        <item>жауап жіберу</item>
+        <item>мәтіндік хабарға жауап беру</item>
+        <item>оған жауап жіберу</item>
+    </string-array>
+    <string-array name="call_back_grammar">
+        <item>соңғы хабарды жіберушіге кері қоңырау шалу</item>
+        <item>оған қоңырау шалу</item>
+        <item>оған кері қоңырау шалу</item>
+        <item>оған қоңырау шалу</item>
+        <item>оған кері қоңырау шалу</item>
+    </string-array>
+</resources>

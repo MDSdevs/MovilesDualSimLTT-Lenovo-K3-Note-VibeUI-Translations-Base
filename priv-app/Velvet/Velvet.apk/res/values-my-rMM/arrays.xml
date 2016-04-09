@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="recurrence_freq">
+        <item>နေ့စဉ် ထပ်လုပ်ပါ</item>
+        <item>အပတ်စဉ် ထပ်လုပ်ပါ</item>
+        <item>လစဉ် ထပ်လုပ်ပါ</item>
+        <item>နှစ်စဉ် ထပ်လုပ်</item>
+    </string-array>
+    <string-array name="edit_recurrence">
+        <item>ထပ် မဖြစ်</item>
+        <item>နေ့တိုင်း</item>
+        <item>အပတ်တိုင်း</item>
+        <item>လတိုင်း</item>
+        <item>နှစ်တိုင်း</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>ပထမ တနင်္ဂနွေနေ့တိုင်း</item>
+        <item>ဒုတိယ တနင်္ဂနွေနေ့တိုင်း</item>
+        <item>တတိယ တနင်္ဂနွေနေ့တိုင်း</item>
+        <item>စတုတ္ထ တနင်္ဂနွေနေ့တိုင်း</item>
+        <item>နောက်ဆုံး တနင်္ဂနွေနေ့တိုင်း</item>
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>ပထမ တနင်္လာနေ့တိုင်း</item>
+        <item>ဒုတိယ တနင်္လာနေ့တိုင်း</item>
+        <item>တတိယ တနင်္လာနေ့တိုင်း</item>
+        <item>စတုတ္ထ တနင်္လာနေ့တိုင်း</item>
+        <item>နောက်ဆုံး တနင်္လာနေ့တိုင်း</item>
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>ပထမ အင်္ဂါနေ့တိုင်း</item>
+        <item>ဒုတိယ အင်္ဂါနေ့တိုင်း</item>
+        <item>တတိယ အင်္ဂါနေ့တိုင်း</item>
+        <item>စတုတ္ထ အင်္ဂါနေ့တိုင်း</item>
+        <item>နောက်ဆုံး အင်္ဂါနေ့တိုင်း</item>
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>မထမ ဗုဒ္ဓဟူးနေ့တိုင်း</item>
+        <item>ဒုတိယ ဗုဒ္ဓဟူးနေ့တိုင်း</item>
+        <item>တတိယ ဗုဒ္ဓဟူးနေ့တိုင်း</item>
+        <item>စတုတ္ထ ဗုဒ္ဓဟူးနေ့တိုင်း</item>
+        <item>နောက်ဆုံး ဗုဒ္ဓဟူးနေ့တိုင်း</item>
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>ပထမ ကြာသပတေးနေ့တိုင်း</item>
+        <item>ဒုတိယ ကြာသပတေးနေ့တိုင်း</item>
+        <item>တတိယ ကြာသပတေးနေ့တိုင်း</item>
+        <item>စတုတ္ထ ကြာသပတေးနေ့တိုင်း</item>
+        <item>နောက်ဆုံး ကြာသပတေးနေ့တိုင်း</item>
+    </string-array>
+    <string-array name="repeat_by_nth_fri">
+        <item>ပထမ သောကြာနေ့တိုင်း</item>
+        <item>ဒုတိယ သောကြာနေ့တိုင်း</item>
+        <item>တတိယ သောကြာနေ့တိုင်း</item>
+        <item>စတုတ္ထ သောကြာနေ့တိုင်း</item>
+        <item>နောက်ဆုံး သောကြာနေ့တိုင်း</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>ပထမ စနေနေ့တိုင်း</item>
+        <item>ဒုတိယ စနေနေ့တိုင်း</item>
+        <item>တတိယ စနေနေ့တိုင်း</item>
+        <item>စတုတ္ထ စနေနေ့တိုင်း</item>
+        <item>နောက်ဆုံး စနေနေ့တိုင်း</item>
+    </string-array>
+    <string-array name="baseball_innings">
+        <item>ပထမ ဝင်ထွက်ခြင်း</item>
+        <item>ဒုတိယ ဝင်ထွက်ခြင်း</item>
+        <item>၃ ကြိမ်မြောက် ဝင်ထွက်ခြင်း</item>
+        <item>၄ ကြိမ်မြောက် ဝင်ထွက်ခြင်း</item>
+        <item>၅ ကြိမ်မြောက် ဝင်ထွက်ခြင်း</item>
+        <item>၆ ကြိမ် ဝင်ထွက်ခြင်း</item>
+        <item>၇ ကြိမ်မြောက် ဝင်ထွက်ခြင်း</item>
+        <item>၈ ကြိမ် ဝင်ထွက်ခြင်း</item>
+        <item>၉ ကြိမ်မြောက် ဝင်ထွက်</item>
+        <item>၁၀ ကြိမ်မြောက် ဝင်ထွက်ခြင်း</item>
+        <item>၁၁ ကြိမ် ဝင်ထွက်ခြင်း</item>
+        <item>ဆယ့်နှစ်ကြိမ် ဝင်ထွက်</item>
+    </string-array>
+    <string-array name="qp_top_baseball_innings">
+        <item>ထိပ် ပထမ</item>
+        <item>ထိပ် ဒုတိယ</item>
+        <item>ထိပ် တတိယ</item>
+        <item>ထိပ် စတုတ္ထ</item>
+        <item>ထိပ် ပဉ္စမ</item>
+        <item>ထိပ် ဆဌမ</item>
+        <item>ထိပ် သတ္တမ</item>
+        <item>ထိပ် အဌမ</item>
+        <item>ထိပ် နဝမ</item>
+        <item>ထိပ် ဒသမ</item>
+        <item>ထိပ် ၁၁ မြောက်</item>
+        <item>ထိပ် ၁၂ မြောက်</item>
+    </string-array>
+    <string-array name="qp_bottom_baseball_innings">
+        <item>အောက်ခြေ ပထမ</item>
+        <item>အောက်ခြေ ဒုတိယ</item>
+        <item>အောက်ခြေ တတိယ</item>
+        <item>အောက်ခြေ စတုတ္ထ</item>
+        <item>အောက်ခြေ ပဉ္စမ</item>
+        <item>အောက်ခြေ ဆဌန</item>
+        <item>အောက်ခြေ သတ္တမ</item>
+        <item>အောက်ခြေ အဌမ</item>
+        <item>အောက်ခြေ နဝမ</item>
+        <item>အောက်ခြေ ဒသမ</item>
+        <item>အောက်ခြေ ၁၁ မြောက်</item>
+        <item>အောက်ခြေ ၁၂ မြောက်</item>
+    </string-array>
+    <string-array name="local_results_markers">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+    </string-array>
+    <string-array name="languageNames">
+        <item>အာဖရိကန်စ် (တောင် အာဖရိက)</item>
+        <item>အာရပ် (အယ်လ်ဂျီးရီးယား)</item>
+        <item>အာရပ် (အီဂျစ်)</item>
+        <item>အာရပ် (အီရက်)</item>
+        <item>အာရပ် (အစ္စရေး)</item>
+        <item>အာရပ် (ဂျော်ဒန်)</item>
+        <item>အာရပ် (ကူးဝိတ်)</item>
+        <item>အာရပ် (လဗ်ဗီနန်)</item>
+        <item>အာရပ် (လစ်ဗျား)</item>
+        <item>အာရပ် (မော်ရိုကို)</item>
+        <item>အာရပ် (ကာတာ)</item>
+        <item>အာရပ် (ဆော်ဒီ အာရေဗျ)</item>
+        <item>အာရပ် (ဆူဒန်)</item>
+        <item>အာရပ် (ဆီးရီးယား)</item>
+        <item>အာရပ် (တူနီးရှား)</item>
+        <item>အာရပ် (အာရပ်ပြည်ထောင်စု)</item>
+        <item>အာရပ် (ယီမင်)</item>
+        <item>ဘဲလားရုစ် (ဘဲလားရုစ်)</item>
+        <item>ဘင်္ဂါလီ (ဘင်္ဂလားဒေ့ရှ်)</item>
+        <item>ဘူဂေးရီးယား (ဘူဂေးရီးယား)</item>
+        <item>ကာတာလန် (စပိန်)</item>
+        <item>တရုတ်၊ မန်ဒါရင် (တရုတ်၊ ရိုးရှင်း)</item>
+        <item>တရုတ်၊ မန်ဒရင်း (ဟောင်ကောင်၊ အလွယ်)</item>
+        <item>တရုတ်၊ မန်ဒါရင်း (ဟောင်ကောင်၊ ရိုးရာ)</item>
+        <item>တရုတ်၊ မန်ဒရင် (စင်ကာပူ၊ ရိုးရှင်း)</item>
+        <item>တရုတ်၊ မန်ဒါရင်း (တိုင်ဝမ်၊ ရိုးရှင်း)</item>
+        <item>တရုတ်၊ မန်ဒရင်း (တိုင်ဝမ်၊ ရိုးရာ)</item>
+        <item>တရုတ်၊ ယူ (တရုတ်၊ ရိုးရှင်း)</item>
+        <item>တရုတ်၊ ယူ (ဟောင်ကောင်၊ ရိုးရာ)</item>
+        <item>ခရိုအေးရှန်း (ခရိုအေးရှား)</item>
+        <item>ချက် (ချက်သမ္မတနိုင်ငံ)</item>
+        <item>ဒိန်းမတ် (ဒိန်းမတ်)</item>
+        <item>ဒတ်ချ (ဘဲလ်ဂျီယမ်)</item>
+        <item>ဒတ်ချ (နယ်သာလန်)</item>
+        <item>အင်္ဂလိပ် (ယေဘုယျ)</item>
+        <item>အင်္ဂလိပ် (အော်စတြေးလျ)</item>
+        <item>အင်္ဂလိပ် (ဘင်္ဂလားဒေ့ရှ်)</item>
+        <item>အင်္ဂလိပ် (ကနေဒါ)</item>
+        <item>အင်္ဂလိပ် (ဟောင်ကောင်)</item>
+        <item>အင်္ဂလိပ် (အိန္ဒိယ)</item>
+        <item>အင်္ဂလိပ် (အိုင်ယာလန်)</item>
+        <item>အင်္ဂလိပ် (ကင်ညာ)</item>
+        <item>အင်္ဂလိပ် (မလေးရှား)</item>
+        <item>အင်္ဂလိပ် (နယူးဇီလန်)</item>
+        <item>အင်္ဂလိပ် (နိုင်ဂျီးရီးယား)</item>
+        <item>အင်္ဂလိပ် (ပါကစ္စတန်)</item>
+        <item>အင်္ဂလိပ် (ဖိလစ်ပိုင်)</item>
+        <item>အင်္ဂလိပ် (စင်ကာပူ)</item>
+        <item>အင်္ဂလိပ် (တောင် အာဖရိက)</item>
+        <item>အင်္ဂလိပ် (ဆူဒန်)</item>
+        <item>အင်္ဂလိပ် (တန်ဇန်နီးယား)</item>
+        <item>အင်္ဂလိပ် (ယူဂန်ဒါ)</item>
+        <item>အင်္ဂလိပ် (ယူကေ)</item>
+        <item>အင်္ဂလိပ်​ (ယူအက်စ်)</item>
+        <item>အက်စ်တိုးနီးယား (အက်စ်တိုးနီးယား)</item>
+        <item>ဖိလီပီနို (ဖိလစ်ပိုင်)</item>
+        <item>ဖင်လန် (ဖင်လန်)</item>
+        <item>ပြင်သစ် (ဘယ်လ်ဂျီယမ်)</item>
+        <item>ပြင်သစ် (ကနေဒါ)</item>
+        <item>ပြင်သစ် (ပြင်သစ်)</item>
+        <item>ပြင်သစ် (ဆွစ်ဇာလန်)</item>
+        <item>ဂါလီရှန်း (စပိန်)</item>
+        <item>ဂျာမန် (ဩစတြီးယား)</item>
+        <item>ဂျာမန် (ဂျာမနီ)</item>
+        <item>ဂျာမန် (ဆွစ်ဇာလန်)</item>
+        <item>ဂျာမန် (လီချင်စတိန်း)</item>
+        <item>ဂရိ (ဂရိ)</item>
+        <item>ဟေဗြဲ (အစ္စရေး)</item>
+        <item>ဟင်ဒီ (အိန္ဒိယ)</item>
+        <item>ဟန်ဂေရီ (ဟန်ဂေရီ)</item>
+        <item>အိုက်စ်လန် (အိုက်စ်လန်)</item>
+        <item>အင်ဒိုနီးရှား (အင်ဒိုနီးရှား)</item>
+        <item>အိုင်ယာလန် (အိုင်ယာလန်)</item>
+        <item>အီစီအင်န်ဒဲဘဲလဲ (တောင် အာဖရိက)</item>
+        <item>အီစီဟိုစာ (တောင် အာဖရိက)</item>
+        <item>အီစီဇူးလူး (တောင် အာဖရိက)</item>
+        <item>အီတလီ (အီတလီ)</item>
+        <item>အီတလီ (ဆွစ်ဇာလန်)</item>
+        <item>ဂျပန် (ဂျပန်)</item>
+        <item>ကိုးရီးယား (တောင် ကိုးရီးယား)</item>
+        <item>လာတ်ဗီးယား (လာတ်ဗီးယား)</item>
+        <item>လီသွေနီးယား (လီသွေနီးယား)</item>
+        <item>မလေး (မလေးှရား)</item>
+        <item>မလေး (စင်ကာပူ)</item>
+        <item>နော်ဝေ ဘော့မယ် (နော်ဝေ)</item>
+        <item>နော်ဝေ နိုင်နော့်စ်က် (နော်ဝေ)</item>
+        <item>ပါရှံ (အီရန်)</item>
+        <item>ပိုလန် (ပိုလန်)</item>
+        <item>ပေါ်တူဂီ (အန်ဂိုလာ)</item>
+        <item>ပေါ်တူဂီ (ဘရာဇီးလ်)</item>
+        <item>ပေါ်တူဂီ (ပေါ်တူဂီ)</item>
+        <item>ရူမေနီးယား (ရူမေနီးယား)</item>
+        <item>ရုရှား (ဘီလာရုစ်)</item>
+        <item>ရုရှား (ရုရှား)</item>
+        <item>ဆီပဲဒီ (တောင် အာဖရိက)</item>
+        <item>ဆားဘီးယား (ဆားဗီးယား၊ ကီရီးလစ်)</item>
+        <item>ဆဲဆိုသို (တောင် အာဖရိက)</item>
+        <item>စက်စဝါနာ (တောင် အာဖရိက)</item>
+        <item>စီစွာတီ (တောင် အာဖရိက)</item>
+        <item>ဆလိုဗက် (ဆလိုဗားကီးယား)</item>
+        <item>စလိုဗီးနီးယန်း (စလိုဗီးနီးယား)</item>
+        <item>စပိန် (အာဂျင်တီးနား)</item>
+        <item>စပိန် (ဘိုလီဗီးယား)</item>
+        <item>စပိန် (ချီလီ)</item>
+        <item>စပိန် (ကိုလံဘီယာ)</item>
+        <item>စပိန် (ကိုစတာရီကာ)</item>
+        <item>စပိန် (ကျူးဘား)</item>
+        <item>စပိန် (ဒိုမီနီကန်သမ္မတနိုင်ငံ)</item>
+        <item>စပိန် (အီကွေဒေါ)</item>
+        <item>စပိန် (အယ် ဆာလ်ဗါဒေါ)</item>
+        <item>စပိန် (ဂွာတီမာလာ)</item>
+        <item>စပိန် (ဟွန်ဒူရားစ်)</item>
+        <item>စပိန် (မက္ကစီကို)</item>
+        <item>စပိန် (နီကာရာဂွါ)</item>
+        <item>စပိန် (ပါနားမား)</item>
+        <item>စပိန် (ပါရာဂွေး)</item>
+        <item>စပိန် (ပီရူး)</item>
+        <item>စပိန် (ပူယဲရ်တိုရီကို)</item>
+        <item>စပိန် (စပိန်)</item>
+        <item>စပိန် (ယူအက်စ်)</item>
+        <item>စပိန် (ဥရုဂွေး)</item>
+        <item>စပိန် (ဗီနီဇွဲလား)</item>
+        <item>စွာဟီလီ (ကင်ညာ)</item>
+        <item>စွာဟီလီ (တန်ဇာနီးယား)</item>
+        <item>စွာဟီလီ (ယူဂန်ဒါ)</item>
+        <item>ဆွီဒင် (ဖင်လန်)</item>
+        <item>ဆွီဒင် (ဆွီဒင်)</item>
+        <item>ထိုင်း (ထိုင်း)</item>
+        <item>သျှီဗင်ဒါ (တောင် အာဖရိက)</item>
+        <item>တူရကီ (တူရကီ)</item>
+        <item>ယူကရိန်း (ယူကရိန်း)</item>
+        <item>အူရ်ဒူ (Pakistan)</item>
+        <item>ဗီယက်နမ် (ဗီယက်နမ်)</item>
+        <item>ရှစ်ဆွန်းဂါ (တောင် အာဖရိက)</item>
+    </string-array>
+    <string-array name="edit_reminder_day">
+        <item>ယနေ့</item>
+        <item>နက်ဖြန်</item>
+        <item>ရံဖန်ရံခါ</item>
+        <item>"ရက်စွဲ  သတ်မှတ်ရန်..."</item>
+    </string-array>
+    <string-array name="edit_reminder_time">
+        <item>နံနက်</item>
+        <item>နေ့ခင်း</item>
+        <item>ညနေ</item>
+        <item>ည</item>
+        <item>တစ်နေ့ကုန်</item>
+        <item>အချိန် သတ်မှတ်ရန်...</item>
+    </string-array>
+    <string-array name="edit_reminder_location_trigger_type">
+        <item>ရောက်</item>
+        <item>ထွက်ခွာ</item>
+    </string-array>
+    <string-array name="edit_reminder_location">
+        <item>အိမ်</item>
+        <item>အလုပ်</item>
+        <item>တည်နေရာ သတ်မှတ်ရန်...</item>
+    </string-array>
+    <string-array name="network_error_tts_messages">
+        <item>အင်တာနက် ချိတ်ဆက်မှုဟာ အခုအချိန်မှာ စိတ်မချရဘူး။</item>
+        <item>အင်တာနက် ချိတ်ဆက်မှုဟာ အခု စိတ်မချရဘူး။</item>
+        <item>အင်တာနက် ချိတ်ဆက်မှုဟာ အခုအချိန်မှာ မတည်ငြိမ်ဘူး။</item>
+        <item>အင်တာနက် ချိတ်ဆက်မှုဟာ အခု မတည်ငြိမ်ဘူး။</item>
+        <item>အင်တာနက် ချိတ်ဆက်မှုဟာ အခုအချိန်မှာ သိပ် အားမကောင်းဘူး။</item>
+        <item>အင်တာနက် ချိတ်ဆက်မှုဟာ အခု သိပ် အားမကောင်းဘူး။</item>
+    </string-array>
+    <string-array name="read_it_grammar">
+        <item>အဲဒါကို ဖတ်ရန်</item>
+        <item>စာကို ဖတ်ရန်</item>
+        <item>အဲဒီ စာသားကို ဖတ်ရန်</item>
+    </string-array>
+    <string-array name="reply_grammar">
+        <item>ဖြေကြားရန်</item>
+        <item>ဖြေကြားချက် ပို့ရန်</item>
+        <item>ဖြေကြားချက် ပို့ရန်</item>
+        <item>နောက် စာ တစ်ခုအား ဖြေကြားရန်</item>
+        <item>အဲဒါ့အတွက် ဖြေကြားချက် ပို့ရန်</item>
+    </string-array>
+    <string-array name="call_back_grammar">
+        <item>နောက်ဆုံး စာပို့ခဲ့သူ ထံသို့ ပြန်ခေါ်ရန်</item>
+        <item>သူ့ကို ခေါ်ရန်</item>
+        <item>သူ့ကို ပြန်ခေါ်ရန်</item>
+        <item>သူမကို ခေါ်ရန်</item>
+        <item>သူမကို ပြန်ခေါ်ရန်</item>
+    </string-array>
+</resources>

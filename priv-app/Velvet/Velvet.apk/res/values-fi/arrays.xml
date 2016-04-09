@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="recurrence_freq">
+        <item>TOISTA PÄIVITTÄIN</item>
+        <item>TOISTA VIIKOITTAIN</item>
+        <item>TOISTA KUUKAUSITTAIN</item>
+        <item>TOISTA VUOSITTAIN</item>
+    </string-array>
+    <string-array name="edit_recurrence">
+        <item>Ei toistu</item>
+        <item>Joka päivä</item>
+        <item>Joka viikko</item>
+        <item>Joka kuukausi</item>
+        <item>Joka vuosi</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>kuukauden 1. sunnuntai</item>
+        <item>kuukauden 2. sunnuntai</item>
+        <item>kuukauden 3. sunnuntai</item>
+        <item>kuukauden 4. sunnuntai</item>
+        <item>kuukauden viimeinen sunnuntai</item>
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>kuukauden 1. maanantai</item>
+        <item>kuukauden 2. maanantai</item>
+        <item>kuukauden 3. maanantai</item>
+        <item>kuukauden 4. maanantai</item>
+        <item>kuukauden viimeinen maanantai</item>
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>kuukauden 1. tiistai</item>
+        <item>kuukauden 2. tiistai</item>
+        <item>kuukauden 3. tiistai</item>
+        <item>kuukauden 4. tiistai</item>
+        <item>kuukauden viimeinen tiistai</item>
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>kuukauden 1. keskiviikko</item>
+        <item>kuukauden 2. keskiviikko</item>
+        <item>kuukauden 3. keskiviikko</item>
+        <item>kuukauden 4. keskiviikko</item>
+        <item>kuukauden viim. keskiviikko</item>
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>kuukauden 1. torstai</item>
+        <item>kuukauden 2. torstai</item>
+        <item>kuukauden 3. torstai</item>
+        <item>kuukauden 4. torstai</item>
+        <item>kuukauden viimeinen torstai</item>
+    </string-array>
+    <string-array name="repeat_by_nth_fri">
+        <item>kuukauden 1. perjantai</item>
+        <item>kuukauden 2. perjantai</item>
+        <item>kuukauden 3. perjantai</item>
+        <item>kuukauden 4. perjantai</item>
+        <item>kuukauden viimeinen perjantai</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>kuukauden 1. lauantai</item>
+        <item>kuukauden 2. lauantai</item>
+        <item>kuukauden 3. lauantai</item>
+        <item>kuukauden 4. lauantai</item>
+        <item>kuukauden viimeinen lauantai</item>
+    </string-array>
+    <string-array name="baseball_innings">
+        <item>1. sisävuoro</item>
+        <item>2. sisävuoro</item>
+        <item>3. sisävuoro</item>
+        <item>4. sisävuoro</item>
+        <item>5. sisävuoro</item>
+        <item>6. sisävuoro</item>
+        <item>7. sisävuoro</item>
+        <item>8. sisävuoro</item>
+        <item>9. sisävuoro</item>
+        <item>10. sisävuoro</item>
+        <item>11. sisävuoro</item>
+        <item>12. sisävuoro</item>
+    </string-array>
+    <string-array name="qp_top_baseball_innings">
+        <item>1. vuoropari, ensimm.</item>
+        <item>2. vuoropari, ensimm.</item>
+        <item>3. vuoropari, ensimm.</item>
+        <item>4. vuoropari, ensimm.</item>
+        <item>5. vuoropari, ensimm.</item>
+        <item>6. vuoropari, ensimm.</item>
+        <item>7. vuoropari, ensimm.</item>
+        <item>8. vuoropari, ensimm.</item>
+        <item>9. vuoropari, ensimm.</item>
+        <item>10. vuoropari, ensimm.</item>
+        <item>11. vuoropari, ensimm.</item>
+        <item>12. vuoropari, ensimm.</item>
+    </string-array>
+    <string-array name="qp_bottom_baseball_innings">
+        <item>1. vuoropari, jälkimm.</item>
+        <item>2. vuoropari, jälkimm.</item>
+        <item>3. vuoropari, jälkimm.</item>
+        <item>4. vuoropari, jälkimm.</item>
+        <item>5. vuoropari, jälkimm.</item>
+        <item>6. vuoropari, jälkimm.</item>
+        <item>7. vuoropari, jälkimm.</item>
+        <item>8. vuoropari, jälkimm.</item>
+        <item>9. vuoropari, jälkimm.</item>
+        <item>10. vuoropari, jälkimm.</item>
+        <item>11. vuoropari, jälkimm.</item>
+        <item>12. vuoropari, jälkimm.</item>
+    </string-array>
+    <string-array name="local_results_markers">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+    </string-array>
+    <string-array name="languageNames">
+        <item>afrikaans (Etelä-Afrikka)</item>
+        <item>arabia (Algeria)</item>
+        <item>arabia (Egypti)</item>
+        <item>arabia (Irak)</item>
+        <item>arabia (Israel)</item>
+        <item>arabia (Jordania)</item>
+        <item>arabia (Kuwait)</item>
+        <item>arabia (Libanon)</item>
+        <item>arabia (Libya)</item>
+        <item>arabia (Marokko)</item>
+        <item>arabia (Qatar)</item>
+        <item>arabia (Saudi-Arabia)</item>
+        <item>arabia (Sudan)</item>
+        <item>arabia (Syyria)</item>
+        <item>arabia (Tunisia)</item>
+        <item>arabia (Arabiemiirikunnat)</item>
+        <item>arabia (Jemen)</item>
+        <item>valkovenäjä (Valko-Venäjä)</item>
+        <item>bengali (Bangladesh)</item>
+        <item>bulgaria (Bulgaria)</item>
+        <item>katalaani (Espanja)</item>
+        <item>kiina, mandariini (Kiina, yksinkertaistettu)</item>
+        <item>kiina, mandariini (Hongkong, yksinkertaistettu)</item>
+        <item>kiina, mandariini (Hongkong, perinteinen)</item>
+        <item>kiina, mandariini (Singapore, yksinkertaistettu)</item>
+        <item>kiina, mandariini (Taiwan, yksinkertaistettu)</item>
+        <item>kiina, mandariini (Taiwan, perinteinen)</item>
+        <item>kiina, Yue (Kiina, yksinkertaistettu)</item>
+        <item>kiina, yue (Hongkong, perinteinen)</item>
+        <item>kroatia (Kroatia)</item>
+        <item>tšekki (Tšekin tasavalta)</item>
+        <item>tanska (Tanska)</item>
+        <item>hollanti (Belgia)</item>
+        <item>hollanti (Alankomaat)</item>
+        <item>englanti (yleinen)</item>
+        <item>englanti (Australia)</item>
+        <item>englanti (Bangladesh)</item>
+        <item>englanti (Kanada)</item>
+        <item>englanti (Hongkong)</item>
+        <item>englanti (Intia)</item>
+        <item>englanti (Irlanti)</item>
+        <item>englanti (Kenia)</item>
+        <item>englanti (Malesia)</item>
+        <item>englanti (Uusi-Seelanti)</item>
+        <item>englanti (Nigeria)</item>
+        <item>englanti (Pakistan)</item>
+        <item>englanti (Filippiinit)</item>
+        <item>englanti (Singapore)</item>
+        <item>englanti (Etelä-Afrikka)</item>
+        <item>englanti (Sudan)</item>
+        <item>englanti (Tansania)</item>
+        <item>englanti (Uganda)</item>
+        <item>englanti (Iso-Britannia)</item>
+        <item>englanti (Yhdysvallat)</item>
+        <item>viro (Viro)</item>
+        <item>filipino (Filippiinit)</item>
+        <item>suomi (Suomi)</item>
+        <item>ranska (Belgia)</item>
+        <item>ranska (Kanada)</item>
+        <item>ranska (Ranska)</item>
+        <item>ranska (Sveitsi)</item>
+        <item>galego (Espanja)</item>
+        <item>saksa (Itävalta)</item>
+        <item>saksa (Saksa)</item>
+        <item>saksa (Sveitsi)</item>
+        <item>saksa (Liechtenstein)</item>
+        <item>kreikka (Kreikka)</item>
+        <item>heprea (Israel)</item>
+        <item>hindi (Intia)</item>
+        <item>unkari (Unkari)</item>
+        <item>islanti (Islanti)</item>
+        <item>indonesia (Indonesia)</item>
+        <item>iiri (Irlanti)</item>
+        <item>etelä-ndebele (Etelä-Afrikka)</item>
+        <item>xhosa (Etelä-Afrikka)</item>
+        <item>zulu (Etelä-Afrikka)</item>
+        <item>italia (Italia)</item>
+        <item>italia (Sveitsi)</item>
+        <item>japani (Japani)</item>
+        <item>korea (Etelä-Korea)</item>
+        <item>latvia (Latvia)</item>
+        <item>liettua (Liettua)</item>
+        <item>malaiji (Malesia)</item>
+        <item>malaiji (Singapore)</item>
+        <item>norja, bokmål (Norja)</item>
+        <item>norja, nynorsk (Norja)</item>
+        <item>persia (Iran)</item>
+        <item>puola (Puola)</item>
+        <item>portugali (Angola)</item>
+        <item>portugali (Brasilia)</item>
+        <item>portugali (Portugali)</item>
+        <item>romania (Romania)</item>
+        <item>venäjä (Valko-Venäjä)</item>
+        <item>venäjä (Venäjä)</item>
+        <item>sepedi (Etelä-Afrikka)</item>
+        <item>serbia (Serbia, kyrilliset aakkoset)</item>
+        <item>eteläsotho (Etelä-Afrikka)</item>
+        <item>tswana (Etelä-Afrikka)</item>
+        <item>swazi (Etelä-Afrikka)</item>
+        <item>slovakki (Slovakia)</item>
+        <item>slovenia (Slovenia)</item>
+        <item>espanja (Argentiina)</item>
+        <item>espanja (Bolivia)</item>
+        <item>espanja (Chile)</item>
+        <item>espanja (Kolumbia)</item>
+        <item>espanja (Costa Rica)</item>
+        <item>espanja (Kuuba)</item>
+        <item>espanja (Dominikaaninen tasavalta)</item>
+        <item>espanja (Ecuador)</item>
+        <item>espanja (El Salvador)</item>
+        <item>espanja (Guatemala)</item>
+        <item>espanja (Honduras)</item>
+        <item>espanja (Meksiko)</item>
+        <item>espanja (Nicaragua)</item>
+        <item>espanja (Panama)</item>
+        <item>espanja (Paraguay)</item>
+        <item>espanja (Peru)</item>
+        <item>espanja (Puerto Rico)</item>
+        <item>espanja (Espanja)</item>
+        <item>espanja (Yhdysvallat)</item>
+        <item>espanja (Uruguay)</item>
+        <item>espanja (Venezuela)</item>
+        <item>swahili (Kenia)</item>
+        <item>swahili (Tansania)</item>
+        <item>swahili (Uganda)</item>
+        <item>ruotsi (Suomi)</item>
+        <item>ruotsi (Ruotsi)</item>
+        <item>thai (Thaimaa)</item>
+        <item>venda (Etelä-Afrikka)</item>
+        <item>turkki (Turkki)</item>
+        <item>ukraina (Ukraina)</item>
+        <item>urdu (Pakistan)</item>
+        <item>vietnam (Vietnam)</item>
+        <item>tsonga (Etelä-Afrikka)</item>
+    </string-array>
+    <string-array name="edit_reminder_day">
+        <item>Tänään</item>
+        <item>Huomenna</item>
+        <item>Satunnaisesti</item>
+        <item>Aseta päivämäärä…</item>
+    </string-array>
+    <string-array name="edit_reminder_time">
+        <item>Aamu</item>
+        <item>Iltapäivä</item>
+        <item>Ilta</item>
+        <item>Yö</item>
+        <item>Koko päivä</item>
+        <item>Aseta aika…</item>
+    </string-array>
+    <string-array name="edit_reminder_location_trigger_type">
+        <item>Saavuttaessa</item>
+        <item>Poistuttaessa</item>
+    </string-array>
+    <string-array name="edit_reminder_location">
+        <item>Koti</item>
+        <item>Työpaikka</item>
+        <item>Aseta sijainti…</item>
+    </string-array>
+    <string-array name="network_error_tts_messages">
+        <item>Tämä internetyhteys ei ole luotettava juuri nyt.</item>
+        <item>Tämä internetyhteys ei ole luotettava tällä hetkellä.</item>
+        <item>Tämä internetyhteys ei ole vakaa juuri nyt.</item>
+        <item>Tämä internetyhteys ei ole vakaa tällä hetkellä.</item>
+        <item>Tämä internetyhteys ei ole tarpeeksi vahva juuri nyt.</item>
+        <item>Tämä internetyhteys ei ole tarpeeksi vahva tällä hetkellä.</item>
+    </string-array>
+    <string-array name="read_it_grammar">
+        <item>lue</item>
+        <item>lue viesti</item>
+        <item>lue teksti</item>
+    </string-array>
+    <string-array name="reply_grammar">
+        <item>vastaa</item>
+        <item>lähetä vastaus</item>
+        <item>lähetä vastaus</item>
+        <item>vastaa tekstiviestiin</item>
+        <item>lähetä vastaus</item>
+    </string-array>
+    <string-array name="call_back_grammar">
+        <item>soita viimeisimmän viestin lähettäjälle</item>
+        <item>soita hänelle</item>
+        <item>soita takaisin</item>
+        <item>soita hänelle</item>
+        <item>soita hänelle takaisin</item>
+    </string-array>
+</resources>

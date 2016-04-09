@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="appdetail_access_items">
+        <item>แจ้งเตือน</item>
+        <item>ยอมรับ</item>
+        <item>ปฏิเสธ</item>
+    </string-array>
+    <string-array name="appdetail_access_items_pro">
+        <item>เตือน</item>
+        <item>ให้สิทธิ์</item>
+        <item>Grant+Time</item>
+        <item>ปฏิเสธ</item>
+        <item>Deny+Time</item>
+    </string-array>
+    <string-array name="appdetail_logging_items">
+        <item>ตั้งค่าเริ่มต้น</item>
+        <item>เนื้อหาทั้งหมด</item>
+        <item>เฉพาะการเข้าถึงเท่านั้น</item>
+        <item>ไม่มี</item>
+    </string-array>
+    <string-array name="appdetail_notification_items">
+        <item>ค่าเริ่มต้นทั้งหมด</item>
+        <item>เปิดใช้งานสิทธิ</item>
+        <item>ถูกปิดการใช้งาน</item>
+    </string-array>
+    <string-array name="expire_timer">
+        <item>Indefinitely</item>
+        <item>1 นาที</item>
+        <item>5 นาที</item>
+        <item>15 นาที</item>
+        <item>30 นาที</item>
+        <item>1 ชั่วโมง</item>
+        <item>3 ชั่วโมง</item>
+        <item>6 ชั่วโมง</item>
+        <item>12 ชั่วโมง</item>
+        <item>24 ชั่วโมง</item>
+    </string-array>
+    <string-array name="settings_default_access_items">
+        <item>สิทธิ์ชั่วคราว</item>
+        <item>ให้สิทธิ์</item>
+        <item>ปฏิเสธ</item>
+    </string-array>
+    <string-array name="settings_log_age_items">
+        <item>ถาวร</item>
+        <item>2 สัปดาห์</item>
+        <item>1 สัปดาห์</item>
+        <item>3 วัน</item>
+        <item>2 วัน</item>
+        <item>1 วัน</item>
+    </string-array>
+    <string-array name="settings_log_format_items">
+        <item>31/12 23:59</item>
+        <item>12/31 23:59</item>
+        <item>31/12 11:59 PM</item>
+        <item>12/31 11:59 PM</item>
+    </string-array>
+    <string-array name="settings_log_items">
+        <item>เนื้อหาแบบเต็ม</item>
+        <item>เฉพาะการเข้าถึงเท่านั้น</item>
+        <item>ไม่มี</item>
+    </string-array>
+</resources>

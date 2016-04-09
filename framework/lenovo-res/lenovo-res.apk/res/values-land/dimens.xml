@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="picker_divider_padding">64.0dip</dimen>
+    <dimen name="number_picker_max_height">156.0dip</dimen>
+    <dimen name="leac_action_bar_menu_item_padding_level">8.0dip</dimen>
+    <dimen name="leac_action_bar_menu_item_width">80.0dip</dimen>
+</resources>

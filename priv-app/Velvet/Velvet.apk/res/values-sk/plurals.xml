@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">Počet vybratých položiek: %1$d</item>
+        <item quantity="zero">Počet vybratých položiek: %1$d</item>
+        <item quantity="one">Počet vybratých položiek: %1$d</item>
+    </plurals>
+    <plurals name="recurrence_end_count">
+        <item quantity="other">Pre tento počet udalostí: %d</item>
+        <item quantity="one">Pre %d udalosť</item>
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+        <item quantity="other">Po každých %d dňoch</item>
+        <item quantity="one">Každý %d deň</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+        <item quantity="other">Po každých %d týždňoch</item>
+        <item quantity="one">Každý %d týždeň</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+        <item quantity="other">Po každých %d mesiacoch</item>
+        <item quantity="one">Každý %d mesiac</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+        <item quantity="other">Každých %d rokov</item>
+        <item quantity="one">Každý %d rok</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item quantity="other">, %d-krát</item>
+        <item quantity="one">, jedenkrát</item>
+    </plurals>
+    <plurals name="daily">
+        <item quantity="other">Každých %d dní</item>
+        <item quantity="one">Denne</item>
+        <item quantity="two">Každé %d dni</item>
+        <item quantity="few">Každé %d dni</item>
+        <item quantity="many">Každých %d dní</item>
+    </plurals>
+    <plurals name="daily_lower">
+        <item quantity="other">každých %d dní</item>
+        <item quantity="one">denne</item>
+        <item quantity="two">každé %d dni</item>
+        <item quantity="few">každé %d dni</item>
+        <item quantity="many">každých %d dní</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="other">Každých %1$d týždňov v: %2$s</item>
+        <item quantity="one">Každý týždeň v: %2$s</item>
+        <item quantity="two">Každé %1$d týždne v: %2$s</item>
+        <item quantity="few">Každé %1$d týždne v: %2$s</item>
+        <item quantity="many">Každých %1$d týždňov v: %2$s</item>
+    </plurals>
+    <plurals name="weekly_lower">
+        <item quantity="other">každých %1$d týždňov v: %2$s</item>
+        <item quantity="one">každý týždeň v: %2$s</item>
+        <item quantity="two">každé %1$d týždne v: %2$s</item>
+        <item quantity="few">každé %1$d týždne v: %2$s</item>
+        <item quantity="many">každých %1$d týždňov v: %2$s</item>
+    </plurals>
+    <plurals name="monthly_interval">
+        <item quantity="other">Každých %1$d mesiacov</item>
+        <item quantity="one">Mesačne</item>
+        <item quantity="two">Každé %1$d mesiace</item>
+        <item quantity="few">Každé %1$d mesiace</item>
+        <item quantity="many">Každých %1$d mesiacov</item>
+    </plurals>
+    <plurals name="monthly_interval_lower">
+        <item quantity="other">každých %1$d mesiacov</item>
+        <item quantity="one">mesačne</item>
+        <item quantity="two">každé %1$d mesiace</item>
+        <item quantity="few">každé %1$d mesiace</item>
+        <item quantity="many">každých %1$d mesiacov</item>
+    </plurals>
+    <plurals name="yearly_interval_plain">
+        <item quantity="other">Každých %1$d rokov</item>
+        <item quantity="one">Ročne</item>
+        <item quantity="two">Každé %1$d roky</item>
+        <item quantity="few">Každé %1$d roky</item>
+        <item quantity="many">Každých %1$d rokov</item>
+    </plurals>
+    <plurals name="yearly_interval_lower">
+        <item quantity="other">každých %1$d rokov</item>
+        <item quantity="one">ročne</item>
+        <item quantity="two">každé %1$d roky</item>
+        <item quantity="few">každé %1$d roky</item>
+        <item quantity="many">každých %1$d rokov</item>
+    </plurals>
+    <plurals name="duration_in_hours">
+        <item quantity="other">%1$d hodín</item>
+        <item quantity="one">%1$d hodina</item>
+        <item quantity="few">%1$d hodiny</item>
+        <item quantity="many">%1$d hodiny</item>
+    </plurals>
+    <plurals name="duration_in_hours_short">
+        <item quantity="other">%1$d hodín</item>
+        <item quantity="one">%1$d hodina</item>
+        <item quantity="few">%1$d hodiny</item>
+        <item quantity="many">%1$d hodiny</item>
+    </plurals>
+    <plurals name="duration_in_minutes">
+        <item quantity="other">%1$d minút</item>
+        <item quantity="one">%1$d minúta</item>
+        <item quantity="few">%1$d minúty</item>
+        <item quantity="many">%1$d minúty</item>
+    </plurals>
+    <plurals name="duration_in_minutes_short">
+        <item quantity="other">%1$d min</item>
+        <item quantity="one">%1$d min</item>
+        <item quantity="few">%1$d min</item>
+        <item quantity="many">%1$d min</item>
+    </plurals>
+    <plurals name="duration_in_days">
+        <item quantity="other">%1$d dní</item>
+        <item quantity="one">%1$d deň</item>
+        <item quantity="few">%1$d dni</item>
+        <item quantity="many">%1$d dňa</item>
+    </plurals>
+    <plurals name="duration_in_days_short">
+        <item quantity="other">%1$d dní</item>
+        <item quantity="one">%1$d deň</item>
+        <item quantity="few">%1$d dni</item>
+        <item quantity="many">%1$d dňa</item>
+    </plurals>
+    <plurals name="duration_in_months">
+        <item quantity="other">%1$d mesiacov</item>
+        <item quantity="one">%1$d mesiac</item>
+        <item quantity="few">%1$d mesiace</item>
+        <item quantity="many">%1$d mesiaca</item>
+    </plurals>
+    <plurals name="duration_in_months_short">
+        <item quantity="other">%1$d mesiacov</item>
+        <item quantity="one">%1$d mesiac</item>
+        <item quantity="few">%1$d mesiace</item>
+        <item quantity="many">%1$d mesiaca</item>
+    </plurals>
+    <plurals name="duration_in_years">
+        <item quantity="other">%1$d rokov</item>
+        <item quantity="one">%1$d rok</item>
+        <item quantity="few">%1$d roky</item>
+        <item quantity="many">%1$d roka</item>
+    </plurals>
+    <plurals name="duration_in_years_short">
+        <item quantity="other">%1$d rokov</item>
+        <item quantity="one">%1$d rok</item>
+        <item quantity="few">%1$d roky</item>
+        <item quantity="many">%1$d roka</item>
+    </plurals>
+    <plurals name="items_from_without_colon">
+        <item quantity="other">%1$d položiek od</item>
+        <item quantity="one">%1$d položka od</item>
+        <item quantity="few">%1$d položky od</item>
+        <item quantity="many">%1$d položky od</item>
+    </plurals>
+    <plurals name="last_bus_home_departure_time">
+        <item quantity="other">Posledný autobus smerom domov odchádza o %2$s%1$d minút%3$s</item>
+        <item quantity="one">Posledný autobus smerom domov odchádza o %2$s%1$d minútu%3$s</item>
+        <item quantity="few">Posledný autobus smerom domov odchádza o %2$s%1$d minúty%3$s</item>
+        <item quantity="many">Posledný autobus smerom domov odchádza o %2$s%1$d minúty%3$s</item>
+    </plurals>
+    <plurals name="last_bus_to_hotel_departure_time">
+        <item quantity="other">Posledný autobus smerom do hotela odchádza o %2$s%1$d minút%3$s</item>
+        <item quantity="one">Posledný autobus smerom do hotela odchádza o %2$s%1$d minútu%3$s</item>
+        <item quantity="few">Posledný autobus smerom do hotela odchádza o %2$s%1$d minúty%3$s</item>
+        <item quantity="many">Posledný autobus smerom do hotela odchádza o %2$s%1$d minúty%3$s</item>
+    </plurals>
+    <plurals name="last_train_home_departure_time">
+        <item quantity="other">Posledný vlak smerom domov odchádza o %2$s%1$d min%3$s</item>
+        <item quantity="one">Posledný vlak smerom domov odchádza o %2$s1 min%3$s</item>
+        <item quantity="few">Posledný vlak smerom domov odchádza o %2$s%1$d min%3$s</item>
+        <item quantity="many">Posledný vlak smerom domov odchádza o %2$s%1$d min%3$s</item>
+    </plurals>
+    <plurals name="last_train_to_hotel_departure_time">
+        <item quantity="other">Posledný vlak smerom do hotela odchádza o %2$s%1$d min%3$s</item>
+        <item quantity="one">]Posledný vlak smerom do hotela odchádza o %2$s1 min%3$s</item>
+        <item quantity="few">Posledný vlak smerom do hotela odchádza o %2$s%1$d min%3$s</item>
+        <item quantity="many">Posledný vlak smerom do hotela odchádza o %2$s%1$d min%3$s</item>
+    </plurals>
+    <plurals name="last_transit_home_departure_time">
+        <item quantity="other">Posledný prostriedok verejnej dopravy smerom domov odchádza o %2$s%1$d minút%3$s</item>
+        <item quantity="one">Posledný prostriedok verejnej dopravy smerom domov odchádza o %2$s%1$d minútu%3$s</item>
+        <item quantity="few">Posledný prostriedok verejnej dopravy smerom domov odchádza o %2$s%1$d minúty%3$s</item>
+        <item quantity="many">Posledný prostriedok verejnej dopravy smerom domov odchádza o %2$s%1$d minúty%3$s</item>
+    </plurals>
+    <plurals name="last_transit_to_hotel_departure_time">
+        <item quantity="other">Posledný prostriedok verejnej dopravy smerom do hotela odchádza o %2$s%1$d minút%3$s</item>
+        <item quantity="one">Posledný prostriedok verejnej dopravy smerom do hotela odchádza o %2$s%1$d minútu%3$s</item>
+        <item quantity="few">Posledný prostriedok verejnej dopravy smerom do hotela odchádza o %2$s%1$d minúty%3$s</item>
+        <item quantity="many">Posledný prostriedok verejnej dopravy smerom do hotela odchádza o %2$s%1$d minúty%3$s</item>
+    </plurals>
+    <plurals name="transit_next_line_departure_subtext_no_platform">
+        <item quantity="other">Choďte pešo %1$d min na stanicu %2$s</item>
+        <item quantity="one">Choďte pešo 1 min na stanicu %2$s</item>
+        <item quantity="few">Choďte pešo %1$d min na stanicu %2$s</item>
+        <item quantity="many">Choďte pešo %1$d min na stanicu %2$s</item>
+    </plurals>
+    <plurals name="minutes_delay">
+        <item quantity="other">Meškanie: %1$d minút</item>
+        <item quantity="one">Meškanie: 1 minúta</item>
+        <item quantity="few">Meškanie: %1$d minúty</item>
+        <item quantity="many">Meškanie: %1$d minúty</item>
+    </plurals>
+    <plurals name="minutes_delay_more_than_usual">
+        <item quantity="other">o %1$d minút viac ako obvykle</item>
+        <item quantity="one">o 1 minútu viac ako obvykle</item>
+        <item quantity="few">o %1$d minúty viac ako obvykle</item>
+        <item quantity="many">o %1$d minúty viac ako obvykle</item>
+    </plurals>
+    <plurals name="minutes_delay_less_than_usual">
+        <item quantity="other">o %1$d minút menej ako obvykle</item>
+        <item quantity="one">o 1 minútu menej ako obvykle</item>
+        <item quantity="few">o %1$d minúty menej ako obvykle</item>
+        <item quantity="many">o %1$d minúty menej ako obvykle</item>
+    </plurals>
+    <plurals name="usual_traffic_minutes_delay">
+        <item quantity="other">Bežná premávka: %1$d-minútové meškanie</item>
+        <item quantity="one">Bežná premávka: 1-minútové meškanie</item>
+        <item quantity="few">Bežná premávka: %1$d-minútové meškanie</item>
+        <item quantity="many">Bežná premávka: %1$d-minútové meškanie</item>
+    </plurals>
+    <plurals name="num_min_late">
+        <item quantity="other">Meškanie: %1$d min</item>
+        <item quantity="one">Meškanie: 1 min</item>
+        <item quantity="few">Meškanie: %1$d min</item>
+        <item quantity="many">Meškanie: %1$d min</item>
+    </plurals>
+    <plurals name="num_min_early">
+        <item quantity="other">O %1$d min skôr</item>
+        <item quantity="one">O 1 min skôr</item>
+        <item quantity="few">O %1$d min skôr</item>
+        <item quantity="many">O %1$d min skôr</item>
+    </plurals>
+    <plurals name="transit_interval_in_minutes">
+        <item quantity="other">· každých %1$s min</item>
+        <item quantity="one">· každú %1$s min</item>
+        <item quantity="few">· každé %1$s min</item>
+        <item quantity="many">· vždy po %1$s min</item>
+    </plurals>
+    <plurals name="transit_interval_in_hours">
+        <item quantity="other">· každých %1$d hodín</item>
+        <item quantity="one">· každú %1$d hodinu</item>
+        <item quantity="few">· každé %1$d hodiny</item>
+        <item quantity="many">· vždy po %1$d hodiny</item>
+    </plurals>
+    <plurals name="qp_transit_interval_in_minutes">
+        <item quantity="other">Každých %1$s min</item>
+        <item quantity="one">Každú %1$s min</item>
+        <item quantity="few">Každé %1$s min</item>
+        <item quantity="many">Vždy po %1$s min</item>
+    </plurals>
+    <plurals name="qp_transit_interval_in_hours">
+        <item quantity="other">Každých %1$d hodín</item>
+        <item quantity="one">Každú %1$d hodinu</item>
+        <item quantity="few">Každé %1$d hodiny</item>
+        <item quantity="many">Vždy po %1$d hodiny</item>
+    </plurals>
+    <plurals name="sports_overtime_period_header">
+        <item quantity="other">%1$d predĺžení</item>
+        <item quantity="one">Predĺženie</item>
+        <item quantity="few">%1$d predĺženia</item>
+        <item quantity="many">%1$d predĺženia</item>
+    </plurals>
+    <plurals name="time_to_leave_user_arrival_generic">
+        <item quantity="other">Prídete o %1$d min skôr</item>
+        <item quantity="one">Prídete o %1$d min skôr</item>
+        <item quantity="few">Prídete o %1$d min skôr</item>
+        <item quantity="many">Prídete o %1$d min skôr</item>
+    </plurals>
+    <plurals name="time_to_leave_user_arrival_flight">
+        <item quantity="other">Prídete %1$d min pred odletom</item>
+        <item quantity="one">Prídete %1$d min pred odletom</item>
+        <item quantity="few">Prídete %1$d min pred odletom</item>
+        <item quantity="many">Prídete %1$d min pred odletom</item>
+    </plurals>
+    <plurals name="time_to_leave_user_arrival_reservation">
+        <item quantity="other">Prídete %1$d min pred termínom rezervácie</item>
+        <item quantity="one">Prídete %1$d min pred termínom rezervácie</item>
+        <item quantity="few">Prídete %1$d min pred termínom rezervácie</item>
+        <item quantity="many">Prídete %1$d min pred termínom rezervácie</item>
+    </plurals>
+    <plurals name="time_to_leave_user_arrival_movie">
+        <item quantity="other">Prídete %1$d min pred začiatkom filmu</item>
+        <item quantity="one">Prídete %1$d min pred začiatkom filmu</item>
+        <item quantity="few">Prídete %1$d min pred začiatkom filmu</item>
+        <item quantity="many">Prídete %1$d min pred začiatkom filmu</item>
+    </plurals>
+    <plurals name="time_to_leave_user_arrival_concert">
+        <item quantity="other">Prídete %1$d min pred začiatkom koncertu</item>
+        <item quantity="one">Prídete %1$d min pred začiatkom koncertu</item>
+        <item quantity="few">Prídete %1$d min pred začiatkom koncertu</item>
+        <item quantity="many">Prídete %1$d min pred začiatkom koncertu</item>
+    </plurals>
+    <plurals name="email_everyone">
+        <item quantity="other">Poslať všetkým e-mailovú správu (%1$d)</item>
+        <item quantity="one">Poslať všetkým e-mailovú správu (%1$d)</item>
+        <item quantity="few">Poslať všetkým e-mailovú správu (%1$d)</item>
+        <item quantity="many">Poslať všetkým e-mailovú správu (%1$d)</item>
+    </plurals>
+    <plurals name="card_count">
+        <item quantity="other">%1$d kariet</item>
+        <item quantity="one">1 karta</item>
+        <item quantity="few">%1$d karty</item>
+        <item quantity="many">%1$d karty</item>
+    </plurals>
+    <plurals name="num_movie_tickets">
+        <item quantity="other">%1$d vstupeniek</item>
+        <item quantity="one">%1$d vstupenka</item>
+        <item quantity="few">%1$d vstupenky</item>
+        <item quantity="many">%1$d vstupenky</item>
+    </plurals>
+    <plurals name="qp_hotel_reservation_length">
+        <item quantity="other">Rezervácia izby na %1$d nocí</item>
+        <item quantity="one">Rezervácia izby na %1$d noc</item>
+        <item quantity="few">Rezervácia izby na %1$d noci</item>
+        <item quantity="many">Rezervácia izby na %1$d noci</item>
+    </plurals>
+    <plurals name="reminders">
+        <item quantity="other">%1$d pripomenutí</item>
+        <item quantity="one">%1$d pripomenutie</item>
+        <item quantity="few">%1$d pripomenutia</item>
+        <item quantity="many">%1$d pripomenutia</item>
+    </plurals>
+    <plurals name="number_of_location_sharers">
+        <item quantity="other">%1$d ľudí s vami zdieľa polohu</item>
+        <item quantity="one">%1$d osoba s vami zdieľa polohu</item>
+        <item quantity="few">%1$d ľudia s vami zdieľajú polohu</item>
+        <item quantity="many">%1$d osoby s vami zdieľa polohu</item>
+    </plurals>
+    <plurals name="expiring_duration_in_days">
+        <item quantity="other">Platnosť vyprší o %1$d dní</item>
+        <item quantity="one">Platnosť vyprší o %1$d deň</item>
+        <item quantity="few">Platnosť vyprší o %1$d dni</item>
+        <item quantity="many">Platnosť vyprší o %1$d dňa</item>
+    </plurals>
+    <plurals name="expiring_duration_in_hours">
+        <item quantity="other">Platnosť vyprší o %1$d hodín</item>
+        <item quantity="one">Platnosť vyprší o %1$d hodinu</item>
+        <item quantity="few">Platnosť vyprší o %1$d hodiny</item>
+        <item quantity="many">Platnosť vyprší o %1$d hodiny</item>
+    </plurals>
+    <plurals name="expiring_duration_in_minutes">
+        <item quantity="other">Platnosť vyprší o %1$d minút</item>
+        <item quantity="one">Platnosť vyprší o %1$d minútu</item>
+        <item quantity="few">Platnosť vyprší o %1$d minúty</item>
+        <item quantity="many">Platnosť vyprší o %1$d minúty</item>
+    </plurals>
+    <plurals name="view_count">
+        <item quantity="other">%1$,d zhliadnutí</item>
+        <item quantity="one">%1$,d zhliadnutie</item>
+        <item quantity="few">%1$,d zhliadnutia</item>
+        <item quantity="many">%1$,d zhliadnutia</item>
+    </plurals>
+    <plurals name="transportation_seat">
+        <item quantity="other">%1$d sedadiel</item>
+        <item quantity="one">Sedadlo</item>
+        <item quantity="few">%1$d sedadlá</item>
+        <item quantity="many">%1$d sedadla</item>
+    </plurals>
+    <plurals name="more_directions">
+        <item quantity="other">+ %1$d ďalších trás</item>
+        <item quantity="one">+ %1$d ďalšia trasa</item>
+        <item quantity="few">+ %1$d ďalšie trasy</item>
+        <item quantity="many">+ %1$d ďalšej trasy</item>
+    </plurals>
+    <plurals name="time_duration_spoken_hour">
+        <item quantity="other">%1$d hodín</item>
+        <item quantity="one">1 hodina</item>
+        <item quantity="few">%1$d hodiny</item>
+        <item quantity="many">%1$d hodiny</item>
+    </plurals>
+    <plurals name="time_duration_spoken_minute">
+        <item quantity="other">%1$d minút</item>
+        <item quantity="one">1 minúta</item>
+        <item quantity="few">%1$d minúty</item>
+        <item quantity="many">%1$d minúty</item>
+    </plurals>
+    <plurals name="time_duration_spoken_second">
+        <item quantity="other">%1$d sekúnd</item>
+        <item quantity="one">1 sekunda</item>
+        <item quantity="few">%1$d sekundy</item>
+        <item quantity="many">%1$d sekundy</item>
+    </plurals>
+    <plurals name="agenda_eyes_free_all_day_events">
+        <item quantity="other">%2$s máte %1$d celodenných udalostí: %3$s.</item>
+        <item quantity="one">%2$s máte celodennú udalosť: %3$s.</item>
+        <item quantity="few">%2$s máte %1$d celodenné udalosti: %3$s.</item>
+        <item quantity="many">%2$s máte %1$d celodennej udalosti: %3$s.</item>
+    </plurals>
+</resources>

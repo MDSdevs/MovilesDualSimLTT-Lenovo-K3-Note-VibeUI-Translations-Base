@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="online_main_photo_height">270.0dip</dimen>
+    <dimen name="focus_photo_width">548.0dip</dimen>
+    <dimen name="focus_photo_height">270.0dip</dimen>
+    <dimen name="online_topic_photo_width">165.0dip</dimen>
+    <dimen name="online_topic_photo_height">165.0dip</dimen>
+    <dimen name="media_portrait_cd_height">327.0dip</dimen>
+    <dimen name="media_portrait_cd_width">327.0dip</dimen>
+    <dimen name="media_cd_height">340.0dip</dimen>
+    <dimen name="media_cd_width">340.0dip</dimen>
+    <dimen name="media_portrait_cdtop_paddingTop">22.0dip</dimen>
+    <dimen name="media_portrait_cdtop_paddingBottom">17.0dip</dimen>
+    <dimen name="fp_below_arrow_bottompadding">215.0dip</dimen>
+    <dimen name="online_radio_cover_default_width">360.0dip</dimen>
+    <dimen name="online_radio_cover_default_height">475.0dip</dimen>
+    <dimen name="online_radio_channel_padding_bottom">21.0dip</dimen>
+    <dimen name="online_radio_cover_margin">62.0dip</dimen>
+    <dimen name="menu_container_width">300.0dip</dimen>
+    <dimen name="online_radio_cover_fl_margin_top">0.0dip</dimen>
+    <dimen name="button_textsize">16.0sp</dimen>
+    <dimen name="artist_search_srcoll">50.0dip</dimen>
+    <dimen name="seekbar_marginLeft">16.0dip</dimen>
+    <dimen name="media_search_lrc_text_size">8.0sp</dimen>
+    <dimen name="media_search_nolrc_text_size">16.0sp</dimen>
+    <dimen name="lrc_fragment_content_dis">70.0dip</dimen>
+    <dimen name="default_fragment_drawable_dis">40.0dip</dimen>
+    <dimen name="default_fragment_text_dis">85.0dip</dimen>
+    <dimen name="online_radio_icon_margin_top">65.0dip</dimen>
+    <dimen name="online_radio_info_height">77.0dip</dimen>
+</resources>

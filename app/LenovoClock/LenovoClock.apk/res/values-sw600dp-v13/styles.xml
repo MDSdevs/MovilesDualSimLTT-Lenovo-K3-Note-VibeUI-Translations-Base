@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="DeskClock" parent="@android:style/Theme.DeviceDefault.Light">
+        <item name="android:windowBackground">@color/clock_white</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowAnimationStyle">@style/FeelyouWindowAnimTheme</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowCloseOnTouchOutside">false</item>
+    </style>
+    <style name="CustomTheme" parent="@android:style/Theme.DeviceDefault.Light">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowAnimationStyle">@style/FeelyouWindowAnimTheme</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+        <item name="android:windowCloseOnTouchOutside">false</item>
+    </style>
+    <style name="CitiesTheme" parent="@style/CustomTheme">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowAnimationStyle">@style/FeelyouWindowAnimTheme</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:windowCloseOnTouchOutside">false</item>
+    </style>
+    <style name="SetAlarmTheme" parent="@android:style/Theme.Holo.Dialog" />
+    <style name="AlarmAlertFullScreenTheme" parent="@android:style/Theme.Holo.Wallpaper.NoTitleBar" />
+    <style name="actonbar_btn_shadow">
+        <item name="android:textSize">17.0sp</item>
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:paddingTop">7.0dip</item>
+        <item name="android:layout_width">@dimen/timer_sw_startbtn_width_min</item>
+        <item name="android:layout_height">50.0dip</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:shadowColor">#00000000</item>
+        <item name="android:shadowDx">1.0</item>
+        <item name="android:shadowDy">1.0</item>
+        <item name="android:shadowRadius">1.0</item>
+    </style>
+    <style name="FeelyouWindowAnimTheme" parent="@android:style/Animation.Activity">
+        <item name="android:wallpaperCloseExitAnimation">@anim/wallpaper_open_exit</item>
+    </style>
+</resources>

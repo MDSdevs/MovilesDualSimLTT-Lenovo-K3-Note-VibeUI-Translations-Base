@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">Valitud on %1$d</item>
+        <item quantity="zero">Valitud on %1$d</item>
+        <item quantity="one">Valitud on %1$d</item>
+    </plurals>
+    <plurals name="recurrence_end_count">
+        <item quantity="other">%d sündmuse puhul</item>
+        <item quantity="one">%d sündmuse puhul</item>
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+        <item quantity="other">Iga %d päeva järel</item>
+        <item quantity="one">Iga %d päeva järel</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+        <item quantity="other">Iga %d nädala järel</item>
+        <item quantity="one">Iga %d nädala järel</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+        <item quantity="other">Iga %d kuu järel</item>
+        <item quantity="one">Iga %d kuu järel</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+        <item quantity="other">Iga %d aasta järel</item>
+        <item quantity="one">Iga %d aasta järel</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item quantity="other">%d korda</item>
+        <item quantity="one">ühe korra</item>
+    </plurals>
+    <plurals name="daily">
+        <item quantity="other">Iga %d p. järel</item>
+        <item quantity="one">Iga päev</item>
+        <item quantity="two">Iga %d p. järel</item>
+        <item quantity="few">Iga %d p. järel</item>
+        <item quantity="many">Iga %d p. järel</item>
+    </plurals>
+    <plurals name="daily_lower">
+        <item quantity="other">iga %d päeva järel</item>
+        <item quantity="one">iga päev</item>
+        <item quantity="two">iga %d päeva järel</item>
+        <item quantity="few">iga %d päeva järel</item>
+        <item quantity="many">iga %d päeva järel</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="other">Iga %1$d nädala järel: %2$s</item>
+        <item quantity="one">Iga nädal: %2$s</item>
+        <item quantity="two">Iga %1$d nädala järel: %2$s</item>
+        <item quantity="few">Iga %1$d nädala järel: %2$s</item>
+        <item quantity="many">Iga %1$d nädala järel: %2$s</item>
+    </plurals>
+    <plurals name="weekly_lower">
+        <item quantity="other">iga %1$d nädala järel: %2$s</item>
+        <item quantity="one">iga nädal: %2$s</item>
+        <item quantity="two">iga %1$d nädala järel: %2$s</item>
+        <item quantity="few">iga %1$d nädala järel: %2$s</item>
+        <item quantity="many">iga %1$d nädala järel: %2$s</item>
+    </plurals>
+    <plurals name="monthly_interval">
+        <item quantity="other">Iga %1$d kuu järel</item>
+        <item quantity="one">Iga kuu</item>
+        <item quantity="two">Iga %1$d kuu järel</item>
+        <item quantity="few">Iga %1$d kuu järel</item>
+        <item quantity="many">Iga %1$d kuu järel</item>
+    </plurals>
+    <plurals name="monthly_interval_lower">
+        <item quantity="other">iga %1$d kuu järel</item>
+        <item quantity="one">iga kuu</item>
+        <item quantity="two">iga %1$d kuu järel</item>
+        <item quantity="few">iga %1$d kuu järel</item>
+        <item quantity="many">iga %1$d kuu järel</item>
+    </plurals>
+    <plurals name="yearly_interval_plain">
+        <item quantity="other">Iga %1$d aasta järel</item>
+        <item quantity="one">Iga aasta</item>
+        <item quantity="two">Iga %1$d aasta järel</item>
+        <item quantity="few">Iga %1$d aasta järel</item>
+        <item quantity="many">Iga %1$d aasta järel</item>
+    </plurals>
+    <plurals name="yearly_interval_lower">
+        <item quantity="other">iga %1$d aasta järel</item>
+        <item quantity="one">iga aasta</item>
+        <item quantity="two">iga %1$d aasta järel</item>
+        <item quantity="few">iga %1$d aasta järel</item>
+        <item quantity="many">iga %1$d aasta järel</item>
+    </plurals>
+    <plurals name="duration_in_hours">
+        <item quantity="other">%1$d tundi</item>
+        <item quantity="one">%1$d tund</item>
+    </plurals>
+    <plurals name="duration_in_hours_short">
+        <item quantity="other">%1$d tundi</item>
+        <item quantity="one">%1$d tund</item>
+    </plurals>
+    <plurals name="duration_in_minutes">
+        <item quantity="other">%1$d minutit</item>
+        <item quantity="one">%1$d minut</item>
+    </plurals>
+    <plurals name="duration_in_minutes_short">
+        <item quantity="other">%1$d min</item>
+        <item quantity="one">%1$d min</item>
+    </plurals>
+    <plurals name="duration_in_days">
+        <item quantity="other">%1$d päeva</item>
+        <item quantity="one">%1$d päev</item>
+    </plurals>
+    <plurals name="duration_in_days_short">
+        <item quantity="other">%1$d päeva</item>
+        <item quantity="one">%1$d päev</item>
+    </plurals>
+    <plurals name="duration_in_months">
+        <item quantity="other">%1$d kuud</item>
+        <item quantity="one">%1$d kuu</item>
+    </plurals>
+    <plurals name="duration_in_months_short">
+        <item quantity="other">%1$d kuud</item>
+        <item quantity="one">%1$d kuu</item>
+    </plurals>
+    <plurals name="duration_in_years">
+        <item quantity="other">%1$d aastat</item>
+        <item quantity="one">%1$d aasta</item>
+    </plurals>
+    <plurals name="duration_in_years_short">
+        <item quantity="other">%1$d aastat</item>
+        <item quantity="one">%1$d aasta</item>
+    </plurals>
+    <plurals name="items_from_without_colon">
+        <item quantity="other">%1$d üksust allikast</item>
+        <item quantity="one">%1$d üksus allikast</item>
+    </plurals>
+    <plurals name="last_bus_home_departure_time">
+        <item quantity="other">Viimane buss koju väljub %2$s%1$d minuti pärast%3$s</item>
+        <item quantity="one">Viimane buss koju väljub %2$s%1$d minuti pärast%3$s</item>
+    </plurals>
+    <plurals name="last_bus_to_hotel_departure_time">
+        <item quantity="other">Viimane buss hotelli väljub %2$s%1$d minuti pärast%3$s</item>
+        <item quantity="one">Viimane buss hotelli väljub %2$s%1$d minuti pärast%3$s</item>
+    </plurals>
+    <plurals name="last_train_home_departure_time">
+        <item quantity="other">Viimane rong koju väljub %2$s%1$d min%3$s pärast</item>
+        <item quantity="one">Viimane rong koju väljub %2$s1 min%3$s pärast</item>
+    </plurals>
+    <plurals name="last_train_to_hotel_departure_time">
+        <item quantity="other">Viimane rong hotelli väljub %2$s%1$d min%3$s pärast</item>
+        <item quantity="one">Viimane rong hotelli väljub %2$s1 min%3$s pärast</item>
+    </plurals>
+    <plurals name="last_transit_home_departure_time">
+        <item quantity="other">Viimane transport koju väljub %2$s%1$d minuti pärast%3$s</item>
+        <item quantity="one">Viimane transport koju väljub %2$s%1$d minuti pärast%3$s</item>
+    </plurals>
+    <plurals name="last_transit_to_hotel_departure_time">
+        <item quantity="other">Viimane transport hotelli väljub %2$s%1$d minuti pärast%3$s</item>
+        <item quantity="one">Viimane transport hotelli väljub %2$s%1$d minuti pärast%3$s</item>
+    </plurals>
+    <plurals name="transit_next_line_departure_subtext_no_platform">
+        <item quantity="other">Jaamani %2$s jalutamiseks kulub %1$d min</item>
+        <item quantity="one">Jaamani %2$s jalutamiseks kulub 1 min</item>
+    </plurals>
+    <plurals name="minutes_delay">
+        <item quantity="other">Hilineb %1$d minutit</item>
+        <item quantity="one">Hilineb 1 minuti</item>
+    </plurals>
+    <plurals name="minutes_delay_more_than_usual">
+        <item quantity="other">%1$d minutit tavalisest kauem</item>
+        <item quantity="one">1 minut tavalisest kauem</item>
+    </plurals>
+    <plurals name="minutes_delay_less_than_usual">
+        <item quantity="other">%1$d minutit tavalisest rutem</item>
+        <item quantity="one">1 minut tavalisest rutem</item>
+    </plurals>
+    <plurals name="usual_traffic_minutes_delay">
+        <item quantity="other">Tavaliiklus: hilineb %1$d minutit</item>
+        <item quantity="one">Tavaliiklus: hilineb 1 minuti</item>
+    </plurals>
+    <plurals name="num_min_late">
+        <item quantity="other">Hilineb %1$d min</item>
+        <item quantity="one">Hilineb 1 min</item>
+    </plurals>
+    <plurals name="num_min_early">
+        <item quantity="other">Jõuab %1$d min varem</item>
+        <item quantity="one">Jõuab 1 min varem</item>
+    </plurals>
+    <plurals name="transit_interval_in_minutes">
+        <item quantity="other">iga %1$s min järel</item>
+        <item quantity="one">·iga %1$s min järel</item>
+    </plurals>
+    <plurals name="transit_interval_in_hours">
+        <item quantity="other">iga %1$d tunni järel</item>
+        <item quantity="one">·iga %1$d tunni järel</item>
+    </plurals>
+    <plurals name="qp_transit_interval_in_minutes">
+        <item quantity="other">Iga %1$s min järel</item>
+        <item quantity="one">Iga %1$s min järel</item>
+    </plurals>
+    <plurals name="qp_transit_interval_in_hours">
+        <item quantity="other">Iga %1$d tunni järel</item>
+        <item quantity="one">Iga %1$d tunni järel</item>
+    </plurals>
+    <plurals name="sports_overtime_period_header">
+        <item quantity="other">%1$d. lisaaeg</item>
+        <item quantity="one">Lisaaeg</item>
+    </plurals>
+    <plurals name="time_to_leave_user_arrival_generic">
+        <item quantity="other">Saabumine %1$d min varem</item>
+        <item quantity="one">Saabumine %1$d min varem</item>
+    </plurals>
+    <plurals name="time_to_leave_user_arrival_flight">
+        <item quantity="other">Saabumine %1$d min enne väljalendu</item>
+        <item quantity="one">Saabumine %1$d min enne väljalendu</item>
+    </plurals>
+    <plurals name="time_to_leave_user_arrival_reservation">
+        <item quantity="other">Saabumine %1$d min enne reserveeringut</item>
+        <item quantity="one">Saabumine %1$d min enne reserveeringut</item>
+    </plurals>
+    <plurals name="time_to_leave_user_arrival_movie">
+        <item quantity="other">Saabumine %1$d min enne filmi</item>
+        <item quantity="one">Saabumine %1$d min enne filmi</item>
+    </plurals>
+    <plurals name="time_to_leave_user_arrival_concert">
+        <item quantity="other">Saabumine %1$d min enne kontserti</item>
+        <item quantity="one">Saabumine %1$d min enne kontserti</item>
+    </plurals>
+    <plurals name="email_everyone">
+        <item quantity="other">Meili kõigile (%1$d)</item>
+        <item quantity="one">Meili kõigile (%1$d)</item>
+    </plurals>
+    <plurals name="card_count">
+        <item quantity="other">%1$d kaarti</item>
+        <item quantity="one">1 kaart</item>
+    </plurals>
+    <plurals name="num_movie_tickets">
+        <item quantity="other">%1$d piletit</item>
+        <item quantity="one">%1$d pilet</item>
+    </plurals>
+    <plurals name="qp_hotel_reservation_length">
+        <item quantity="other">Toa broneerimine %1$d ööks</item>
+        <item quantity="one">Toa broneerimine %1$d ööks</item>
+    </plurals>
+    <plurals name="reminders">
+        <item quantity="other">%1$d meeldetuletust</item>
+        <item quantity="one">%1$d meeldetuletus</item>
+    </plurals>
+    <plurals name="number_of_location_sharers">
+        <item quantity="other">%1$d inimest jagavad teiega</item>
+        <item quantity="one">%1$d inimene jagab teiega</item>
+    </plurals>
+    <plurals name="expiring_duration_in_days">
+        <item quantity="other">Aegub %1$d päeva pärast</item>
+        <item quantity="one">Aegub %1$d päeva pärast</item>
+    </plurals>
+    <plurals name="expiring_duration_in_hours">
+        <item quantity="other">Aegub %1$d tunni pärast</item>
+        <item quantity="one">Aegub %1$d tunni pärast</item>
+    </plurals>
+    <plurals name="expiring_duration_in_minutes">
+        <item quantity="other">Aegub %1$d minuti pärast</item>
+        <item quantity="one">Aegub %1$d minuti pärast</item>
+    </plurals>
+    <plurals name="view_count">
+        <item quantity="other">%1$,d vaatamist</item>
+        <item quantity="one">%1$,d vaatamine</item>
+    </plurals>
+    <plurals name="transportation_seat">
+        <item quantity="other">%1$d kohta</item>
+        <item quantity="one">Koht</item>
+    </plurals>
+    <plurals name="more_directions">
+        <item quantity="other">Veel %1$d juhist</item>
+        <item quantity="one">Veel %1$d juhis</item>
+    </plurals>
+    <plurals name="time_duration_spoken_hour">
+        <item quantity="other">%1$d tundi</item>
+        <item quantity="one">1 tund</item>
+    </plurals>
+    <plurals name="time_duration_spoken_minute">
+        <item quantity="other">%1$d minutit</item>
+        <item quantity="one">1 minut</item>
+    </plurals>
+    <plurals name="time_duration_spoken_second">
+        <item quantity="other">%1$d sekundit</item>
+        <item quantity="one">1 sekund</item>
+    </plurals>
+    <plurals name="agenda_eyes_free_all_day_events">
+        <item quantity="other">%2$s – teil on %1$d sündmust, mis kestavad kogu päeva: %3$s.</item>
+        <item quantity="one">%2$s – teil on üks sündmus, mis kestab kogu päeva: %3$s.</item>
+    </plurals>
+</resources>

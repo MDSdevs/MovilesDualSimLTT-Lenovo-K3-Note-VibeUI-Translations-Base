@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="@android:style/Theme.DeviceDefault.Light">
+        <item name="android:windowDisablePreview">true</item>
+        <item name="android:windowTranslucentNavigation">true</item>
+        <item name="switchBarTheme">@style/Theme.SwitchBar.Settings</item>
+    </style>
+    <style name="ClassicModeTheme" parent="@android:style/Theme.DeviceDefault.NoActionBar">
+        <item name="android:windowBackground">@color/classic_window_bg</item>
+        <item name="android:dialogTheme">@style/ClassicModeDialogStyle</item>
+        <item name="android:alertDialogTheme">@style/ClassicModeDialogStyle</item>
+        <item name="android:windowTranslucentStatus">false</item>
+        <item name="android:colorPrimaryDark">#00000000</item>
+        <item name="android:navigationBarColor">@color/classic_window_bg</item>
+    </style>
+    <style name="style_title_text_withreturn">
+        <item name="android:textSize">19.0sp</item>
+        <item name="android:ellipsize">marquee</item>
+        <item name="android:gravity">start|center</item>
+        <item name="android:paddingLeft">0.0dip</item>
+        <item name="android:focusable">true</item>
+        <item name="android:focusableInTouchMode">true</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">52.0dip</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="style_divider_for_preference">
+        <item name="android:overScrollMode">never</item>
+    </style>
+    <style name="HighPowerAppTheme" parent="@android:style/Theme.DeviceDefault.Light">
+        <item name="switchBarTheme">@style/Theme.SwitchBar.Settings</item>
+    </style>
+    <style name="ClassicModeDialogStyle" parent="@android:style/Theme.DeviceDefault.Dialog" />
+    <style name="toolbar_style">
+        <item name="android:background">?android:colorPrimary</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">?android:actionBarSize</item>
+        <item name="android:colorPrimary">?android:colorPrimary</item>
+        <item name="android:colorPrimaryDark">?android:colorPrimaryDark</item>
+    </style>
+    <style name="Theme.PowerManagerBase" parent="@android:style/Theme.DeviceDefault.Light">
+        <item name="android:preferenceScreenStyle">@style/Preference.DeviceDefault.PreferenceScreen</item>
+        <item name="android:preferenceStyle">@style/Preference.DeviceDefault</item>
+        <item name="android:dialogPreferenceStyle">@style/Preference.DeviceDefault.DialogPreference</item>
+        <item name="android:windowDisablePreview">true</item>
+    </style>
+    <style name="Theme.ColorActionbar" parent="@style/Theme.PowerManagerBase">
+        <item name="android:actionBarStyle">@style/app_ColorActionBarStyle</item>
+        <item name="android:actionBarTheme">@null</item>
+        <item name="android:colorPrimary">@color/head_background</item>
+        <item name="android:colorPrimaryDark">@color/head_background</item>
+        <item name="android:colorAccent">@color/head_background</item>
+    </style>
+    <style name="Theme.PowerManager" parent="@style/Theme.ColorActionbar">
+        <item name="android:preferenceScreenStyle">@style/Preference.DeviceDefault.PreferenceScreen</item>
+        <item name="android:preferenceStyle">@style/Preference.DeviceDefault</item>
+        <item name="android:dialogPreferenceStyle">@style/Preference.DeviceDefault.DialogPreference</item>
+        <item name="android:windowDisablePreview">true</item>
+    </style>
+    <style name="app_ColorAcitonbarTitleTextStyle" parent="@android:style/TextAppearance.DeviceDefault.Widget.ActionBar.Title">
+        <item name="android:textColor">?android:textColorPrimaryInverse</item>
+    </style>
+    <style name="app_ColorActionBarStyle" parent="@android:style/Widget.DeviceDefault.Light.ActionBar">
+        <item name="android:background">?android:colorPrimary</item>
+        <item name="android:titleTextStyle">@style/app_ColorAcitonbarTitleTextStyle</item>
+    </style>
+    <style name="TextAppearance.Switch" parent="@android:style/TextAppearance.Holo.Widget.Switch">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textColor">@color/switchbar_text_color</item>
+        <item name="android:textAllCaps">true</item>
+    </style>
+    <style name="Theme.SwitchBar.Settings" parent="@android:style/ThemeOverlay.Material.Dark.ActionBar">
+        <item name="switchBarMarginStart">@dimen/switchbar_margin_start</item>
+        <item name="switchBarMarginEnd">@dimen/switchbar_margin_end</item>
+    </style>
+</resources>

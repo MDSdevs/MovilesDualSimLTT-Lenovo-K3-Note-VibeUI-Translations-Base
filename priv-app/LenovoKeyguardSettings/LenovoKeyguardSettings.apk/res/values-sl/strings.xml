@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="user_nickname">Vzdevek</string>
+    <string name="show_owner_info_on_lockscreen_label">Prikaži lastnikove podatke na zaklenjenem zaslonu</string>
+    <string name="show_profile_info_on_lockscreen_label">Pokaži podatke o profilu na zaklenjenem zaslonu</string>
+    <string name="show_user_info_on_lockscreen_label">Pokaži podatke o uporabniku na zaklenjenem zaslonu</string>
+    <string name="lockpassword_confirm_your_pattern_header">Potrdite vzorec</string>
+    <string name="security_settings_title">Varnost</string>
+    <string name="security_passwords_title">Gesla</string>
+    <string name="show_password">Gesla so vidna</string>
+    <string name="lock_after_timeout">Samodejno zaklepanje</string>
+    <string name="lock_after_timeout_summary">%1$s po stanju pripravljenosti</string>
+    <string name="lock_after_timeout_summary_with_exception">%1$s po stanju pripravljenosti, razen ko %2$s poskrbi, da ostane odklenjen</string>
+    <string name="owner_info_settings_title">Lastnikovi podatki</string>
+    <string name="owner_info_settings_summary" />
+    <string name="owner_info_settings_edit_text_hint">Vnesite besedilo za prikaz na zaslonu za zaklepanje</string>
+    <string name="lock_settings_picker_title">Izberite zakl. zaslona</string>
+    <string name="biometric_weak_improve_matching_title">Izboljšano ujemanje obraza</string>
+    <string name="biometric_weak_liveliness_title">Preverjanje živosti</string>
+    <string name="biometric_weak_liveliness_summary">Pri odklepanju zahtevaj pomežik z očmi</string>
+    <string name="lockpassword_choose_your_password_header">Izberite geslo</string>
+    <string name="lockpassword_choose_your_pattern_header">Izberite vzorec</string>
+    <string name="lockpassword_choose_your_pin_header">Izberite kodo PIN</string>
+    <string name="lockpassword_confirm_passwords_dont_match">Gesli se ne ujemata</string>
+    <string name="lockpassword_confirm_pins_dont_match">Kodi PIN se ne ujemata</string>
+    <string name="lock_settings_title">Varnost zaslona</string>
+    <string name="lockpattern_change_lock_pattern_label">Spremeni vzorec za odklepanje</string>
+    <string name="lockpattern_change_lock_pin_label">Spremeni kodo PIN za odklepanje</string>
+    <string name="lockpattern_need_to_unlock">Potrdite shranjeni vzorec</string>
+    <string name="lockpattern_need_to_unlock_wrong">Poskusite znova:</string>
+    <string name="lockpattern_recording_intro_header">Nariši vzorec za odklepanje</string>
+    <string name="lockpattern_recording_intro_footer">Če želite pomoč, pritisnite meni.</string>
+    <string name="lockpattern_recording_inprogress">Ko končate, dvignite prst</string>
+    <string name="lockpattern_recording_incorrect_too_short">Povežite vsaj toliko pik: %d. Poskusite znova.</string>
+    <string name="lockpattern_pattern_entered_header">Vzorec je shranjen</string>
+    <string name="lockpattern_need_to_confirm">Znova narišite vzorec, da ga potrdite</string>
+    <string name="lockpattern_pattern_confirmed_header">Novi vzorec za odklepanje</string>
+    <string name="lockpattern_confirm_button_text">Potrdi</string>
+    <string name="lockpattern_restart_button_text">Ponovno nariši</string>
+    <string name="lockpattern_retry_button_text">Poskusi znova</string>
+    <string name="lockpattern_continue_button_text">Naprej</string>
+    <string name="lockpattern_settings_title">Vzorec za odklepanje</string>
+    <string name="lockpattern_settings_enable_title">Zahtevaj vzorec</string>
+    <string name="lockpattern_settings_enable_summary">Za odklepanje zaslona je treba narisati vzorec</string>
+    <string name="lockpattern_settings_enable_visible_pattern_title">Vzorec je viden</string>
+    <string name="lockpattern_settings_enable_tactile_feedback_title">Vibrira na dotik</string>
+    <string name="lockpattern_settings_enable_power_button_instantly_locks">Zaklepanje ob vklopu</string>
+    <string name="lockpattern_settings_power_button_instantly_locks_summary">Razen ko %1$s poskrbi, da ostane odklenjen</string>
+    <string name="lockpattern_settings_choose_lock_pattern">Nastavi vzorec za odklepanje</string>
+    <string name="lockpattern_settings_change_lock_pattern">Spremeni vzorec za odklepanje</string>
+    <string name="lockpattern_settings_help_how_to_record">Kako narisati vzorec za odklepanje</string>
+    <string name="lockpattern_too_many_failed_confirmation_attempts_header">Preveč napačnih poskusov!</string>
+    <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Čez %d sekund poskusite znova.</string>
+    <string name="unlock_set_unlock_launch_picker_title">Zaklepanje zaslona</string>
+    <string name="unlock_set_unlock_launch_picker_change_title">Sprememba zakl. zasl.</string>
+    <string name="unlock_set_unlock_launch_picker_change_summary">Spremeni ali onemogoči vzorec, kodo PIN ali varnost gesla</string>
+    <string name="unlock_set_unlock_launch_picker_enable_summary">Izberite način zaklepanja zaslona</string>
+    <string name="unlock_backup_info_summary">Kako želite odkleniti, če vas s funkcijo odklepanja z obrazom ni mogoče prepoznati?</string>
+    <string name="unlock_set_unlock_off_title">Brez</string>
+    <string name="unlock_set_unlock_off_summary" />
+    <string name="unlock_set_unlock_none_title">Vlečenje</string>
+    <string name="unlock_set_unlock_none_summary">Brez varnosti</string>
+    <string name="unlock_set_unlock_biometric_weak_title">Odklepanje z obrazom</string>
+    <string name="unlock_set_unlock_biometric_weak_summary">Nizka varnost, poskusno</string>
+    <string name="unlock_set_unlock_pattern_title">Vzorec</string>
+    <string name="unlock_set_unlock_pattern_summary">Srednja varnost</string>
+    <string name="unlock_set_unlock_pin_title">Koda PIN</string>
+    <string name="unlock_set_unlock_pin_summary">Srednja do visoka varnost</string>
+    <string name="unlock_set_unlock_password_title">Geslo</string>
+    <string name="unlock_set_unlock_password_summary">Visoka varnost</string>
+    <string name="unlock_set_unlock_disabled_summary">Onem. skrbnik, šifr. pravilnik shr. poverilnic</string>
+    <string name="unlock_set_unlock_mode_off">Brez</string>
+    <string name="unlock_set_unlock_mode_none">Vlečenje</string>
+    <string name="unlock_set_unlock_mode_biometric_weak">Odklepanje z obrazom</string>
+    <string name="unlock_set_unlock_mode_pattern">Vzorec</string>
+    <string name="unlock_set_unlock_mode_pin">Koda PIN</string>
+    <string name="unlock_set_unlock_mode_password">Geslo</string>
+    <string name="unlock_disable_lock_title">Izklopi zaklepanje zaslona</string>
+    <string name="unlock_disable_lock_pattern_summary">Odstrani vzorec za odklepanje</string>
+    <string name="unlock_disable_lock_pin_summary">Odstrani kodo PIN za odklepanje</string>
+    <string name="unlock_disable_lock_password_summary">Odstrani geslo za odklepanje</string>
+    <string name="unlock_change_lock_pattern_title">Spremeni vzorec za odklepanje</string>
+    <string name="unlock_change_lock_pin_title">Spremeni kodo PIN za odklepanje</string>
+    <string name="unlock_change_lock_password_title">Spremeni geslo za odklepanje</string>
+    <string name="keywords_lockscreen">podrsanje geslo vzorec pin</string>
+    <string name="switch_on_text">Vklopljeno</string>
+    <string name="switch_off_text">Izklopljeno</string>
+    <string name="screen_pinning_title">Pripenjanje zaslona</string>
+    <string name="screen_pinning_description">"Ko je ta nastavitev vklopljena, lahko omogočite, da je trenutni zaslon v napravi vedno viden.
+
+Pripenjanje zaslona:
+
+1. Vklopite to nastavitev.
+
+2. Odprite aplikacijo.
+
+3. Dotaknite se gumba »Nedavni«.
+
+4. Dotaknite se ikone žebljička."</string>
+    <string name="settings_safetylegal_activity_loading">Nalaganje …</string>
+    <string name="no_applications">Ni programov.</string>
+    <string name="help_label">Pomoč in povr. inf.</string>
+    <string name="lockpassword_ok_label">V redu</string>
+    <string name="lockpattern_tutorial_cancel_label">Prekliči</string>
+    <string name="lockpattern_tutorial_continue_label">Naprej</string>
+    <string name="lockpassword_confirm_your_pin_header">Potrdite kodo PIN</string>
+    <string name="lockpassword_confirm_your_password_header">Potrdite geslo</string>
+    <string name="cancel">Prekliči</string>
+    <string name="lock_screen_notifications_title">Ko je naprava zaklenjena</string>
+    <string name="lock_screen_notifications_summary_show">Pokaži vso vsebino obvestil</string>
+    <string name="lock_screen_notifications_summary_hide">Skrij občutljivo vsebino obvestil</string>
+    <string name="lock_screen_notifications_summary_disable">Ne prikazuj obvestil</string>
+    <string name="lock_screen_notifications_interstitial_message">Kako naj se obvestila prikazujejo, ko je naprava zaklenjena?</string>
+    <string name="app_notifications_dialog_done">Končano</string>
+    <string name="lockpassword_cancel_label">Prekliči</string>
+    <string name="lockpassword_password_too_long">Geslo mora imeti manj kot toliko znakov: %d.</string>
+    <string name="lockpassword_pin_too_long">PIN mora imeti manj kot toliko številk: %d.</string>
+    <string name="lockpassword_password_too_short">Geslo mora vsebovati vsaj %d znakov</string>
+    <string name="lockpassword_pin_too_short">Koda PIN mora biti vsaj %d-mestna</string>
+    <string name="lockpassword_press_continue">Ko končate, se dotaknite »Naprej«</string>
+    <string name="lockpassword_continue_label">Naprej</string>
+    <string name="lockpassword_pin_no_sequential_digits">Naraščajoč, padajoč ali ponavljajoč se niz števk je prepovedan</string>
+    <string name="lockpassword_pin_contains_non_digits">PIN lahko vsebuje samo števke od 0 do 9.</string>
+    <string name="lockpassword_pin_recently_used">Skrbnik naprave ne dovoli uporabe nedavne kode PIN.</string>
+    <string name="lockpassword_illegal_character">Geslo ima neveljaven znak.</string>
+    <string name="lockpassword_password_requires_alpha">Geslo mora vsebovati vsaj eno črko.</string>
+    <string name="lockpassword_password_requires_digit">Geslo mora imeti vsaj eno števko.</string>
+    <string name="lockpassword_password_requires_symbol">Geslo mora imeti vsaj en simbol.</string>
+    <string name="lockpassword_password_recently_used">Skrbnik naprave ne dovoli uporabe nedavnega gesla.</string>
+    <string name="backup_lock_settings_picker_title">Izberite varnostno zaklepanje</string>
+    <string name="profile_info_settings_title">Podatki o profilu</string>
+    <string name="user_info_settings_title">Podatki o uporabniku</string>
+    <string name="credential_storage_type_hardware">Strojna</string>
+    <string name="credential_storage_type_software">Samo programska</string>
+    <string name="error_title" />
+    <string name="lockpassword_choose_lock_generic_header">Izbira načina odklepanja</string>
+</resources>

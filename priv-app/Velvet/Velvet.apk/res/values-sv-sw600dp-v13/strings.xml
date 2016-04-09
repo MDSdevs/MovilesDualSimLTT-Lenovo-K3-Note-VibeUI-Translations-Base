@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="search_phone_or_tablet">Sök i surfplattan</string>
+    <string name="corpus_name_summons">Surfplatta</string>
+    <string name="search_sources">Pekdatorsökning</string>
+    <string name="no_summons_found">"Kunde inte hitta några resultat
+på surfplattan."</string>
+    <string name="hands_free_unlock_device">Lås upp surfplattan om du vill göra en röstsökning på Google.</string>
+    <string name="icing_manage_storage_summary">Vi snabbar upp sökningar på din surfplatta genom att tillhandahålla en sökmotor som kan användas i dina appar.</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="dialog_width_major">95</integer>
+    <integer name="editmode_base_ripple_delay">60</integer>
+    <integer name="editmode_ripple_random_delay">8</integer>
+    <integer name="indicator_anim">0</integer>
+    <integer name="def__indicator_anim">1</integer>
+    <integer name="follow_theme">2</integer>
+    <integer name="def_follow_theme">0</integer>
+</resources>

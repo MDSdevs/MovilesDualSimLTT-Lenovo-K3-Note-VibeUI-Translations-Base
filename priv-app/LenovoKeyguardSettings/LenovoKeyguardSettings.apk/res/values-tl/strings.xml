@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="user_nickname">Palayaw</string>
+    <string name="show_owner_info_on_lockscreen_label">Ipakita impo ng may-ari sa naka-lock na screen</string>
+    <string name="show_profile_info_on_lockscreen_label">Ipakita ang impormasyon ng profile sa lock screen</string>
+    <string name="show_user_info_on_lockscreen_label">Ipakita ang impormasyon ng user sa lock screen</string>
+    <string name="lockpassword_confirm_your_pattern_header">Kumpirmahin ang iyong pattern</string>
+    <string name="security_settings_title">Seguridad</string>
+    <string name="security_passwords_title">Mga Password</string>
+    <string name="show_password">Gawing nakikita ang mga password</string>
+    <string name="lock_after_timeout">Awtomatikong nagla-lock</string>
+    <string name="lock_after_timeout_summary">%1$s pagkatapos ng sleep</string>
+    <string name="lock_after_timeout_summary_with_exception">%1$s pagkatapos ng pag-sleep, maliban na lang kung pinanatiling naka-unlock ng %2$s</string>
+    <string name="owner_info_settings_title">Info ng may-ari</string>
+    <string name="owner_info_settings_summary" />
+    <string name="owner_info_settings_edit_text_hint">Mag-type ng teksto upang maipakita sa lock screen</string>
+    <string name="lock_settings_picker_title">Pumili ng screen lock</string>
+    <string name="biometric_weak_improve_matching_title">Pahusayin ang pagtutugma ng mukha</string>
+    <string name="biometric_weak_liveliness_title">Pagsusuri sa liveness</string>
+    <string name="biometric_weak_liveliness_summary">Hilingin ang pagkurap ng mata habang ina-unlock</string>
+    <string name="lockpassword_choose_your_password_header">Piliin ang iyong password</string>
+    <string name="lockpassword_choose_your_pattern_header">Piliin ang iyong pattern</string>
+    <string name="lockpassword_choose_your_pin_header">Piliin ang iyong PIN</string>
+    <string name="lockpassword_confirm_passwords_dont_match">Hindi tumutugma ang mga password</string>
+    <string name="lockpassword_confirm_pins_dont_match">Hindi tugma ang mga PIN</string>
+    <string name="lock_settings_title">Seguridad ng screen</string>
+    <string name="lockpattern_change_lock_pattern_label">Baguhin ang naka-unlock na pattern</string>
+    <string name="lockpattern_change_lock_pin_label">Baguhin ang naka-unlock na PIN</string>
+    <string name="lockpattern_need_to_unlock">Kumpirmahin ang naka-save na pattern</string>
+    <string name="lockpattern_need_to_unlock_wrong">Subukang muli:</string>
+    <string name="lockpattern_recording_intro_header">Kunin ang naka-unlock pattern</string>
+    <string name="lockpattern_recording_intro_footer">Pindutin ang Menu para sa tulong.</string>
+    <string name="lockpattern_recording_inprogress">I-angat ang daliri kapag tapos na</string>
+    <string name="lockpattern_recording_incorrect_too_short">Pagdugtungin ang hindi bababa sa %d (na) tuldok. Subukang muli.</string>
+    <string name="lockpattern_pattern_entered_header">Na-record na ang pattern</string>
+    <string name="lockpattern_need_to_confirm">Muling iguhit ang pattern upang kumpirmahin</string>
+    <string name="lockpattern_pattern_confirmed_header">Ang iyong bagong pattern sa pag-unlock</string>
+    <string name="lockpattern_confirm_button_text">Kumpirmahin</string>
+    <string name="lockpattern_restart_button_text">I-redraw</string>
+    <string name="lockpattern_retry_button_text">Muling subukan</string>
+    <string name="lockpattern_continue_button_text">Magpatuloy</string>
+    <string name="lockpattern_settings_title">I-unlock ang pattern</string>
+    <string name="lockpattern_settings_enable_title">Nangangailangan ng pattern</string>
+    <string name="lockpattern_settings_enable_summary">Dapat kang kumuha ng pattern upang ma-unlock ang screen</string>
+    <string name="lockpattern_settings_enable_visible_pattern_title">Gawing nakikita ang pattern</string>
+    <string name="lockpattern_settings_enable_tactile_feedback_title">Mag-vibrate sa pagpindot</string>
+    <string name="lockpattern_settings_enable_power_button_instantly_locks">Instant lock power button</string>
+    <string name="lockpattern_settings_power_button_instantly_locks_summary">Maliban na lang kung pinanatiling naka-unlock ng %1$s</string>
+    <string name="lockpattern_settings_choose_lock_pattern">Itakda ang naka-unlock na pattern</string>
+    <string name="lockpattern_settings_change_lock_pattern">Baguhin ang naka-unlock na pattern</string>
+    <string name="lockpattern_settings_help_how_to_record">Paano kumuha ng isang naka-unlock na pattern</string>
+    <string name="lockpattern_too_many_failed_confirmation_attempts_header">Masyadong maraming maling pagtatangka!</string>
+    <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Subukang muli sa loob ng %d (na) segundo.</string>
+    <string name="unlock_set_unlock_launch_picker_title">I-screen lock</string>
+    <string name="unlock_set_unlock_launch_picker_change_title">Baguhin ang lock ng screen</string>
+    <string name="unlock_set_unlock_launch_picker_change_summary">Baguhin o huwag paganahin ang pattern, PIN, o seguridad ng password</string>
+    <string name="unlock_set_unlock_launch_picker_enable_summary">Pumili ng paraan ng pag-lock ng screen</string>
+    <string name="unlock_backup_info_summary">Kapag hindi ka makita ng Face Unlock, paano mo nais na mag-unlock?</string>
+    <string name="unlock_set_unlock_off_title">Wala</string>
+    <string name="unlock_set_unlock_off_summary" />
+    <string name="unlock_set_unlock_none_title">Mag-swipe</string>
+    <string name="unlock_set_unlock_none_summary">Walang seguridad</string>
+    <string name="unlock_set_unlock_biometric_weak_title">Face Unlock</string>
+    <string name="unlock_set_unlock_biometric_weak_summary">Mababang seguridad, pang-eksperimento</string>
+    <string name="unlock_set_unlock_pattern_title">Pattern</string>
+    <string name="unlock_set_unlock_pattern_summary">Katamtamang seguridad</string>
+    <string name="unlock_set_unlock_pin_title">PIN</string>
+    <string name="unlock_set_unlock_pin_summary">Katamtaman hanggang mataas na seguridad</string>
+    <string name="unlock_set_unlock_password_title">Password</string>
+    <string name="unlock_set_unlock_password_summary">Mataas na seguridad</string>
+    <string name="unlock_set_unlock_disabled_summary">Hindi pinagana ng administrator, patakaran sa pag-encrypt, o storage ng kredensyal</string>
+    <string name="unlock_set_unlock_mode_off">Wala</string>
+    <string name="unlock_set_unlock_mode_none">Mag-swipe</string>
+    <string name="unlock_set_unlock_mode_biometric_weak">Face Unlock</string>
+    <string name="unlock_set_unlock_mode_pattern">Pattern</string>
+    <string name="unlock_set_unlock_mode_pin">PIN</string>
+    <string name="unlock_set_unlock_mode_password">Password</string>
+    <string name="unlock_disable_lock_title">I-off ang lock ng screen</string>
+    <string name="unlock_disable_lock_pattern_summary">Alisin ang naka-unlock na pattern</string>
+    <string name="unlock_disable_lock_pin_summary">Alisin ang naka-unlock na PIN</string>
+    <string name="unlock_disable_lock_password_summary">Alisin ang password na pang-unlock</string>
+    <string name="unlock_change_lock_pattern_title">Baguhin ang naka-unlock na pattern</string>
+    <string name="unlock_change_lock_pin_title">Palitan ang PIN na pang-unlock</string>
+    <string name="unlock_change_lock_password_title">Baguhin ang naka-unlock na password</string>
+    <string name="keywords_lockscreen">i-slide password pattern pin</string>
+    <string name="switch_on_text">Naka-on</string>
+    <string name="switch_off_text">Naka-off</string>
+    <string name="screen_pinning_title">Pagpi-pin ng screen</string>
+    <string name="screen_pinning_description">"Kapag naka-on ang setting na ito, mailalagay mo ang device sa isang estado kung saan palaging naka-on ang kasalukuyang screen na tinitingnan.
+
+Upang mag-pin ng screen:
+
+1. I-on ang setting na ito.
+
+2. Magbukas ng isang app.
+
+3. Pindutin ang button na Mga Kamakailang Ginamit.
+
+4. Pindutin ang icon na pin."</string>
+    <string name="settings_safetylegal_activity_loading">Naglo-load…</string>
+    <string name="no_applications">Walang apps.</string>
+    <string name="help_label">Tulong at feedback</string>
+    <string name="lockpassword_ok_label">OK</string>
+    <string name="lockpattern_tutorial_cancel_label">Kanselahin</string>
+    <string name="lockpattern_tutorial_continue_label">Susunod</string>
+    <string name="lockpassword_confirm_your_pin_header">Kumpirmahin ang iyong PIN</string>
+    <string name="lockpassword_confirm_your_password_header">Kumpirmahin ang iyong password</string>
+    <string name="cancel">Kanselahin</string>
+    <string name="lock_screen_notifications_title">Kapag naka-lock ang device</string>
+    <string name="lock_screen_notifications_summary_show">Ipakita ang lahat ng nilalaman ng notification</string>
+    <string name="lock_screen_notifications_summary_hide">Itago ang sensitibong nilalaman ng notification</string>
+    <string name="lock_screen_notifications_summary_disable">Ganap na huwag magpakita ng mga notification</string>
+    <string name="lock_screen_notifications_interstitial_message">Kapag naka-lock ang device, paano mo gustong maipakita ang mga notification?</string>
+    <string name="app_notifications_dialog_done">Tapos na</string>
+    <string name="lockpassword_cancel_label">Kanselahin</string>
+    <string name="lockpassword_password_too_long">Dapat mas kaunti sa %d (na) character ang password.</string>
+    <string name="lockpassword_pin_too_long">Ang PIN ay dapat na mas kaunti sa %d (na) digit.</string>
+    <string name="lockpassword_password_too_short">Dapat hindi bababa sa %d (na) character ang password</string>
+    <string name="lockpassword_pin_too_short">Ang PIN ay hindi dapat bababa sa %d (na) digit</string>
+    <string name="lockpassword_press_continue">Pindutin ang Magpatuloy kapag tapos na</string>
+    <string name="lockpassword_continue_label">Magpatuloy</string>
+    <string name="lockpassword_pin_no_sequential_digits">Ipinagbabawal ang pataas, pababa o paulit-ulit na pagkakasunud-sunod ng mga digit</string>
+    <string name="lockpassword_pin_contains_non_digits">Dapat lamang maglaman ng mga digit na 0-9 ang PIN.</string>
+    <string name="lockpassword_pin_recently_used">Hindi pinapayagan ng administrator ng device ang paggamit ng kamakailang PIN.</string>
+    <string name="lockpassword_illegal_character">Naglalaman ng ilegal na character ang password.</string>
+    <string name="lockpassword_password_requires_alpha">Dapat na maglaman ng hindi bababa sa isang titik ang password.</string>
+    <string name="lockpassword_password_requires_digit">Dapat na maglaman ng hindi bababa sa isang digit ang password.</string>
+    <string name="lockpassword_password_requires_symbol">Dapat na maglaman ng hindi bababa sa isang simbolo ang password.</string>
+    <string name="lockpassword_password_recently_used">Hindi pinapayagan ng administrator ng device ang paggamit ng kamakailang password.</string>
+    <string name="backup_lock_settings_picker_title">Pumili ng backup na lock</string>
+    <string name="profile_info_settings_title">Info ng profile</string>
+    <string name="user_info_settings_title">Impormasyon ng user</string>
+    <string name="credential_storage_type_hardware">Hardware-backed</string>
+    <string name="credential_storage_type_software">Software lang</string>
+    <string name="error_title" />
+    <string name="lockpassword_choose_lock_generic_header">I-unlock ang pagpipilian</string>
+</resources>

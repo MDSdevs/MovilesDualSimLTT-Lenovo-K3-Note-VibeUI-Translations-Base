@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="widget_time_padding_top">56.0dip</dimen>
+    <dimen name="alert_text_space">5.0dip</dimen>
+    <dimen name="alert_icon_size">24.0dip</dimen>
+    <dimen name="appMainPageIndicatorHeight">50.0dip</dimen>
+    <dimen name="appMenuShareItemHeigh">52.0dip</dimen>
+</resources>

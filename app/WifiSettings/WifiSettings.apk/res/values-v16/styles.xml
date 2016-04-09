@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="setup_wizard_navbar_button_style" parent="@android:style/Widget.Material.Button.Borderless">
+        <item name="android:textSize">@dimen/setup_wizard_navbar_text_size</item>
+        <item name="android:textColor">?setup_wizard_navbar_text_color</item>
+        <item name="android:background">@drawable/setup_wizard_navbar_btn_bg</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:minWidth">0.0dip</item>
+        <item name="android:drawablePadding">@dimen/setup_wizard_navbar_button_drawable_padding</item>
+        <item name="android:layout_weight">0.0</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+    <style name="OobeSetupTitle">
+        <item name="android:textSize">@dimen/oobe_setup_title_size</item>
+        <item name="android:textColor">@color/title_color</item>
+        <item name="android:clickable">false</item>
+        <item name="android:longClickable">false</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+    </style>
+    <style name="SetupTitle">
+        <item name="android:textSize">@dimen/setup_title_size</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:paddingTop">@dimen/setup_title_padding_top</item>
+        <item name="android:paddingBottom">@dimen/setup_title_padding_bottom</item>
+        <item name="android:clickable">false</item>
+        <item name="android:longClickable">false</item>
+        <item name="android:layout_marginBottom">@dimen/setup_title_margin_bottom</item>
+        <item name="android:lineSpacingExtra">@dimen/setup_title_line_spacing_extra</item>
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+    <style name="SetupAddWifiNetwork">
+        <item name="android:textAppearance">@android:style/TextAppearance.Small</item>
+        <item name="android:textColor">?android:colorAccent</item>
+        <item name="android:gravity">start|center</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+    </style>
+</resources>

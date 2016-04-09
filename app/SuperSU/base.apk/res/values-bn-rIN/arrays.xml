@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="appdetail_access_items">
+        <item>জিজ্ঞাসা করবে</item>
+        <item>অনুমোদন দেবে</item>
+        <item>Deny</item>
+    </string-array>
+    <string-array name="appdetail_access_items_pro">
+        <item>Prompt</item>
+        <item>Grant</item>
+        <item>Grant+Time</item>
+        <item>Deny</item>
+        <item>Deny+Time</item>
+    </string-array>
+    <string-array name="appdetail_logging_items">
+        <item>গ্লোবাল ডিফল্ট</item>
+        <item>সম্পূর্ণ বিষয়বস্ত</item>
+        <item>শুধু প্রবেশাধিকার</item>
+        <item>None</item>
+    </string-array>
+    <string-array name="appdetail_notification_items">
+        <item>Global default</item>
+        <item>সক্ষম</item>
+        <item>অক্ষম</item>
+    </string-array>
+    <string-array name="expire_timer">
+        <item>Indefinitely</item>
+        <item>১ মিনিট</item>
+        <item>৫ মিনিট</item>
+        <item>১৫ মিনিট</item>
+        <item>৩০ মিনিট</item>
+        <item>১ ঘন্টা</item>
+        <item>৩ ঘন্টা</item>
+        <item>৬ ঘন্টা</item>
+        <item>১২ ঘন্টা</item>
+        <item>২৪ ঘন্টা</item>
+    </string-array>
+    <string-array name="settings_default_access_items">
+        <item>জলদি</item>
+        <item>স্বীকার</item>
+        <item>অস্বীকার</item>
+    </string-array>
+    <string-array name="settings_log_age_items">
+        <item>কখনো না</item>
+        <item>২ সপ্তাহ</item>
+        <item>১ সপ্তাহ</item>
+        <item>৩ দিন</item>
+        <item>২ দিন</item>
+        <item>১ দিন</item>
+    </string-array>
+    <string-array name="settings_log_format_items">
+        <item>৩১/১২ ২৩:৫৯</item>
+        <item>৩১/১২ ২৩:৫৯</item>
+        <item>৩১/১২ ২৩:৫৯</item>
+        <item>12/31 11:59 PM</item>
+    </string-array>
+    <string-array name="settings_log_items">
+        <item>Full content</item>
+        <item>Access only</item>
+        <item>কিসুই না</item>
+    </string-array>
+</resources>

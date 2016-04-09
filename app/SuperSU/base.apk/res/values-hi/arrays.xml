@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="appdetail_access_items">
+        <item>सूचितकरे</item>
+        <item>अनुमति दें.</item>
+        <item>इनकार करें</item>
+    </string-array>
+    <string-array name="appdetail_access_items_pro">
+        <item>सूचितकरे</item>
+        <item>अनुमति दे</item>
+        <item>अनुमति+समय</item>
+        <item>मना करे</item>
+        <item>मना करें+समय</item>
+    </string-array>
+    <string-array name="appdetail_logging_items">
+        <item>ग्लोबल डिफ़ॉल्ट.</item>
+        <item>पूर्ण सामग्री</item>
+        <item>फ़क्तप्रवेश</item>
+        <item>कोईनहीं</item>
+    </string-array>
+    <string-array name="appdetail_notification_items">
+        <item>ग्लोबल डिफ़ॉल्ट</item>
+        <item>सक्रिय</item>
+        <item>असक्रिय</item>
+    </string-array>
+    <string-array name="expire_timer">
+        <item>अनिश्चित</item>
+        <item>1 मिनट</item>
+        <item>5 मिनट</item>
+        <item>15 मिनट</item>
+        <item>30 मिनट</item>
+        <item>1 घंटा</item>
+        <item>3 घंटे</item>
+        <item>6 घंटे</item>
+        <item>12 घंटे</item>
+        <item>24 घंटे</item>
+    </string-array>
+    <string-array name="settings_default_access_items">
+        <item>सूचितकरे</item>
+        <item>अनुमतिदे</item>
+        <item>इनकारकरे</item>
+    </string-array>
+    <string-array name="settings_log_age_items">
+        <item>कभीनहीं</item>
+        <item>2 सप्ताह</item>
+        <item>1 सप्ताह</item>
+        <item>3 दिन</item>
+        <item>2 दिन</item>
+        <item>1 दिन</item>
+    </string-array>
+    <string-array name="settings_log_format_items">
+        <item>३१/१२-२३:५९</item>
+        <item>१२/३१-२३:५९</item>
+        <item>३१/१२-रात-११:५९-बजे</item>
+        <item>१२/३१-रात-११:५९-बजे</item>
+    </string-array>
+    <string-array name="settings_log_items">
+        <item>पूर्णसामग्री</item>
+        <item>फ़क्तप्रवेश</item>
+        <item>कोईनहीं</item>
+    </string-array>
+</resources>

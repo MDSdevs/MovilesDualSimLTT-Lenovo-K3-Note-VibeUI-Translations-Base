@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="city_oper_items">
+        <item>设为默认城市</item>
+        <item>删除该城市</item>
+    </string-array>
+    <string-array name="search_engines">
+        <item>baidu</item>
+        <item>google</item>
+        <item>bing_zh_CN</item>
+    </string-array>
+    <string-array name="search_engines_cmcc">
+        <item>baidu</item>
+        <item>cmcc_zh_CN</item>
+    </string-array>
+    <string-array name="pref_slide_effect_choices">
+        <item>波浪</item>
+        <item>旋转</item>
+        <item>推压</item>
+        <item>风车</item>
+        <item>立方体</item>
+        <item>经典</item>
+        <item>圆柱体</item>
+        <item>向下旋转</item>
+        <item>立方体内部</item>
+        <item>立方体外部</item>
+        <item>旋转木马</item>
+        <item>弹跳</item>
+        <item>翻转</item>
+        <item>翻滚</item>
+        <item>百叶窗</item>
+        <item>随机</item>
+    </string-array>
+    <string-array name="pref_gesture_choices">
+        <item>无</item>
+        <item>打开桌面菜单</item>
+        <item>显示最近打开应用</item>
+        <item>打开通知栏</item>
+        <item>找图标</item>
+        <item>锁屏</item>
+        <item>屏幕管理</item>
+        <item>发现</item>
+    </string-array>
+</resources>

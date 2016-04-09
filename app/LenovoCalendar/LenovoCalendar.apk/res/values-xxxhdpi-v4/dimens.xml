@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="ab_divider_size">2.0px</dimen>
+    <dimen name="fb_divider_size">2.0px</dimen>
+    <dimen name="fb_bottom_btn_height">58.0dip</dimen>
+    <dimen name="fb_contacts_title_edit_margin">6.0dip</dimen>
+    <dimen name="fb_contacts_edit_nexttitle_margin">18.0dip</dimen>
+    <dimen name="fb_im_info_between_margin">3.0dip</dimen>
+    <dimen name="fb_im_info_top_margin">12.0dip</dimen>
+</resources>

@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="duration_in_hours">
+        <item quantity="other">%1$d saat</item>
+        <item quantity="one">%1$d saat</item>
+    </plurals>
+    <plurals name="duration_in_hours_short">
+        <item quantity="other">%1$d saat</item>
+        <item quantity="one">%1$d saat</item>
+    </plurals>
+    <plurals name="duration_in_minutes">
+        <item quantity="other">%1$d dəqiqə</item>
+        <item quantity="one">%1$d dəqiqə</item>
+    </plurals>
+    <plurals name="duration_in_minutes_short">
+        <item quantity="other">%1$d dəq</item>
+        <item quantity="one">%1$d dəq</item>
+    </plurals>
+    <plurals name="duration_in_days">
+        <item quantity="other">%1$d gün</item>
+        <item quantity="one">%1$d gün</item>
+    </plurals>
+    <plurals name="duration_in_days_short">
+        <item quantity="other">%1$d gün</item>
+        <item quantity="one">%1$d gün</item>
+    </plurals>
+    <plurals name="duration_in_months">
+        <item quantity="other">%1$d ay</item>
+        <item quantity="one">%1$d ay</item>
+    </plurals>
+    <plurals name="duration_in_months_short">
+        <item quantity="other">%1$d ay</item>
+        <item quantity="one">%1$d ay</item>
+    </plurals>
+    <plurals name="duration_in_years">
+        <item quantity="other">%1$d il</item>
+        <item quantity="one">%1$d il</item>
+    </plurals>
+    <plurals name="duration_in_years_short">
+        <item quantity="other">%1$d il</item>
+        <item quantity="one">%1$d il</item>
+    </plurals>
+    <plurals name="items_from_without_colon">
+        <item quantity="other">Buradan %1$d element:</item>
+        <item quantity="one">Buradan %1$d element:</item>
+    </plurals>
+    <plurals name="last_bus_home_departure_time">
+        <item quantity="other">Evə gedən son avtobus %2$s%1$d dəqiqə%3$s ərzində olacaq</item>
+        <item quantity="one">Evə gedən son avtobus %2$s%1$d dəqiqə%3$s ərzində olacaq</item>
+    </plurals>
+    <plurals name="last_bus_to_hotel_departure_time">
+        <item quantity="other">Mehmanxanaya gedən son avtobus %2$s%1$d dəqiqə%3$s ərzində olacaq</item>
+        <item quantity="one">Mehmanxanaya gedən son avtobus %2$s%1$d dəqiqə%3$s ərzində olacaq</item>
+    </plurals>
+    <plurals name="last_train_home_departure_time">
+        <item quantity="other">Evə gedən son qatar %2$s%1$d dəqiqə%3$s ərzində olacaq</item>
+        <item quantity="one">Evə gedən son qatar %2$s1 dəqiqə%3$s ərzində olacaq</item>
+    </plurals>
+    <plurals name="last_train_to_hotel_departure_time">
+        <item quantity="other">Otelə gedən son qatar %2$s%1$d dəqiqə%3$s ərzində olacaq</item>
+        <item quantity="one">Otelə gedən son qatar %2$s1 dəqiqə%3$s ərzində olacaq</item>
+    </plurals>
+    <plurals name="last_transit_home_departure_time">
+        <item quantity="other">Evə gedən son marşrut %2$s%1$d dəqiqə%3$s ərzində olacaq</item>
+        <item quantity="one">Evə gedən son marşrut %2$s%1$d dəqiqə%3$s ərzində olacaq</item>
+    </plurals>
+    <plurals name="last_transit_to_hotel_departure_time">
+        <item quantity="other">Mehmanxanaya gedən son marşrut %2$s%1$d dəqiqə%3$s ərzində olacaq</item>
+        <item quantity="one">Mehmanxanaya gedən son marşrut %2$s%1$d dəqiqə%3$s ərzində olacaq</item>
+    </plurals>
+    <plurals name="transit_next_line_departure_subtext_no_platform">
+        <item quantity="other">%2$s stansiyasına %1$d dəqiqə ərzində piyada gedin</item>
+        <item quantity="one">%2$s stansiyasına 1 dəqiqə ərzində piyada gedin</item>
+    </plurals>
+    <plurals name="minutes_delay">
+        <item quantity="other">%1$d dəqiqə gecikmə</item>
+        <item quantity="one">1 dəqiqə gecikmə</item>
+    </plurals>
+    <plurals name="minutes_delay_more_than_usual">
+        <item quantity="other">Adi haldan %1$d dəqiqə çox</item>
+        <item quantity="one">Adi haldan 1 dəqiqə çox</item>
+    </plurals>
+    <plurals name="minutes_delay_less_than_usual">
+        <item quantity="other">Adi haldan %1$d dəqiqə az</item>
+        <item quantity="one">Adi haldan 1 dəqiqə az</item>
+    </plurals>
+    <plurals name="usual_traffic_minutes_delay">
+        <item quantity="other">Normal hərəkət: %1$d dəqiqə gecikmə</item>
+        <item quantity="one">Normal hərəkət: 1 dəqiqə gecikmə</item>
+    </plurals>
+    <plurals name="num_min_late">
+        <item quantity="other">%1$d dəqiqə gec</item>
+        <item quantity="one">1 dəqiqə gec</item>
+    </plurals>
+    <plurals name="num_min_early">
+        <item quantity="other">%1$d dəqiqə tez</item>
+        <item quantity="one">1 dəqiqə tez</item>
+    </plurals>
+    <plurals name="transit_interval_in_minutes">
+        <item quantity="other">· hər %1$s dəqiqə</item>
+        <item quantity="one">· hər %1$s dəqiqə</item>
+    </plurals>
+    <plurals name="transit_interval_in_hours">
+        <item quantity="other">· hər %1$d saat</item>
+        <item quantity="one">· hər %1$d saat</item>
+    </plurals>
+    <plurals name="qp_transit_interval_in_minutes">
+        <item quantity="other">Hər %1$s dəqiqə</item>
+        <item quantity="one">Hər %1$s dəqiqə</item>
+    </plurals>
+    <plurals name="qp_transit_interval_in_hours">
+        <item quantity="other">Hər %1$d saat</item>
+        <item quantity="one">Hər %1$d saat</item>
+    </plurals>
+    <plurals name="sports_overtime_period_header">
+        <item quantity="other">%1$dƏlavə vaxt</item>
+        <item quantity="one">Əlavə vaxt</item>
+    </plurals>
+    <plurals name="time_to_leave_user_arrival_generic">
+        <item quantity="other">%1$d dəqiqə tez çatın</item>
+        <item quantity="one">%1$d dəqiqə tez çatın</item>
+    </plurals>
+    <plurals name="time_to_leave_user_arrival_flight">
+        <item quantity="other">Yola düşmədən %1$d dəqiqə əvvəl çatın</item>
+        <item quantity="one">Yola düşmədən %1$d dəqiqə əvvəl çatın</item>
+    </plurals>
+    <plurals name="time_to_leave_user_arrival_reservation">
+        <item quantity="other">Rezervasiyadan %1$d dəqiqə əvvəl çatın</item>
+        <item quantity="one">Rezervasiyadan %1$d dəqiqə əvvəl çatın</item>
+    </plurals>
+    <plurals name="time_to_leave_user_arrival_movie">
+        <item quantity="other">Filmdən %1$d dəqiqə əvvəl çatın</item>
+        <item quantity="one">Filmdən %1$d dəqiqə əvvəl çatın</item>
+    </plurals>
+    <plurals name="time_to_leave_user_arrival_concert">
+        <item quantity="other">Konsertdən %1$d dəqiqə əvvəl çatın</item>
+        <item quantity="one">Konsertdən %1$d dəqiqə əvvəl çatın</item>
+    </plurals>
+    <plurals name="email_everyone">
+        <item quantity="other">Hər kəsə e-məktub göndərin (%1$d)</item>
+        <item quantity="one">Hər kəsə e-məktub göndərin (%1$d)</item>
+    </plurals>
+    <plurals name="card_count">
+        <item quantity="other">%1$d kart</item>
+        <item quantity="one">1 kart</item>
+    </plurals>
+    <plurals name="num_movie_tickets">
+        <item quantity="other">%1$d bilet</item>
+        <item quantity="one">%1$d bilet</item>
+    </plurals>
+    <plurals name="qp_hotel_reservation_length">
+        <item quantity="other">%1$d gecəlik otaq rezervasiyası</item>
+        <item quantity="one">%1$d gecəlik otaq rezervasiyası</item>
+    </plurals>
+    <plurals name="reminders">
+        <item quantity="other">%1$d xatırladıcı</item>
+        <item quantity="one">%1$d xatırladıcı</item>
+    </plurals>
+    <plurals name="number_of_location_sharers">
+        <item quantity="other">%1$d nəfər Sizinlə paylaşır</item>
+        <item quantity="one">%1$d nəfər Sizinlə paylaşır</item>
+    </plurals>
+    <plurals name="expiring_duration_in_days">
+        <item quantity="other">%1$d gün ərzində vaxtı bitir</item>
+        <item quantity="one">%1$d gün ərzində vaxtı bitir</item>
+    </plurals>
+    <plurals name="expiring_duration_in_hours">
+        <item quantity="other">%1$d saat ərzində vaxtı bitir</item>
+        <item quantity="one">%1$d saat ərzində vaxtı bitir</item>
+    </plurals>
+    <plurals name="expiring_duration_in_minutes">
+        <item quantity="other">%1$d dəqiqə ərzində vaxtı bitir</item>
+        <item quantity="one">%1$d dəqiqə ərzində vaxtı bitir</item>
+    </plurals>
+    <plurals name="view_count">
+        <item quantity="other">%1$,d baxış</item>
+        <item quantity="one">%1$,d baxış</item>
+    </plurals>
+    <plurals name="transportation_seat">
+        <item quantity="other">%1$d Oturacaq</item>
+        <item quantity="one">Oturacaq</item>
+    </plurals>
+    <plurals name="more_directions">
+        <item quantity="other">daha + %1$d istiqamət</item>
+        <item quantity="one">daha + %1$d istiqamət</item>
+    </plurals>
+    <plurals name="time_duration_spoken_hour">
+        <item quantity="other">%1$d saat</item>
+        <item quantity="one">1 saat</item>
+    </plurals>
+    <plurals name="time_duration_spoken_minute">
+        <item quantity="other">%1$d dəqiqə</item>
+        <item quantity="one">1 dəqiqə</item>
+    </plurals>
+    <plurals name="time_duration_spoken_second">
+        <item quantity="other">%1$d saniyə</item>
+        <item quantity="one">1 saniyə</item>
+    </plurals>
+    <plurals name="agenda_eyes_free_all_day_events">
+        <item quantity="other">%2$s %1$d bütün gün ərzində tədbiriniz var: %3$s.</item>
+        <item quantity="one">%2$s bütün gün ərzində tədbiriniz var: %3$s.</item>
+    </plurals>
+</resources>

@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="recurrence_freq">
+        <item>PHINDA NSUKU ZONKE</item>
+        <item>PHINDA NGEVIKI</item>
+        <item>PHINDA NGENYANGA</item>
+        <item>PHINDA NGONYAKA</item>
+    </string-array>
+    <string-array name="edit_recurrence">
+        <item>Awuphindi</item>
+        <item>Nsuku zonke</item>
+        <item>Njalo ngeviki</item>
+        <item>Njalo ngenyanga</item>
+        <item>Njalo ngonyaka</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>njalo ngeSonto lokuqala</item>
+        <item>njalo ngeSonto lesibili</item>
+        <item>njalo ngeSonto lesithathu</item>
+        <item>njalo ngeSonto lesine</item>
+        <item>njalo ngeSonto lokugcina</item>
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>njalo ngoMsombuluko wokuqala</item>
+        <item>njalo ngoMsombuluko wesibili</item>
+        <item>njalo ngoMsombuluko wesithathu</item>
+        <item>njalo ngoMsombuluko wesine</item>
+        <item>njalo ngoMsombuluko wokugcina</item>
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>njalo ngoLwesibili wokuqala</item>
+        <item>njalo ngoLwesibili wesibili</item>
+        <item>njalo ngoLwesibili wesithathu</item>
+        <item>njalo ngoLwesibili wesine</item>
+        <item>njalo ngoLwesibili wokugcina</item>
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>njalo ngoLwesithathu wokuqala</item>
+        <item>njalo ngoLwesithathu wesibili</item>
+        <item>njalo ngoLwesithathu wesithathu</item>
+        <item>njalo ngoLwesithathu wesine</item>
+        <item>njalo ngoLwesithathu wokugcina</item>
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>njalo ngoLwesine wokuqala</item>
+        <item>njalo ngoLwesine wesibili</item>
+        <item>njalo ngoLwesine wesithathu</item>
+        <item>njalo ngoLwesine wesine</item>
+        <item>njalo ngoLwesine wokugcina</item>
+    </string-array>
+    <string-array name="repeat_by_nth_fri">
+        <item>njalo ngoLwesihlanu wokuqala</item>
+        <item>njalo ngoLwesihlanu wesibili</item>
+        <item>njalo ngoLwesihlanu wesithathu</item>
+        <item>njalo ngoLwesihlanu wesine</item>
+        <item>njalo ngoLwesihlanu wokugcina</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>njalo ngoMgqibelo wokuqala</item>
+        <item>njalo ngoMgqibelo wesibili</item>
+        <item>njalo ngoMgqibelo wesithathu</item>
+        <item>njalo ngoMgqibelo wesine</item>
+        <item>njalo ngoMgqibelo wokugcina</item>
+    </string-array>
+    <string-array name="baseball_innings">
+        <item>I-ining engu-1</item>
+        <item>I-ining engu-2</item>
+        <item>I-ining engu-3</item>
+        <item>I-ining engu-4</item>
+        <item>I-ining engu-5</item>
+        <item>I-ining engu-6</item>
+        <item>I-ining engu-7</item>
+        <item>I-ining engu-8</item>
+        <item>I-ining engu-9</item>
+        <item>I-ining engu-10</item>
+        <item>I-ining engu-11</item>
+        <item>I-ining engu-12</item>
+    </string-array>
+    <string-array name="qp_top_baseball_innings">
+        <item>Ngaphezulu okungu-1</item>
+        <item>Ngaphezulu okungu-2</item>
+        <item>Ngaphezulu okungu-3</item>
+        <item>Ngaphezulu okungu-4</item>
+        <item>Ngaphezulu okungu-5</item>
+        <item>Ngaphezulu okungu-6</item>
+        <item>Ngaphezulu okungu-7</item>
+        <item>Ngaphezulu okungu-8</item>
+        <item>Ngaphezulu okungu-9</item>
+        <item>Ngaphezulu okungu-10</item>
+        <item>Ngaphezulu okungu-11</item>
+        <item>Ngaphezulu okungu-12</item>
+    </string-array>
+    <string-array name="qp_bottom_baseball_innings">
+        <item>I-bot engu-1</item>
+        <item>I-bot engu-2</item>
+        <item>I-bot engu-3</item>
+        <item>I-bot engu-4</item>
+        <item>I-bot engu-5</item>
+        <item>I-bot engu-6</item>
+        <item>I-bot engu-7</item>
+        <item>I-bot engu-8</item>
+        <item>I-bot engu-9</item>
+        <item>I-bot engu-10</item>
+        <item>I-bot engu-11</item>
+        <item>I-bot engu-12</item>
+    </string-array>
+    <string-array name="local_results_markers">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+    </string-array>
+    <string-array name="languageNames">
+        <item>Afrikaans (Ningizimu Afrika)</item>
+        <item>isi-Arabic (Algeria)</item>
+        <item>isi-Arabic (Egypt)</item>
+        <item>isi-Arabic (Iraq)</item>
+        <item>isi-Arabic (Israel)</item>
+        <item>isi-Arabic (Jordan)</item>
+        <item>isi-Arabic (Kuwait)</item>
+        <item>isi-Arabic (Lebanon)</item>
+        <item>isi-Arabic (Libya)</item>
+        <item>isi-Arabic (Morocco)</item>
+        <item>isi-Arabic (Qatar)</item>
+        <item>isi-Arabic (Saudi Arabia)</item>
+        <item>isi-Arabic (Sudan)</item>
+        <item>isi-Arabic (Syria)</item>
+        <item>isi-Arabic (Tunisia)</item>
+        <item>isi-Arabic (United Arab Emirates)</item>
+        <item>isi-Arabic (Yemen)</item>
+        <item>isi-Belarusian (Belarus)</item>
+        <item>isi-Bengali (Bangladesh)</item>
+        <item>isi-Bulgarian (Bulgaria)</item>
+        <item>Isi-Catalan (Spain)</item>
+        <item>Isi-Chinese, Mandarin (China, Simplified)</item>
+        <item>isi-Chinese, Mandarin (Hong Kong, Simplified)</item>
+        <item>Isi-Chinese, Mandarin (Hong Kong, Traditional)</item>
+        <item>Isi-Chinese, Mandarin (Singapore, Simplified)</item>
+        <item>isi-Chinese, Mandarin (Taiwan, Simplified)</item>
+        <item>Isi-Chinese, Mandarin (Taiwan, Traditional)</item>
+        <item>Isi-Chinese, Yue (China, Simplified)</item>
+        <item>isi-Chinese, Yue (Hong Kong, Traditional)</item>
+        <item>isi-Croatian (Croatia)</item>
+        <item>isi-Czech (Iriphabhulikhi yase-Czech)</item>
+        <item>isi-Danish (Denmark)</item>
+        <item>isi-Dutch (Belguim)</item>
+        <item>Isi-Dutch (Netherlands)</item>
+        <item>I-English (Generic)</item>
+        <item>IsiNgisi (Australia)</item>
+        <item>IsiNgisi (Bangladesh)</item>
+        <item>I-English (Canada)</item>
+        <item>IsiNgisi (Hong Kong)</item>
+        <item>IsiNgisi (India)</item>
+        <item>I-English (Ireland)</item>
+        <item>IsiNgisi (Kenya)</item>
+        <item>IsiNgisi (Malaysia)</item>
+        <item>I-English (New Zealand)</item>
+        <item>IsiNgisi (Nigeria)</item>
+        <item>IsiNgisi (Pakistan)</item>
+        <item>IsiNgisi (Philippines)</item>
+        <item>IsiNgisi (Singapore)</item>
+        <item>IsiNgisi (Ningizimu Afrika)</item>
+        <item>IsiNgisi (Sudan)</item>
+        <item>IsiNgisi (Tanzania)</item>
+        <item>IsiNgisi (Uganda)</item>
+        <item>IsiNgisi (UK)</item>
+        <item>I-English (US)</item>
+        <item>Isi-Estonia (Estonia)</item>
+        <item>isi-Filipino (Philippines)</item>
+        <item>isi-Finnish (Finland)</item>
+        <item>isi-French (Belgium)</item>
+        <item>isi-French (Canada)</item>
+        <item>isi-French (France)</item>
+        <item>isi-Frenchi (Switzerland)</item>
+        <item>isi-Galician (Spain)</item>
+        <item>isi-German (Austria)</item>
+        <item>isi-German (Germany)</item>
+        <item>isi-German (Switzerland)</item>
+        <item>isi-German (Liechtenstein)</item>
+        <item>isiGrikhi (Greece)</item>
+        <item>isiHebheru (Israel)</item>
+        <item>Isi-Hindi (India)</item>
+        <item>isi-Hungarian (Hungary)</item>
+        <item>isi-Icelandic (Iceland)</item>
+        <item>isi-Indonesian (Indonesia)</item>
+        <item>isi-Ireland (Ireland)</item>
+        <item>IsiNdebele (South Africa)</item>
+        <item>isiXhosa (Ningizimu Afrika)</item>
+        <item>IsiZulu (Ningizimu Afrika)</item>
+        <item>isi-Italian (Italy)</item>
+        <item>isi-Italian (Switzerland)</item>
+        <item>isi-Japanese (Japan)</item>
+        <item>isi-Korean (South Korea)</item>
+        <item>isi-Latvian (Latvia)</item>
+        <item>isi-Lithuanian (Lithuania)</item>
+        <item>Isi-Malay (Malaysia)</item>
+        <item>Isi-Malay (Singapore)</item>
+        <item>isi-Norwegian Bokmål (Norway)</item>
+        <item>isi-Norwegian Nynorsk (Norway)</item>
+        <item>isi-Persian (Iran)</item>
+        <item>isi-Polish (Poland)</item>
+        <item>Isi-Portuguese (Angola)</item>
+        <item>isi-Portuguese (Brazil)</item>
+        <item>isi-Portuguese (Portugal)</item>
+        <item>isi-Romanian (Romania)</item>
+        <item>isi-Russian (Belarus)</item>
+        <item>isi-Russian (Russia)</item>
+        <item>ISepedi (Ningizimu Afrika)</item>
+        <item>isi-Serbian (Serbia, Cyrillic)</item>
+        <item>ISesotho (Ningizimu Afrika)</item>
+        <item>ISetswana (Ningizimu Afrika)</item>
+        <item>IsiSwati (Ningizimu Afrika)</item>
+        <item>Isi-Slovakia (Slovakia)</item>
+        <item>isi-Slovenian (Slovenia)</item>
+        <item>isi-Spanish (Argentina)</item>
+        <item>isi-Spanish (Bolivia)</item>
+        <item>isi-Spanish (Chile)</item>
+        <item>isi-Spanish (Colombia)</item>
+        <item>isi-Spanish (Costa Rica)</item>
+        <item>isi-Spanish (Cuba)</item>
+        <item>isi-Spanish (Dominican Republic)</item>
+        <item>isi-Spanish (Ecuador)</item>
+        <item>isi-Spanish (El Salvador)</item>
+        <item>isi-Spanish (Guatemala)</item>
+        <item>isi-Spanish (Honduras)</item>
+        <item>isi-Spanish (Mexico)</item>
+        <item>isi-Spanish (Nicaragua)</item>
+        <item>isi-Spanish (Panama)</item>
+        <item>isi-Spanish (Paraguay)</item>
+        <item>isi-Sipanish (Peru)</item>
+        <item>isi-Spanish (Puerto Rico)</item>
+        <item>isi-Spanish (Spain)</item>
+        <item>isi-Spanish (US)</item>
+        <item>isi-Spanish (Uruguay)</item>
+        <item>isi-Spanish (Venezuela)</item>
+        <item>Isi-Swahili (Kenya)</item>
+        <item>Isi-Swahili (Tanzania)</item>
+        <item>Isi-Swahili (Uganda)</item>
+        <item>isi-Swedish (Finland)</item>
+        <item>isi-Swedish (Sweden)</item>
+        <item>Isi-Thai (Thailand)</item>
+        <item>Isi-Tshivenda (South Africa)</item>
+        <item>isi-Turkish (Turkey)</item>
+        <item>Isi-Ukrainian (Ukraine)</item>
+        <item>Isi-Urdu (Pakistan)</item>
+        <item>isi-Vietnannese (Vietnam)</item>
+        <item>Xitsonga (Ningizimu Afrika)</item>
+    </string-array>
+    <string-array name="edit_reminder_day">
+        <item>Namhlanje</item>
+        <item>Kusasa</item>
+        <item>Ngezikhathi ezithile</item>
+        <item>Setha idethi...</item>
+    </string-array>
+    <string-array name="edit_reminder_time">
+        <item>Ekuseni</item>
+        <item>Ntambama</item>
+        <item>Kusihlwa</item>
+        <item>Ebusuku</item>
+        <item>Usuku lonke</item>
+        <item>Setha isikhathi...</item>
+    </string-array>
+    <string-array name="edit_reminder_location_trigger_type">
+        <item>Fika</item>
+        <item>Hamba</item>
+    </string-array>
+    <string-array name="edit_reminder_location">
+        <item>Ekhaya</item>
+        <item>Umsebenzi</item>
+        <item>Setha indawo...</item>
+    </string-array>
+    <string-array name="network_error_tts_messages">
+        <item>Lolu xhumo lwe-inthanethi aluthembekile okwamanje.</item>
+        <item>Lolu xhumo lwe-inthanethi aluthembekile okwamanje.</item>
+        <item>Lolu xhumo lwe-inthanethi aluqinile okwamanje.</item>
+        <item>Lolu xhumo lwe-inthanethi aluqinile okwamanje.</item>
+        <item>Lolu xhumo lwe-inthanethi aluqinile okwamanje.</item>
+        <item>Lolu xhumo lwe-inthanethi aluqinile okwamanje.</item>
+    </string-array>
+    <string-array name="read_it_grammar">
+        <item>yifunde</item>
+        <item>funda umlayezo</item>
+        <item>funda lowo mbhalo</item>
+    </string-array>
+    <string-array name="reply_grammar">
+        <item>phendula</item>
+        <item>thumela impendulo</item>
+        <item>thumela impendulo</item>
+        <item>phendula umlayezo wombhalo</item>
+        <item>thumela impendulo kuyo</item>
+    </string-array>
+    <string-array name="call_back_grammar">
+        <item>phinda ushayele umthumeli womlayezo wokugcina</item>
+        <item>mshayele</item>
+        <item>phinda umshayele</item>
+        <item>mshayele</item>
+        <item>phinda umshayele</item>
+    </string-array>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="search_phone_or_tablet">Որոնել գրասալիկում</string>
+    <string name="corpus_name_summons">Գրասալիկ</string>
+    <string name="search_sources">Գրասալիկի որոնում</string>
+    <string name="no_summons_found">"Որևէ արդյունք չի գտնվել
+ձեր գրասալիկում:"</string>
+    <string name="hands_free_unlock_device">Google ձայնային որոնման համար ապակողպեք ձեր գրասալիկը:</string>
+    <string name="icing_manage_storage_summary">Մենք արագացրել ենք որոնումը ձեր գրասալիկում՝ որոնողական համակարգ տրամադրելով ձեր ծրագրերին:</string>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="content_grid_columns">8</integer>
+    <integer name="load_imgs_num">32</integer>
+    <integer name="column_land_gridview">9</integer>
+    <integer name="column_port_gridview">5</integer>
+    <integer name="column_episodes_count">5</integer>
+    <integer name="sort_series_count">30</integer>
+    <integer name="column_episodes_margin">-10</integer>
+    <integer name="suggest_hor_num">8</integer>
+    <integer name="image_fetcher_banner_width">1358</integer>
+    <integer name="image_fetcher_banner_height">520</integer>
+    <integer name="online_first_page_banner_item_width">1358</integer>
+    <integer name="online_first_page_banner_item_height">520</integer>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hesap Makinesi</string>
+    <string name="error">Hata</string>
+    <string name="advanced">Gelişmiş</string>
+    <string name="clear_history">Geçmişi temizle</string>
+    <string name="copy">Kopyala</string>
+    <string name="paste">Yapıştır</string>
+    <string name="only_digit">Yalnızca sayı yapıştırabilirsiniz</string>
+    <string name="basic">Temel</string>
+    <string name="copy_success">Kopyalandı</string>
+    <string name="full_input">Maksimum numara aşıldı</string>
+    <string name="Info">Bilgi</string>
+    <string name="Ok">Tamam</string>
+    <string name="Cancel">İptal</string>
+</resources>

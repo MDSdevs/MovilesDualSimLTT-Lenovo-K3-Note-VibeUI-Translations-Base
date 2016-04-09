@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="search_phone_or_tablet">టాబ్లెట్‌ను శోధించు</string>
+    <string name="corpus_name_summons">టాబ్లెట్</string>
+    <string name="search_sources">టాబ్లెట్ శోధన</string>
+    <string name="no_summons_found">"మీ టాబ్లెట్‌లో
+ఫలితాలు కనుగొనబడలేదు."</string>
+    <string name="hands_free_unlock_device">Google వాయిస్ శోధనను చేయడానికి, దయచేసి మీ టాబ్లెట్‌ను అన్‌లాక్ చేయండి.</string>
+    <string name="icing_manage_storage_summary">మీ అనువర్తనాలు ఉపయోగించడానికి శోధన ఇంజిన్‌ను అందించడం ద్వారా మేము మీ టాబ్లెట్‌లో శోధనను వేగవంతం చేస్తాము.</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="search_phone_or_tablet">டேப்லெட்டில் தேடு</string>
+    <string name="corpus_name_summons">டேப்லெட்</string>
+    <string name="search_sources">டேப்லெட் தேடல்</string>
+    <string name="no_summons_found">"டேப்லெட்டில்
+முடிவுகள் எதுவும் கண்டறியப்படவில்லை."</string>
+    <string name="hands_free_unlock_device">Google குரல் தேடலைச் செய்ய, டேப்லெட்டைத் திறக்கவும்.</string>
+    <string name="icing_manage_storage_summary">உங்கள் பயன்பாடுகள் பயன்படுத்த, தேடல் இன்ஜினை வழங்குவதன் மூலம் உங்கள் டேப்லெட்டில் தேடலைத் துரிதப்படுத்துகிறோம்.</string>
+</resources>

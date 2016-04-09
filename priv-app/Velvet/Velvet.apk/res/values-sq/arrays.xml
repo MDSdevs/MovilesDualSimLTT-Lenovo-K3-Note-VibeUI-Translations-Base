@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="baseball_innings">
+        <item>Periudha 1</item>
+        <item>Gjuajtja 2</item>
+        <item>Hyrja e 3-të në lojë</item>
+        <item>Hyrja e 4-t në lojë</item>
+        <item>Hyrja e 5-të në lojë</item>
+        <item>Gjuajtja e 6-të</item>
+        <item>Hyrja e 7-të në lojë</item>
+        <item>Gjuajtja 8</item>
+        <item>Periudha 9</item>
+        <item>Hyrja e 10-të në lojë</item>
+        <item>Gjuajtja 11</item>
+        <item>Periudha e 12-të</item>
+    </string-array>
+    <string-array name="qp_top_baseball_innings">
+        <item>Kulmi 1</item>
+        <item>Kulmi 2</item>
+        <item>Hyrja 3, pjesa e parë</item>
+        <item>Hyrja 4, pjesa e parë</item>
+        <item>Pjesa e parë, periudha 5</item>
+        <item>Hyrja 6, pjesa e parë</item>
+        <item>Kulmi 7</item>
+        <item>Kulmi 8</item>
+        <item>Kulmi 9</item>
+        <item>Hyrja 10, pjesa e parë</item>
+        <item>Kulmi 11</item>
+        <item>Kulmi 12</item>
+    </string-array>
+    <string-array name="qp_bottom_baseball_innings">
+        <item>Hyrja 1, pjesa e dytë</item>
+        <item>Fundi 2</item>
+        <item>Pjesa e dytë, periudha 3</item>
+        <item>Fundi 4</item>
+        <item>Fundi 5</item>
+        <item>Fundi 6</item>
+        <item>Hyrja 7, pjesa e dytë</item>
+        <item>Fundi 8</item>
+        <item>Hyrja 9, pjesa e dytë</item>
+        <item>Hyrja 10, pjesa e dytë</item>
+        <item>Fundi 11</item>
+        <item>Hyrja 12, pjesa e dytë</item>
+    </string-array>
+    <string-array name="local_results_markers">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>4x</item>
+        <item>Y</item>
+        <item>Z</item>
+    </string-array>
+    <string-array name="languageNames">
+        <item>afrikanisht (Afrika e Jugut)</item>
+        <item>arabisht (Algjeri)</item>
+        <item>arabisht (Egjipt)</item>
+        <item>arabisht (Irak)</item>
+        <item>arabisht (Izrael)</item>
+        <item>arabisht (Jordani)</item>
+        <item>arabisht (Kuvajt)</item>
+        <item>arabisht (Liban)</item>
+        <item>arabisht (Libi)</item>
+        <item>arabisht (Marok)</item>
+        <item>arabisht (Katar)</item>
+        <item>arabisht (Arabi Saudite)</item>
+        <item>arabisht (Sudan)</item>
+        <item>arabisht (Siri)</item>
+        <item>arabisht (Tunizi)</item>
+        <item>arabisht (Emiratet e Bashkuara Arabe)</item>
+        <item>arabisht (Jemen)</item>
+        <item>bjellorusisht (Bjellorusi)</item>
+        <item>bengalisht (Bangladesh)</item>
+        <item>bullgarisht (Bullgari)</item>
+        <item>katalonisht (Spanjë)</item>
+        <item>kinezishte, mandarine (Kinë, e thjeshtëzuar)</item>
+        <item>kinezisht, mandarine (Hong-Kong, e thjeshtëzuar)</item>
+        <item>kinezishte, mandarine (Hong-Kong, tradicionale)</item>
+        <item>kinezisht, mandarine (Singapor, e thjeshtësuar)</item>
+        <item>kinezishte, mandarine (Tajvan, e thjeshtëzuar)</item>
+        <item>kinezisht, mandarine (Tajvan, tradicionale)</item>
+        <item>kinezishte, jue (Kinë, e thjeshtëzuar)</item>
+        <item>kinezisht, Jue (Hong Kong, tradicionale)</item>
+        <item>kroatisht (Kroaci)</item>
+        <item>çekisht (Republika Çeke)</item>
+        <item>danisht (Danimarkë)</item>
+        <item>holandisht (Belgjikë)</item>
+        <item>holandisht (Holandë)</item>
+        <item>anglisht (gjenerike)</item>
+        <item>anglisht (Australi)</item>
+        <item>anglisht (Bangladesh)</item>
+        <item>anglisht (Kanada)</item>
+        <item>anglisht (Hong-Kong)</item>
+        <item>anglisht (Indi)</item>
+        <item>anglisht (Irlandë)</item>
+        <item>anglisht (Kenia)</item>
+        <item>anglisht (Malajzi)</item>
+        <item>anglisht (Zelanda e Re)</item>
+        <item>anglisht (Nigeri)</item>
+        <item>anglisht (Pakistan)</item>
+        <item>anglisht (Filipine)</item>
+        <item>anglisht (Singapor)</item>
+        <item>anglisht (Afrika e Jugut)</item>
+        <item>anglisht (Sudan)</item>
+        <item>anglisht (Tanzani)</item>
+        <item>anglisht (Ugandë)</item>
+        <item>anglisht (Mbretëria e Bashkuar)</item>
+        <item>anglisht (SHBA)</item>
+        <item>estonisht (Estoni)</item>
+        <item>filipinase (Filipine)</item>
+        <item>finlandisht (Finlandë)</item>
+        <item>frëngjisht (Belgjikë)</item>
+        <item>frëngjisht (Kanada)</item>
+        <item>frëngjisht (Francë)</item>
+        <item>frëngjisht (Zvicër)</item>
+        <item>galicianisht (Spanjë)</item>
+        <item>gjermanisht (Austri)</item>
+        <item>gjermanisht (Gjermani)</item>
+        <item>gjermanisht (Zvicër)</item>
+        <item>gjermanisht (Lihtenshtajn)</item>
+        <item>greqisht (Greqi)</item>
+        <item>hebraisht (Izrael)</item>
+        <item>hindisht (Indi)</item>
+        <item>hungarisht (Hungari)</item>
+        <item>islandisht (Islandë)</item>
+        <item>indonezisht (Indonezi)</item>
+        <item>irlandisht (Irlandë)</item>
+        <item>isindebelisht (Afrika e Jugut)</item>
+        <item>isixhosa (Afrika e Jugut)</item>
+        <item>zuluisht (Afrika e Jugut)</item>
+        <item>italisht (Itali)</item>
+        <item>italisht (Zvicër)</item>
+        <item>japonisht (Japoni)</item>
+        <item>koreanisht (Korea e Jugut)</item>
+        <item>letonisht (Letoni)</item>
+        <item>lituanisht (Lituani)</item>
+        <item>malajzisht (Malajzi)</item>
+        <item>malajzisht (Malajzi)</item>
+        <item>norvegjisht \"bokmål\" (Norvegji)</item>
+        <item>norvegjisht, ninorske (Norvegji)</item>
+        <item>persisht (Iran)</item>
+        <item>polonisht (Poloni)</item>
+        <item>portugalisht (Angolë)</item>
+        <item>portugalisht (Brazil)</item>
+        <item>portugalisht (Portugali)</item>
+        <item>rumanisht (Rumani)</item>
+        <item>rusisht (Bjellorusi)</item>
+        <item>rusisht (Rusi)</item>
+        <item>sepedisht (Afrikë e Jugut)</item>
+        <item>serbisht (Serbia, Cirilike)</item>
+        <item>sesotoisht (Afrika e Jugut)</item>
+        <item>setsvanisht (Afrikë e Jugut)</item>
+        <item>sisvatisht (Afrikë e Jugut)</item>
+        <item>sllovakisht (Sllovaki)</item>
+        <item>sllovenisht (Slloveni)</item>
+        <item>spanjisht (Argjentinë)</item>
+        <item>spanjisht (Bolivi)</item>
+        <item>spanjisht (Kili)</item>
+        <item>spanjisht (Kolumbi)</item>
+        <item>spanjisht (Kosta Rika)</item>
+        <item>spanjisht (Kubë)</item>
+        <item>spanjisht (Republika Dominikane)</item>
+        <item>spanjisht (Ekuador)</item>
+        <item>spanjisht (Salvador)</item>
+        <item>spanjisht (Guatemalë)</item>
+        <item>spanjisht (Honduras)</item>
+        <item>spanjisht (Meksikë)</item>
+        <item>spanjisht (Nikaragua)</item>
+        <item>spanjisht (Panama)</item>
+        <item>spanjisht (Paraguai)</item>
+        <item>spanjisht (Peru)</item>
+        <item>spanjisht (Porto-Riko)</item>
+        <item>spanjisht (Spanjë)</item>
+        <item>spanjisht (SHBA)</item>
+        <item>spanjisht (Uruguai)</item>
+        <item>spanjisht (Venezuelë)</item>
+        <item>suahilisht (Kenia)</item>
+        <item>suahilisht (Tanzani)</item>
+        <item>suahilisht (Ugandë)</item>
+        <item>suedisht (Finlandë)</item>
+        <item>suedisht (Suedi)</item>
+        <item>tajlandisht (Tajlandë)</item>
+        <item>tshivendaisht (Afrika e Jugut)</item>
+        <item>turqisht (Turqi)</item>
+        <item>ukrainisht (Ukrainë)</item>
+        <item>urdu (Pakistan)</item>
+        <item>vietnamisht (Vietnam)</item>
+        <item>ksitsonga (Afrika e Jugut)</item>
+    </string-array>
+    <string-array name="edit_reminder_day">
+        <item>Sot</item>
+        <item>Nesër</item>
+        <item>Herë pas here</item>
+        <item>Cakto datën...</item>
+    </string-array>
+    <string-array name="edit_reminder_time">
+        <item>Mëngjes</item>
+        <item>Pasdite</item>
+        <item>Mbrëmje</item>
+        <item>Natë</item>
+        <item>Gjithë ditën</item>
+        <item>Cakto kohën...</item>
+    </string-array>
+    <string-array name="edit_reminder_location_trigger_type">
+        <item>Mbërritja</item>
+        <item>Nisu</item>
+    </string-array>
+    <string-array name="edit_reminder_location">
+        <item>Shtëpia</item>
+        <item>Puna</item>
+        <item>Cakto vendndodhjen...</item>
+    </string-array>
+    <string-array name="network_error_tts_messages">
+        <item>Kjo lidhje me internetin nuk është e sigurt aktualisht.</item>
+        <item>Kjo lidhje me internetin nuk është e sigurt për momentin.</item>
+        <item>Kjo lidhje me internetin nuk është e qëndrueshme aktualisht.</item>
+        <item>Kjo lidhje me internetin nuk është e qëndrueshme për momentin.</item>
+        <item>Kjo lidhje me internetin nuk është mjaft e fortë aktualisht.</item>
+        <item>Kjo lidhje me internetin nuk është mjaft e fortë për momentin.</item>
+    </string-array>
+    <string-array name="read_it_grammar">
+        <item>lexoje</item>
+        <item>lexo mesazhin</item>
+        <item>lexoje mesazhin me tekst</item>
+    </string-array>
+    <string-array name="reply_grammar">
+        <item>përgjigju</item>
+        <item>dërgo përgjigje</item>
+        <item>dërgo përgjigje</item>
+        <item>përgjigju mesazhit</item>
+        <item>dërgo përgjigje për të</item>
+    </string-array>
+    <string-array name="call_back_grammar">
+        <item>telefono dërguesin e mesazhit të fundit</item>
+        <item>telefonoje atë</item>
+        <item>ri-telefonoje</item>
+        <item>telefonoji asaj</item>
+        <item>ri-telefonoje atë</item>
+    </string-array>
+</resources>

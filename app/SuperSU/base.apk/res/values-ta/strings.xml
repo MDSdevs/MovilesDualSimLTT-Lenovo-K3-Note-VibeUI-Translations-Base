@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">சூப்பர்SU</string>
+    <string name="boot_ota_superuser_restored">SuperSU தானாகவே சிறப்புப்பயனர் அணுகலை மீட்டெடுக்கப்பட்டது</string>
+    <string name="follow_gplus">I want superuser</string>
+    <string name="follow_pref_title">ட்விட்டர் அல்லது கூகிள்+ என்னை பின்பற்றுங்கள்</string>
+    <string name="generic_cancel">ரத்து</string>
+    <string name="generic_clear">துடை</string>
+    <string name="generic_close">மூடு</string>
+    <string name="generic_continue">தொடரு</string>
+    <string name="generic_deny">மறு</string>
+    <string name="generic_forget">மறந்திரு</string>
+    <string name="generic_grant">வழங்கு</string>
+    <string name="generic_load">செலுத்து</string>
+    <string name="generic_ok">சரி</string>
+    <string name="generic_save">சேமி</string>
+    <string name="install_binary">SU பைனரி புதுப்பிக்க வேண்டும். தொடர்க?</string>
+    <string name="install_binary_cant">SU பைனரி நிறுவப்பட்டவில்லை, அதனால் SuperSU நிறுவ முடியாது. இது ஒரு பிரச்சனை!</string>
+    <string name="install_binary_failure">நிறுவல் தோல்வியுற்றது!</string>
+    <string name="install_binary_progress">நிறுவுகிறது, காத்திருக்கவும் ...</string>
+    <string name="install_binary_success">வெற்றிகரமாக நிறுவப்பட்டது!</string>
+    <string name="settings_category_access">அணுகல்</string>
+    <string name="settings_category_logs">பதிவுகள்</string>
+    <string name="settings_category_root">சிறப்புப்பயனர்</string>
+    <string name="settings_category_security">பாதுகாப்பு</string>
+    <string name="settings_default_access">அசல்நிலை அணுகல்</string>
+    <string name="settings_default_access_select">அசல்நிலை அணுகலை தேர்வு செய்</string>
+    <string name="settings_log">பதிவு செய்கின்றது</string>
+    <string name="settings_log_clear">பதிவுகளை இப்போது நீக்குக</string>
+    <string name="settings_market">எனது அனைத்து செய்நிரல்கள்</string>
+    <string name="settings_pin_disabled">பாதுகாப்புக் குறி கட்டமைக்கப்படவில்லை</string>
+    <string name="settings_pin_enabled">பாதுகாப்புக் குறி செயற்படுத்தப்பட்டுள்ளது</string>
+    <string name="settings_pro_required">இந்த வசதியை பயன்படுத்த SuperSU Pro தேவைப்படுகின்றன</string>
+    <string name="settings_reauth">மீண்டும் அங்கீகாரம்</string>
+    <string name="settings_reauth_disabled">மறு நிறுவல்கள் மற்றும் மேம்படுத்தல் அனுமதி முழுவதும் நினைவில்கொள்கிறது</string>
+    <string name="settings_reauth_enabled">ஒரு பயன்பாட்டை மீண்டும் நிறுவ அல்லது மேம்படுத்த என்றால் மீண்டும் அனுமதி பெற</string>
+    <string name="settings_root">சிறப்புப்பயனர் இயக்கு</string>
+    <string name="settings_root_disabled">சிறப்புப்பயனர் முடக்கப்பட்டது மற்றும் மறைக்கப்பட்டது</string>
+    <string name="settings_root_enabled">சிறப்புப்பயனர் செயல்படுத்தப்பட்டது</string>
+    <string name="settings_show_notifications">தகவலை காண்பி</string>
+    <string name="settings_survival">உயிர் பிழைப்பதற்கான பயன்முறை</string>
+    <string name="settings_survival_disabled">எந்த சிறப்பு நடவடிக்கை எடுக்கப்படும் உறுதி செய்ய சிறப்புப்பயனர் அணுகல் வைத்திருக்கும்</string>
+    <string name="settings_survival_enabled">சூப்பர்SU, OTA புதுப்பிக்கும் பொழுதும், சிறப்புப்பயனரை நுழைவுரிமை உடன் வைக்க தீவிரமாக முயற்சிக்கும், NANDROID முன்பாக முடக்கு!</string>
+    <string name="settings_tap_xda">XDA நூலை காண சொடுக்கவும்</string>
+    <string name="settings_upgrade">Pro இற்கு புதுப்பிக்கவும்</string>
+    <string name="settings_upgrade_description">கூடுதல் அம்சங்கள் திறக்க, வளர்ச்சிக்கு உதவு</string>
+    <string name="superuser_command_shell">(ஊடாடு சாளரம்)</string>
+    <string name="superuser_prompt_again">அடுத்த முறை கேள்</string>
+    <string name="superuser_request_command">கட்டளை:</string>
+    <string name="superuser_request_from">சிறப்புப்பயனர் கோரிக்கை:</string>
+    <string name="superuser_request_uid">கோரப்பட்ட பயனர்:</string>
+    <string name="superuser_user_unknown">தெரியாத</string>
+    <string name="tab_apps">பயன்பாடுகள்</string>
+    <string name="tab_apps_empty">பயன்பாடுகளின் கட்டமைப்பு இல்லை</string>
+    <string name="tab_logs">பதிவு</string>
+    <string name="tab_logs_empty">பதிவுகள் இல்லை</string>
+    <string name="tab_settings">அமைப்புகள்</string>
+    <string name="toast_denied">மறுக்கப்பட்டது</string>
+    <string name="toast_granted">வழங்கப்பட்டது</string>
+    <string name="toast_interactive">ஒரு ஊடாடு சாளரத்திற்கு</string>
+    <string name="toast_name" formatted="false">%s சூப்பர்உசெர் அனுமதிகள் %s</string>
+    <string name="toast_package" formatted="false">%s (%s) சூப்பர்உசெர் அனுமதிகள் %s</string>
+    <string name="toast_unknown">தெரியாத</string>
+    <string name="uninstall_binary_failure">நிறுவல்நீக்கம் தோல்வியுற்றது!</string>
+    <string name="uninstall_binary_progress">நிறுவல்நீக்கம் நடக்கிறது, காத்திருக்கவும் ...</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">SIM 卡 PIN 码不正确，您还有%d次尝试机会。</item>
+        <item quantity="one">SIM 卡 PIN 码不正确，您还有%d次尝试机会。如果仍然失败，则必须联系运营商帮您解锁设备。</item>
+    </plurals>
+</resources>

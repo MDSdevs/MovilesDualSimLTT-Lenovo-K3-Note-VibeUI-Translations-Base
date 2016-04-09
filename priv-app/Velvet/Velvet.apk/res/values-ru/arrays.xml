@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="recurrence_freq">
+        <item>ЕЖЕДНЕВНО</item>
+        <item>ЕЖЕНЕДЕЛЬНО</item>
+        <item>ЕЖЕМЕСЯЧНО</item>
+        <item>ЕЖЕГОДНО</item>
+    </string-array>
+    <string-array name="edit_recurrence">
+        <item>Не повторяется</item>
+        <item>Каждый день</item>
+        <item>Каждую неделю</item>
+        <item>Каждый месяц</item>
+        <item>Каждый год</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>первое воскресенье месяца</item>
+        <item>второе воскресенье месяца</item>
+        <item>третье воскресенье месяца</item>
+        <item>четвертое воскресенье месяца</item>
+        <item>последнее воскресенье месяца</item>
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>первый понедельник месяца</item>
+        <item>второй понедельник месяца</item>
+        <item>третий понедельник месяца</item>
+        <item>четвертый понедельник месяца</item>
+        <item>последний понедельник месяца</item>
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>первый вторник месяца</item>
+        <item>второй вторник месяца</item>
+        <item>третий вторник месяца</item>
+        <item>четвертый вторник месяца</item>
+        <item>последний вторник месяца</item>
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>первая среда месяца</item>
+        <item>вторая среда месяца</item>
+        <item>третья среда месяца</item>
+        <item>четвертая среда месяца</item>
+        <item>последняя среда месяца</item>
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>первый четверг месяца</item>
+        <item>второй четверг месяца</item>
+        <item>третий четверг месяца</item>
+        <item>четвертый четверг месяца</item>
+        <item>последний четверг месяца</item>
+    </string-array>
+    <string-array name="repeat_by_nth_fri">
+        <item>первая пятница месяца</item>
+        <item>вторая пятница месяца</item>
+        <item>третья пятница месяца</item>
+        <item>четвертая пятница месяца</item>
+        <item>последняя пятница месяца</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>первая суббота месяца</item>
+        <item>вторая суббота месяца</item>
+        <item>третья суббота месяца</item>
+        <item>четвертая суббота месяца</item>
+        <item>последняя суббота месяца</item>
+    </string-array>
+    <string-array name="baseball_innings">
+        <item>1-й иннинг</item>
+        <item>2-й иннинг</item>
+        <item>3-й иннинг</item>
+        <item>4-й иннинг</item>
+        <item>5-й иннинг</item>
+        <item>6-й иннинг</item>
+        <item>7-й иннинг</item>
+        <item>8-й иннинг</item>
+        <item>9-й иннинг</item>
+        <item>10-й иннинг</item>
+        <item>11-й иннинг</item>
+        <item>12-й иннинг</item>
+    </string-array>
+    <string-array name="qp_top_baseball_innings">
+        <item>Верх. пол., 1-й иннинг</item>
+        <item>Верх. пол., 2-й иннинг</item>
+        <item>Верх. пол., 3-й иннинг</item>
+        <item>Верх. пол., 4-й иннинг</item>
+        <item>Верх. пол., 5-й иннинг</item>
+        <item>Верх. пол., 6-й иннинг</item>
+        <item>Верх. пол., 7-й иннинг</item>
+        <item>Верх. пол., 8-й иннинг</item>
+        <item>Верх. пол., 9-й иннинг</item>
+        <item>Верх. пол., 10-й иннинг</item>
+        <item>Верх. пол., 11-й иннинг</item>
+        <item>Верх. пол., 12-й иннинг</item>
+    </string-array>
+    <string-array name="qp_bottom_baseball_innings">
+        <item>Ниж. пол., 1-й иннинг</item>
+        <item>Ниж. пол., 2-й иннинг</item>
+        <item>Ниж. пол., 3-й иннинг</item>
+        <item>Ниж. пол., 4-й иннинг</item>
+        <item>Ниж. пол., 5-й иннинг</item>
+        <item>Ниж. пол., 6-й иннинг</item>
+        <item>Ниж. пол., 7-й иннинг</item>
+        <item>Ниж. пол., 8-й иннинг</item>
+        <item>Ниж. пол., 9-й иннинг</item>
+        <item>Ниж. пол., 10-й иннинг</item>
+        <item>Ниж. пол., 11-й иннинг</item>
+        <item>Ниж. пол., 12-й иннинг</item>
+    </string-array>
+    <string-array name="local_results_markers">
+        <item>A</item>
+        <item>млн.</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>Х</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>П</item>
+        <item>M</item>
+        <item>N</item>
+        <item>o</item>
+        <item>И</item>
+        <item>К</item>
+        <item>R</item>
+        <item>S</item>
+        <item>Н</item>
+        <item>U</item>
+        <item>V</item>
+        <item>ср</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+    </string-array>
+    <string-array name="languageNames">
+        <item>африкаанс (ЮАР)</item>
+        <item>арабский (Алжир)</item>
+        <item>арабский (Египет)</item>
+        <item>арабский (Ирак)</item>
+        <item>арабский (Израиль)</item>
+        <item>арабский (Иордания)</item>
+        <item>арабский (Кувейт)</item>
+        <item>Arabic (Lebanon)</item>
+        <item>арабский (Ливия)</item>
+        <item>арабский (Марокко)</item>
+        <item>Arabic (Qatar)</item>
+        <item>арабский (Саудовская Аравия)</item>
+        <item>арабский (Судан)</item>
+        <item>арабский (Сирия)</item>
+        <item>арабский (Тунис)</item>
+        <item>арабский (ОАЭ)</item>
+        <item>арабский (Йемен)</item>
+        <item>белорусский (Белоруссия)</item>
+        <item>бенгальский (Бангладеш)</item>
+        <item>болгарский (Болгария)</item>
+        <item>каталанский (Испания)</item>
+        <item>китайский, мандаринский (Китай, упрощенный)</item>
+        <item>китайский, мандаринский (Гонконг, упрощенный)</item>
+        <item>китайский, мандаринский (Гонконг, традиционный)</item>
+        <item>китайский, мандаринский (Сингапур, упрощенный)</item>
+        <item>китайский, мандаринский (Тайвань, упрощенный)</item>
+        <item>китайский, мандаринский (Тайвань, традиционный)</item>
+        <item>китайский, кантонский (Китай, упрощенный)</item>
+        <item>китайский, кантонский (Гонконг, традиционный)</item>
+        <item>хорватский (Хорватия)</item>
+        <item>чешский (Чешская Республика)</item>
+        <item>датский (Дания)</item>
+        <item>нидерландский (Бельгия)</item>
+        <item>нидерландский (Нидерланды)</item>
+        <item>английский (универсальный)</item>
+        <item>Английский (Австралия)</item>
+        <item>английский (Бангладеш)</item>
+        <item>английский (Канада)</item>
+        <item>английский (Гонконг)</item>
+        <item>английский (Индия)</item>
+        <item>английский (Ирландия)</item>
+        <item>English (Kenya)</item>
+        <item>английский (Малайзия)</item>
+        <item>английский (Новая Зеландия)</item>
+        <item>английский (Нигерия)</item>
+        <item>английский (Пакистан)</item>
+        <item>английский (Филиппины)</item>
+        <item>английский (Сингапур)</item>
+        <item>английский (ЮАР)</item>
+        <item>English (Sudan)</item>
+        <item>английский (Танзания)</item>
+        <item>английский (Уганда)</item>
+        <item>английский (Великобритания)</item>
+        <item>английский (США)</item>
+        <item>эстонский (Эстония)</item>
+        <item>филиппинский (Филиппины)</item>
+        <item>финский (Финляндия)</item>
+        <item>французский (Бельгия)</item>
+        <item>французский (Канада)</item>
+        <item>французский (Франция)</item>
+        <item>французский (Швейцария)</item>
+        <item>галисийский (Испания)</item>
+        <item>немецкий (Австрия)</item>
+        <item>немецкий (Германия)</item>
+        <item>немецкий (Швейцария)</item>
+        <item>немецкий (Лихтенштейн)</item>
+        <item>греческий (Греция)</item>
+        <item>иврит (Израиль)</item>
+        <item>хинди (Индия)</item>
+        <item>венгерский (Венгрия)</item>
+        <item>исландский (Исландия)</item>
+        <item>индонезийский (Индонезия)</item>
+        <item>ирландский (Ирландия)</item>
+        <item>ндебеле (ЮАР)</item>
+        <item>isiXhosa (South Africa)</item>
+        <item>зулу (ЮАР)</item>
+        <item>итальянский (Италия)</item>
+        <item>итальянский (Швейцария)</item>
+        <item>японский (Япония)</item>
+        <item>корейский (Республика Корея)</item>
+        <item>латышский (Латвия)</item>
+        <item>литовский (Литва)</item>
+        <item>малайский (Малайзия)</item>
+        <item>малайский (Сингапур)</item>
+        <item>Norwegian Bokmål (Norway)</item>
+        <item>норвежский, нюнорск (Норвегия)</item>
+        <item>фарси (Иран)</item>
+        <item>польский (Польша)</item>
+        <item>португальский (Ангола)</item>
+        <item>португальский (Бразилия)</item>
+        <item>Португальский (Португалия)</item>
+        <item>Romanian (Romania)</item>
+        <item>русский (Белоруссия)</item>
+        <item>русский (Россия)</item>
+        <item>северный сото (ЮАР)</item>
+        <item>Serbian (Serbia, Cyrillic)</item>
+        <item>сесото (ЮАР)</item>
+        <item>тсвана (ЮАР)</item>
+        <item>свази (ЮАР)</item>
+        <item>Slovak (Slovakia)</item>
+        <item>словенский (Словения)</item>
+        <item>испанский (Аргентина)</item>
+        <item>Spanish (Bolivia)</item>
+        <item>испанский (Чили)</item>
+        <item>испанский (Колумбия)</item>
+        <item>испанский (Коста-Рика)</item>
+        <item>Spanish (Cuba)</item>
+        <item>Spanish (Dominican Republic)</item>
+        <item>испанский (Эквадор)</item>
+        <item>испанский (Сальвадор)</item>
+        <item>испанский (Гватемала)</item>
+        <item>испанский (Гондурас)</item>
+        <item>испанский (Мексика)</item>
+        <item>испанский (Никарагуа)</item>
+        <item>испанский (Панама)</item>
+        <item>испанский (Парагвай)</item>
+        <item>испанский (Перу)</item>
+        <item>испанский (Пуэрто-Рико)</item>
+        <item>испанский (Испания)</item>
+        <item>испанский (США)</item>
+        <item>испанский (Уругвай)</item>
+        <item>испанский (Венесуэла)</item>
+        <item>суахили (Кения)</item>
+        <item>Swahili (Tanzania)</item>
+        <item>суахили (Уганда)</item>
+        <item>шведский (Финляндия)</item>
+        <item>шведский (Швеция)</item>
+        <item>тайский (Таиланд)</item>
+        <item>Tshivenda (South Africa)</item>
+        <item>турецкий (Турция)</item>
+        <item>украинский (Украина)</item>
+        <item>урду (Пакистан)</item>
+        <item>вьетнамский (Вьетнам)</item>
+        <item>тсонга (ЮАР)</item>
+    </string-array>
+    <string-array name="edit_reminder_day">
+        <item>Сегодня</item>
+        <item>Завтра</item>
+        <item>Иногда</item>
+        <item>Другая дата</item>
+    </string-array>
+    <string-array name="edit_reminder_time">
+        <item>Утром</item>
+        <item>Днем</item>
+        <item>Вечером</item>
+        <item>Ночь</item>
+        <item>Весь день</item>
+        <item>Другое время</item>
+    </string-array>
+    <string-array name="edit_reminder_location_trigger_type">
+        <item>Прибытие</item>
+        <item>Отправление</item>
+    </string-array>
+    <string-array name="edit_reminder_location">
+        <item>Дом</item>
+        <item>Работа</item>
+        <item>Другое место</item>
+    </string-array>
+    <string-array name="network_error_tts_messages">
+        <item>Нестабильное подключение к Интернету</item>
+        <item>Подключение к Интернету нестабильно</item>
+        <item>Плохое качество Интернет-подключения</item>
+        <item>Низкое качество подключения к Интернету</item>
+        <item>Недостаточно стабильное подключение к Интернету</item>
+        <item>Подключение к Интернету недостаточно стабильно</item>
+    </string-array>
+    <string-array name="read_it_grammar">
+        <item>прочитать</item>
+        <item>прочитать сообщение</item>
+        <item>прочитать SMS</item>
+    </string-array>
+    <string-array name="reply_grammar">
+        <item>ответить</item>
+        <item>отправить ответ</item>
+        <item>отправить ответное сообщение</item>
+        <item>ответить на SMS</item>
+        <item>отправить ответное SMS-сообщение</item>
+    </string-array>
+    <string-array name="call_back_grammar">
+        <item>позвонить отправителю последнего сообщения</item>
+        <item>позвонить ему</item>
+        <item>перезвонить ему</item>
+        <item>позвонить ей</item>
+        <item>перезвонить ей</item>
+    </string-array>
+</resources>

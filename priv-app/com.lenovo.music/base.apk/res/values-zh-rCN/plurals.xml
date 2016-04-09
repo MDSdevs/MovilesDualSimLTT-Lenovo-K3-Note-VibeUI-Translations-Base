@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="bytes">
+        <item quantity="other">B</item>
+        <item quantity="one">B</item>
+    </plurals>
+    <plurals name="kilobytes">
+        <item quantity="other">KB</item>
+        <item quantity="one">KB</item>
+    </plurals>
+    <plurals name="megabytes">
+        <item quantity="other">MB</item>
+        <item quantity="one">MB</item>
+    </plurals>
+    <plurals name="gigabytes">
+        <item quantity="other">GB</item>
+        <item quantity="one">GB</item>
+    </plurals>
+    <plurals name="Nsongs">
+        <item quantity="other">%d 首歌曲</item>
+        <item quantity="one">1 首歌曲</item>
+    </plurals>
+    <plurals name="Nalbums">
+        <item quantity="other">%d 张专辑</item>
+        <item quantity="one">1 张专辑</item>
+    </plurals>
+    <plurals name="playlist_add_count_tip">
+        <item quantity="other">%d 首歌曲添加到:</item>
+        <item quantity="one">1 首歌曲添加到:</item>
+    </plurals>
+    <plurals name="Ntracks">
+        <item quantity="other">" %d 首歌曲"</item>
+        <item quantity="one">1 首歌</item>
+    </plurals>
+    <plurals name="Nalbum">
+        <item quantity="other">%d 张专辑</item>
+        <item quantity="one">1 张专辑</item>
+    </plurals>
+    <plurals name="Nfolders">
+        <item quantity="other">%d 个文件夹</item>
+        <item quantity="one">1 个文件夹</item>
+    </plurals>
+    <plurals name="Nartists">
+        <item quantity="other">" %d 位歌手"</item>
+        <item quantity="one">1 位歌手</item>
+    </plurals>
+    <plurals name="Nlists">
+        <item quantity="other">" %d 个歌单"</item>
+        <item quantity="one">1 个歌单</item>
+    </plurals>
+    <plurals name="local_count_songs">
+        <item quantity="other">共%d首歌曲</item>
+        <item quantity="one">共1首歌曲</item>
+    </plurals>
+    <plurals name="local_count_playLists">
+        <item quantity="other">共%d个歌单</item>
+        <item quantity="one">共1个歌单</item>
+    </plurals>
+    <plurals name="local_count_artists">
+        <item quantity="other">共%d位歌手</item>
+        <item quantity="one">共1位歌手</item>
+    </plurals>
+    <plurals name="local_count_folders">
+        <item quantity="other">共%d个文件夹</item>
+        <item quantity="one">共1个文件夹</item>
+    </plurals>
+    <plurals name="local_count_albums">
+        <item quantity="other">共%d张专辑</item>
+        <item quantity="one">共1张专辑</item>
+    </plurals>
+    <plurals name="online_search_result_tip">
+        <item quantity="other">%d 张专辑</item>
+        <item quantity="one">1 张专辑</item>
+    </plurals>
+    <plurals name="local_edit_delete_songs">
+        <item quantity="other">已删除 %d 首歌曲</item>
+        <item quantity="one">已删除 1 首歌曲。</item>
+    </plurals>
+    <plurals name="online_count_songs">
+        <item quantity="other">已载入 %d 首歌曲</item>
+        <item quantity="one">已载入 1 首歌曲</item>
+    </plurals>
+    <plurals name="online_count_artists">
+        <item quantity="other">已载入 %d 位歌手</item>
+        <item quantity="one">已载入 1 位歌手</item>
+    </plurals>
+    <plurals name="online_count_albums">
+        <item quantity="other">已载入 %d 张专辑</item>
+        <item quantity="one">已载入 1 张专辑</item>
+    </plurals>
+    <plurals name="media_playlist_title_count_songs">
+        <item quantity="other">共 %d 首</item>
+        <item quantity="one">共 1 首</item>
+    </plurals>
+    <plurals name="local_edit_remove_songs">
+        <item quantity="other">已移出 %d 首歌曲</item>
+        <item quantity="one">已移出 1 首歌曲。</item>
+    </plurals>
+    <plurals name="local_edit_selected_songs">
+        <item quantity="other">已选择 %d 首</item>
+        <item quantity="one">已选择 1 首</item>
+    </plurals>
+    <plurals name="add_songs_to_queue">
+        <item quantity="other">已将 %d 首歌曲加到播放队列</item>
+        <item quantity="one">已将 1 首歌曲加到播放队列</item>
+    </plurals>
+    <plurals name="search_result_tip">
+        <item quantity="other">找到相关记录 %d 条</item>
+        <item quantity="one">找到相关记录 1 条</item>
+    </plurals>
+    <plurals name="shuffle_all_songs_to_play">
+        <item quantity="other">全部随机播放 %d 首歌曲</item>
+        <item quantity="one">全部随机播放 1 首歌曲</item>
+    </plurals>
+    <plurals name="play_all_songs_to_play">
+        <item quantity="other">全部播放 %d 首歌曲</item>
+        <item quantity="one">全部播放 1 首歌曲</item>
+    </plurals>
+    <plurals name="header_shuffle_all_songs_to_play">
+        <item quantity="other">全部随机播放(%d)</item>
+        <item quantity="one">全部随机播放(1)</item>
+    </plurals>
+    <plurals name="header_order_all_songs_to_play">
+        <item quantity="other">全部播放(%d)</item>
+        <item quantity="one">全部播放(1)</item>
+    </plurals>
+    <plurals name="scan_songs_count">
+        <item quantity="other">已找到歌曲 %d 首</item>
+        <item quantity="one">已找到歌曲 1 首</item>
+    </plurals>
+    <plurals name="media_play_list">
+        <item quantity="other">播放队列(%d)</item>
+        <item quantity="one">播放队列(1)</item>
+    </plurals>
+    <plurals name="mysong_list_count_songs">
+        <item quantity="other">%d首</item>
+        <item quantity="one">1首</item>
+    </plurals>
+    <plurals name="mysong_onlineoff_count_songs">
+        <item quantity="other">%d首已离线可播</item>
+        <item quantity="one">0首已离线可播</item>
+    </plurals>
+    <plurals name="confirm_add">
+        <item quantity="other">添加完成 ( %d )</item>
+    </plurals>
+    <plurals name="playlist_add_count_tip_new">
+        <item quantity="other">%d 首歌曲添加到:</item>
+        <item quantity="one">1 首歌曲:</item>
+    </plurals>
+    <plurals name="local_edit_mode_title_selected">
+        <item quantity="other">%d 首已选择</item>
+        <item quantity="one">1 首已选择</item>
+    </plurals>
+    <plurals name="timer_activity_minute">
+        <item quantity="other">%d 分钟</item>
+        <item quantity="one">1 分钟</item>
+    </plurals>
+</resources>

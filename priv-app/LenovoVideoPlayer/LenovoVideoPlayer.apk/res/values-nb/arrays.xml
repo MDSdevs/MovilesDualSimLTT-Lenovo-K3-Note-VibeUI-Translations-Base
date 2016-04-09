@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="items_for_allVideo">
+        <item>Spill av</item>
+        <item>Gi nytt navn</item>
+        <item>Slett</item>
+        <item>Informasjon</item>
+        <item>Del</item>
+        <item>Flervalg</item>
+    </string-array>
+    <string-array name="items_for_allVideo_aruba">
+        <item>Spill av</item>
+        <item>Gi nytt navn</item>
+        <item>Slett</item>
+    </string-array>
+    <string-array name="items_for_recentVideo">
+        <item>Spill av</item>
+        <item>Slett</item>
+        <item>Tøm listen</item>
+    </string-array>
+    <string-array name="items_for_externalCaller">
+        <item>Spill av</item>
+        <item>Legg til denne videoen</item>
+    </string-array>
+</resources>

@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="recurrence_freq">
+        <item>ПОВТОРЮВАТИ ЩОДНЯ</item>
+        <item>ПОВТОРЮВАТИ ЩОТИЖНЯ</item>
+        <item>ПОВТОРЮВАТИ ЩОМІСЯЦЯ</item>
+        <item>ПОВТОРЮВАТИ ЩОРОКУ</item>
+    </string-array>
+    <string-array name="edit_recurrence">
+        <item>Не повторювати</item>
+        <item>Щодня</item>
+        <item>Щотижня</item>
+        <item>Щомісяця</item>
+        <item>Щороку</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>кожної першої неділі</item>
+        <item>кожної другої неділі</item>
+        <item>кожної третьої неділі</item>
+        <item>кожної четвертої неділі</item>
+        <item>кожної останньої неділі</item>
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>кожного першого понеділка</item>
+        <item>кожного другого понеділка</item>
+        <item>кожного третього понеділка</item>
+        <item>кожного четвертого понеділка</item>
+        <item>кожного останнього понеділка</item>
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>кожного першого вівторка</item>
+        <item>кожного другого вівторка</item>
+        <item>кожного третього вівторка</item>
+        <item>кожного четвертого вівторка</item>
+        <item>кожного останнього вівторка</item>
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>кожної першої середи</item>
+        <item>кожної другої середи</item>
+        <item>кожної третьої середи</item>
+        <item>кожної четвертої середи</item>
+        <item>кожної останньої середи</item>
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>кожного першого четверга</item>
+        <item>кожного другого четверга</item>
+        <item>кожного третього четверга</item>
+        <item>кожного четвертого четверга</item>
+        <item>кожного останнього четверга</item>
+    </string-array>
+    <string-array name="repeat_by_nth_fri">
+        <item>кожної першої п’ятниці</item>
+        <item>кожної другої п’ятниці</item>
+        <item>кожної третьої п’ятниці</item>
+        <item>кожної четвертої п’ятниці</item>
+        <item>кожної останньої п’ятниці</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>кожної першої суботи</item>
+        <item>кожної другої суботи</item>
+        <item>кожної третьої суботи</item>
+        <item>кожної четвертої суботи</item>
+        <item>кожної останньої суботи</item>
+    </string-array>
+    <string-array name="baseball_innings">
+        <item>1-ий іннінг</item>
+        <item>2-ий іннінг</item>
+        <item>3-ій іннінг</item>
+        <item>4-ий іннінг</item>
+        <item>5-ий іннінг</item>
+        <item>6-ий іннінг</item>
+        <item>7-ий іннінг</item>
+        <item>8-ий іннінг</item>
+        <item>9-ий іннінг</item>
+        <item>10-ий іннінг</item>
+        <item>11-ий іннінг</item>
+        <item>12-ий іннінг</item>
+    </string-array>
+    <string-array name="qp_top_baseball_innings">
+        <item>Верхня полов.: 1-й інинг</item>
+        <item>Верхня полов.: 2-й інинг</item>
+        <item>Верхня полов.: 3-ій</item>
+        <item>Верхня полов.: 4-й інинг</item>
+        <item>Верхня полов.: 5-й інинг</item>
+        <item>Верхня полов.: 6-й інинг</item>
+        <item>Верхня полов.: 7-й інинг</item>
+        <item>Верхня полов.: 8-й інинг</item>
+        <item>Верхня полов.: 9-й інинг</item>
+        <item>Верхня полов.: 10-й інинг</item>
+        <item>Верхня полов.: 11-й інинг</item>
+        <item>Верхня полов.: 12-й інинг</item>
+    </string-array>
+    <string-array name="qp_bottom_baseball_innings">
+        <item>Нижня полов.: 1-й інинг</item>
+        <item>Нижня полов.: 2-й інінг</item>
+        <item>Нижня полов.: 3-й інинг</item>
+        <item>Нижня полов.: 4-й інинг</item>
+        <item>Нижня полов.: 5-й інинг</item>
+        <item>Нижня полов.: 6-й інинг</item>
+        <item>Нижня полов.: 7-й інинг</item>
+        <item>Нижня полов.: 8-й інинг</item>
+        <item>Нижня полов.: 9-й інинг</item>
+        <item>Нижня полов.: 10-й інинг</item>
+        <item>Нижня полов.: 11-й інинг</item>
+        <item>Нижня полов.: 12-й інинг</item>
+    </string-array>
+    <string-array name="local_results_markers">
+        <item>А</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+    </string-array>
+    <string-array name="languageNames">
+        <item>африкаанс (Південна Африка)</item>
+        <item>арабська (Алжир)</item>
+        <item>арабська (Єгипет)</item>
+        <item>арабська (Ірак)</item>
+        <item>арабська (Ізраїль)</item>
+        <item>арабська (Йорданія)</item>
+        <item>арабська (Кувейт)</item>
+        <item>арабська (Ліван)</item>
+        <item>арабська (Лівія)</item>
+        <item>арабська (Марокко)</item>
+        <item>арабська (Катар)</item>
+        <item>арабська (Саудівська Аравія)</item>
+        <item>арабська (Судан)</item>
+        <item>арабська (Сирія)</item>
+        <item>арабська (Туніс)</item>
+        <item>арабська (Об’єднані Арабські Емірати)</item>
+        <item>арабська (Ємен)</item>
+        <item>білоруська (Білорусь)</item>
+        <item>бенгальська (Бангладеш)</item>
+        <item>болгарська (Болгарія)</item>
+        <item>каталонська (Іспанія)</item>
+        <item>китайська, мандаринська (Китай, спрощена)</item>
+        <item>китайська, мандаринська (Гонконг, спрощена)</item>
+        <item>китайська, мандаринська (Гонконг, традиційна)</item>
+        <item>китайська, мандаринська (Сінгапур, спрощена)</item>
+        <item>китайська, мандаринська (Тайвань, спрощена)</item>
+        <item>китайська, мандаринська (Тайвань, традиційна)</item>
+        <item>китайська, юеська (Китай, спрощена)</item>
+        <item>китайська, юеська (Гонконг, традиційна)</item>
+        <item>хорватська (Хорватія)</item>
+        <item>чеська (Чеська Республіка)</item>
+        <item>данська (Данія)</item>
+        <item>голландська (Бельгія)</item>
+        <item>голландська (Нідерланди)</item>
+        <item>англійська (загальна)</item>
+        <item>англійська (Австралія)</item>
+        <item>англійська (Бангладеш)</item>
+        <item>англійська (Канада)</item>
+        <item>англійська (Гонконг)</item>
+        <item>англійська (Індія)</item>
+        <item>англійська (Ірландія)</item>
+        <item>англійська (Кенія)</item>
+        <item>англійська (Малайзія)</item>
+        <item>англійська (Нова Зеландія)</item>
+        <item>англійська (Нігерія)</item>
+        <item>англійська (Пакистан)</item>
+        <item>англійська (Філіппіни)</item>
+        <item>англійська (Сінгапур)</item>
+        <item>англійська (Південна Африка)</item>
+        <item>англійська (Судан)</item>
+        <item>англійська (Танзанія)</item>
+        <item>англійська (Уганда)</item>
+        <item>Англійська (Великобританія)</item>
+        <item>англійська (США)</item>
+        <item>естонська (Естонія)</item>
+        <item>філіппінська (Філіппіни)</item>
+        <item>фінська (Фінляндія)</item>
+        <item>французька (Бельгія)</item>
+        <item>французька (Канада)</item>
+        <item>французька (Франція)</item>
+        <item>французька (Швейцарія)</item>
+        <item>галісійська (Іспанія)</item>
+        <item>німецька (Австрія)</item>
+        <item>німецька (Німеччина)</item>
+        <item>німецька (Швейцарія)</item>
+        <item>німецька (Ліхтенштейн)</item>
+        <item>грецька (Греція)</item>
+        <item>іврит (Ізраїль)</item>
+        <item>гінді (Індія)</item>
+        <item>угорська (Угорщина)</item>
+        <item>ісландська (Ісландія)</item>
+        <item>індонезійська (Індонезія)</item>
+        <item>ірландська (Ірландія)</item>
+        <item>ісіндебеле (Південна Африка)</item>
+        <item>ісікхоса (Південна Африка)</item>
+        <item>ісізулу (Південна Африка)</item>
+        <item>італійська (Італія)</item>
+        <item>італійська (Швейцарія)</item>
+        <item>японська (Японія)</item>
+        <item>корейська (Південна Корея)</item>
+        <item>латвійська (Латвія)</item>
+        <item>литовська (Литва)</item>
+        <item>малайська (Малайзія)</item>
+        <item>малайська (Сінгапур)</item>
+        <item>норвезька букмол (Норвегія)</item>
+        <item>норвезька нюнорск (Норвегія)</item>
+        <item>перська (Іран)</item>
+        <item>польська (Польща)</item>
+        <item>португальська (Ангола)</item>
+        <item>португальська (Бразилія)</item>
+        <item>португальська (Португалія)</item>
+        <item>румунська (Румунія)</item>
+        <item>російська (Білорусь)</item>
+        <item>російська (Росія)</item>
+        <item>сепеді (Південна Африка)</item>
+        <item>сербська (Сербія, кирилиця)</item>
+        <item>сесото (Південна Африка)</item>
+        <item>сетсвана (Південна Африка)</item>
+        <item>сісваті (Південна Африка)</item>
+        <item>словацька (Словаччина)</item>
+        <item>словенська (Словенія)</item>
+        <item>іспанська (Аргентина)</item>
+        <item>іспанська (Болівія)</item>
+        <item>іспанська (Чилі)</item>
+        <item>іспанська (Колумбія)</item>
+        <item>іспанська (Коста-Рика)</item>
+        <item>іспанська (Куба)</item>
+        <item>іспанська (Домініканська Республіка)</item>
+        <item>іспанська (Еквадор)</item>
+        <item>іспанська (Сальвадор)</item>
+        <item>іспанська (Гватемала)</item>
+        <item>іспанська (Гондурас)</item>
+        <item>іспанська (Мексика)</item>
+        <item>іспанська (Нікарагуа)</item>
+        <item>іспанська (Панама)</item>
+        <item>іспанська (Парагвай)</item>
+        <item>іспанська (Перу)</item>
+        <item>іспанська (Пуерто-Рико)</item>
+        <item>іспанська (Іспанія)</item>
+        <item>іспанська (США)</item>
+        <item>іспанська (Уругвай)</item>
+        <item>іспанська (Венесуела)</item>
+        <item>суахілі (Кенія)</item>
+        <item>суахілі (Танзанія)</item>
+        <item>суахілі (Уганда)</item>
+        <item>шведська (Фінляндія)</item>
+        <item>шведська (Швеція)</item>
+        <item>тайська (Таїланд)</item>
+        <item>тшівенда (Південна Африка)</item>
+        <item>турецька (Туреччина)</item>
+        <item>українська (Україна)</item>
+        <item>урду (Пакистан)</item>
+        <item>в’єтнамська (В’єтнам)</item>
+        <item>ксітсонґа (Південна Африка)</item>
+    </string-array>
+    <string-array name="edit_reminder_day">
+        <item>Сьогодні</item>
+        <item>Завтра</item>
+        <item>Час від часу</item>
+        <item>Установити дату…</item>
+    </string-array>
+    <string-array name="edit_reminder_time">
+        <item>Уранці</item>
+        <item>Удень</item>
+        <item>Увечері</item>
+        <item>Уночі</item>
+        <item>Увесь день</item>
+        <item>Установити час…</item>
+    </string-array>
+    <string-array name="edit_reminder_location_trigger_type">
+        <item>Прибуття</item>
+        <item>Відбуття</item>
+    </string-array>
+    <string-array name="edit_reminder_location">
+        <item>Дім</item>
+        <item>Робота</item>
+        <item>Установити місцезнаходження…</item>
+    </string-array>
+    <string-array name="network_error_tts_messages">
+        <item>Ненадійне з’єднання з Інтернетом.</item>
+        <item>Зараз з’єднання з Інтернетом ненадійне.</item>
+        <item>Нестабільне з’єднання з Інтернетом.</item>
+        <item>Зараз з’єднання з Інтернетом нестабільне.</item>
+        <item>Заслабке з’єднання з Інтернетом.</item>
+        <item>Зараз з’єднання з Інтернетом заслабке.</item>
+    </string-array>
+    <string-array name="read_it_grammar">
+        <item>читати</item>
+        <item>читати повідомлення</item>
+        <item>читати текстове повідомлення</item>
+    </string-array>
+    <string-array name="reply_grammar">
+        <item>відповісти</item>
+        <item>надіслати відповідь</item>
+        <item>надіслати відповідь</item>
+        <item>відповісти на текстове повідомлення</item>
+        <item>надіслати відповідь</item>
+    </string-array>
+    <string-array name="call_back_grammar">
+        <item>зателефонувати відправнику останнього повідомлення</item>
+        <item>зателефонувати йому</item>
+        <item>перетелефонувати йому</item>
+        <item>зателефонувати їй</item>
+        <item>перетелефонувати їй</item>
+    </string-array>
+</resources>

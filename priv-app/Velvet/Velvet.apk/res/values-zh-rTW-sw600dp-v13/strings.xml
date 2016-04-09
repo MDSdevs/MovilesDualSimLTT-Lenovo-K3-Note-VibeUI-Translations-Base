@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="search_phone_or_tablet">搜尋平板電腦</string>
+    <string name="corpus_name_summons">平板電腦</string>
+    <string name="search_sources">平板電腦搜尋</string>
+    <string name="no_summons_found">"在平板電腦上
+找不到結果。"</string>
+    <string name="hands_free_unlock_device">如要進行 Google 語音搜尋，請解除鎖定平板電腦。</string>
+    <string name="icing_manage_storage_summary">我們會為您的應用程式提供專用的搜尋引擎，藉此加快您在平板電腦上的搜尋速度。</string>
+</resources>

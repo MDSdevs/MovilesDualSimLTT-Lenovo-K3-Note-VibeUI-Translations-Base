@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppBaseTheme" parent="@android:style/Theme.NoTitleBar" />
+    <style name="AppTheme" parent="@style/AppBaseTheme" />
+    <style name="WorkspaceIcon">
+        <item name="android:textColor">@color/workspace_icon_text_color</item>
+        <item name="android:ellipsize">marquee</item>
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:fontFamily">sans-serif-condensed</item>
+    </style>
+    <style name="OneActionbar" parent="@style/AppBaseTheme">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:windowShowWallpaper">false</item>
+    </style>
+    <style name="OneActionbar2" parent="@android:style/Theme.Light">
+        <item name="android:windowNoTitle">false</item>
+    </style>
+    <style name="refreshHeadProgressStyle">
+        <item name="android:indeterminateDrawable">@drawable/progress_head_refresh</item>
+    </style>
+    <style name="Theme.LeLauncher.Dialog.Weather" parent="@android:style/Theme.DeviceDefault.Light.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowMinWidthMajor">@android:dimen/dialog_min_width_major</item>
+        <item name="android:windowMinWidthMinor">@android:dimen/dialog_min_width_minor</item>
+    </style>
+    <style name="AlertTheme" parent="@android:style/Theme.DeviceDefault.Light.Dialog">
+        <item name="android:windowFrame">@null</item>
+    </style>
+    <style name="weathercheckstyle" parent="@android:style/Widget.CompoundButton.CheckBox">
+        <item name="android:button">@drawable/mycheck_selection</item>
+    </style>
+    <style name="WorkspaceIconForActiveIcon">
+        <item name="android:textColor">@color/workspace_icon_text_color</item>
+        <item name="android:ellipsize">marquee</item>
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:fontFamily">sans-serif-condensed</item>
+    </style>
+    <style name="city_list_fragment_button_bg">
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:focusable">true</item>
+        <item name="android:clickable">true</item>
+    </style>
+    <style name="custom_edit_text">
+        <item name="android:background">@drawable/search_input_selector</item>
+        <item name="android:paddingLeft">5.0dip</item>
+        <item name="android:paddingRight">5.0dip</item>
+        <item name="android:focusable">true</item>
+        <item name="android:clickable">true</item>
+    </style>
+    <style name="dialogCheckBox" parent="@android:style/Widget.CompoundButton.CheckBox">
+        <item name="android:button">@drawable/checkbox_selector</item>
+        <item name="android:maxHeight">10.0dip</item>
+    </style>
+    <style name="CustomCheckboxTheme" parent="@android:style/Widget.CompoundButton.CheckBox">
+        <item name="android:button">@drawable/checkbox_style</item>
+    </style>
+    <style name="head_title">
+        <item name="android:textSize">19.0sp</item>
+        <item name="android:textColor">#ff000000</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+</resources>

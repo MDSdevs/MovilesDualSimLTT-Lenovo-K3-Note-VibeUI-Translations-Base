@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">翻转熄屏</string>
+    <string name="preference_status_open">开启</string>
+    <string name="preference_status_close">关闭</string>
+    <string name="preference_status_unknown">未知</string>
+    <string name="i_know_it">我知道了</string>
+    <string name="gesture_flip_title">翻转熄屏</string>
+    <string name="gesture_flip_summary">亮屏时，快速翻转手机屏幕水平朝下熄屏</string>
+    <string name="gesture_flip_help">亮屏时，快速翻转手机屏幕水平朝下即可熄屏。手机竖直向下放入口袋也可熄屏。</string>
+    <string name="gesture_pocket_title">入袋灭屏</string>
+    <string name="gesture_pocket_summary">手机垂直朝下放入口袋时自动熄灭屏幕</string>
+    <string name="gesture_pocket_help">手机垂直朝下放入口袋时自动熄灭屏幕</string>
+    <string name="flash_mode_onoff">开关</string>
+</resources>

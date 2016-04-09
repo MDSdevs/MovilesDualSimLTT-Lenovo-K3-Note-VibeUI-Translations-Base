@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="chatBaseUrl">http://chat.lenovomobile.com/</string>
+    <string name="chatApiQueue">jsonlive/main.php</string>
+    <string name="chatRequestUrl">jsonlive/request.php?request&amp;platform=1</string>
+    <string name="chatRequestCheck">jsonlive/response.php?aardvark_request=&amp;aardvark_chatid=%1$s&amp;aardvark_time=%2$d&amp;aardvark_domain=%3$s</string>
+    <string name="chatUrl">jsonlive/chat/response.php?aardvark_chat&amp;aardvark_chatid=%1$d&amp;aardvark_checksum=0&amp;aardvark_copage=&amp;aardvark_time=%2$d&amp;aardvark_domain=bivin&amp;platform=1</string>
+    <string name="chatSendMessage">jsonlive/chat/response.php?aardvark_send&amp;aardvark_chatid=%1$d&amp;aardvark_message=%2$s</string>
+    <string name="chatOfflineMessage">jsonlive/divert2.php</string>
+    <string name="chatDownloadUrl">live/chat/download.php?chatid=%1$d&amp;id=%2$s</string>
+    <string name="chatUploadUrl">jsonlive/chat/upload.php?chatid=%1$d</string>
+    <string name="chatEndUrl">live/chat/end.php?close&amp;chatid=%1$d</string>
+    <string name="chatCommentUrl">jsonlive/chat/quickrating.php?chatid=%1$d</string>
+    <string name="chatRobotSendMessage">jsonlive/chat/robotresponse.php?aardvark_send=&amp;aardvark_chatid=&amp;aardvark_message=%1$s</string>
+    <string name="cancel">取消</string>
+    <string name="finish">完成</string>
+    <string name="sharing">分享操作正在后台进行…</string>
+    <string name="share_to">分享到</string>
+    <string name="share">分享</string>
+    <string name="multi_share">图文分享</string>
+    <string name="share_completed">分享成功</string>
+    <string name="share_canceled">分享已取消</string>
+    <string name="select_one_plat_at_least">请选择一个目标平台</string>
+    <string name="list_friends">%s的朋友</string>
+    <string name="share_failed">分享失败</string>
+    <string name="pull_to_refresh">下拉刷新</string>
+    <string name="release_to_refresh">松开刷新</string>
+    <string name="refreshing">刷新中…</string>
+    <string name="shake2share">摇晃手机！</string>
+    <string name="weibo_oauth_regiseter">应用授权</string>
+    <string name="website">http://www.shareSDK.cn</string>
+    <string name="weibo_upload_content">分享图片</string>
+    <string name="wechat_client_inavailable">目前您的微信版本过低或未安装微信，需要安装微信才能使用</string>
+    <string name="google_plus_client_inavailable">Google+ 版本过低或者没有安装，需要升级或安装Google+才能使用！</string>
+    <string name="qq_client_inavailable">QQ 版本过低或者没有安装，需要升级或安装QQ才能使用！</string>
+    <string name="pinterest_client_inavailable">Pinterest版本过低或者没有安装，需要升级或安装Pinterest才能使用！</string>
+    <string name="instagram_client_inavailable">Instagram版本过低或者没有安装，需要升级或安装Instagram才能使用！</string>
+    <string name="yixin_client_inavailable">目前您的易信版本过低或未安装易信，需要安装易信才能使用</string>
+    <string name="sinaweibo">新浪微博</string>
+    <string name="tencentweibo">腾讯微博</string>
+    <string name="qzone">QQ空间</string>
+    <string name="wechat">微信好友</string>
+    <string name="wechatmoments">微信朋友圈</string>
+    <string name="wechatfavorite">微信收藏</string>
+    <string name="facebook">Facebook</string>
+    <string name="twitter">Twitter</string>
+    <string name="renren">人人网</string>
+    <string name="kaixin">开心网</string>
+    <string name="email">邮件</string>
+    <string name="shortmessage">信息</string>
+    <string name="sohumicroblog">搜狐微博</string>
+    <string name="sohusuishenkan">搜狐随身看</string>
+    <string name="neteasemicroblog">网易微博</string>
+    <string name="douban">豆瓣</string>
+    <string name="youdao">有道云笔记</string>
+    <string name="evernote">印象笔记</string>
+    <string name="linkedin">Linked In</string>
+    <string name="googleplus">Google+</string>
+    <string name="foursquare">FourSquare</string>
+    <string name="qq">QQ</string>
+    <string name="pinterest">Pinterest</string>
+    <string name="flickr">Flickr</string>
+    <string name="tumblr">Tumblr</string>
+    <string name="dropbox">Dropbox</string>
+    <string name="vkontakte">VK</string>
+    <string name="instagram">Instagram</string>
+    <string name="yixin">易信</string>
+    <string name="yixinmoments">易信朋友圈</string>
+    <string name="mingdao">明道</string>
+    <string name="share_to_qzone">分享到QQ空间</string>
+    <string name="incentive_title">分享有奖</string>
+    <string name="failed_to_start_incentive_page">无法打开“分享有奖页面”</string>
+    <string name="download_faield">下载失败</string>
+    <string name="app_downloading">应用正在后台下载</string>
+    <string name="mingdao_share_content">网页分享</string>
+    <string name="share_to_mingdao">分享到明道</string>
+    <string name="app_name">樂服務</string>
+    <string name="faq_search_text">问题：</string>
+    <string name="faq_title">常见问题</string>
+    <string name="faq_keyword_title">热门问题关键字</string>
+    <string name="station_search_title">查找服务网点</string>
+    <string name="service_policy_list_title">服务政策列表</string>
+    <string name="station_map_title">服务网点地图</string>
+    <string name="acc_title">配件商城</string>
+    <string name="acc_detail_title">配件详细信息</string>
+    <string name="faq_keyword_hint">请拖动关键词列表选择搜索相关问题</string>
+    <string name="service_policy_list_hint">请拖动服务政策列表选择查看相应内容</string>
+    <string name="menu_check_firmware_version">检查固件版本</string>
+    <string name="menu_about">关于</string>
+    <string name="menu_bbs_back">退出</string>
+    <string name="menu_faq_search">自定义搜索</string>
+    <string name="faq_searching_msg">问题搜索中，请稍候！</string>
+    <string name="faq_loading_more_msg">正在加载更多问题，请稍候！</string>
+    <string name="faq_keyword_loading_msg">正在加载关键字列表，请稍候！</string>
+    <string name="faq_hot_question_loading_msg">正在加载热门问题列表，请稍候！</string>
+    <string name="service_mall_title">服务商城</string>
+    <string name="autonavi_key">c2b0f58a6f09cafd1503c06ef08ac7aeb7ddb91a80a7dc4eb20088c2beafb084b7f894b0a6197d94</string>
+    <string name="socket_not_connect">Socket is not connected</string>
+    <string name="station_province_txt">省份：</string>
+    <string name="station_city_txt">城市：</string>
+    <string name="station_address_txt">地址：</string>
+    <string name="station_name_txt">名称：</string>
+    <string name="faq_empty_input_hint">请输入问题！</string>
+    <string name="station_empty_input_hint">请输入省份或城市！</string>
+    <string name="station_searching_msg">服务网点搜索中，请稍候！</string>
+    <string name="service_policy_list_loading_msg">正在加载列表，请稍候！</string>
+    <string name="service_policy_loading_msg">正在加载服务政策详细内容，请稍候！</string>
+    <string name="map_loading_msg">"正在加载地图，请稍候！
+点击气球可查看详细地址"</string>
+    <string name="acc_list_loading_msg">正在加载产品列表，请稍候！</string>
+    <string name="acc_detail_loading_msg">正在加载详细信息，请稍候！</string>
+    <string name="network_alert">该功能会产生网络流量,确定要使用吗？</string>
+    <string name="network_all_alert">该应用部分功能会产生网络流量，确定要使用吗？</string>
+    <string name="msg_quit_confirm">确定要退出“乐服务”吗？</string>
+    <string name="network_alert_title">网络流量提示</string>
+    <string name="faq_content_title">常见问题解答</string>
+    <string name="firmware_version_nonew_msg">您使用的是最新固件！</string>
+    <string name="firmware_version_new_msg">有固件版本更新</string>
+    <string name="firmware_version_loading_msg">正在检查固件版本，请稍候！</string>
+    <string name="firmware_version_nonew_title">暂无新固件版本！</string>
+    <string name="firmware_version_new_title">有新固件版本！</string>
+    <string name="firmware_version_update_msg">请通过官方途径进行固件升级！</string>
+    <string name="bbs_loading_msg">正在加载乐论坛，请稍候！</string>
+    <string name="no_acc_msg">暂无相关信息</string>
+    <string name="no_service_policy_msg">暂无服务政策信息！</string>
+    <string name="no_announce_msg">暂无公告！</string>
+    <string name="network_all_alert_e">"尊敬的用户，乐服务客户端需通过移动网络或WLAN网络接入互联网，所产生的流量费用将根据您的套餐标准收取，详细资费请咨询10000。
+
+应用使用过程中，可能会定位您的所在位置，您的位置只用于用户行为统计分析，不会对您产生任何影响，请放心使用！
+
+您是否同意？"</string>
+    <string name="network_all_alert_other">尊敬的用户，乐服务在使用过程中需要连接网络、定位、拨打电话、使用多媒体设备等。您是否同意？</string>
+    <string name="network_alert_clear">不再提醒</string>
+    <string name="software_test_cpu_rate_title">占用率:</string>
+    <string name="software_test_ram_rate_title">可用:</string>
+    <string name="software_test_rom_rate_title">可用:</string>
+    <string name="software_test_sd_rate_title">可用:</string>
+    <string name="launch_init_msg">正在初始化...</string>
+    <string name="msg_loading">正在加载...</string>
+    <string name="announce_list_loading_msg">正在加载公告列表，请稍候！</string>
+    <string name="announce_list_detail_loading_msg">正在加载公告内容，请稍候！</string>
+    <string name="software_testing_msg">正在进行软件检测，请稍候！</string>
+    <string name="boot_app_detail_title">开机启动应用列表</string>
+    <string name="sys_app_detail_title">系统应用列表</string>
+    <string name="other_app_detail_title">非系统应用列表</string>
+    <string name="bbs_url">http://bbs.lenovomobile.com/</string>
+    <string name="google_analytics_account">UA-23093474-1</string>
+    <string name="register_clause">当您申请用户时，表示您已经同意遵守本规章。 欢迎您加入本站点参加交流和讨论，本站点为公共论坛，为维护网上公共秩序和社会稳定，请您自觉遵守以下条款： 一、不得利用本站危害国家安全、泄露国家秘密，不得侵犯国家社会集体的和公民的合法权益，不得利用本站制作、复制和传播下列信息：　 （一）煽动抗拒、破坏宪法和法律、行政法规实施的；　（二）煽动颠覆国家政权，推翻社会主义制度的；　（三）煽动分裂国家、破坏国家统一的；　（四）煽动民族仇恨、民族歧视，破坏民族团结的；　（五）捏造或者歪曲事实，散布谣言，扰乱社会秩序的；　（六）宣扬封建迷信、淫秽、色情、赌博、暴力、凶杀、恐怖、教唆犯罪的；　（七）公然侮辱他人或者捏造事实诽谤他人的，或者进行其他恶意攻击的；　（八）损害国家机关信誉的；　（九）其他违反宪法和法律行政法规的；　（十）进行商业广告行为的。二、互相尊重，对自己的言论和行为负责。三、禁止在申请用户时使用相关本站的词汇，或是带有侮辱、毁谤、造谣类的或是有其含义的各种语言进行注册用户，否则我们会将其删除。四、禁止以任何方式对本站进行各种破坏行为。五、如果您有违反国家相关法律法规的行为，本站概不负责，您的登录论坛信息均被记录无疑，必要时，我们会向相关的国家管理部门提供此类信息。</string>
+    <string name="chat_location">Location</string>
+    <string name="chat_cant_read_folder">"folder can't be read!"</string>
+    <string name="chat_nnew">New</string>
+    <string name="chat_select">Select</string>
+    <string name="chat_file_name">File name:</string>
+    <string name="chat_cancel">Cancel</string>
+    <string name="chat_create">Save</string>
+    <string name="chat_no_data">No Data</string>
+    <string name="str_longitude">经度(Longitude)：</string>
+    <string name="str_latitude">纬度(Latitude)：</string>
+    <string name="str_err_address">地址不存在</string>
+    <string name="str_err_location">无法取得Location</string>
+    <string name="str_my_location">目前所在地址：</string>
+    <string name="del_point">删除标注</string>
+    <string name="add_point">增加标注</string>
+    <string name="map">地图显示</string>
+    <string name="move_map">移动地图</string>
+    <string name="zoom_map">缩放地图</string>
+    <string name="label_map">标注地图</string>
+    <string name="line_map">绘制线条</string>
+    <string name="polygon_map">绘制多边形</string>
+    <string name="circle_map">绘制圆形</string>
+    <string name="intent_way">Intent方式</string>
+    <string name="local">定位</string>
+    <string name="local_detail">显示定位详情</string>
+    <string name="receiver_test_msg">"请点击“播放”开始检测。
+
+铃声由听筒发出，声音较小，点击“播放”后，请按音量+键将音量调到最大，并将您的设备"<b>贴着耳朵</b>"。
+
+检测过程中请勿使用耳机！"</string>
+    <string name="favorable_content">恭喜！您获得%1$d元优惠券！扫描二维码可抵扣现金购物，亦可在线购买延长保修。</string>
+    <string name="favorable_station">您所在城市的活动站点如下：</string>
+    <string name="promotion_content"><li><ul>雪碧<li>可乐</li><li>凉茶</li></ul></li></string>
+    <string name="promotion_city">恭喜！您所在的城市%1$s</string>
+    <string name="province_city_search_msg">城市获取中，请稍后</string>
+    <string name="pay_result_tip">这个界面用于显示第三方app通过微信支付的结果</string>
+    <string name="pay_result_callback_msg">微信支付结果：%s</string>
+    <string name="language_support_hint">語言僅支持簡體中文！</string>
+    <string name="no_system_apps">非系统应用数量：</string>
+    <string name="music_video_tips">请关闭当前正在播放的音频或者视频!</string>
+</resources>

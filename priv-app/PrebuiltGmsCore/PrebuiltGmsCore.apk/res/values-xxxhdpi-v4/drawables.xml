@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="drawable" name="auth_ic_delete_grey_24dp">false</item>
+    <item type="drawable" name="auth_ic_place_grey_24dp">false</item>
+    <item type="drawable" name="btn_32_white_focused">false</item>
+    <item type="drawable" name="car_bluetooth_white_24dp">false</item>
+    <item type="drawable" name="car_maps_launcher">false</item>
+    <item type="drawable" name="car_music_launcher">false</item>
+    <item type="drawable" name="car_search_launcher">false</item>
+    <item type="drawable" name="gh_ic_search_black">false</item>
+    <item type="drawable" name="gh_ic_search_white">false</item>
+    <item type="drawable" name="ic_drive_file_chart">false</item>
+    <item type="drawable" name="ic_drive_file_earth">false</item>
+    <item type="drawable" name="ic_drive_file_keep">false</item>
+    <item type="drawable" name="ic_drive_file_script">false</item>
+    <item type="drawable" name="ic_drive_file_sites">false</item>
+    <item type="drawable" name="ic_drive_nav_ondevice_gray">false</item>
+    <item type="drawable" name="ic_drive_nav_uploads_gray">false</item>
+    <item type="drawable" name="ic_stat_notify_nearby">false</item>
+    <item type="drawable" name="places_ic_clear">false</item>
+    <item type="drawable" name="places_ic_search">false</item>
+    <item type="drawable" name="powered_by_google_dark">false</item>
+    <item type="drawable" name="profile_ic_info_white_24">false</item>
+    <item type="drawable" name="tp_ic_warning_grey600_18dp">false</item>
+    <item type="drawable" name="ic_location_settings_dialog_ulr">false</item>
+    <item type="drawable" name="ic_qu_fab_circle_transparent">false</item>
+    <item type="drawable" name="tp_androidpay_logo">false</item>
+</resources>

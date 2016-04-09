@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="column_land_gridview">4</integer>
+    <integer name="column_port_gridview">3</integer>
+    <integer name="column_episodes_count">5</integer>
+    <integer name="sort_series_count">30</integer>
+    <integer name="column_episodes_margin">-10</integer>
+    <integer name="suggest_hor_num">3</integer>
+    <integer name="image_fetcher_width">240</integer>
+    <integer name="image_fetcher_height">330</integer>
+    <integer name="image_fetcher_banner_width">640</integer>
+    <integer name="image_fetcher_banner_height">360</integer>
+</resources>

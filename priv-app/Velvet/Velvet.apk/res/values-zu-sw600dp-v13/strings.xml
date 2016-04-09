@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="search_phone_or_tablet">Sesha ithebhulethi</string>
+    <string name="corpus_name_summons">Ithebhulethi</string>
+    <string name="search_sources">Usesho lwethebhulethi</string>
+    <string name="no_summons_found">"Ayikho imiphumela etholakele
+kuthebhulethi yakho."</string>
+    <string name="hands_free_unlock_device">Ukwenza usesho lezwi le-Google, sicela uvule ithebhulethi yakho.</string>
+    <string name="icing_manage_storage_summary">Sisheshisa ukusesha kuthebulethi yakho ngokunikeza injini yokusesha ukuze uyisebenzisele izinhlelo zakho zokusebenza. </string>
+</resources>

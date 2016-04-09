@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="user_nickname">Seudónimo</string>
+    <string name="show_owner_info_on_lockscreen_label">Mostrar datos de propietario en pantalla bloqueada</string>
+    <string name="show_profile_info_on_lockscreen_label">Mostrar datos del perfil en pantalla bloqueada</string>
+    <string name="show_user_info_on_lockscreen_label">Mostrar datos de usuario en pantalla bloqueada</string>
+    <string name="lockpassword_confirm_your_pattern_header">Confirma tu diseño</string>
+    <string name="security_settings_title">Seguridad</string>
+    <string name="security_passwords_title">Contraseñas</string>
+    <string name="show_password">Mostrar las contraseñas</string>
+    <string name="lock_after_timeout">Bloquear automáticamente</string>
+    <string name="lock_after_timeout_summary">%1$s después de la suspensión</string>
+    <string name="lock_after_timeout_summary_with_exception">%1$s después de activar el modo de suspensión, excepto cuando %2$s mantiene la pantalla desbloqueada.</string>
+    <string name="owner_info_settings_title">Datos de propietario</string>
+    <string name="owner_info_settings_summary" />
+    <string name="owner_info_settings_edit_text_hint">Ingresa el texto para la pantalla bloqueada.</string>
+    <string name="lock_settings_picker_title">Elegir bloqueo pant.</string>
+    <string name="biometric_weak_improve_matching_title">Mejorar el reconocimiento facial</string>
+    <string name="biometric_weak_liveliness_title">Reconocimiento facial</string>
+    <string name="biometric_weak_liveliness_summary">Solicitar parpadeo durante desbloqueo</string>
+    <string name="lockpassword_choose_your_password_header">Elegir la contraseña</string>
+    <string name="lockpassword_choose_your_pattern_header">Elige tu diseño</string>
+    <string name="lockpassword_choose_your_pin_header">Elige tu PIN</string>
+    <string name="lockpassword_confirm_passwords_dont_match">Las contraseñas no coinciden.</string>
+    <string name="lockpassword_confirm_pins_dont_match">Los PIN no coinciden.</string>
+    <string name="lock_settings_title">Pantalla de seguridad</string>
+    <string name="lockpattern_change_lock_pattern_label">Cambiar patrón de desbloqueo</string>
+    <string name="lockpattern_change_lock_pin_label">Cambiar PIN de desbloqueo</string>
+    <string name="lockpattern_need_to_unlock">Confirmar el patrón guardado</string>
+    <string name="lockpattern_need_to_unlock_wrong">Inténtalo de nuevo:</string>
+    <string name="lockpattern_recording_intro_header">Dibuja un patrón de desbloqueo</string>
+    <string name="lockpattern_recording_intro_footer">Presiona Menú para obtener ayuda.</string>
+    <string name="lockpattern_recording_inprogress">Levanta el dedo cuando termines.</string>
+    <string name="lockpattern_recording_incorrect_too_short">Une al menos %d puntos. Vuelve a intentarlo.</string>
+    <string name="lockpattern_pattern_entered_header">Patrón grabado</string>
+    <string name="lockpattern_need_to_confirm">Vuelve a trazar el patrón para confirmar.</string>
+    <string name="lockpattern_pattern_confirmed_header">Patrón de desbloqueo nuevo</string>
+    <string name="lockpattern_confirm_button_text">Confirmar</string>
+    <string name="lockpattern_restart_button_text">Revisar</string>
+    <string name="lockpattern_retry_button_text">Intentar nuevamente</string>
+    <string name="lockpattern_continue_button_text">Continuar</string>
+    <string name="lockpattern_settings_title">Patrón de desbloqueo</string>
+    <string name="lockpattern_settings_enable_title">Requiere un patrón</string>
+    <string name="lockpattern_settings_enable_summary">Debes dibujar el patrón para desbloquear la pantalla</string>
+    <string name="lockpattern_settings_enable_visible_pattern_title">Hacer visible el patrón</string>
+    <string name="lockpattern_settings_enable_tactile_feedback_title">Vibrar al tacto</string>
+    <string name="lockpattern_settings_enable_power_button_instantly_locks">Bloquear al encender</string>
+    <string name="lockpattern_settings_power_button_instantly_locks_summary">Excepto cuando %1$s mantiene la pantalla desbloqueada.</string>
+    <string name="lockpattern_settings_choose_lock_pattern">Conf. patrón de desbloq.</string>
+    <string name="lockpattern_settings_change_lock_pattern">Cambiar patrón de desbloqueo</string>
+    <string name="lockpattern_settings_help_how_to_record">Cómo se debe extraer un patrón de desbloqueo</string>
+    <string name="lockpattern_too_many_failed_confirmation_attempts_header">¡Demasiados intentos incorrectos!</string>
+    <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Vuelve a intentarlo en %d segundos.</string>
+    <string name="unlock_set_unlock_launch_picker_title">Bloqueo de pantalla</string>
+    <string name="unlock_set_unlock_launch_picker_change_title">Cambiar pant. bloqueada</string>
+    <string name="unlock_set_unlock_launch_picker_change_summary">Cambiar/inhab. patrón/PIN/contraseña</string>
+    <string name="unlock_set_unlock_launch_picker_enable_summary">Elige un método para bloquear la pantalla.</string>
+    <string name="unlock_backup_info_summary">Si el desbloqueo facial no te reconoce, ¿cómo quieres desbloquear la pantalla?</string>
+    <string name="unlock_set_unlock_off_title">Ninguna</string>
+    <string name="unlock_set_unlock_off_summary" />
+    <string name="unlock_set_unlock_none_title">Deslizar</string>
+    <string name="unlock_set_unlock_none_summary">Sin seguridad</string>
+    <string name="unlock_set_unlock_biometric_weak_title">Desbloqueo facial</string>
+    <string name="unlock_set_unlock_biometric_weak_summary">Seguridad baja, experimental</string>
+    <string name="unlock_set_unlock_pattern_title">Patrón</string>
+    <string name="unlock_set_unlock_pattern_summary">Seguridad media</string>
+    <string name="unlock_set_unlock_pin_title">PIN</string>
+    <string name="unlock_set_unlock_pin_summary">Nivel de seguridad medio a alto</string>
+    <string name="unlock_set_unlock_password_title">Contraseña</string>
+    <string name="unlock_set_unlock_password_summary">Nivel de seguridad alto</string>
+    <string name="unlock_set_unlock_disabled_summary">Inhabilitado por administrador, política de encriptación o almacenamiento de credenciales</string>
+    <string name="unlock_set_unlock_mode_off">Ninguna</string>
+    <string name="unlock_set_unlock_mode_none">Deslizar</string>
+    <string name="unlock_set_unlock_mode_biometric_weak">Desbloqueo facial</string>
+    <string name="unlock_set_unlock_mode_pattern">Patrón</string>
+    <string name="unlock_set_unlock_mode_pin">PIN</string>
+    <string name="unlock_set_unlock_mode_password">Contraseña</string>
+    <string name="unlock_disable_lock_title">Desactivar el bloqueo de pantalla</string>
+    <string name="unlock_disable_lock_pattern_summary">Eliminar el patrón de desbloqueo</string>
+    <string name="unlock_disable_lock_pin_summary">Eliminar el PIN de desbloqueo</string>
+    <string name="unlock_disable_lock_password_summary">Eliminar la contraseña de desbloqueo</string>
+    <string name="unlock_change_lock_pattern_title">Cambiar patrón de desbloqueo</string>
+    <string name="unlock_change_lock_pin_title">Cambiar PIN de desbloqueo</string>
+    <string name="unlock_change_lock_password_title">Cambiar la contraseña de desbloqueo</string>
+    <string name="keywords_lockscreen">deslizar, contraseña, patrón, pin</string>
+    <string name="switch_on_text">Activar</string>
+    <string name="switch_off_text">Desactivar</string>
+    <string name="screen_pinning_title">Fijar pantalla</string>
+    <string name="screen_pinning_description">"Cuando esta configuración está activada, puedes colocar el dispositivo en un estado que mantenga visible la pantalla actual.
+
+Para fijar una pantalla:
+
+1. Activa esta configuración.
+
+2. Abre una aplicación.
+
+3. Presiona el botón Recientes.
+
+4. Presiona el ícono de marcador."</string>
+    <string name="settings_safetylegal_activity_loading">Cargando…</string>
+    <string name="no_applications">No hay aplicaciones.</string>
+    <string name="help_label">Ayuda y comentarios</string>
+    <string name="lockpassword_ok_label">Aceptar</string>
+    <string name="lockpattern_tutorial_cancel_label">Cancelar</string>
+    <string name="lockpattern_tutorial_continue_label">Siguiente</string>
+    <string name="lockpassword_confirm_your_pin_header">Confirmar tu PIN</string>
+    <string name="lockpassword_confirm_your_password_header">Confirmar la contraseña</string>
+    <string name="cancel">Cancelar</string>
+    <string name="lock_screen_notifications_title">Con dispositivo bloqueado</string>
+    <string name="lock_screen_notifications_summary_show">Mostrar todo el contenido de notificaciones</string>
+    <string name="lock_screen_notifications_summary_hide">Ocultar contenido confidencial de notificaciones</string>
+    <string name="lock_screen_notifications_summary_disable">No mostrar notificaciones</string>
+    <string name="lock_screen_notifications_interstitial_message">¿Cómo deseas ver las notificaciones cuando el dispositivo esté bloqueado?</string>
+    <string name="app_notifications_dialog_done">Listo</string>
+    <string name="lockpassword_cancel_label">Cancelar</string>
+    <string name="lockpassword_password_too_long">La contraseña debe tener menos de %d caracteres.</string>
+    <string name="lockpassword_pin_too_long">El PIN debe tener menos de %d dígitos.</string>
+    <string name="lockpassword_password_too_short">La contraseña debe tener al menos %d caracteres.</string>
+    <string name="lockpassword_pin_too_short">El PIN debe tener al menos %d dígitos.</string>
+    <string name="lockpassword_press_continue">Toca Continuar cuando hayas finalizado</string>
+    <string name="lockpassword_continue_label">Continuar</string>
+    <string name="lockpassword_pin_no_sequential_digits">No se permiten una secuencia ascendente, descendente ni repetida de dígitos.</string>
+    <string name="lockpassword_pin_contains_non_digits">El PIN debe tener dígitos entre el 0 y el 9 únicamente.</string>
+    <string name="lockpassword_pin_recently_used">El administrador del dispositivo no permite el uso de un PIN utilizado recientemente.</string>
+    <string name="lockpassword_illegal_character">La contraseña posee un carácter no permitido.</string>
+    <string name="lockpassword_password_requires_alpha">La contraseña debe tener al menos una letra.</string>
+    <string name="lockpassword_password_requires_digit">La contraseña debe tener al menos un dígito.</string>
+    <string name="lockpassword_password_requires_symbol">La contraseña debe tener al menos un símbolo.</string>
+    <string name="lockpassword_password_recently_used">El administrador del dispositivo no permite el uso de una contraseña utilizada recientemente.</string>
+    <string name="backup_lock_settings_picker_title">Bloqueo alternativo</string>
+    <string name="profile_info_settings_title">Datos del perfil</string>
+    <string name="user_info_settings_title">Datos de usuario</string>
+    <string name="credential_storage_type_hardware">Copia de seguridad en hardware</string>
+    <string name="credential_storage_type_software">Solo software</string>
+    <string name="error_title" />
+    <string name="lockpassword_choose_lock_generic_header">Desbloquear la selección</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="search_phone_or_tablet">Bilatu tabletan</string>
+    <string name="corpus_name_summons">Tableta</string>
+    <string name="search_sources">Tabletako bilaketa</string>
+    <string name="no_summons_found">"Ez da emaitzarik aurkitu
+tabletan."</string>
+    <string name="hands_free_unlock_device">Ahots bidezko Google bilaketa egiteko, desblokeatu tableta.</string>
+    <string name="icing_manage_storage_summary">Tabletako bilaketa bizkortzen dugu aplikazioek erabil dezaketen bilatzaile bat emanda.</string>
+</resources>

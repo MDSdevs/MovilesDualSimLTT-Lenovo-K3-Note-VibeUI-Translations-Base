@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="alert_TVSnooze_marginBottom_value">22.0dip</dimen>
+    <dimen name="alarm_LayoutCenter_margintop_value">90.0dip</dimen>
+    <dimen name="alert_weather_layout_values">15.0dip</dimen>
+    <dimen name="alert_time24or12_layout_values">10.0dip</dimen>
+    <dimen name="alert_snooze_button_marginBottom_new">14.0dip</dimen>
+    <dimen name="alert_lable_layout_marginBotton_new">188.0dip</dimen>
+    <dimen name="alert_alarm__time_display">70.0dip</dimen>
+    <dimen name="alarm_date_display_values">188.0dip</dimen>
+    <dimen name="alarm_time_display_values">100.0dip</dimen>
+    <dimen name="alert_time24or12_text_size_new">14.0sp</dimen>
+    <dimen name="alert_TVDismiss_text_size">24.0sp</dimen>
+    <dimen name="alert_alarm__slide_arrow_height">220.0dip</dimen>
+    <dimen name="alert_alarm__slide_arrow">35.0dip</dimen>
+    <dimen name="alert_alarm__slide_text">10.0dip</dimen>
+    <dimen name="alert_TVSnooze_text_size">20.0sp</dimen>
+    <dimen name="snooze_button_paddingleft">40.0dip</dimen>
+    <dimen name="alert_time24or12_text_size">30.0sp</dimen>
+    <dimen name="alert_time24or12_layout_marginTop">10.0dip</dimen>
+    <dimen name="alert_time_layout_marginTop">45.0dip</dimen>
+    <dimen name="alert_lable_layout_marginTop">50.0dip</dimen>
+    <dimen name="alert_TVAlarmLabel_text_size">22.0sp</dimen>
+    <dimen name="alert_weather_tpye_text_size">18.0sp</dimen>
+    <dimen name="alert_weather_temp_text_size">18.0sp</dimen>
+    <dimen name="alert_weather_layout_marginBottom">40.0dip</dimen>
+</resources>

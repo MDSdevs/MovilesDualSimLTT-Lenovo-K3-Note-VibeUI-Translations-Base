@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="search_phone_or_tablet">タブレットを検索</string>
+    <string name="corpus_name_summons">タブレット</string>
+    <string name="search_sources">タブレット内検索</string>
+    <string name="no_summons_found">"お使いのタブレットでは
+該当する結果が見つかりませんでした。"</string>
+    <string name="hands_free_unlock_device">Googleの音声検索を使用するには、タブレットのロックを解除してください。</string>
+    <string name="icing_manage_storage_summary">Googleではアプリが使用する検索エンジンを提供することでタブレットでの検索を高速化しています。</string>
+</resources>

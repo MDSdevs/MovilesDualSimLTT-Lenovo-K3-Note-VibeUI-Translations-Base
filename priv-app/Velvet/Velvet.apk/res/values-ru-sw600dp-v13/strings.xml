@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="search_phone_or_tablet">Поиск на планшетном ПК</string>
+    <string name="corpus_name_summons">Планшетный ПК</string>
+    <string name="search_sources">Поиск на планшете</string>
+    <string name="no_summons_found">"Ничего
+не найдено."</string>
+    <string name="hands_free_unlock_device">Чтобы воспользоваться голосовым поиском, разблокируйте устройство.</string>
+    <string name="icing_manage_storage_summary">Чтобы поиск работал быстрее, приложения на вашем устройстве могут использовать поисковый индекс</string>
+</resources>

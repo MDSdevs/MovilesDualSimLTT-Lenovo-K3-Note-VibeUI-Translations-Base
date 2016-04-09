@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">cover:vlife</string>
+    <string name="action_settings">設定</string>
+    <string name="activity_name">微樂</string>
+    <string name="settings_detail">用於顯示微樂主題</string>
+    <string name="cover_app_wallpaper_name">微樂動態壁紙</string>
+    <string name="init_tip">正在加載鎖屏主題包……</string>
+</resources>

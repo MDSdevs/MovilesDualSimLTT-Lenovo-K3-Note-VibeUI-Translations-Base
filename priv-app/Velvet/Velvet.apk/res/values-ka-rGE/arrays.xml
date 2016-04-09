@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="recurrence_freq">
+        <item>ყოველდღიურად გამეორება</item>
+        <item>ყოველკვირეულად გამეორება</item>
+        <item>ყოველთვიურად გამეორება</item>
+        <item>ყოველწლიურად გამეორება</item>
+    </string-array>
+    <string-array name="edit_recurrence">
+        <item>არ მეორდება</item>
+        <item>ყოველ დღე</item>
+        <item>ყოველ კვირას</item>
+        <item>ყოველ თვეს</item>
+        <item>ყოველ წელს</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>ყოველ პირველ კვირას (დღე)</item>
+        <item>ყოველ მეორე კვირას (დღე)</item>
+        <item>ყოველ მესამე კვირას (დღე)</item>
+        <item>ყოველ მეოთხე კვირას (დღე)</item>
+        <item>ყოველ მეხუთე კვირას</item>
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>ყოველ პირველ ორშაბათს</item>
+        <item>ყოველ მეორე ორშაბათს</item>
+        <item>ყოველ მესამე ორშაბათს</item>
+        <item>ყოველ მეოთხე ორშაბათს</item>
+        <item>ყოველ ბოლო ორშაბათს</item>
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>ყოველ პირველ სამშაბათს</item>
+        <item>ყოველ მეორე სამშაბათს</item>
+        <item>ყოველ მესამე სამშაბათს</item>
+        <item>ყოველ მეოთხე სამშაბათს</item>
+        <item>ყოველ ბოლო სამშაბათს</item>
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>ყოველ პირველ ოთხშაბათს</item>
+        <item>ყოველ მეორე ოთხშაბათს</item>
+        <item>ყოველ მესამე ოთხშაბათს</item>
+        <item>ყოველ მეოთხე ოთხშაბათს</item>
+        <item>ყოველ ბოლო ოთხშაბათს</item>
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>ყოველ პირველ ხუთშაბათს</item>
+        <item>ყოველ მეორე ხუთშაბათს</item>
+        <item>ყოველ მესამე ხუთშაბათს</item>
+        <item>ყოველ მეოთხე ხუთშაბათს</item>
+        <item>ყოველ ბოლო ხუთშაბათს</item>
+    </string-array>
+    <string-array name="repeat_by_nth_fri">
+        <item>ყოველ პირველ პარასკევს</item>
+        <item>ყოველ მეორე პარასკევს</item>
+        <item>ყოველ მესამე პარასკევს</item>
+        <item>ყოველ მეოთხე პარასკევს</item>
+        <item>ყოველ ბოლო პარასკევს</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>ყოველ პირველ შაბათს</item>
+        <item>ყოველ მეორე შაბათს</item>
+        <item>ყოველ მესამე შაბათს</item>
+        <item>ყოველ მეოთხე შაბათს</item>
+        <item>ყოველ ბოლო შაბათს</item>
+    </string-array>
+    <string-array name="baseball_innings">
+        <item>1-ლი ინინგი</item>
+        <item>მე-2 ინინგი</item>
+        <item>მე-3 ინინგი</item>
+        <item>მე-4 ინინგი</item>
+        <item>მე-5 ინინგი</item>
+        <item>მე-6 ინინგი</item>
+        <item>მე-7 ინინგი</item>
+        <item>მე-8 ინინგი</item>
+        <item>მე-9 ინინგი</item>
+        <item>მე-10 ინინგი</item>
+        <item>მე-11 ინინგი</item>
+        <item>მე-12 ინინგი</item>
+    </string-array>
+    <string-array name="qp_top_baseball_innings">
+        <item>1-ელი ზედა</item>
+        <item>მე-2 ზედა</item>
+        <item>მე-3 ზედა</item>
+        <item>მე-4 ზედა</item>
+        <item>მე-5 ზედა</item>
+        <item>მე-6 ზედა</item>
+        <item>მე-7 ზედა</item>
+        <item>მე-8 ზედა</item>
+        <item>მე-9 ზედა</item>
+        <item>მე-10 ზედა</item>
+        <item>მე-11 ზედა</item>
+        <item>მე-12 ზედა</item>
+    </string-array>
+    <string-array name="qp_bottom_baseball_innings">
+        <item>1-ელი ქვედა</item>
+        <item>მე-2 ქვედა</item>
+        <item>მე-3 ქვედა</item>
+        <item>მე-4 ქვედა</item>
+        <item>მე-5 ქვედა</item>
+        <item>მე-6 ქვედა</item>
+        <item>მე-7 ქვედა</item>
+        <item>მე-8 ქვედა</item>
+        <item>მე-9 ქვედა</item>
+        <item>მე-10 ქვედა</item>
+        <item>მე-11 ქვედა</item>
+        <item>მე-12 ქვედა</item>
+    </string-array>
+    <string-array name="local_results_markers">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>[v]</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+    </string-array>
+    <string-array name="languageNames">
+        <item>აფრიკაანსი (სამხრეთ აფრიკა)</item>
+        <item>არაბული (ალჟირი)</item>
+        <item>არაბული (ეგვიპტე)</item>
+        <item>არაბული (ერაყი)</item>
+        <item>არაბული (ისრაელი)</item>
+        <item>არაბული (იორდანია)</item>
+        <item>არაბული (ქუვეითი)</item>
+        <item>არაბული (ლიბანი)</item>
+        <item>არაბული (ლიბია)</item>
+        <item>არაბული (მაროკო)</item>
+        <item>არაბული (კატარი)</item>
+        <item>არაბული (საუდის არაბეთი)</item>
+        <item>არაბული (სუდანი)</item>
+        <item>არაბული (სირია)</item>
+        <item>არაბული (ტუნისი)</item>
+        <item>არაბული (არაბთა გაერთიანებული საემიროები)</item>
+        <item>არაბული (იემენი)</item>
+        <item>ბელარუსული (ბელარუსი)</item>
+        <item>ბენგალიური (ბანგლადეში)</item>
+        <item>ბულგარული (ბულგარეთი)</item>
+        <item>კატალანური (ესპანეთი)</item>
+        <item>ჩინური, მანდარინული (ჩინეთი, გამარტივებული)</item>
+        <item>ჩინური, „მანდარინი“ (ჰონგ კონგი, გამარტივებული)</item>
+        <item>ჩინური, „მანდარინი“ (ჰონგ კონგი, ტრადიციული)</item>
+        <item>ჩინური, მანდარინი (სინგაპური, გამარტივებული)</item>
+        <item>ჩინური, „მანდარინი“ (ტაივანი, გამარტივებული)</item>
+        <item>ჩინური, მანდარინული (ტაივანი, ტრადიციული)</item>
+        <item>ჩინური, „მანდარინი“ (ჩინეთი, გამარტივებული)</item>
+        <item>ჩინური, იუ (ჰონკონგი, ტრადიციული)</item>
+        <item>ხორვატული (ხორვატია)</item>
+        <item>ჩეხური (ჩეხეთის რესპუბლიკა)</item>
+        <item>დანიური (დანია)</item>
+        <item>ჰოლანდიური (ბელგია)</item>
+        <item>ჰოლანდიური (ნიდერლანდები)</item>
+        <item>ინგლისური (საერთო)</item>
+        <item>ინგლისური (ავსტრალია)</item>
+        <item>ინგლისური (ბანგლადეში)</item>
+        <item>ინგლისური (კანადა)</item>
+        <item>ინგლისური (ჰონგკონგი)</item>
+        <item>ინგლისური (ინდოეთი)</item>
+        <item>ინგლისური (ირლანდია)</item>
+        <item>ინგლისური (კენია)</item>
+        <item>ინგლისური (მალაიზია)</item>
+        <item>ინგლისური (ახალი ზელანდია)</item>
+        <item>ინგლისური (ნიგერია)</item>
+        <item>ინგლისური (პაკისტანი)</item>
+        <item>ინგლისური (ფილიპინები)</item>
+        <item>ინგლისური (სინგაპური)</item>
+        <item>ინგლისური (სამხრეთ აფრიკა)</item>
+        <item>ინგლისური (სუდანი)</item>
+        <item>ინგლისური (ტანზანია)</item>
+        <item>ინგლისური (უგანდა)</item>
+        <item>ინგლისური (გაერთიანებული სამეფო)</item>
+        <item>ინგლისური (აშშ)</item>
+        <item>ესტონური (ესტონეთი)</item>
+        <item>ფილიპინური (ფილიპინები)</item>
+        <item>ფინური (ფინეთი)</item>
+        <item>ფრანგული (ბელგია)</item>
+        <item>ფრანგული (კანადა)</item>
+        <item>ფრანგული (საფრანგეთი)</item>
+        <item>ფრანგული (შვეიცარია)</item>
+        <item>გალისიური (ესპანეთი)</item>
+        <item>გერმანული (ავსტრია)</item>
+        <item>გერმანული (გერმანია)</item>
+        <item>გერმანული (შვეიცარია)</item>
+        <item>გერმანული (ლიხტენშტეინი)</item>
+        <item>ბერძნული (საბერძნეთი)</item>
+        <item>ებრაული (ისრაელი)</item>
+        <item>ჰინდი (ინდოეთი)</item>
+        <item>უნგრული (უნგრეთი)</item>
+        <item>ისლანდიური (ისლანდია)</item>
+        <item>ინდონეზიური (ინდონეზია)</item>
+        <item>ირლანდიური (ირლანდია)</item>
+        <item>ნდებელე (სამხრეთ აფრიკა)</item>
+        <item>ისიქოსა (სამხრეთ აფრიკა)</item>
+        <item>ზულუ (სამხრეთ აფრიკა)</item>
+        <item>იტალიური (იტალია)</item>
+        <item>იტალიური (შვეიცარია)</item>
+        <item>იაპონური (იაპონია)</item>
+        <item>კორეული (სამხრეთ კორეა)</item>
+        <item>ლატვიური (ლატვია)</item>
+        <item>ლიტვური (ლიტვა)</item>
+        <item>მალაური (მალაიზია)</item>
+        <item>მალაიური (სინგაპური)</item>
+        <item>ნორვეგიული ბუკმოლი (ნორვეგია)</item>
+        <item>ნორვეგიული ნიუნორსკი (ნორვეგია)</item>
+        <item>სპარსული (ირანი)</item>
+        <item>პოლონური (პოლონეთი)</item>
+        <item>პორტუგალური (ანგოლა)</item>
+        <item>პორტუგალიური (ბრაზილია)</item>
+        <item>პორტუგალიური (პორტუგალია)</item>
+        <item>რუმინული (რუმინეთი)</item>
+        <item>რუსული (ბელარუსი)</item>
+        <item>რუსული (რუსეთი)</item>
+        <item>საპედი (სამხრეთ აფრიკის რესპუბლიკა)</item>
+        <item>სერბული (სერბეთი, კირილიცა)</item>
+        <item>სოტო (სამხრეთ აფრიკა)</item>
+        <item>სეტსვანა (სამხრეთ აფრიკა)</item>
+        <item>სვატი (სამხრეთ აფრიკა)</item>
+        <item>სლოვაკური (სლოვაკეთი)</item>
+        <item>სლოვენიური (სლოვენია)</item>
+        <item>ესპანური (არგენტინა)</item>
+        <item>ესპანური (ბოლივია)</item>
+        <item>ესპანური (ჩილე)</item>
+        <item>ესპანური (კოლუმბია)</item>
+        <item>ესპანური (კოსტა-რიკა)</item>
+        <item>ესპანური (კუბა)</item>
+        <item>ესპანური (დომინიკის რესპუბლიკა)</item>
+        <item>ესპანური (ეკვადორი)</item>
+        <item>ესპანური (ელ-სალვადორი)</item>
+        <item>ესპანური (გვატემალა)</item>
+        <item>ესპანური (ჰონდურასი)</item>
+        <item>ესპანური (მექსიკა)</item>
+        <item>ესპანური (ნიკარაგუა)</item>
+        <item>ესპანური (პანამა)</item>
+        <item>ესპანური (პარაგვაი)</item>
+        <item>ესპანური (პერუ)</item>
+        <item>ესპანური (პუერტო-რიკო)</item>
+        <item>ესპანური (ესპანეთი)</item>
+        <item>ესპანური (აშშ)</item>
+        <item>ესპანური (ურუგვაი)</item>
+        <item>ესპანური (ვენესუელა)</item>
+        <item>სუაჰილი (კენია)</item>
+        <item>სუაჰილი (ტანზანია)</item>
+        <item>სუაჰილი (უგანდა)</item>
+        <item>შვედური (ფინეთი)</item>
+        <item>შვედური (შვედეთი)</item>
+        <item>ტაილანდური (ტაილანდი)</item>
+        <item>ჩივენდა (სამხრეთ აფრიკა)</item>
+        <item>თურქული (თურქეთი)</item>
+        <item>უკრაინული (უკრაინა)</item>
+        <item>ურდუ (პაკისტანი)</item>
+        <item>ვიეტნამური (ვიეტნამი)</item>
+        <item>ტსონგა (სამხრეთ აფრიკა)</item>
+    </string-array>
+    <string-array name="edit_reminder_day">
+        <item>დღეს</item>
+        <item>ხვალ</item>
+        <item>ზოგჯერ</item>
+        <item>თარიღის დაყენება...</item>
+    </string-array>
+    <string-array name="edit_reminder_time">
+        <item>დილა</item>
+        <item>შუადღე</item>
+        <item>საღამო</item>
+        <item>ღამე</item>
+        <item>მთელი დღე</item>
+        <item>დროის დაყენება…</item>
+    </string-array>
+    <string-array name="edit_reminder_location_trigger_type">
+        <item>ჩამოსვლა</item>
+        <item>გამგზავრება</item>
+    </string-array>
+    <string-array name="edit_reminder_location">
+        <item>სახლი</item>
+        <item>სამსახური</item>
+        <item>მდებარეობის დაყენება…</item>
+    </string-array>
+    <string-array name="network_error_tts_messages">
+        <item>ეს ინტერნეტ კავშირი ახლა საიმედო არ არის.</item>
+        <item>ეს ინტერნეტ კავშირი საიმედო არ არის ამ მომენტში.</item>
+        <item>ეს ინტერნეტ კავშირი არ არის სტაბილური ახლა.</item>
+        <item>ეს ინტერნეტ კავშირი არ არის სტაბილური ამ მომენტში.</item>
+        <item>ეს ინტერნეტ კავშირი საკმარისად ძლიერი არ არის ახლა.</item>
+        <item>ეს ინტერნეტ კავშირი საკმარისად ძლიერი არ არის ამ მომენტში.</item>
+    </string-array>
+    <string-array name="read_it_grammar">
+        <item>წაკითხვა</item>
+        <item>შეტყობინების წაკითხვა</item>
+        <item>ამ ტექსტის წაკითხვა</item>
+    </string-array>
+    <string-array name="reply_grammar">
+        <item>პასუხი</item>
+        <item>პასუხის გაგზავნა</item>
+        <item>პასუხის გაგზავნა</item>
+        <item>ტექსტურ შეტყობინებაზე პასუხი</item>
+        <item>მასზე პასუხის გაგზავნა</item>
+    </string-array>
+    <string-array name="call_back_grammar">
+        <item>ბოლო შეტყობინების გამომგზავნთან დარეკვა</item>
+        <item>მასთან დარეკვა</item>
+        <item>მასთან გადარეკვა</item>
+        <item>მასთან დარეკვა</item>
+        <item>მასთან გადარეკვა</item>
+    </string-array>
+</resources>

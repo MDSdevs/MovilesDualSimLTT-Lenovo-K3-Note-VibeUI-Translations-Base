@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="appdetail_access_items">
+        <item>Tanyakan</item>
+        <item>Benarkan</item>
+        <item>Nafi</item>
+    </string-array>
+    <string-array name="appdetail_access_items_pro">
+        <item>Tanyakan</item>
+        <item>Benarkan</item>
+        <item>Izin+Masa</item>
+        <item>Halang</item>
+        <item>Tolak+Masa</item>
+    </string-array>
+    <string-array name="appdetail_logging_items">
+        <item>Aturan lalai</item>
+        <item>Kandungan penuh</item>
+        <item>Akses sahaja</item>
+        <item>Tiada</item>
+    </string-array>
+    <string-array name="appdetail_notification_items">
+        <item>Aturan lalai</item>
+        <item>Diaktifkan</item>
+        <item>Dinyahaktifkan</item>
+    </string-array>
+    <string-array name="expire_timer">
+        <item>Tanpa had</item>
+        <item>Seminit</item>
+        <item>5 minit</item>
+        <item>15 minit</item>
+        <item>30 minit</item>
+        <item>Sejam</item>
+        <item>3 jam</item>
+        <item>6 jam</item>
+        <item>12 jam</item>
+        <item>24 jam</item>
+    </string-array>
+    <string-array name="settings_default_access_items">
+        <item>Tanyakan</item>
+        <item>Setujui</item>
+        <item>Nafi</item>
+    </string-array>
+    <string-array name="settings_log_age_items">
+        <item>Tidak pernah</item>
+        <item>2 minggu</item>
+        <item>1 minggu</item>
+        <item>3 hari</item>
+        <item>2 hari</item>
+        <item>1 hari</item>
+    </string-array>
+    <string-array name="settings_log_format_items">
+        <item>31/12 23:59</item>
+        <item>12/31 23:59</item>
+        <item>31/12 11:59 PM</item>
+        <item>12/31 11:59 PM</item>
+    </string-array>
+    <string-array name="settings_log_items">
+        <item>Kandungan penuh</item>
+        <item>Akses sahaja</item>
+        <item>Tiada</item>
+    </string-array>
+</resources>

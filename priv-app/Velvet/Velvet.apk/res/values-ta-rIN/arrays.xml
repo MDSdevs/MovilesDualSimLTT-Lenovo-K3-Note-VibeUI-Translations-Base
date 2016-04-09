@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="recurrence_freq">
+        <item>தினமும் நினைவுபடுத்து</item>
+        <item>வாரந்தோறும் நினைவுபடுத்து</item>
+        <item>மாதந்தோறும் நினைவுபடுத்து</item>
+        <item>ஆண்டுதோறும் நினைவுபடுத்து</item>
+    </string-array>
+    <string-array name="edit_recurrence">
+        <item>நினைவுபடுத்த வேண்டாம்</item>
+        <item>ஒவ்வொரு நாளும்</item>
+        <item>ஒவ்வொரு வாரமும்</item>
+        <item>ஒவ்வொரு மாதமும்</item>
+        <item>ஒவ்வொரு ஆண்டும்</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>ஒவ்வொரு முதல் ஞாயிறு</item>
+        <item>ஒவ்வொரு இரண்டாவது ஞாயிறு</item>
+        <item>ஒவ்வொரு மூன்றாவது ஞாயிறு</item>
+        <item>ஒவ்வொரு நான்காவது ஞாயிறு</item>
+        <item>ஒவ்வொரு கடைசி ஞாயிறு</item>
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>ஒவ்வொரு முதல் திங்கள்</item>
+        <item>ஒவ்வொரு இரண்டாவது திங்கள்</item>
+        <item>ஒவ்வொரு மூன்றாவது திங்கள்</item>
+        <item>ஒவ்வொரு நான்காவது திங்கள்</item>
+        <item>ஒவ்வொரு கடைசி திங்கள்</item>
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>ஒவ்வொரு முதல் செவ்வாய்</item>
+        <item>ஒவ்வொரு இரண்டாவது செவ்வாய்</item>
+        <item>ஒவ்வொரு மூன்றாவது செவ்வாய்</item>
+        <item>ஒவ்வொரு நான்காவது செவ்வாய்</item>
+        <item>ஒவ்வொரு கடைசி செவ்வாய்</item>
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>ஒவ்வொரு முதல் புதன்</item>
+        <item>ஒவ்வொரு இரண்டாவது புதன்</item>
+        <item>ஒவ்வொரு மூன்றாவது புதன்</item>
+        <item>ஒவ்வொரு நான்காவது புதன்</item>
+        <item>ஒவ்வொரு கடைசி புதன்</item>
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>ஒவ்வொரு முதல் வியாழன்</item>
+        <item>ஒவ்வொரு இரண்டாவது வியாழன்</item>
+        <item>ஒவ்வொரு மூன்றாவது வியாழன்</item>
+        <item>ஒவ்வொரு நான்காவது வியாழன்</item>
+        <item>ஒவ்வொரு கடைசி வியாழன்</item>
+    </string-array>
+    <string-array name="repeat_by_nth_fri">
+        <item>ஒவ்வொரு முதல் வெள்ளி</item>
+        <item>ஒவ்வொரு இரண்டாவது வெள்ளி</item>
+        <item>ஒவ்வொரு மூன்றாவது வெள்ளி</item>
+        <item>ஒவ்வொரு நான்காவது வெள்ளி</item>
+        <item>ஒவ்வொரு கடைசி வெள்ளி</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>ஒவ்வொரு முதல் சனி</item>
+        <item>ஒவ்வொரு இரண்டாவது சனி</item>
+        <item>ஒவ்வொரு மூன்றாவது சனி</item>
+        <item>ஒவ்வொரு நான்காவது சனி</item>
+        <item>ஒவ்வொரு கடைசி சனி</item>
+    </string-array>
+    <string-array name="baseball_innings">
+        <item>1வது இன்னிங்ஸ்</item>
+        <item>2வது இன்னிங்ஸ்</item>
+        <item>3வது இன்னிங்</item>
+        <item>4வது இன்னிங்</item>
+        <item>5வது இன்னிங்</item>
+        <item>6வது இன்னிங்ஸ்</item>
+        <item>7வது இன்னிங்</item>
+        <item>8 வது இன்னிங்ஸ்</item>
+        <item>9வது இன்னிங்ஸ்</item>
+        <item>10வது இன்னிங்</item>
+        <item>11 வது இன்னிங்ஸ்</item>
+        <item>12வது இன்னிங்</item>
+    </string-array>
+    <string-array name="qp_top_baseball_innings">
+        <item>முதல் பாதியின் 1வது</item>
+        <item>முதல் பாதியின் 2வது</item>
+        <item>முதல் பாதியின் 3வது</item>
+        <item>முதல் பாதியின் 4வது</item>
+        <item>முதல் பாதியின் 5வது</item>
+        <item>முதல் பாதியின் 6வது</item>
+        <item>முதல் பாதியின் 7வது</item>
+        <item>முதல் பாதியின் 8வது</item>
+        <item>முதல் பாதியின் 9வது</item>
+        <item>முதல் பாதியின் 10வது</item>
+        <item>முதல் பாதியின் 11வது</item>
+        <item>முதல் பாதியின் 12வது</item>
+    </string-array>
+    <string-array name="qp_bottom_baseball_innings">
+        <item>2ஆம் பாதியின் 1வது</item>
+        <item>2ஆம் பாதியின் 2வது</item>
+        <item>2ஆம் பாதியின் 3வது</item>
+        <item>2ஆம் பாதியின் 4வது</item>
+        <item>2ஆம் பாதியின் 5வது</item>
+        <item>2ஆம் பாதியின் 6வது</item>
+        <item>2ஆம் பாதியின் 7வது</item>
+        <item>2ஆம் பாதியின் 8வது</item>
+        <item>2ஆம் பாதியின் 9வது</item>
+        <item>2ஆம் பாதியின் 10வது</item>
+        <item>2ஆம் பாதியின் 11வது</item>
+        <item>2ஆம் பாதியின் 12வது</item>
+    </string-array>
+    <string-array name="local_results_markers">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+    </string-array>
+    <string-array name="languageNames">
+        <item>ஆஃப்ரிக்ன்ஸ் (தென் ஆப்பிரிக்கா)</item>
+        <item>அரபு (அல்ஜீரியா)</item>
+        <item>அரபு (எகிப்து)</item>
+        <item>அரபு (ஈராக்)</item>
+        <item>அரபு (இஸ்ரேல்)</item>
+        <item>அரபிக் (ஜோர்டான்)</item>
+        <item>அரபு (குவைத்)</item>
+        <item>அரபு (லெபனான்)</item>
+        <item>அரபு (லிபியா)</item>
+        <item>அரபு (மொராக்கோ)</item>
+        <item>அரபு (கத்தார்)</item>
+        <item>அரபு (சவூதி அரேபியா)</item>
+        <item>அரபு (சூடான்)</item>
+        <item>அரபு (சிரியா)</item>
+        <item>அரபு (துனிசியா)</item>
+        <item>அரபு (ஐக்கிய அரபு எமிரேட்ஸ்)</item>
+        <item>அரபு (ஏமன்)</item>
+        <item>பெலாரஷ்யன் (பெலாரஸ்)</item>
+        <item>பெங்காலி (பங்களாதேஷ்)</item>
+        <item>பல்கேரியன் (பல்கேரியா)</item>
+        <item>கேட்டலன் (ஸ்பெயின்)</item>
+        <item>சீனம், மாண்டரின் (சீனம், எளிதாக்கப்பட்டது)</item>
+        <item>சீனம், மாண்ட்ரின் (ஹாங்காங், எளிதாக்கப்பட்டது)</item>
+        <item>சீனம், மாண்டரின் (ஹாங்காங், பாரம்பரியமானது)</item>
+        <item>சீனம், மாண்டரின் (சிங்கப்பூர், எளிதாக்கப்பட்டது)</item>
+        <item>சீனம், மாண்டரின் (தைவான், எளிதாக்கப்பட்டது)</item>
+        <item>சீனம், மாண்டரின் (தைவான், பாரம்பரியமானது)</item>
+        <item>சீனம், யூ (சீனம், எளிதாக்கப்பட்டது)</item>
+        <item>சீனம், யூ (ஹாங்காங், பாரம்பரியமானது)</item>
+        <item>குரோஷியன் (குரோஷியா)</item>
+        <item>செக் (செக் குடியரசு)</item>
+        <item>டேனிஷ் (டென்மார்க்)</item>
+        <item>டச்சு (பெல்ஜியம்)</item>
+        <item>டச்சு (நெதர்லாந்து)</item>
+        <item>ஆங்கிலம் (பொது)</item>
+        <item>ஆங்கிலம் (ஆஸ்திரேலியா)</item>
+        <item>ஆங்கிலம் (வங்காளம்)</item>
+        <item>ஆங்கிலம் (கனடா)</item>
+        <item>ஆங்கிலம் (ஹாங்காங்)</item>
+        <item>ஆங்கிலம் (இந்தியா)</item>
+        <item>ஆங்கிலம் (அயர்லாந்து)</item>
+        <item>ஆங்கிலம் (கென்யா)</item>
+        <item>ஆங்கிலம் (மலேசியா)</item>
+        <item>ஆங்கிலம் (நியூசீலாந்து)</item>
+        <item>ஆங்கிலம் (நைஜீரியா)</item>
+        <item>ஆங்கிலம் (பாகிஸ்தான்)</item>
+        <item>ஆங்கிலம் (பிலிப்பைன்ஸ்)</item>
+        <item>ஆங்கிலம் (சிங்கப்பூர்)</item>
+        <item>ஆங்கிலம் (தென் ஆப்பிரிக்கா)</item>
+        <item>ஆங்கிலம் (சூடான்)</item>
+        <item>ஆங்கிலம் (டான்ஸானியா)</item>
+        <item>ஆங்கிலம் (உகாண்டா)</item>
+        <item>ஆங்கிலம் (யூகே)</item>
+        <item>ஆங்கிலம் (யூஎஸ்)</item>
+        <item>எஸ்தோனியன் (எஸ்தோனியா)</item>
+        <item>ஃபிலிபினோ (பிலிப்பைன்ஸ்)</item>
+        <item>ஃபின்னிஷ் (ஃபின்லாந்து)</item>
+        <item>பிரெஞ்ச் (பெல்ஜியம்)</item>
+        <item>ஃபிரெஞ்ச் (கனடா)</item>
+        <item>பிரெஞ்ச் (பிரான்ஸ்)</item>
+        <item>பிரெஞ்ச் (ஸ்விட்சர்லாந்து)</item>
+        <item>காலிஸியன் (ஸ்பெயின்)</item>
+        <item>ஜெர்மன் (ஆஸ்ட்ரியா)</item>
+        <item>ஜெர்மன் (ஜெர்மனி)</item>
+        <item>ஜெர்மன் (ஸ்விட்சர்லாந்து)</item>
+        <item>ஜெர்மன் (லிச்சென்ஸ்டீன்)</item>
+        <item>கிரேக்கம் (கிரீஸ்)</item>
+        <item>ஹீப்ரு (இஸ்ரேல்)</item>
+        <item>இந்தி (இந்தியா)</item>
+        <item>ஹங்கேரியன் (ஹங்கேரி)</item>
+        <item>ஐஸ்லாண்டிக் (ஐஸ்லாந்து)</item>
+        <item>இந்தோனேஷியன் (இந்தோனேஷியா)</item>
+        <item>ஐரிஷ் (அயர்லாந்து)</item>
+        <item>இசிந்டெபேலே (தென் ஆப்பிரிக்கா)</item>
+        <item>இசிகொசா (தென் ஆப்பிரிக்கா)</item>
+        <item>இச்ஜுலு (தென் ஆப்பிரிக்கா)</item>
+        <item>இத்தாலியன் (இத்தாலி)</item>
+        <item>இத்தாலியன் (சுவிட்சர்லாந்து)</item>
+        <item>ஜாப்பனீஸ் (ஜப்பான்)</item>
+        <item>கொரியன் (தென் கொரியா)</item>
+        <item>லத்வியன் (லத்வியா)</item>
+        <item>லித்துவேனியன் (லித்துவேனியா)</item>
+        <item>மலாய் (மலேஷியா)</item>
+        <item>மலாய் (சிங்கப்பூர்)</item>
+        <item>நார்வேஜியன் பொக்மால் (நார்வே)</item>
+        <item>நார்வேஜியன் நைனார்ஸ்க் (நார்வே)</item>
+        <item>பெர்சியன் (ஈரான்)</item>
+        <item>பொலிஷ் (போலந்து)</item>
+        <item>போர்ச்சுகீஸ் (அங்கோலா)</item>
+        <item>போர்ச்சுகீஸ் (பிரேசில்)</item>
+        <item>போர்ச்சுகீஸ் (போர்ச்சுகல்)</item>
+        <item>ருமேனியன் (ருமேனியா)</item>
+        <item>ரஷியன் (பெலாரஸ்)</item>
+        <item>ரஷியன் (ரஷ்யா)</item>
+        <item>சேபடி (தென் ஆப்பிரிக்கா)</item>
+        <item>செர்பியன் (செர்பியா, சிரிலிக்)</item>
+        <item>செசோதோ (தென் ஆப்பிரிக்கா)</item>
+        <item>செட்ஸ்வானா (தென் ஆப்பிரிக்கா)</item>
+        <item>சிஸ்வதி (தென் ஆப்பிரிக்கா)</item>
+        <item>ஸ்லோவோக் (ஸ்லோவாக்கியா)</item>
+        <item>ஸ்லோவேனியன் (ஸ்லோவேனியா)</item>
+        <item>ஸ்பானிஷ் (அர்ஜென்டீனா)</item>
+        <item>ஸ்பானிஷ் (பொலிவியா)</item>
+        <item>ஸ்பானிஷ் (சிலி)</item>
+        <item>ஸ்பானிஷ் (கொலம்பியா)</item>
+        <item>ஸ்பானிஷ் (கோஸ்டா ரிகா)</item>
+        <item>ஸ்பானிஷ் (கியூபா)</item>
+        <item>ஸ்பானிஷ் (டொமினிக்கன் குடியரசு)</item>
+        <item>ஸ்பானிஷ் (ஈக்வெடார்)</item>
+        <item>ஸ்பானிஷ் (எல் சால்வேடார்)</item>
+        <item>ஸ்பானிஷ் (கவுதமாலா)</item>
+        <item>ஸ்பானிஷ் (ஹோண்டுராஸ்)</item>
+        <item>ஸ்பானிஷ் (மெக்சிகோ)</item>
+        <item>ஸ்பானிஷ் (நிகரகுவா)</item>
+        <item>ஸ்பானிஷ் (பனாமா)</item>
+        <item>ஸ்பானிஷ் (பராகுவே)</item>
+        <item>ஸ்பானிஷ் (பெரு)</item>
+        <item>ஸ்பானிஷ் (புயர்டோ ரிகோ)</item>
+        <item>ஸ்பானிஷ் (ஸ்பெயின்)</item>
+        <item>ஸ்பானிஷ் (யூஎஸ்)</item>
+        <item>ஸ்பானிஷ் (உருகுவே)</item>
+        <item>ஸ்பானிஷ் (வெனிசுலா)</item>
+        <item>சுவாஹிலி (கென்யா)</item>
+        <item>சுவாஹிலி (தன்சானியா)</item>
+        <item>ஸ்வாஹிலி (உகாண்டா)</item>
+        <item>ஸ்வீடிஷ் (ஃபின்லாந்து)</item>
+        <item>சுவீடிஷ் (சுவீடன்)</item>
+        <item>தாய் (தாய்லாந்து)</item>
+        <item>ஷிவெண்டா (தென் ஆப்பிரிக்கா)</item>
+        <item>துருக்கிஷ் (துருக்கி)</item>
+        <item>உக்ரைனியன் (உக்ரைன்)</item>
+        <item>உருது (பாகிஸ்தான்)</item>
+        <item>வியட்நாமீஸ் (வியட்நாம்)</item>
+        <item>சோங்க மொழி (தென் ஆஃப்ரிக்கா)</item>
+    </string-array>
+    <string-array name="edit_reminder_day">
+        <item>இன்று</item>
+        <item>நாளை</item>
+        <item>அவ்வப்போது</item>
+        <item>தேதியை அமைக்கவும்…</item>
+    </string-array>
+    <string-array name="edit_reminder_time">
+        <item>காலை</item>
+        <item>மதியம்</item>
+        <item>மாலை</item>
+        <item>இரவு</item>
+        <item>முழு நாளும்</item>
+        <item>நேரத்தை அமைக்கவும்...</item>
+    </string-array>
+    <string-array name="edit_reminder_location_trigger_type">
+        <item>சேருதல்</item>
+        <item>புறப்படுதல்</item>
+    </string-array>
+    <string-array name="edit_reminder_location">
+        <item>வீடு</item>
+        <item>பணியிடம்</item>
+        <item>இடத்தை அமைக்கவும்...</item>
+    </string-array>
+    <string-array name="network_error_tts_messages">
+        <item>இந்த இணைய இணைப்பு இப்போது நம்பும்படியாக இல்லை.</item>
+        <item>இந்த இணைய இணைப்பு தற்போது நம்பும்படியாக இல்லை.</item>
+        <item>இந்த இணைய இணைப்பு இப்போது நிலையானதாக இல்லை.</item>
+        <item>இந்த இணைய இணைப்பு தற்போது நிலையானதாக இல்லை.</item>
+        <item>இந்த இணைய இணைப்பு இப்போது போதுமான வலிமையுடன் இல்லை.</item>
+        <item>இந்த இணைய இணைப்பு தற்போது போதுமான வலிமையுடன் இல்லை.</item>
+    </string-array>
+    <string-array name="read_it_grammar">
+        <item>படி</item>
+        <item>செய்தியைப் படி</item>
+        <item>உரையைப் படி</item>
+    </string-array>
+    <string-array name="reply_grammar">
+        <item>பதிலளி</item>
+        <item>பதிலனுப்பு</item>
+        <item>பதிலனுப்பு</item>
+        <item>உரைச் செய்திக்குப் பதிலளி</item>
+        <item>இதற்குப் பதிலனுப்பு</item>
+    </string-array>
+    <string-array name="call_back_grammar">
+        <item>கடைசி செய்தி அனுப்பியவரை அழை</item>
+        <item>அழை</item>
+        <item>திரும்ப அழை</item>
+        <item>அழை</item>
+        <item>திரும்ப அழை</item>
+    </string-array>
+</resources>

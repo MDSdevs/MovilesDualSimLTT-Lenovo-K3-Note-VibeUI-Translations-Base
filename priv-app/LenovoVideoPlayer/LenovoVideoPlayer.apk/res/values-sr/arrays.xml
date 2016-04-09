@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="items_for_allVideo">
+        <item>Пусти</item>
+        <item>Преименовање</item>
+        <item>Izbriši</item>
+        <item>Informacije</item>
+        <item>Дели</item>
+        <item>Višestruki izbor</item>
+    </string-array>
+    <string-array name="items_for_allVideo_aruba">
+        <item>Пусти</item>
+        <item>Преименовање</item>
+        <item>Izbriši</item>
+    </string-array>
+    <string-array name="items_for_recentVideo">
+        <item>Пусти</item>
+        <item>Izbriši</item>
+        <item>Обриши листу</item>
+    </string-array>
+    <string-array name="items_for_externalCaller">
+        <item>Пусти</item>
+        <item>Dodaj ovaj video</item>
+    </string-array>
+</resources>

@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="recurrence_freq">
+        <item>ӨДӨР БҮР</item>
+        <item>ДОЛОО ХОНОГ БҮР</item>
+        <item>САР БҮР</item>
+        <item>ЖИЛ БҮР</item>
+    </string-array>
+    <string-array name="edit_recurrence">
+        <item>Давтахгүй</item>
+        <item>Өдөр бүр</item>
+        <item>Долоо хоног бүр</item>
+        <item>Сар бүр</item>
+        <item>Жил бүр</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>Эхний Ням гараг бүр</item>
+        <item>Хоёрдох Ням гараг бүр</item>
+        <item>Гуравдах Ням гараг бүр</item>
+        <item>Дөрөвдэх Ням гараг бүр</item>
+        <item>Сүүлийн Ням гараг бүр</item>
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>Эхний Даваа гараг бүр</item>
+        <item>Хоёрдох Даваа гараг бүр</item>
+        <item>Гуравдах Даваа гараг бүр</item>
+        <item>Дөрөвдэх Даваа гараг бүр</item>
+        <item>Сүүлийн Даваа гараг бүр</item>
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>Эхний Мягмар гараг бүр</item>
+        <item>Хоёрдох Мягмар гараг бүр</item>
+        <item>Гуравдах Мягмар гараг бүр</item>
+        <item>Дөрөвдэх Мягмар гараг бүр</item>
+        <item>Сүүлийн Мягмар гараг бүр</item>
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>Эхний Лхагва гараг бүр</item>
+        <item>Хоёрдох Лхагва гараг бүр</item>
+        <item>Гуравдах Лхагва гараг бүр</item>
+        <item>Дөрөвдэх Лхагва гараг бүр</item>
+        <item>Сүүлийн Лхагва гараг бүр</item>
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>Эхний Пүрэв гараг бүр</item>
+        <item>Хоёрдох Пүрэв гараг бүр</item>
+        <item>Гуравдах Пүрэв гараг бүр</item>
+        <item>Дөрөвдэх Пүрэв гараг бүр</item>
+        <item>Сүүлийн Пүрэв гараг бүр</item>
+    </string-array>
+    <string-array name="repeat_by_nth_fri">
+        <item>Эхний Баасан гараг бүр</item>
+        <item>Хоёрдох Баасан гараг бүр</item>
+        <item>Гуравдах Баасан гараг бүр</item>
+        <item>Дөрөвдэх Баасан гараг бүр</item>
+        <item>Сүүлийн Баасан гараг бүр</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>Эхний Бямба гараг бүр</item>
+        <item>Хоёрдох Бямба гараг бүр</item>
+        <item>Гуравдах Бямба гараг бүр</item>
+        <item>Дөрөвдэх Бямба гараг бүр</item>
+        <item>Сүүлийн Бямба гараг бүр</item>
+    </string-array>
+    <string-array name="baseball_innings">
+        <item>1-р иннинг</item>
+        <item>2-р иннинг</item>
+        <item>3-р иннинг</item>
+        <item>4-р иннинг</item>
+        <item>5-р иннинг</item>
+        <item>6-р иннинг</item>
+        <item>7-р иннинг</item>
+        <item>8-р иннинг</item>
+        <item>9-р иннинг</item>
+        <item>10-р иннинг</item>
+        <item>11-р иннинг</item>
+        <item>12-р иннинг</item>
+    </string-array>
+    <string-array name="qp_top_baseball_innings">
+        <item>Дээд 1-р</item>
+        <item>Дээд 2-р</item>
+        <item>Дээд 3-р</item>
+        <item>Дээд 4-р</item>
+        <item>Дээд 5-р</item>
+        <item>Дээд 6-р</item>
+        <item>Дээд 7-р</item>
+        <item>Дээд 8-р</item>
+        <item>Дээд 9-р</item>
+        <item>Дээд 10-р</item>
+        <item>Дээд 11-р</item>
+        <item>Дээд 12-р</item>
+    </string-array>
+    <string-array name="qp_bottom_baseball_innings">
+        <item>Сүүл 1-р</item>
+        <item>Сүүл 2-р</item>
+        <item>Сүүл 3-р</item>
+        <item>Сүүл 4-р</item>
+        <item>Сүүл 5-р</item>
+        <item>Сүүл 6-р</item>
+        <item>Сүүл 7-р</item>
+        <item>Сүүл 8-р</item>
+        <item>Сүүл 9-р</item>
+        <item>Сүүл 10-р</item>
+        <item>Сүүл 11-р</item>
+        <item>Сүүл 12</item>
+    </string-array>
+    <string-array name="local_results_markers">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+    </string-array>
+    <string-array name="languageNames">
+        <item>Африкаан (Өмнөд Африк)</item>
+        <item>Араб (Алжир)</item>
+        <item>Араб (Египет)</item>
+        <item>Араб (Ирак)</item>
+        <item>Араб (Израйль)</item>
+        <item>Араб (Йордан)</item>
+        <item>Араб (Кувейт)</item>
+        <item>Араб (Лебанон)</item>
+        <item>Араб (Ливи)</item>
+        <item>Араб (Морокко)</item>
+        <item>Араб (Катар)</item>
+        <item>Араб (Саудын Араб)</item>
+        <item>Араб (Судан)</item>
+        <item>Араб (Сири)</item>
+        <item>Араб (Тунис)</item>
+        <item>Араб (Арабын Нэгдсэн Эмират)</item>
+        <item>Араб (Йемен)</item>
+        <item>Беларус (Беларус)</item>
+        <item>Бенгали (Бангладеш)</item>
+        <item>Болгар (Болгар)</item>
+        <item>Каталан (Испани)</item>
+        <item>Мандарин Хятад (Хятад, Хялбаршуулсан)</item>
+        <item>Мандарин Хятад (Хонг Конг, Хялбаршуулсан)</item>
+        <item>Мандарин Хятад (Хонг Конг, Уламжлалт)</item>
+        <item>Мандарин Хятад (Сингапур, Хялбаршуулсан)</item>
+        <item>Мандарин Хятад (Тайван, Хялбаршуулсан)</item>
+        <item>Мандарин Хятад (Тайван, Уламжлалт)</item>
+        <item>Юэ Хятад (Хятад, Хялбаршуулсан)</item>
+        <item>Юэ Хятад (Хонг Конг, Уламжлалт)</item>
+        <item>Хорват (Хорват)</item>
+        <item>Чех (БН Чех Улс)</item>
+        <item>Дани (Дани)</item>
+        <item>Голланд (Белги)</item>
+        <item>Голланд (Голланд)</item>
+        <item>Англи (Ерөнхий)</item>
+        <item>Англи (Австрали)</item>
+        <item>Англи (Бангладеш)</item>
+        <item>Англи (Канад)</item>
+        <item>Англи (Хонг Конг)</item>
+        <item>Англи (Энэтхэг)</item>
+        <item>Англи (Ирланд)</item>
+        <item>Англи (Кени)</item>
+        <item>Англи (Малайз)</item>
+        <item>Англи (Шинэ Зеланд)</item>
+        <item>Англи (Нигер)</item>
+        <item>Англи (Пакистан)</item>
+        <item>Англи (Филиппин)</item>
+        <item>Англи (Сингапур)</item>
+        <item>Англи (Өмнөд Африк)</item>
+        <item>Англи (Судан)</item>
+        <item>Англи (Танзани)</item>
+        <item>Англи (Уганда)</item>
+        <item>Англи (ИБ)</item>
+        <item>Англи (АНУ)</item>
+        <item>Эстон (Эстон)</item>
+        <item>Филиппин (Филиппин)</item>
+        <item>Финланд (Финланд)</item>
+        <item>Франц (Белги)</item>
+        <item>Франц (Канад)</item>
+        <item>Франц (Франц)</item>
+        <item>Франц (Швейцарь)</item>
+        <item>Галиц (Испани)</item>
+        <item>Герман (Австри)</item>
+        <item>Герман (Герман)</item>
+        <item>Герман (Швейцарь)</item>
+        <item>Герман (Лихтенштейн)</item>
+        <item>Грек (Грек)</item>
+        <item>Еврей (Израйл)</item>
+        <item>Хинди (Энэтхэг)</item>
+        <item>Унгар (Унгар)</item>
+        <item>Исланд (Исланд)</item>
+        <item>Индонез (Индонез)</item>
+        <item>Ирланд (Ирланд)</item>
+        <item>исиНдебеле (Өмнөд Африк)</item>
+        <item>изиКсоса (Өмнөд Африк)</item>
+        <item>исиЗулу (Өмнөд Африк)</item>
+        <item>Итали (Итали)</item>
+        <item>Итали (Швейцарь)</item>
+        <item>Япон (Япон)</item>
+        <item>Солонгос (Өмнөд Солонгос)</item>
+        <item>Латви (Латви)</item>
+        <item>Литва (Литва)</item>
+        <item>Малай (Малайз)</item>
+        <item>Малай (Сингапур)</item>
+        <item>Норвегийн Букмал (Норвеги)</item>
+        <item>Норвегын Нынорск (Норвеги)</item>
+        <item>Перс (Иран)</item>
+        <item>Польш (Польш)</item>
+        <item>Португал (Ангол)</item>
+        <item>Португал (Бразил)</item>
+        <item>Португал (Португал)</item>
+        <item>Румын (Румын)</item>
+        <item>Орос (Беларус)</item>
+        <item>Орос (Орос)</item>
+        <item>Сепеди (Өмнөд Африк)</item>
+        <item>Серб (Серб, Кирилл)</item>
+        <item>Сесото (Өмнөд Африк)</item>
+        <item>Сетсвана (Өмнөд Африк)</item>
+        <item>сиСвати (Өмнөд Африк)</item>
+        <item>Словак (Словак)</item>
+        <item>Словени (Словени)</item>
+        <item>Испани (Аргентин)</item>
+        <item>Испани (Болив)</item>
+        <item>Испани (Чили)</item>
+        <item>Испани (Колумб)</item>
+        <item>Испани (Коста Рика)</item>
+        <item>Испани (Куба)</item>
+        <item>Испани (БН Доминикан Улс)</item>
+        <item>Испани (Эквадор)</item>
+        <item>Испани (Эль Салвадор)</item>
+        <item>Испани (Гватемал)</item>
+        <item>Испани (Гондурас)</item>
+        <item>Испани (Мексик)</item>
+        <item>Испани (Никарагуа)</item>
+        <item>Испани (Панам)</item>
+        <item>Испани (Парагвай)</item>
+        <item>Испани (Перу)</item>
+        <item>Испани (Пуэрто Рико)</item>
+        <item>Испани (Испани)</item>
+        <item>Испани (АНУ)</item>
+        <item>Испани (Урагвай)</item>
+        <item>Испани (Венесуэль)</item>
+        <item>Свахили (Кени)</item>
+        <item>Свахили (Танзани)</item>
+        <item>Свахили (Уганда)</item>
+        <item>Швед (Финланд)</item>
+        <item>Швед (Швед)</item>
+        <item>Тай (Тайланд)</item>
+        <item>Шивенда (Өмнөд Африк)</item>
+        <item>Турк (Турк)</item>
+        <item>Украйн (Украйн)</item>
+        <item>Урду (Пакистан)</item>
+        <item>Вьетнам (Вьетнам)</item>
+        <item>Зицонга (Өмнөд Африк)</item>
+    </string-array>
+    <string-array name="edit_reminder_day">
+        <item>Өнөөдөр</item>
+        <item>Маргааш</item>
+        <item>Хааяа</item>
+        <item>Огноо тохируулах...</item>
+    </string-array>
+    <string-array name="edit_reminder_time">
+        <item>Өглөө</item>
+        <item>Үдээс хойш</item>
+        <item>Орой</item>
+        <item>Шөнө</item>
+        <item>Өдөржин</item>
+        <item>Цаг тохируулах...</item>
+    </string-array>
+    <string-array name="edit_reminder_location_trigger_type">
+        <item>Ирэх</item>
+        <item>Орхих</item>
+    </string-array>
+    <string-array name="edit_reminder_location">
+        <item>Гэрийн</item>
+        <item>Ажил</item>
+        <item>Байршил тохируулах...</item>
+    </string-array>
+    <string-array name="network_error_tts_messages">
+        <item>Одоогоор Интернэт холболт асуудалтай байна.</item>
+        <item>Яг одоо Интернэт холболт асуудалтай байна.</item>
+        <item>Одоогоор Интернэт холболт тогтвортой биш байна.</item>
+        <item>Яг одоо Интернэт холболт тогтвортой биш байна.</item>
+        <item>Одоогоор Интернэт холболт сул байна.</item>
+        <item>Яг одоо Интернэт холболт сул байна.</item>
+    </string-array>
+    <string-array name="read_it_grammar">
+        <item>үүнийг унш</item>
+        <item>мессежийг унших</item>
+        <item>текстийг унших</item>
+    </string-array>
+    <string-array name="reply_grammar">
+        <item>хариулах</item>
+        <item>хариу илгээх</item>
+        <item>хариу илгээх</item>
+        <item>мессежинд хариулах</item>
+        <item>үүнд хариу илгээх</item>
+    </string-array>
+    <string-array name="call_back_grammar">
+        <item>хамгийн сүүлд мессеж явуулсан хүн рүү залгах</item>
+        <item>энэ хүн рүү залгах</item>
+        <item>энэ хүн рүү буцааж залгах</item>
+        <item>энэ хүн рүү залгах</item>
+        <item>энэ хүн рүү буцааж залгах</item>
+    </string-array>
+</resources>

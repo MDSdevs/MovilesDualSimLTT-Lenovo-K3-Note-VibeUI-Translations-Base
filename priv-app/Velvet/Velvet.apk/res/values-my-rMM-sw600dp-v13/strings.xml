@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="search_phone_or_tablet">တက်ဘလက် ရှာရန်</string>
+    <string name="corpus_name_summons">တက်ဘလက်</string>
+    <string name="search_sources">တက်ဘလက် ရှာဖွေမှု</string>
+    <string name="no_summons_found">"သင့် တက်ဘလက်တွင်
+ မည်သည့် ရလဒ်မျှ မတွေ့ပါ။"</string>
+    <string name="hands_free_unlock_device">Google အသံဖြင့် ရှာဖွေမှုကို ပြုလုပ်ရန်၊ ကျေးဇူးပြု၍ သင့် တက်ဘလက်ကို သော့ဖွင့်ပါ။</string>
+    <string name="icing_manage_storage_summary">သင့် Appများ အနေနှင့် အသုံးပြုနိုင်ရန် ရှာဖွေမှု အင်ဂျင်ကို စီမံပေးခြင်းဖြင့် သင့် တက်ဘလက် ပေါ်က ရှာဖွေမှုကို ကျွန်ုပ်တို့ အရှိန်မြှင့် ပေးပါသည်။</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="search_phone_or_tablet">ಟ್ಯಾಬ್ಲೆಟ್‌ ಹುಡುಕಿ</string>
+    <string name="corpus_name_summons">ಟ್ಯಾಬ್ಲೆಟ್‌‌</string>
+    <string name="search_sources">ಟ್ಯಾಬ್ಲೆಟ್ ಹುಡುಕಾಟ</string>
+    <string name="no_summons_found">"ನಿಮ್ಮ ಟ್ಯಾಬ್ಲೆಟ್‍ನಲ್ಲಿ
+ಯಾವುದೇ ಫಲಿತಾಂಶಗಳು ಕಂಡು ಬರಲಿಲ್ಲ."</string>
+    <string name="hands_free_unlock_device">Google ಧ್ವನಿ ಹುಡುಕಾಡಲು, ದಯವಿಟ್ಟು ನಿಮ್ಮ ಟ್ಯಾಬ್ಲೆಟ್ ಅನ್ನು ಅನ್‌ಲಾಕ್ ಮಾಡಿ.</string>
+    <string name="icing_manage_storage_summary">ನಿಮ್ಮ ಅಪ್ಲಿಕೇಶನ್‍‍ಗಳನ್ನು ಬಳಸುವುದಕ್ಕಾಗಿ ಹುಡುಕಾಟ ಎಂಜಿನ್ ಅನ್ನು ಒದಗಿಸುವ ಮೂಲಕ ನಾವು ನಿಮ್ಮ ಟ್ಯಾಬ್ಲೆಟ್‍‍ನಲ್ಲಿ ಹುಡುಕಾಟವನ್ನು ಹೆಚ್ಚಿಸುತ್ತೇವೆ.</string>
+</resources>

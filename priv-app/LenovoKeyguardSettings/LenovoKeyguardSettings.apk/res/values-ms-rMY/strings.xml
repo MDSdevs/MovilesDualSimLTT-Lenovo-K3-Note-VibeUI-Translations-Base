@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lenovo_keyguard">Skrin kunci Lenovo</string>
+    <string name="lenovo_common_category_text">BIASA</string>
+    <string name="power_button_instantly_locks_summary">Tekan butang kuasa untuk mengunci skrin dengan segera</string>
+    <string name="lenovo_antimisoperation_setting_summary">Gunakan sensor kehampiran untuk mengelakkan operasi tidak sengaja apabila telefon berada dalam poket anda</string>
+    <string name="lenovo_antimisoperation_setting_title">Mod pencegahan dail poket</string>
+    <string name="lenovo_new_event_vibrator_setting_summary">Dalam antara muka skrin kunci, telefon akan bergetar untuk memaklumkan anda mengenai peristiwa belum baca</string>
+    <string name="lenovo_new_event_vibrator_setting_title">Isyarat getaran peristiwa belum baca</string>
+    <string name="lenovo_double_click_turn_off_screen_summary">Dalam antara muka skrin kunci, skrin akan dimatikan apabila diketik dua kali jika anda tidak menyentuh sebarang butang lain.</string>
+    <string name="lenovo_double_click_turn_off_screen_title">Ketik dua kali untuk mematikan skrin</string>
+    <string name="lenovo_keyguard_settings">Skrin kunci</string>
+    <string name="user_nickname">Nama samaran</string>
+    <string name="show_owner_info_on_lockscreen_label">Tunjuk maklumat pemilik pada skrin yang dikunci</string>
+    <string name="show_profile_info_on_lockscreen_label">Tunjukkan maklumat profil pada skrin kunci</string>
+    <string name="show_user_info_on_lockscreen_label">Tunjukkan maklumat pengguna pada skrin kunci</string>
+    <string name="lockpassword_confirm_your_pattern_header">Sahkan corak anda</string>
+    <string name="security_settings_title">Keselamatan</string>
+    <string name="security_passwords_title">Kata laluan</string>
+    <string name="show_password">Perlihatkan kata laluan</string>
+    <string name="lock_after_timeout">Kunci secara automatik</string>
+    <string name="lock_after_timeout_summary">%1$s selepas tidur</string>
+    <string name="lock_after_timeout_summary_with_exception">%1$s selepas tidur, kecuali semasa dibiarkan tidak dikunci oleh %2$s</string>
+    <string name="owner_info_settings_title">Maklumat pemilik</string>
+    <string name="owner_info_settings_summary" />
+    <string name="owner_info_settings_edit_text_hint">Taip teks untuk dipaparkan pada skrin kunci</string>
+    <string name="lock_settings_picker_title">Pilih kunci skrin</string>
+    <string name="biometric_weak_improve_matching_title">Tingkatkan pemadanan muka</string>
+    <string name="biometric_weak_liveliness_title">Pemeriksaan liveness</string>
+    <string name="biometric_weak_liveliness_summary">Memerlukan mata berkelip semasa membuka kunci</string>
+    <string name="lockpassword_choose_your_password_header">Pilih kata laluan anda</string>
+    <string name="lockpassword_choose_your_pattern_header">Pilih corak anda</string>
+    <string name="lockpassword_choose_your_pin_header">Pilih PIN anda</string>
+    <string name="lockpassword_confirm_passwords_dont_match">Kata laluan tidak sepadan</string>
+    <string name="lockpassword_confirm_pins_dont_match">PIN tidak sepadan</string>
+    <string name="lock_settings_title">Keselamatan skrin</string>
+    <string name="lockpattern_change_lock_pattern_label">Tukar corak buka kunci</string>
+    <string name="lockpattern_change_lock_pin_label">Tukar PIN buka kunci</string>
+    <string name="lockpattern_need_to_unlock">Sahkan corak yang disimpan</string>
+    <string name="lockpattern_need_to_unlock_wrong">Cuba lagi:</string>
+    <string name="lockpattern_recording_intro_header">Lukis corak buka kunci</string>
+    <string name="lockpattern_recording_intro_footer">Tekan Menu untuk mendapatkan bantuan.</string>
+    <string name="lockpattern_recording_inprogress">Alihkan jari apabila selesai</string>
+    <string name="lockpattern_recording_incorrect_too_short">Sambung sekurang-kurangnya %d titik. Cuba lagi.</string>
+    <string name="lockpattern_pattern_entered_header">Corak dirakam</string>
+    <string name="lockpattern_need_to_confirm">Lukis corak sekali lagi untuk mengesahkan</string>
+    <string name="lockpattern_pattern_confirmed_header">Corak buka kunci baharu anda</string>
+    <string name="lockpattern_confirm_button_text">Sahkan</string>
+    <string name="lockpattern_restart_button_text">Lukis semula</string>
+    <string name="lockpattern_retry_button_text">Cuba semula</string>
+    <string name="lockpattern_continue_button_text">Teruskan</string>
+    <string name="lockpattern_settings_title">Corak buka kunci</string>
+    <string name="lockpattern_settings_enable_title">Memerlukan corak</string>
+    <string name="lockpattern_settings_enable_summary">Mesti melukiskan corak untuk membuka kunci skrin</string>
+    <string name="lockpattern_settings_enable_visible_pattern_title">Jadikan corak dapat dilihat</string>
+    <string name="lockpattern_settings_enable_tactile_feedback_title">Bergetar pada sentuhan</string>
+    <string name="lockpattern_settings_enable_power_button_instantly_locks">Butang kuasa terkunci serta-merta</string>
+    <string name="lockpattern_settings_power_button_instantly_locks_summary">Kecuali semasa dibiarkan tidak dikunci oleh %1$s</string>
+    <string name="lockpattern_settings_choose_lock_pattern">Tetapkan corak buka kunci</string>
+    <string name="lockpattern_settings_change_lock_pattern">Tukar corak buka kunci</string>
+    <string name="lockpattern_settings_help_how_to_record">Cara melukis corak buka kunci</string>
+    <string name="lockpattern_too_many_failed_confirmation_attempts_header">Terlalu banyak percubaan yang salah!</string>
+    <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Cuba lagi dalam %d saat.</string>
+    <string name="unlock_set_unlock_launch_picker_title">Kunci skrin</string>
+    <string name="unlock_set_unlock_launch_picker_change_title">Tukar kunci skrin</string>
+    <string name="unlock_set_unlock_launch_picker_change_summary">Tukar atau lumpuhkan corak, PIN atau keselamatan kata laluan</string>
+    <string name="unlock_set_unlock_launch_picker_enable_summary">Pilih kaedah untuk mengunci skrin</string>
+    <string name="unlock_backup_info_summary">Apabila Buka Kunci Wajah tidak dapath melihat anda, bagaimana anda mahu membuka kunci?</string>
+    <string name="unlock_set_unlock_off_title">Tiada</string>
+    <string name="unlock_set_unlock_off_summary" />
+    <string name="unlock_set_unlock_none_title">Leret</string>
+    <string name="unlock_set_unlock_none_summary">Tiada keselamatan</string>
+    <string name="unlock_set_unlock_biometric_weak_title">Buka Kunci Wajah</string>
+    <string name="unlock_set_unlock_biometric_weak_summary">Keselamatan yang rendah, percubaan</string>
+    <string name="unlock_set_unlock_pattern_title">Corak</string>
+    <string name="unlock_set_unlock_pattern_summary">Keselamatan sederhana</string>
+    <string name="unlock_set_unlock_pin_title">PIN</string>
+    <string name="unlock_set_unlock_pin_summary">Keselamatan sederhana ke tinggi</string>
+    <string name="unlock_set_unlock_password_title">Kata laluan</string>
+    <string name="unlock_set_unlock_password_summary">Keselamatan tinggi</string>
+    <string name="unlock_set_unlock_disabled_summary">Dlumpuhkn pentadbir, dsr penyulitan/storan klayakn</string>
+    <string name="unlock_set_unlock_mode_off">Tiada</string>
+    <string name="unlock_set_unlock_mode_none">Leret</string>
+    <string name="unlock_set_unlock_mode_biometric_weak">Buka Kunci Wajah</string>
+    <string name="unlock_set_unlock_mode_pattern">Corak</string>
+    <string name="unlock_set_unlock_mode_pin">PIN</string>
+    <string name="unlock_set_unlock_mode_password">Kata laluan</string>
+    <string name="unlock_disable_lock_title">Matikan kunci skrin</string>
+    <string name="unlock_disable_lock_pattern_summary">Alih keluar corak buka kunci</string>
+    <string name="unlock_disable_lock_pin_summary">Alih keluar PIN buka kunci</string>
+    <string name="unlock_disable_lock_password_summary">Alih keluar kata laluan buka kunci</string>
+    <string name="unlock_change_lock_pattern_title">Tukar corak buka kunci</string>
+    <string name="unlock_change_lock_pin_title">Tukar PIN buka kunci</string>
+    <string name="unlock_change_lock_password_title">Tkr kta lluan bka knci</string>
+    <string name="keywords_lockscreen">luncur kata laluan corak pin</string>
+    <string name="switch_on_text">Dihidupkan</string>
+    <string name="switch_off_text">Dimatikan</string>
+    <string name="screen_pinning_title">Penyematan skrin</string>
+    <string name="screen_pinning_description">"Apabila tetapan ini dihidupkan, anda boleh meletakkan peranti dalam keadaan yang memastikan skrin semasa sentiasa kelihatan.
+
+Untuk menyemat skrin:
+
+1. Hidupkan tetapan ini.
+
+2. Buka apl.
+
+3. Sentuh butang Terkini.
+
+4. Sentuh ikon pin."</string>
+    <string name="settings_safetylegal_activity_loading">Memuatkan...</string>
+    <string name="no_applications">Tiada aplikasi.</string>
+    <string name="help_label">Bantuan &amp; m/balas</string>
+    <string name="lockpassword_ok_label">OK</string>
+    <string name="lockpattern_tutorial_cancel_label">Batal</string>
+    <string name="lockpattern_tutorial_continue_label">Seterusnya</string>
+    <string name="lockpassword_confirm_your_pin_header">Sahkan PIN anda</string>
+    <string name="lockpassword_confirm_your_password_header">Sahkan kata laluan anda</string>
+    <string name="cancel">Batal</string>
+    <string name="lock_screen_notifications_title">Apabila peranti dikunci</string>
+    <string name="lock_screen_notifications_summary_show">Tunjukkan semua kandungan pemberitahuan</string>
+    <string name="lock_screen_notifications_summary_hide">Sembunyikan kandungan pemberitahuan sensitif</string>
+    <string name="lock_screen_notifications_summary_disable">Jangan tunjukkan pemberitahuan sama sekali</string>
+    <string name="lock_screen_notifications_interstitial_message">Apabila peranti anda dikunci, adakah anda mahu pemberitahuan dipaparkan?</string>
+    <string name="app_notifications_dialog_done">Selesai</string>
+    <string name="lockpassword_cancel_label">Batal</string>
+    <string name="lockpassword_password_too_long">Kata laluan mesti kurang daripada %d aksara.</string>
+    <string name="lockpassword_pin_too_long">PIN mesti kurang daripada %d digit.</string>
+    <string name="lockpassword_password_too_short">Kata laluan mesti sekurang-kurangnya %d aksara</string>
+    <string name="lockpassword_pin_too_short">PIN mesti sekurang-kurangnya %d digit</string>
+    <string name="lockpassword_press_continue">Sentuh Teruskan apabila selesai</string>
+    <string name="lockpassword_continue_label">Teruskan</string>
+    <string name="lockpassword_pin_no_sequential_digits">Urutan digit yang menaik, menurun atau berulang adalah dilarang</string>
+    <string name="lockpassword_pin_contains_non_digits">PIN mesti mengandungi 0-9 digit sahaja.</string>
+    <string name="lockpassword_pin_recently_used">Pentadbir peranti tidak membenarkan menggunakan PIN yang baharu.</string>
+    <string name="lockpassword_illegal_character">Kata laluan mengandungi aksara tidak sah.</string>
+    <string name="lockpassword_password_requires_alpha">Kata laluan mesti mengandungi sekurang-kurangnya satu huruf.</string>
+    <string name="lockpassword_password_requires_digit">Kata laluan mesti mengandungi sekurang-kurangnya satu digit.</string>
+    <string name="lockpassword_password_requires_symbol">Kata laluan mesti mengandungi sekurang-kurangnya satu simbol.</string>
+    <string name="lockpassword_password_recently_used">Pentadbir peranti tidak membenarkan menggunakan kata laluan yang baharu.</string>
+    <string name="backup_lock_settings_picker_title">Pilih kunci sandaran</string>
+    <string name="profile_info_settings_title">Maklumat profil</string>
+    <string name="user_info_settings_title">Maklumat pengguna</string>
+    <string name="credential_storage_type_hardware">Bersandarkan perkakasan</string>
+    <string name="credential_storage_type_software">Perisian sahaja</string>
+    <string name="error_title" />
+    <string name="lockpassword_choose_lock_generic_header">Pilihan buka kunci</string>
+</resources>

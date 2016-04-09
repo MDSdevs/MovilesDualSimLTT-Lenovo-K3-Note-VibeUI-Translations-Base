@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_google_play_services_api_unavailable_text">O %1$s necessita de um ou mais serviços do Google Play que não estão disponíveis de momento. Contacte o programador para obter assistência.</string>
+    <string name="common_google_play_services_enable_button">Ativar serviços do Google Play</string>
+    <string name="common_google_play_services_enable_text">O %1$s não funciona enquanto não ativar os serviços do Google Play.</string>
+    <string name="common_google_play_services_enable_title">Ativar serviços do Google Play</string>
+    <string name="common_google_play_services_install_button">Obter serviços do Google Play</string>
+    <string name="common_google_play_services_install_text_phone">O %1$s não é executado sem os serviços do Google Play, os quais estão em falta no seu telemóvel.</string>
+    <string name="common_google_play_services_install_text_tablet">O %1$s não é executado sem os serviços do Google Play, os quais estão em falta no seu tablet.</string>
+    <string name="common_google_play_services_install_title">Obter serviços do Google Play</string>
+    <string name="common_google_play_services_invalid_account_text">A conta especificada não existe neste dispositivo. Escolha uma conta diferente.</string>
+    <string name="common_google_play_services_invalid_account_title">Conta inválida</string>
+    <string name="common_google_play_services_network_error_text">É necessária uma ligação de dados para se ligar aos serviços do Google Play.</string>
+    <string name="common_google_play_services_network_error_title">Erro de rede</string>
+    <string name="common_google_play_services_notification_ticker">Erro dos serviços do Google Play</string>
+    <string name="common_google_play_services_restricted_profile_text">Não é suportado o acesso a contas a partir de um perfil restrito.</string>
+    <string name="common_google_play_services_restricted_profile_title">Perfil restrito</string>
+    <string name="common_google_play_services_sign_in_failed_text">Erro ao iniciar sessão na conta especificada. Escolha uma conta diferente.</string>
+    <string name="common_google_play_services_sign_in_failed_title">Falha ao iniciar sessão</string>
+    <string name="common_google_play_services_unknown_issue">O %1$s está a ter problemas com os serviços do Google Play. Se o problema persistir, contacte o programador para obter assistência.</string>
+    <string name="common_google_play_services_unsupported_text">O %1$s depende dos serviços do Google Play, os quais não são compatíveis com o seu dispositivo. Contacte o fabricante para obter assistência.</string>
+    <string name="common_google_play_services_unsupported_title">Serviços do Google Play</string>
+    <string name="common_google_play_services_update_button">Atualizar</string>
+    <string name="common_google_play_services_update_text">O %1$s não é executado enquanto não atualizar os serviços do Google Play.</string>
+    <string name="common_google_play_services_update_title">Atualizar serviços do Google Play</string>
+    <string name="common_google_play_services_updating_text">O %1$s não é executado sem os serviços do Google Play, os quais estão a ser atualizados.</string>
+    <string name="common_google_play_services_updating_title">Serviços do Google Play em atualização</string>
+    <string name="common_google_play_services_wear_update_text">É necessária uma nova versão dos serviços do Google Play. Esta será atualizada automaticamente em breve.</string>
+    <string name="common_open_on_phone">Abrir no telemóvel</string>
+    <string name="common_signin_button_text">Iniciar sessão</string>
+    <string name="common_signin_button_text_long">Iniciar sessão com o Google</string>
+    <string name="maps_API_MY_LOCATION_ACCURACY">"A Minha Localização: 
+Precisão de {0} m"</string>
+    <string name="maps_API_OUTDATED_WARNING">Esta aplic. utiliza uma versão desatualizada do Google Maps. Poderá não funcionar devidamente.</string>
+    <string name="maps_BACK_TO_LIST">Voltar à lista</string>
+    <string name="maps_CLOSE_SOFTKEY">Fechar</string>
+    <string name="maps_COMPASS_ALT_TEXT">Bússola</string>
+    <string name="maps_LEVEL_ALT_TEXT">Nível {0}</string>
+    <string name="maps_MY_LOCATION_ALT_TEXT">A Minha Localização</string>
+    <string name="maps_YOUR_LOCATION">A sua localização atual</string>
+    <string name="maps_ZOOM_IN_ALT_TEXT">Ampliar</string>
+    <string name="maps_ZOOM_OUT_ALT_TEXT">Reduzir</string>
+    <string name="maps_dav_map_copyrights_full">©%1$d Google - Imagens © %2$d %3$s, Dados de mapas ©%4$d %5$s</string>
+    <string name="maps_dav_map_copyrights_google_only">©%1$d Google</string>
+    <string name="maps_dav_map_copyrights_imagery_only">©%1$d Google - Imagens ©%2$d %3$s</string>
+    <string name="maps_dav_map_copyrights_map_data_only">©%1$d Google - Dados de mapas ©%2$d %3$s</string>
+    <string name="maps_invalid_panorama_data">Panorama inválido.</string>
+    <string name="maps_network_unavailable">Este programa requer uma ligação de dados, pelo que tentará de novo estabelecer ligação automaticamente. Verifique a intensidade do sinal. O modo de avião está ligado? Os dados de roaming estão desativados?</string>
+    <string name="maps_no_panorama_data">Não estão definidos dados de panorama.</string>
+    <string name="maps_panorama_disabled">A imagem já não está disponível</string>
+    <string name="maps_service_unavailable">Serviço de Street View indisponível.</string>
+    <string name="maps_street_range_name_format">%1$s %2$s</string>
+    <string name="maps_waiting_for_network">Lig. dados perdida. A tentar…</string>
+    <string name="place_autocomplete_clear_button">Limpar pesquisa</string>
+    <string name="place_autocomplete_search_hint">Pesquisar</string>
+</resources>

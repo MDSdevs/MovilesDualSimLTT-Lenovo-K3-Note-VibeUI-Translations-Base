@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="action_icon_week_size">14</integer>
+    <integer name="action_icon_date_size">48</integer>
+    <integer name="action_icon_top_padding">6</integer>
+    <integer name="action_icon_bottom_padding">10</integer>
+</resources>

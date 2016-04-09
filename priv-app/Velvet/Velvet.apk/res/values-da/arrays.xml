@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="recurrence_freq">
+        <item>GENTAG DAGLIGT</item>
+        <item>GENTAG UGENTLIGT</item>
+        <item>GENTAG MÅNEDLIGT</item>
+        <item>GENTAG ÅRLIGT</item>
+    </string-array>
+    <string-array name="edit_recurrence">
+        <item>Gentages ikke</item>
+        <item>Hver dag</item>
+        <item>Hver uge</item>
+        <item>Hver måned</item>
+        <item>Hvert år</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>den første søndag i måneden</item>
+        <item>den anden søndag i måneden</item>
+        <item>den tredje søndag i måneden</item>
+        <item>den fjerde søndag i måneden</item>
+        <item>den sidste søndag i måneden</item>
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>den første mandag i måneden</item>
+        <item>den anden mandag i måneden</item>
+        <item>den tredje mandag i måneden</item>
+        <item>den fjerde mandag i måneden</item>
+        <item>den sidste mandag i måneden</item>
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>den første tirsdag i måneden</item>
+        <item>den anden tirsdag i måneden</item>
+        <item>den tredje tirsdag i måneden</item>
+        <item>den fjerde tirsdag i måneden</item>
+        <item>den sidste tirsdag i måneden</item>
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>den første onsdag i måneden</item>
+        <item>den anden onsdag i måneden</item>
+        <item>den tredje onsdag i måneden</item>
+        <item>den fjerde onsdag i måneden</item>
+        <item>den sidste onsdag i måneden</item>
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>den første torsdag i måneden</item>
+        <item>den anden torsdag i måneden</item>
+        <item>den tredje torsdag i måneden</item>
+        <item>den fjerde torsdag i måneden</item>
+        <item>den sidste torsdag i måneden</item>
+    </string-array>
+    <string-array name="repeat_by_nth_fri">
+        <item>den første fredag i måneden</item>
+        <item>den anden fredag i måneden</item>
+        <item>den tredje fredag i måneden</item>
+        <item>den fjerde fredag i måneden</item>
+        <item>den sidste fredag i måneden</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>den første lørdag i måneden</item>
+        <item>den anden lørdag i måneden</item>
+        <item>den tredje lørdag i måneden</item>
+        <item>den fjerde lørdag i måneden</item>
+        <item>den sidste lørdag i måneden</item>
+    </string-array>
+    <string-array name="baseball_innings">
+        <item>1. inning</item>
+        <item>2. inning</item>
+        <item>3. inning</item>
+        <item>4. inning</item>
+        <item>5. inning</item>
+        <item>6. inning</item>
+        <item>7. inning</item>
+        <item>8. inning</item>
+        <item>9. inning</item>
+        <item>10. inning</item>
+        <item>11. inning</item>
+        <item>12. inning</item>
+    </string-array>
+    <string-array name="qp_top_baseball_innings">
+        <item>Gæster 1.</item>
+        <item>Gæster 2.</item>
+        <item>Gæster 3.</item>
+        <item>Gæster 4.</item>
+        <item>Gæster 5.</item>
+        <item>Gæster 6.</item>
+        <item>Gæster 7.</item>
+        <item>Gæster 8.</item>
+        <item>Gæster 9.</item>
+        <item>Gæster 10.</item>
+        <item>Gæster 11.</item>
+        <item>Gæster 12.</item>
+    </string-array>
+    <string-array name="qp_bottom_baseball_innings">
+        <item>Hjem 1.</item>
+        <item>Hjem 2.</item>
+        <item>Hjem 3.</item>
+        <item>Hjem 4.</item>
+        <item>Hjem 5.</item>
+        <item>Hjem 6.</item>
+        <item>Hjem 7.</item>
+        <item>Hjem 8.</item>
+        <item>Hjem 9.</item>
+        <item>Hjem 10.</item>
+        <item>Hjem 11.</item>
+        <item>Hjem 12.</item>
+    </string-array>
+    <string-array name="local_results_markers">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+    </string-array>
+    <string-array name="languageNames">
+        <item>Afrikaans (Sydafrika)</item>
+        <item>Arabisk (Algeriet)</item>
+        <item>Arabisk (Egypten)</item>
+        <item>Arabisk (Irak)</item>
+        <item>Arabisk (Israel)</item>
+        <item>Arabisk (Jordan)</item>
+        <item>Arabisk (Kuwait)</item>
+        <item>Arabisk (Libanon)</item>
+        <item>Arabisk (Libyen)</item>
+        <item>Arabisk (Marokko)</item>
+        <item>Arabisk (Qatar)</item>
+        <item>Arabisk (Saudi-Arabien)</item>
+        <item>Arabisk (Sudan)</item>
+        <item>Arabisk (Syrien)</item>
+        <item>Arabisk (Tunesien)</item>
+        <item>Arabisk (Forenede Arabiske Emirater)</item>
+        <item>Arabisk (Yemen)</item>
+        <item>Hviderussisk (Hviderusland)</item>
+        <item>Bengali (Bangladesh)</item>
+        <item>Bulgarsk (Bulgarien)l</item>
+        <item>Catalansk (Spanien)</item>
+        <item>Kinesisk, mandarin (Kina, forenklet)</item>
+        <item>Kinesisk, mandarin (Hongkong, forenklet)</item>
+        <item>Kinesisk, mandarin (Hongkong, traditionelt)</item>
+        <item>Kinesisk, mandarin (Singapore, forenklet)</item>
+        <item>Kinesisk, mandarin (Taiwan, forenklet)</item>
+        <item>Kinesisk, mandarin (Taiwan, traditionelt)</item>
+        <item>Kinesisk, Yue (Kina, forenklet)</item>
+        <item>Kinesisk, Yue (Hongkong, traditionelt)</item>
+        <item>Kroatisk (Kroatien)</item>
+        <item>Tjekkisk (Tjekkiet)</item>
+        <item>Dansk (Danmark)</item>
+        <item>Hollandsk (Belgien)</item>
+        <item>Hollandsk (Nederlandene)</item>
+        <item>Engelsk (generisk)</item>
+        <item>Engelsk (Australien)</item>
+        <item>Engelsk (Bangladesh)</item>
+        <item>Engelsk (Canada)</item>
+        <item>Engelsk (Hongkong)</item>
+        <item>Engelsk (Indien)</item>
+        <item>Engelsk (Irland)</item>
+        <item>Engelsk (Kenya)</item>
+        <item>Engelsk (Malaysia)</item>
+        <item>Engelsk (New Zealand)</item>
+        <item>Engelsk (Nigeria)</item>
+        <item>Engelsk (Pakistan)</item>
+        <item>Engelsk (Filippinerne)</item>
+        <item>Engelsk (Singapore)</item>
+        <item>Engelsk (Sydafrika)</item>
+        <item>Engelsk (Sudan)</item>
+        <item>Engelsk (Tanzania)</item>
+        <item>Engelsk (Uganda)</item>
+        <item>Engelsk (Storbritannien)</item>
+        <item>Engelsk (USA)</item>
+        <item>Estisk (Estland)</item>
+        <item>Filippinsk (Filippinerne)</item>
+        <item>Finsk (Finland)</item>
+        <item>Fransk (Belgien)</item>
+        <item>Fransk (Canada)</item>
+        <item>Fransk (Frankrig)</item>
+        <item>Fransk (Schweiz)</item>
+        <item>Galicisk (Spanien)</item>
+        <item>Tysk (Østrig)</item>
+        <item>Tysk (Tyskland)</item>
+        <item>Tysk (Schweiz)</item>
+        <item>Tysk (Liechtenstein)</item>
+        <item>Græsk (Grækenland)</item>
+        <item>Hebræisk (Israel)</item>
+        <item>Hindi (Indien)</item>
+        <item>Ungarsk (Ungarn)</item>
+        <item>Islandsk (Island)</item>
+        <item>Indonesisk (Indonesien)</item>
+        <item>Irsk (Irland)</item>
+        <item>isiNdebele (Sydafrika)</item>
+        <item>isiXhosa (Sydafrika)</item>
+        <item>isiZulu (Sydafrika)</item>
+        <item>Italiensk (Italien)</item>
+        <item>Italiensk (Schweiz)</item>
+        <item>Japansk (Japan)</item>
+        <item>Koreansk (Sydkorea)</item>
+        <item>Lettisk (Letland)</item>
+        <item>Litauisk (Litauen)</item>
+        <item>Malajsisk (Malaysia)</item>
+        <item>Malajsisk (Singapore)</item>
+        <item>Norsk bokmål (Norge)</item>
+        <item>Nynorsk (Norge)</item>
+        <item>Persisk (Iran)</item>
+        <item>Polsk (Polen)</item>
+        <item>Portugisisk (Angola)</item>
+        <item>Portugisisk (Brasilien)</item>
+        <item>Portugisisk (Portugal)</item>
+        <item>Rumænsk (Rumænien)</item>
+        <item>Russisk (Hviderusland)</item>
+        <item>Russisk (Rusland)</item>
+        <item>Sepedi (Sydafrika)</item>
+        <item>Serbisk (Serbien, kyrillisk)</item>
+        <item>Sesotho (Sydafrika)</item>
+        <item>Setswana (Sydafrika)</item>
+        <item>siSwati (Sydafrika)</item>
+        <item>Slovakisk (Slovakiet)</item>
+        <item>Slovensk (Slovenien)</item>
+        <item>Spansk (Argentina)</item>
+        <item>Spansk (Bolivia)</item>
+        <item>Spansk (Chile)</item>
+        <item>Spansk (Colombia)</item>
+        <item>Spansk (Costa Rica)</item>
+        <item>Spansk (Cuba)</item>
+        <item>Spansk (Den Dominikanske Republik)</item>
+        <item>Spansk (Ecuador)</item>
+        <item>Spansk (El Salvador)</item>
+        <item>Spansk (Guatemala)</item>
+        <item>Spansk (Honduras)</item>
+        <item>Spansk (Mexico)</item>
+        <item>Spansk (Nicaragua)</item>
+        <item>Spansk (Panama)</item>
+        <item>Spansk (Paraguay)</item>
+        <item>Spansk (Peru)</item>
+        <item>Spansk (Puerto Rico)</item>
+        <item>Spansk (Spanien)</item>
+        <item>Spansk (USA)</item>
+        <item>Spansk (Uruguay)</item>
+        <item>Spansk (Venezuela)</item>
+        <item>Swahili (Kenya)</item>
+        <item>Swahili (Tanzania)</item>
+        <item>Swahili (Uganda)</item>
+        <item>Svensk (Finland)</item>
+        <item>Svensk (Sverige)</item>
+        <item>Thai (Thailand)</item>
+        <item>Tshivenda (Sydafrika)</item>
+        <item>Tyrkisk (Tyrkiet)</item>
+        <item>Ukrainsk (Ukraine)</item>
+        <item>Urdu (Pakistan)</item>
+        <item>Vietnamesisk (Vietnam)</item>
+        <item>Xitsonga (Sydafrika)</item>
+    </string-array>
+    <string-array name="edit_reminder_day">
+        <item>I dag</item>
+        <item>I morgen</item>
+        <item>Lejlighedsvist</item>
+        <item>Angiv dato...</item>
+    </string-array>
+    <string-array name="edit_reminder_time">
+        <item>Om morgenen</item>
+        <item>Om eftermiddagen</item>
+        <item>Om aftenen</item>
+        <item>Om natten</item>
+        <item>Hele dagen</item>
+        <item>Angiv tid...</item>
+    </string-array>
+    <string-array name="edit_reminder_location_trigger_type">
+        <item>Ankomst</item>
+        <item>Afrejse</item>
+    </string-array>
+    <string-array name="edit_reminder_location">
+        <item>Hjem</item>
+        <item>Arbejde</item>
+        <item>Angiv placering...</item>
+    </string-array>
+    <string-array name="network_error_tts_messages">
+        <item>Denne internetforbindelse er ikke pålidelig lige nu.</item>
+        <item>Denne internetforbindelse er ikke pålidelig i øjeblikket.</item>
+        <item>Denne internetforbindelse ikke er stabil lige nu.</item>
+        <item>Denne internetforbindelse ikke er stabil i øjeblikket.</item>
+        <item>Denne internetforbindelse er ikke stærk nok lige nu.</item>
+        <item>Denne internetforbindelse er ikke stærk nok i øjeblikket.</item>
+    </string-array>
+    <string-array name="read_it_grammar">
+        <item>læs den</item>
+        <item>læs beskeden</item>
+        <item>læs sms-beskeden</item>
+    </string-array>
+    <string-array name="reply_grammar">
+        <item>besvar</item>
+        <item>send svar</item>
+        <item>send et svar</item>
+        <item>besvar sms-beskeden</item>
+        <item>send svar på den</item>
+    </string-array>
+    <string-array name="call_back_grammar">
+        <item>ring tilbage til afsenderen af den seneste besked</item>
+        <item>ring til ham</item>
+        <item>ring tilbage til ham</item>
+        <item>ring til hende</item>
+        <item>ring tilbage til hende</item>
+    </string-array>
+</resources>

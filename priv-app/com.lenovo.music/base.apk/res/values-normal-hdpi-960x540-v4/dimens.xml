@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="fp_below_arrow_bottompadding">215.0dip</dimen>
+    <dimen name="local_scan_button_width">135.0dip</dimen>
+    <dimen name="local_scanner_scan_button_width">335.0dip</dimen>
+    <dimen name="local_scanner_setting_button_width">160.0dip</dimen>
+    <dimen name="local_scanner_cd_margin_top">125.0dip</dimen>
+    <dimen name="local_scanner_scan_margin_top">95.0dip</dimen>
+    <dimen name="menu_container_width">300.0dip</dimen>
+    <dimen name="audio_effect_gridview_marginTop">5.0dip</dimen>
+    <dimen name="audio_effect_separator1_margin_top">8.0dip</dimen>
+    <dimen name="audio_effect_bass_title_margin_top">2.0dip</dimen>
+    <dimen name="audio_effect_around_title_marginTop">2.0dip</dimen>
+    <dimen name="audio_effect_separator2_margin_top">2.0dip</dimen>
+    <dimen name="audio_effect_channel_title_margin_top">2.0dip</dimen>
+    <dimen name="online_artist_detail_action_bar_height">60.0dip</dimen>
+    <dimen name="online_artist_detail_action_bar_parent_margin_top">0.0dip</dimen>
+    <dimen name="online_radio_cover_fl_margin_top">0.0dip</dimen>
+    <dimen name="button_textsize">16.0sp</dimen>
+    <dimen name="widget_layout_size">107.0dip</dimen>
+    <dimen name="widget_imageview_size">73.0dip</dimen>
+    <dimen name="widget_imageview_marginleft">6.0dip</dimen>
+    <dimen name="widget_imageview_margintop">17.0dip</dimen>
+    <dimen name="widget_textview_margintop">15.0dip</dimen>
+    <dimen name="widget_imagebutton_marginbottom">17.0dip</dimen>
+    <dimen name="media_search_lrc_text_size">11.0sp</dimen>
+    <dimen name="media_search_nolrc_text_size">16.0sp</dimen>
+    <dimen name="c_defaultcover_drawable_width">250.0dip</dimen>
+    <dimen name="c_defaultcover_drawable_height">250.0dip</dimen>
+    <dimen name="online_radio_icon_margin_top">50.0dip</dimen>
+    <dimen name="desktop_lrc_setting_button_marginLeft">22.0dip</dimen>
+</resources>

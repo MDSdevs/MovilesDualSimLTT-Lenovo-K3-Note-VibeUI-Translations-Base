@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="recurrence_freq">
+        <item>REPEAT DAILY</item>
+        <item>REPEAT WEEKLY</item>
+        <item>REPEAT MONTHLY</item>
+        <item>REPEAT YEARLY</item>
+    </string-array>
+    <string-array name="edit_recurrence">
+        <item>"Doesn't repeat"</item>
+        <item>Every day</item>
+        <item>Every week</item>
+        <item>Every month</item>
+        <item>Every year</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>on every first Sunday</item>
+        <item>on every second Sunday</item>
+        <item>on every third Sunday</item>
+        <item>on every fourth Sunday</item>
+        <item>on every last Sunday</item>
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>on every first Monday</item>
+        <item>on every second Monday</item>
+        <item>on every third Monday</item>
+        <item>on every fourth Monday</item>
+        <item>on every last Monday</item>
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>on every first Tuesday</item>
+        <item>on every second Tuesday</item>
+        <item>on every third Tuesday</item>
+        <item>on every fourth Tuesday</item>
+        <item>on every last Tuesday</item>
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>on every first Wednesday</item>
+        <item>on every second Wednesday</item>
+        <item>on every third Wednesday</item>
+        <item>on every fourth Wednesday</item>
+        <item>on every last Wednesday</item>
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>on every first Thursday</item>
+        <item>on every second Thursday</item>
+        <item>on every third Thursday</item>
+        <item>on every fourth Thursday</item>
+        <item>on every last Thursday</item>
+    </string-array>
+    <string-array name="repeat_by_nth_fri">
+        <item>on every first Friday</item>
+        <item>on every second Friday</item>
+        <item>on every third Friday</item>
+        <item>on every fourth Friday</item>
+        <item>on every last Friday</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>on every first Saturday</item>
+        <item>on every second Saturday</item>
+        <item>on every third Saturday</item>
+        <item>on every fourth Saturday</item>
+        <item>on every last Saturday</item>
+    </string-array>
+    <string-array name="baseball_innings">
+        <item>1st innings</item>
+        <item>2nd innings</item>
+        <item>3rd innings</item>
+        <item>4th innings</item>
+        <item>5th innings</item>
+        <item>6th innings</item>
+        <item>7th innings</item>
+        <item>8th innings</item>
+        <item>9th innings</item>
+        <item>10th innings</item>
+        <item>11th innings</item>
+        <item>12th innings</item>
+    </string-array>
+    <string-array name="qp_top_baseball_innings">
+        <item>Top 1st</item>
+        <item>Top 2nd</item>
+        <item>Top 3rd</item>
+        <item>Top 4th</item>
+        <item>Top 5th</item>
+        <item>Top 6th</item>
+        <item>Top 7th</item>
+        <item>Top 8th</item>
+        <item>Top 9th</item>
+        <item>Top 10th</item>
+        <item>Top 11th</item>
+        <item>Top 12th</item>
+    </string-array>
+    <string-array name="qp_bottom_baseball_innings">
+        <item>Bot 1st</item>
+        <item>Bot 2nd</item>
+        <item>Bot 3rd</item>
+        <item>Bot 4th</item>
+        <item>Bot 5th</item>
+        <item>Bot 6th</item>
+        <item>Bot 7th</item>
+        <item>Bot 8th</item>
+        <item>Bot 9th</item>
+        <item>Bot 10th</item>
+        <item>Bot 11th</item>
+        <item>Bot 12th</item>
+    </string-array>
+    <string-array name="local_results_markers">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+    </string-array>
+    <string-array name="languageNames">
+        <item>Afrikaans (South Africa)</item>
+        <item>Arabic (Algeria)</item>
+        <item>Arabic (Egypt)</item>
+        <item>Arabic (Iraq)</item>
+        <item>Arabic (Israel)</item>
+        <item>Arabic (Jordan)</item>
+        <item>Arabic (Kuwait)</item>
+        <item>Arabic (Lebanon)</item>
+        <item>Arabic (Libya)</item>
+        <item>Arabic (Morocco)</item>
+        <item>Arabic (Qatar)</item>
+        <item>Arabic (Saudi Arabia)</item>
+        <item>Arabic (Sudan)</item>
+        <item>Arabic (Syria)</item>
+        <item>Arabic (Tunisia)</item>
+        <item>Arabic (United Arab Emirates)</item>
+        <item>Arabic (Yemen)</item>
+        <item>Belarusian (Belarus)</item>
+        <item>Bengali (Bangladesh)</item>
+        <item>Bulgarian (Bulgaria)</item>
+        <item>Catalan (Spain)</item>
+        <item>Chinese, Mandarin (China, Simplified)</item>
+        <item>Chinese, Mandarin (Hong Kong, Simplified)</item>
+        <item>Chinese, Mandarin (Hong Kong, Traditional)</item>
+        <item>Chinese, Mandarin (Singapore, Simplified)</item>
+        <item>Chinese, Mandarin (Taiwan, Simplified)</item>
+        <item>Chinese, Mandarin (Taiwan, Traditional)</item>
+        <item>Chinese, Yue (China, Simplified)</item>
+        <item>Chinese, Yue (Hong Kong, Traditional)</item>
+        <item>Croatian (Croatia)</item>
+        <item>Czech (Czech Republic)</item>
+        <item>Danish (Denmark)</item>
+        <item>Dutch (Belgium)</item>
+        <item>Dutch (Netherlands)</item>
+        <item>English (Generic)</item>
+        <item>English (Australia)</item>
+        <item>English (Bangladesh)</item>
+        <item>English (Canada)</item>
+        <item>English (Hong Kong)</item>
+        <item>English (India)</item>
+        <item>English (Ireland)</item>
+        <item>English (Kenya)</item>
+        <item>English (Malaysia)</item>
+        <item>English (New Zealand)</item>
+        <item>English (Nigeria)</item>
+        <item>English (Pakistan)</item>
+        <item>English (Philippines)</item>
+        <item>English (Singapore)</item>
+        <item>English (South Africa)</item>
+        <item>English (Sudan)</item>
+        <item>English (Tanzania)</item>
+        <item>English (Uganda)</item>
+        <item>English (UK)</item>
+        <item>English (US)</item>
+        <item>Estonian (Estonia)</item>
+        <item>Filipino (Philippines)</item>
+        <item>Finnish (Finland)</item>
+        <item>French (Belgium)</item>
+        <item>French (Canada)</item>
+        <item>French (France)</item>
+        <item>French (Switzerland)</item>
+        <item>Galician (Spain)</item>
+        <item>German (Austria)</item>
+        <item>German (Germany)</item>
+        <item>German (Switzerland)</item>
+        <item>German (Liechtenstein)</item>
+        <item>Greek (Greece)</item>
+        <item>Hebrew (Israel)</item>
+        <item>Hindi (India)</item>
+        <item>Hungarian (Hungary)</item>
+        <item>Icelandic (Iceland)</item>
+        <item>Indonesian (Indonesia)</item>
+        <item>Irish (Ireland)</item>
+        <item>isiNdebele (South Africa)</item>
+        <item>isiXhosa (South Africa)</item>
+        <item>isiZulu (South Africa)</item>
+        <item>Italian (Italy)</item>
+        <item>Italian (Switzerland)</item>
+        <item>Japanese (Japan)</item>
+        <item>Korean (South Korea)</item>
+        <item>Latvian (Latvia)</item>
+        <item>Lithuanian (Lithuania)</item>
+        <item>Malay (Malaysia)</item>
+        <item>Malay (Singapore)</item>
+        <item>Norwegian Bokmål (Norway)</item>
+        <item>Norwegian Nynorsk (Norway)</item>
+        <item>Persian (Iran)</item>
+        <item>Polish (Poland)</item>
+        <item>Portuguese (Angola)</item>
+        <item>Portuguese (Brazil)</item>
+        <item>Portuguese (Portugal)</item>
+        <item>Romanian (Romania)</item>
+        <item>Russian (Belarus)</item>
+        <item>Russian (Russia)</item>
+        <item>Sepedi (South Africa)</item>
+        <item>Serbian (Serbia, Cyrillic)</item>
+        <item>Sesotho (South Africa)</item>
+        <item>Setswana (South Africa)</item>
+        <item>siSwati (South Africa)</item>
+        <item>Slovak (Slovakia)</item>
+        <item>Slovenian (Slovenia)</item>
+        <item>Spanish (Argentina)</item>
+        <item>Spanish (Bolivia)</item>
+        <item>Spanish (Chile)</item>
+        <item>Spanish (Colombia)</item>
+        <item>Spanish (Costa Rica)</item>
+        <item>Spanish (Cuba)</item>
+        <item>Spanish (Dominican Republic)</item>
+        <item>Spanish (Ecuador)</item>
+        <item>Spanish (El Salvador)</item>
+        <item>Spanish (Guatemala)</item>
+        <item>Spanish (Honduras)</item>
+        <item>Spanish (Mexico)</item>
+        <item>Spanish (Nicaragua)</item>
+        <item>Spanish (Panama)</item>
+        <item>Spanish (Paraguay)</item>
+        <item>Spanish (Peru)</item>
+        <item>Spanish (Puerto Rico)</item>
+        <item>Spanish (Spain)</item>
+        <item>Spanish (US)</item>
+        <item>Spanish (Uruguay)</item>
+        <item>Spanish (Venezuela)</item>
+        <item>Swahili (Kenya)</item>
+        <item>Swahili (Tanzania)</item>
+        <item>Swahili (Uganda)</item>
+        <item>Swedish (Finland)</item>
+        <item>Swedish (Sweden)</item>
+        <item>Thai (Thailand)</item>
+        <item>Tshivenda (South Africa)</item>
+        <item>Turkish (Turkey)</item>
+        <item>Ukrainian (Ukraine)</item>
+        <item>Urdu (Pakistan)</item>
+        <item>Vietnamese (Vietnam)</item>
+        <item>Xitsonga (South Africa)</item>
+    </string-array>
+    <string-array name="edit_reminder_day">
+        <item>Today</item>
+        <item>Tomorrow</item>
+        <item>Occasionally</item>
+        <item>Set date…</item>
+    </string-array>
+    <string-array name="edit_reminder_time">
+        <item>Morning</item>
+        <item>Afternoon</item>
+        <item>Evening</item>
+        <item>Night</item>
+        <item>All day</item>
+        <item>Set time…</item>
+    </string-array>
+    <string-array name="edit_reminder_location_trigger_type">
+        <item>Arrive</item>
+        <item>Leave</item>
+    </string-array>
+    <string-array name="edit_reminder_location">
+        <item>Home</item>
+        <item>Work</item>
+        <item>Set location…</item>
+    </string-array>
+    <string-array name="network_error_tts_messages">
+        <item>"This Internet connection isn't reliable at the moment."</item>
+        <item>"This Internet connection isn't reliable at the moment."</item>
+        <item>"This Internet connection isn't stable at the moment."</item>
+        <item>"This Internet connection isn't stable at the moment."</item>
+        <item>"This Internet connection isn't strong enough at the moment."</item>
+        <item>"This Internet connection isn't strong enough at the moment."</item>
+    </string-array>
+    <string-array name="read_it_grammar">
+        <item>read it</item>
+        <item>read the message</item>
+        <item>read that text</item>
+    </string-array>
+    <string-array name="reply_grammar">
+        <item>reply</item>
+        <item>send reply</item>
+        <item>send a reply</item>
+        <item>reply to the text message</item>
+        <item>send reply to it</item>
+    </string-array>
+    <string-array name="call_back_grammar">
+        <item>call back sender of last message</item>
+        <item>call him</item>
+        <item>call him back</item>
+        <item>call her</item>
+        <item>call her back</item>
+    </string-array>
+</resources>

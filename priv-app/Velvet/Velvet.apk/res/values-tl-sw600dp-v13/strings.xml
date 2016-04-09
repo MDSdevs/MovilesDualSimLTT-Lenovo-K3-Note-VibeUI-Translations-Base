@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="search_phone_or_tablet">Maghanap sa Tablet</string>
+    <string name="corpus_name_summons">Tablet</string>
+    <string name="search_sources">Paghahanap sa tablet</string>
+    <string name="no_summons_found">"Walang nakitang mga resulta
+sa iyong tablet."</string>
+    <string name="hands_free_unlock_device">Upang gumawa ng Google voice search, paki-unlock ang iyong tablet.</string>
+    <string name="icing_manage_storage_summary">Pinapabilis namin ang paghahanap sa iyong tablet sa pamamagitan ng pagbibigay ng search engine para magamit ng iyong Apps.</string>
+</resources>

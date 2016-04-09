@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="bytes">
+        <item quantity="other">O</item>
+        <item quantity="one">O</item>
+    </plurals>
+    <plurals name="kilobytes">
+        <item quantity="other">ko</item>
+        <item quantity="one">ko</item>
+    </plurals>
+    <plurals name="megabytes">
+        <item quantity="other">Mo</item>
+        <item quantity="one">Mo</item>
+    </plurals>
+    <plurals name="gigabytes">
+        <item quantity="other">Go</item>
+        <item quantity="one">Go</item>
+    </plurals>
+    <plurals name="Nsongs">
+        <item quantity="other">%d morceaux</item>
+        <item quantity="one">1 morceau</item>
+    </plurals>
+    <plurals name="Nalbums">
+        <item quantity="other">%d albums</item>
+        <item quantity="one">1 album</item>
+    </plurals>
+    <plurals name="playlist_add_count_tip">
+        <item quantity="other">%d morceaux ajoutés à :</item>
+        <item quantity="one">1 morceau ajouté à :</item>
+    </plurals>
+    <plurals name="Ntracks">
+        <item quantity="other">%d Morceaux</item>
+        <item quantity="one">1 morceau</item>
+    </plurals>
+    <plurals name="Nalbum">
+        <item quantity="other">%d albums</item>
+        <item quantity="one">1 album</item>
+    </plurals>
+    <plurals name="Nfolders">
+        <item quantity="other">%d dossiers</item>
+        <item quantity="one">1 dossier</item>
+    </plurals>
+    <plurals name="Nartists">
+        <item quantity="other">%d artistes</item>
+        <item quantity="one">1 artiste</item>
+    </plurals>
+    <plurals name="Nlists">
+        <item quantity="other">%d listes de lecture</item>
+        <item quantity="one">1 liste de lecture</item>
+    </plurals>
+    <plurals name="local_count_songs">
+        <item quantity="other">Total : %d morceaux</item>
+        <item quantity="one">Total : 1 morceau</item>
+    </plurals>
+    <plurals name="local_count_playLists">
+        <item quantity="other">Total : %d listes de lecture</item>
+        <item quantity="one">Total : 1 liste de lecture</item>
+    </plurals>
+    <plurals name="local_count_artists">
+        <item quantity="other">Total : %d artistes</item>
+        <item quantity="one">Total : 1 artiste</item>
+    </plurals>
+    <plurals name="local_count_folders">
+        <item quantity="other">Total : %d dossiers</item>
+        <item quantity="one">Total : 1 dossier</item>
+    </plurals>
+    <plurals name="local_count_albums">
+        <item quantity="other">Total : %d albums</item>
+        <item quantity="one">Total : 1 album</item>
+    </plurals>
+    <plurals name="online_search_result_tip">
+        <item quantity="other">%d albums</item>
+        <item quantity="one">1 album</item>
+    </plurals>
+    <plurals name="local_edit_delete_songs">
+        <item quantity="other">%d morceaux supprimés</item>
+        <item quantity="one">1 morceau supprimé</item>
+    </plurals>
+    <plurals name="online_count_songs">
+        <item quantity="other">%dmorceaux chargés</item>
+        <item quantity="one">1 morceau chargé</item>
+    </plurals>
+    <plurals name="online_count_artists">
+        <item quantity="other">%d artistes chargés</item>
+        <item quantity="one">1 artiste chargé</item>
+    </plurals>
+    <plurals name="online_count_albums">
+        <item quantity="other">%d albums chargés</item>
+        <item quantity="one">1 album chargé</item>
+    </plurals>
+    <plurals name="media_playlist_title_count_songs">
+        <item quantity="other">%d morceaux au total</item>
+        <item quantity="one">1 morceau au total</item>
+    </plurals>
+    <plurals name="local_edit_remove_songs">
+        <item quantity="other">%d morceaux retirés</item>
+        <item quantity="one">1 morceau retiré</item>
+    </plurals>
+    <plurals name="local_edit_selected_songs">
+        <item quantity="other">%d morceaux sélectionnés</item>
+        <item quantity="one">1 morceau sélectionné</item>
+    </plurals>
+    <plurals name="add_songs_to_queue">
+        <item quantity="other">%d morceaux ajoutés à la liste de lecture</item>
+        <item quantity="one">1 morceau ajouté à la liste de lecture</item>
+    </plurals>
+</resources>

@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">เลือกไว้ %1$d</item>
+        <item quantity="zero">เลือกไว้ %1$d</item>
+        <item quantity="one">เลือกไว้ %1$d</item>
+    </plurals>
+    <plurals name="recurrence_end_count">
+        <item quantity="other">รวม %d กิจกรรม</item>
+        <item quantity="one">รวม %d กิจกรรม</item>
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+        <item quantity="other">ทุก %d วัน</item>
+        <item quantity="one">ทุก %d วัน</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+        <item quantity="other">ทุก %d สัปดาห์</item>
+        <item quantity="one">ทุก %d สัปดาห์</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+        <item quantity="other">ทุก %d เดือน</item>
+        <item quantity="one">ทุก %d เดือน</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+        <item quantity="other">ทุก %d ปี</item>
+        <item quantity="one">ทุก %d ปี</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item quantity="other">รวม %d ครั้ง</item>
+        <item quantity="one">รวม 1 ครั้ง</item>
+    </plurals>
+    <plurals name="daily">
+        <item quantity="other">ทุก %d วัน</item>
+        <item quantity="one">ทุกวัน</item>
+        <item quantity="two">ทุก %d วัน</item>
+        <item quantity="few">ทุก %d วัน</item>
+        <item quantity="many">ทุก %d วัน</item>
+    </plurals>
+    <plurals name="daily_lower">
+        <item quantity="other">ทุก %d วัน</item>
+        <item quantity="one">ทุกวัน</item>
+        <item quantity="two">ทุก %d วัน</item>
+        <item quantity="few">ทุก %d วัน</item>
+        <item quantity="many">ทุก %d วัน</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="other">ทุก %1$d สัปดาห์ใน%2$s</item>
+        <item quantity="one">ทุก%2$sของสัปดาห์</item>
+        <item quantity="two">ทุก %1$d สัปดาห์ใน%2$s</item>
+        <item quantity="few">ทุก %1$d สัปดาห์ใน%2$s</item>
+        <item quantity="many">ทุก %1$d สัปดาห์ใน%2$s</item>
+    </plurals>
+    <plurals name="weekly_lower">
+        <item quantity="other">ทุก %1$d สัปดาห์ใน%2$s</item>
+        <item quantity="one">ทุก%2$sของสัปดาห์</item>
+        <item quantity="two">ทุก %1$d สัปดาห์ใน%2$s</item>
+        <item quantity="few">ทุก %1$d สัปดาห์ใน%2$s</item>
+        <item quantity="many">ทุก %1$d สัปดาห์ใน%2$s</item>
+    </plurals>
+    <plurals name="monthly_interval">
+        <item quantity="other">ทุก %1$d เดือน</item>
+        <item quantity="one">ทุกเดือน</item>
+        <item quantity="two">ทุก %1$d เดือน</item>
+        <item quantity="few">ทุก %1$d เดือน</item>
+        <item quantity="many">ทุก %1$d เดือน</item>
+    </plurals>
+    <plurals name="monthly_interval_lower">
+        <item quantity="other">ทุก %1$d เดือน</item>
+        <item quantity="one">ทุกเดือน</item>
+        <item quantity="two">ทุก %1$d เดือน</item>
+        <item quantity="few">ทุก %1$d เดือน</item>
+        <item quantity="many">ทุก %1$d เดือน</item>
+    </plurals>
+    <plurals name="yearly_interval_plain">
+        <item quantity="other">ทุก %1$d ปี</item>
+        <item quantity="one">ทุกปี</item>
+        <item quantity="two">ทุก %1$d ปี</item>
+        <item quantity="few">ทุก %1$d ปี</item>
+        <item quantity="many">ทุก %1$d ปี</item>
+    </plurals>
+    <plurals name="yearly_interval_lower">
+        <item quantity="other">ทุก %1$d ปี</item>
+        <item quantity="one">ทุกปี</item>
+        <item quantity="two">ทุก %1$d ปี</item>
+        <item quantity="few">ทุก %1$d ปี</item>
+        <item quantity="many">ทุก %1$d ปี</item>
+    </plurals>
+    <plurals name="duration_in_hours">
+        <item quantity="other">%1$d ชั่วโมง</item>
+        <item quantity="one">%1$d ชั่วโมง</item>
+    </plurals>
+    <plurals name="duration_in_hours_short">
+        <item quantity="other">%1$d ชั่วโมง</item>
+        <item quantity="one">%1$d ชั่วโมง</item>
+    </plurals>
+    <plurals name="duration_in_minutes">
+        <item quantity="other">%1$d นาที</item>
+        <item quantity="one">%1$d นาที</item>
+    </plurals>
+    <plurals name="duration_in_minutes_short">
+        <item quantity="other">%1$d นาที</item>
+        <item quantity="one">%1$d นาที</item>
+    </plurals>
+    <plurals name="duration_in_days">
+        <item quantity="other">%1$d วัน</item>
+        <item quantity="one">%1$d วัน</item>
+    </plurals>
+    <plurals name="duration_in_days_short">
+        <item quantity="other">%1$d วัน</item>
+        <item quantity="one">%1$d วัน</item>
+    </plurals>
+    <plurals name="duration_in_months">
+        <item quantity="other">%1$d เดือน</item>
+        <item quantity="one">%1$d เดือน</item>
+    </plurals>
+    <plurals name="duration_in_months_short">
+        <item quantity="other">%1$d เดือน</item>
+        <item quantity="one">%1$d เดือน</item>
+    </plurals>
+    <plurals name="duration_in_years">
+        <item quantity="other">%1$d ปี</item>
+        <item quantity="one">%1$d ปี</item>
+    </plurals>
+    <plurals name="duration_in_years_short">
+        <item quantity="other">%1$d ปี</item>
+        <item quantity="one">%1$d ปี</item>
+    </plurals>
+    <plurals name="items_from_without_colon">
+        <item quantity="other">%1$d รายการจาก</item>
+        <item quantity="one">%1$d รายการจาก</item>
+    </plurals>
+    <plurals name="last_bus_home_departure_time">
+        <item quantity="other">รถเมล์กลับบ้านคันสุดท้ายจะมาใน %2$s%1$d นาที%3$s</item>
+        <item quantity="one">รถเมล์กลับบ้านคันสุดท้ายจะมาใน %2$s%1$d นาที%3$s</item>
+    </plurals>
+    <plurals name="last_bus_to_hotel_departure_time">
+        <item quantity="other">รถเมล์ไปโรงแรมคันสุดท้ายจะมาใน %2$s%1$d นาที%3$s</item>
+        <item quantity="one">รถเมล์ไปโรงแรมคันสุดท้ายจะมาใน %2$s%1$d นาที%3$s</item>
+    </plurals>
+    <plurals name="last_train_home_departure_time">
+        <item quantity="other">รถไฟกลับบ้านเที่ยวสุดท้ายจะมาใน %2$s%1$d นาที%3$s</item>
+        <item quantity="one">รถไฟกลับบ้านเที่ยวสุดท้ายจะมาใน %2$s1 นาที%3$s</item>
+    </plurals>
+    <plurals name="last_train_to_hotel_departure_time">
+        <item quantity="other">รถไฟไปโรงเแรมเที่ยวสุดท้ายจะมาใน %2$s%1$d นาที%3$s</item>
+        <item quantity="one">รถไฟไปโรงแรมเที่ยวสุดท้ายจะมาใน %2$s1 นาที%3$s</item>
+    </plurals>
+    <plurals name="last_transit_home_departure_time">
+        <item quantity="other">พาหนะกลับบ้านคันสุดท้ายจะมาใน %2$s%1$d นาที%3$s</item>
+        <item quantity="one">พาหนะกลับบ้านคันสุดท้ายจะมาใน %2$s%1$d นาที%3$s</item>
+    </plurals>
+    <plurals name="last_transit_to_hotel_departure_time">
+        <item quantity="other">พาหนะไปโรงแรมคันสุดท้ายจะมาใน %2$s%1$d นาที%3$s</item>
+        <item quantity="one">พาหนะไปโรงแรมคันสุดท้ายจะมาใน %2$s%1$d นาที%3$s</item>
+    </plurals>
+    <plurals name="transit_next_line_departure_subtext_no_platform">
+        <item quantity="other">เดิน %1$d นาทีจะถึง %2$s</item>
+        <item quantity="one">เดิน 1 นาทีจะถึง %2$s</item>
+    </plurals>
+    <plurals name="minutes_delay">
+        <item quantity="other">ล่าช้า %1$d นาที</item>
+        <item quantity="one">ล่าช้า 1 นาที</item>
+    </plurals>
+    <plurals name="minutes_delay_more_than_usual">
+        <item quantity="other">เล่าช้ากว่าปกติ %1$d นาที</item>
+        <item quantity="one">ล่าช้ากว่าปกติ 1 นาที</item>
+    </plurals>
+    <plurals name="minutes_delay_less_than_usual">
+        <item quantity="other">เร็วกว่าปกติ %1$d นาที</item>
+        <item quantity="one">เร็วกว่าปกติ 1 นาที</item>
+    </plurals>
+    <plurals name="usual_traffic_minutes_delay">
+        <item quantity="other">การจราจรปกติ: ล่าช้า %1$d นาที</item>
+        <item quantity="one">การจราจรปกติ: ล่าช้า 1 นาที</item>
+    </plurals>
+    <plurals name="num_min_late">
+        <item quantity="other">สาย %1$d นาที</item>
+        <item quantity="one">สาย 1 นาที</item>
+    </plurals>
+    <plurals name="num_min_early">
+        <item quantity="other">ถึงก่อนเวลา %1$d นาที</item>
+        <item quantity="one">ถึงก่อนเวลา 1 นาที</item>
+    </plurals>
+    <plurals name="transit_interval_in_minutes">
+        <item quantity="other">· ทุก %1$s นาที</item>
+        <item quantity="one">· ทุก %1$s นาที</item>
+    </plurals>
+    <plurals name="transit_interval_in_hours">
+        <item quantity="other">·ทุก %1$d ชั่วโมง</item>
+        <item quantity="one">· ทุก %1$d ชั่วโมง</item>
+    </plurals>
+    <plurals name="qp_transit_interval_in_minutes">
+        <item quantity="other">ทุก %1$s นาที</item>
+        <item quantity="one">ทุก %1$s นาที</item>
+    </plurals>
+    <plurals name="qp_transit_interval_in_hours">
+        <item quantity="other">ทุก %1$d ชั่วโมง</item>
+        <item quantity="one">ทุก %1$d ชั่วโมง</item>
+    </plurals>
+    <plurals name="sports_overtime_period_header">
+        <item quantity="other">ต่อเวลา %1$d ครั้ง</item>
+        <item quantity="one">ต่อเวลา</item>
+    </plurals>
+    <plurals name="time_to_leave_user_arrival_generic">
+        <item quantity="other">ถึงก่อนเวลา %1$d นาที</item>
+        <item quantity="one">ถึงก่อนเวลา %1$d นาที</item>
+    </plurals>
+    <plurals name="time_to_leave_user_arrival_flight">
+        <item quantity="other">ถึง %1$d นาทีก่อนออกเดินทาง</item>
+        <item quantity="one">ถึง %1$d นาทีก่อนออกเดินทาง</item>
+    </plurals>
+    <plurals name="time_to_leave_user_arrival_reservation">
+        <item quantity="other">ถึงก่อนเวลาจอง %1$d นาที</item>
+        <item quantity="one">ถึงก่อนเวลาจอง %1$d นาที</item>
+    </plurals>
+    <plurals name="time_to_leave_user_arrival_movie">
+        <item quantity="other">ถึงก่อนภาพยนตร์จะเริ่ม %1$d นาที</item>
+        <item quantity="one">ถึงก่อนภาพยนตร์จะเริ่ม %1$d นาที</item>
+    </plurals>
+    <plurals name="time_to_leave_user_arrival_concert">
+        <item quantity="other">ถึงก่อนคอนเสิร์ตจะเริ่ม %1$d นาที</item>
+        <item quantity="one">ถึงก่อนคอนเสิร์ตจะเริ่ม %1$d นาที</item>
+    </plurals>
+    <plurals name="email_everyone">
+        <item quantity="other">ส่งอีเมลให้ทุกคน (%1$d)</item>
+        <item quantity="one">ส่งอีเมลให้ทุกคน (%1$d)</item>
+    </plurals>
+    <plurals name="card_count">
+        <item quantity="other">การ์ด %1$d ใบ</item>
+        <item quantity="one">การ์ด 1 ใบ</item>
+    </plurals>
+    <plurals name="num_movie_tickets">
+        <item quantity="other">ตั๋ว %1$d ใบ</item>
+        <item quantity="one">ตั๋ว %1$d ใบ</item>
+    </plurals>
+    <plurals name="qp_hotel_reservation_length">
+        <item quantity="other">การจองห้องพักสำหรับ %1$d คืน</item>
+        <item quantity="one">การจองห้องพักสำหรับ %1$d คืน</item>
+    </plurals>
+    <plurals name="reminders">
+        <item quantity="other">การเตือนความจำ %1$d รายการ</item>
+        <item quantity="one">การเตือนความจำ %1$d รายการ</item>
+    </plurals>
+    <plurals name="number_of_location_sharers">
+        <item quantity="other">มี %1$d คนที่แชร์กับคุณ</item>
+        <item quantity="one">มี %1$d คนที่แชร์กับคุณ</item>
+    </plurals>
+    <plurals name="expiring_duration_in_days">
+        <item quantity="other">หมดอายุใน %1$d วัน</item>
+        <item quantity="one">หมดอายุใน %1$d วัน</item>
+    </plurals>
+    <plurals name="expiring_duration_in_hours">
+        <item quantity="other">หมดอายุใน %1$d ชั่วโมง</item>
+        <item quantity="one">หมดอายุใน %1$d ชั่วโมง</item>
+    </plurals>
+    <plurals name="expiring_duration_in_minutes">
+        <item quantity="other">หมดอายุใน %1$d นาที</item>
+        <item quantity="one">หมดอายุใน %1$d นาที</item>
+    </plurals>
+    <plurals name="view_count">
+        <item quantity="other">ดู %1$,d ครั้ง</item>
+        <item quantity="one">ดู %1$,d ครั้ง</item>
+    </plurals>
+    <plurals name="transportation_seat">
+        <item quantity="other">%1$d ที่นั่ง</item>
+        <item quantity="one">ที่นั่ง</item>
+    </plurals>
+    <plurals name="more_directions">
+        <item quantity="other">อีก + %1$d เส้นทาง</item>
+        <item quantity="one">อีก + %1$d เส้นทาง</item>
+    </plurals>
+    <plurals name="time_duration_spoken_hour">
+        <item quantity="other">%1$d ชั่วโมง</item>
+        <item quantity="one">1 ชั่วโมง</item>
+    </plurals>
+    <plurals name="time_duration_spoken_minute">
+        <item quantity="other">%1$d นาที</item>
+        <item quantity="one">1 นาที</item>
+    </plurals>
+    <plurals name="time_duration_spoken_second">
+        <item quantity="other">%1$d วินาที</item>
+        <item quantity="one">1 วินาที</item>
+    </plurals>
+    <plurals name="agenda_eyes_free_all_day_events">
+        <item quantity="other">%2$s คุณมี %1$d กิจกรรมแบบตลอดวันดังนี้ %3$s</item>
+        <item quantity="one">%2$s คุณมีกิจกรรมแบบตลอดวันดังนี้ %3$s</item>
+    </plurals>
+</resources>

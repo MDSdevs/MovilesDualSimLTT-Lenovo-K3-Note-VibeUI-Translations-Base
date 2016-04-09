@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="search_phone_or_tablet">Search Tablet</string>
+    <string name="corpus_name_summons">Tablet</string>
+    <string name="search_sources">Tablet search</string>
+    <string name="no_summons_found">"No results found
+on your tablet."</string>
+    <string name="hands_free_unlock_device">To do a Google voice search, please unlock your tablet.</string>
+    <string name="e300_summary_title">@string/e300_summary_title_tablet</string>
+    <string name="e300_enroll_header_title">@string/e300_enroll_header_title_tablet</string>
+    <string name="icing_manage_storage_summary">We accelerate search on your tablet by providing a search engine for your Apps to use.</string>
+</resources>

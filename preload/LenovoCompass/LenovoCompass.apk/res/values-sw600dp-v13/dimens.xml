@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="orien_layout_paddingTop">45.0dip</dimen>
+    <dimen name="location_layout_height">65.0dip</dimen>
+    <dimen name="location_text_height">47.0dip</dimen>
+    <dimen name="location_layout_margin">6.0dip</dimen>
+    <dimen name="location_layout_paddingTop">6.0dip</dimen>
+    <dimen name="cal_title_bar_height">64.0dip</dimen>
+    <dimen name="cal_action_bar_height">65.0dip</dimen>
+    <dimen name="cal_text_size">16.0sp</dimen>
+</resources>

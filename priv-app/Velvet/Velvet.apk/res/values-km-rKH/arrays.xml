@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="recurrence_freq">
+        <item>ធ្វើ​ឡើងវិញ​រាល់ថ្ងៃ</item>
+        <item>ធ្វើឡើងវិញរាល់សប្ដាហ៍</item>
+        <item>ធ្វើ​ឡើងវិញ​​រាល់​ខែ</item>
+        <item>ធ្វើឡើងវិញរាល់ឆ្នាំ</item>
+    </string-array>
+    <string-array name="edit_recurrence">
+        <item>មិន​សារ​ឡើងវិញ</item>
+        <item>​​រាល់ថ្ងៃ</item>
+        <item>​​រាល់​សប្ដាហ៍</item>
+        <item>​​រាល់​ខែ</item>
+        <item>​​រាល់​ឆ្នាំ</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>នៅ​រាល់​ថ្ងៃ​អាទិត្យ​ទី​មួយ</item>
+        <item>នៅ​រាល់​ថ្ងៃ​អាទិត្យ​ទី​ពីរ</item>
+        <item>នៅ​រាល់​ថ្ងៃ​អាទិត្យ​ទី​បី</item>
+        <item>នៅ​រាល់​ថ្ងៃ​អាទិត្យ​ទី​បួន</item>
+        <item>នៅ​រាល់​ថ្ងៃ​អាទិត្យ​ចុងក្រោយ</item>
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>រាល់​ថ្ងៃ​ចន្ទ​ទី​​ដំបូង​នៃ​ខែ</item>
+        <item>រាល់​ថ្ងៃ​ចន្ទ​ទី​ពីរ​នៃ​ខែ</item>
+        <item>រាល់​ថ្ងៃ​ចន្ទ​ទី​បី​នៃ​ខែ</item>
+        <item>​​រាល់​ថ្ងៃ​ចន្ទ​ទី​បួន​នៃ​ខែ</item>
+        <item>រាល់​ថ្ងៃ​ចន្ទ​ចុងក្រោយ</item>
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>នៅ​រាល់​ថ្ងៃ​អង្គារ​ទី​មួយ</item>
+        <item>នៅ​រាល់​ថ្ងៃ​អង្គារ​ទី​ពីរ</item>
+        <item>នៅ​រាល់​ថ្ងៃ​អង្គារ​ទី​បី</item>
+        <item>នៅ​រាល់​ថ្ងៃ​អង្គារ​ទី​បួន</item>
+        <item>នៅ​រាល់​ថ្ងៃ​អង្គារ​ចុងក្រោយ</item>
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>នៅ​រាល់​ថ្ងៃ​ពុធ​ទី​មួយ</item>
+        <item>នៅ​រាល់​ថ្ងៃ​ពុធ​ទី​ពីរ</item>
+        <item>នៅ​រាល់​ថ្ងៃ​ពុធ​ទី​បី</item>
+        <item>នៅ​រាល់​ថ្ងៃ​ពុធ​ទី​បួន</item>
+        <item>នៅ​រាល់​ថ្ងៃ​ពុធ​ចុងក្រោយ</item>
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>នៅ​រាល់​ថ្ងៃ​ព្រហស្បតិ៍​ទី​មួយ</item>
+        <item>នៅ​រាល់​ថ្ងៃ​ព្រហស្បតិ៍​ទី​ពីរ</item>
+        <item>នៅ​រាល់​ថ្ងៃ​ព្រហស្បតិ៍​ទី​​បី</item>
+        <item>នៅ​រាល់​ថ្ងៃ​ព្រហស្បតិ៍​ទី​បួន</item>
+        <item>នៅ​រាល់​ថ្ងៃ​ព្រហស្បតិ៍​ចុងក្រោយ</item>
+    </string-array>
+    <string-array name="repeat_by_nth_fri">
+        <item>រាល់​ថ្ងៃ​សុក្រ​​ដំបូង​នៃ​ខែ</item>
+        <item>រាល់​ថ្ងៃ​សុក្រ​ទីពីរ​នៃ​ខែ</item>
+        <item>រាល់​ថ្ងៃ​សុក្រ​ទីបី​នៃ​ខែ</item>
+        <item>រាល់​ថ្ងៃ​សុក្រ​ទី​បួន​នៃ​ខែ</item>
+        <item>រាល់​ថ្ងៃ​សុក្រ​ចុងក្រោយ​នៃ​ខែ</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>នៅ​រាល់​ថ្ងៃ​សៅរ៍​ទី​មួយ</item>
+        <item>នៅ​រាល់​ថ្ងៃ​សៅរ៍​ទី​ពីរ</item>
+        <item>នៅ​រាល់​ថ្ងៃ​សៅរ៍​ទី​បី</item>
+        <item>នៅ​រាល់​ថ្ងៃ​សៅរ៍​ទី​បួន</item>
+        <item>នៅ​រាល់​ថ្ងៃ​សៅរ៍​ចុងក្រោយ</item>
+    </string-array>
+    <string-array name="baseball_innings">
+        <item>ឱកាសទី1</item>
+        <item>ឱកាសទី2</item>
+        <item>ឱកាសទី3</item>
+        <item>ឱកាសទី4</item>
+        <item>ឱកាសទី5</item>
+        <item>ឱកាសទី6</item>
+        <item>ឱកាសទី7</item>
+        <item>ឱកាសទី8</item>
+        <item>ឱកាសទី9</item>
+        <item>ឱកាសទី10</item>
+        <item>ឱកាសទី11</item>
+        <item>ឱកាសទី12</item>
+    </string-array>
+    <string-array name="qp_top_baseball_innings">
+        <item>Top ទី១</item>
+        <item>Top ទី២</item>
+        <item>Top ទី៣</item>
+        <item>Top ទី៤</item>
+        <item>Top ទី៥</item>
+        <item>Top ទី៦</item>
+        <item>Top ទី៧</item>
+        <item>Top ទី៨</item>
+        <item>Top ទី៩</item>
+        <item>Top ទី១១</item>
+        <item>Top ទី១១</item>
+        <item>Top ទី១២</item>
+    </string-array>
+    <string-array name="qp_bottom_baseball_innings">
+        <item>Bot ទី​​១</item>
+        <item>Bot ទី​​២</item>
+        <item>Bot ទី​​៣</item>
+        <item>Bot ទី​​៤</item>
+        <item>Bot ទី​៥</item>
+        <item>Bot ទី​៦</item>
+        <item>Bot ទី​៧</item>
+        <item>Bot ទី​៨</item>
+        <item>Bot ទី​៩</item>
+        <item>Bot ទី​១០</item>
+        <item>Bot ទី​​១១</item>
+        <item>Bot ទី​​១២</item>
+    </string-array>
+    <string-array name="local_results_markers">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+    </string-array>
+    <string-array name="languageNames">
+        <item>Afrikaans (អាហ្វ្រិក​ខាង​ត្បូង​)</item>
+        <item>​អារ៉ាប់ (អាល់ហ្សេរី​)</item>
+        <item>​អារ៉ាប់ (អេហ្ស៊ីប​)</item>
+        <item>​អារ៉ាប់ (​អ៊ីរ៉ាក់​)</item>
+        <item>អារ៉ាប់ (អ៊ីស្រាអែល​)</item>
+        <item>​អារ៉ាប់ (ហ្ស៊​ក​ដា​នី​)</item>
+        <item>​អារ៉ាប់ (កូវ៉ែត​)</item>
+        <item>​អារ៉ាប់ (លីបង់​)</item>
+        <item>​អារ៉ាប់ (លីប៊ី​)</item>
+        <item>​អារ៉ាប់ (ម៉ារ៉ុក​)</item>
+        <item>អារ៉ាប់ (កាតា​)</item>
+        <item>​អារ៉ាប់ (អារ៉ាប៊ីសាអូឌីត​)</item>
+        <item>អារ៉ាប់ (ស៊ូដង់​)</item>
+        <item>អារ៉ាប់ (ស៊ីរី​)</item>
+        <item>​អារ៉ាប់ (ទុយនីស៊ី​)</item>
+        <item>អារ៉ាប់ (អេមីរ៉ាតអារ៉ាប់រួម)</item>
+        <item>អារ៉ាប់ (យ៉េមែន​)</item>
+        <item>បេឡារុស្ស (បេឡារុស្ស​)</item>
+        <item>បង់ក្លាដែស (បង់ក្លាដែស​)</item>
+        <item>ប៊ុលហ្ការី (ប៊ុលហ្ការី​)</item>
+        <item>កា​តា​ឡាន (អេស្ប៉ាញ​)</item>
+        <item>ចិន​កុក​ងឺ (ចិន​អក្សរកាត់​)</item>
+        <item>ចិន​កុក​ងឺ (ហុងកុង​អក្សរកាត់​)</item>
+        <item>ចិន​កុក​ងឺ (ហុងកុង​អក្សរ​ពេញ​)</item>
+        <item>ចិន​កុក​ងឺ (សិង្ហបុរី​អក្សរកាត់​)</item>
+        <item>ចិន​កុក​ងឺ (តៃវ៉ាន់​អក្សរកាត់​)</item>
+        <item>ចិន​កុក​ងឺ (តៃវ៉ាន់​អក្សរ​ពេញ​)</item>
+        <item>ចិន Yue (ចិន​អក្សរកាត់​)</item>
+        <item>ចិន Yue (ហុងកុង​អក្សរ​ពេញ​)</item>
+        <item>ក្រូអាត (ក្រូអាត​)</item>
+        <item>ឆេក (សាធារណរដ្ឋ​ឆេក​)</item>
+        <item>ដាណឺម៉ាក (ដាណឺម៉ាក​)</item>
+        <item>ហុល្លង់ (បែលហ្សិក​)</item>
+        <item>ហុល្លង់ (ហុល្លង់​)</item>
+        <item>អង់គ្លេស (ទូទៅ​)</item>
+        <item>អង់គ្លេស (អូស្ត្រាលី)</item>
+        <item>អង់គ្លេស (​បង់ក្លាដែស​)</item>
+        <item>អង់គ្លេស (កាណាដា​)</item>
+        <item>អង់គ្លេស (ហុង​កុង​)</item>
+        <item>អង់គ្លេស (ឥណ្ឌា​)</item>
+        <item>អង់គ្លេស (អៀរឡង់​)</item>
+        <item>អង់គ្លេស (កេនយ៉ា​)</item>
+        <item>អង់គ្លេស (​ម៉ាឡេស៊ី​)</item>
+        <item>អង់គ្លេស (នូវែលហ្សេឡង់​)</item>
+        <item>អង់គ្លេស (នីហ្សេរីយ៉ា​)</item>
+        <item>អង់គ្លេស (ប៉ាគីស្ថាន​)</item>
+        <item>អង់គ្លេស (ហ្វីលីពីន​)</item>
+        <item>អង់គ្លេស (សិង្ហបុរី​)</item>
+        <item>អង់គ្លេស (អាហ្វ្រិក​ខាង​ត្បូង​)</item>
+        <item>អង់គ្លេស (​ស៊ូដង់​)</item>
+        <item>អង់គ្លេស (​តង់​សា​នី​)</item>
+        <item>អង់គ្លេស (អ៊ូហ្គង់ដា​)</item>
+        <item>អង់គ្លេស (ចក្រភព​អង់គ្លេស)</item>
+        <item>អង់គ្លេស (​អាមេរិក)</item>
+        <item>អេស្តូនី (អេស្តូនី​)</item>
+        <item>ហ្វីលីពីន (ហ្វីលីពីន​)</item>
+        <item>ហ្វាំងឡង់ (ហ្វាំងឡង់​)</item>
+        <item>បារាំង (បែលហ្ស៊ិក​)</item>
+        <item>បារាំង (​កាណាដា​)</item>
+        <item>បារាំង (​បារាំង​)</item>
+        <item>បារាំង (​ស្វ៊ី​ស​)</item>
+        <item>ហ្គាលីស្យាន (អេស្ប៉ាញ​)</item>
+        <item>អាល្លឺម៉ង់ (អូទ្រីស​)</item>
+        <item>អាល្លឺម៉ង់ (អាល្លឺម៉ង់​)</item>
+        <item>អាល្លឺម៉ង់ (ស្វីស​)</item>
+        <item>អាល្លឺម៉ង់ (Liechtenstein​)</item>
+        <item>ក្រិក (ក្រិក​)</item>
+        <item>ប្រជាជន​អ៊ីស្រាអែល (អ៊ីស្រាអែល​)</item>
+        <item>ហិណ្ឌូ (ឥណ្ឌា​)</item>
+        <item>ហុងគ្រី (ហុងគ្រី​)</item>
+        <item>អ៊ីស្លង់ (អ៊ីស្លង់​)</item>
+        <item>ឥណ្ឌូណេស៊ី (ឥណ្ឌូណេស៊ី​)</item>
+        <item>​អៀរឡង់ (អៀរឡង់​)</item>
+        <item>isiNdebele (អាហ្វ្រិក​ខាង​ត្បូង​)</item>
+        <item>isiXhosa (អាហ្វ្រិក​ខាង​ត្បូង​)</item>
+        <item>isiZulu (អាហ្វ្រិក​ខាង​ត្បូង​)</item>
+        <item>អ៊ីតាលី (អ៊ីតាលី​)</item>
+        <item>អ៊ីតាលី (ស្វីស​)</item>
+        <item>ជប៉ុន (ជប៉ុន​)</item>
+        <item>កូរ៉េ (កូរ៉េ​ខាង​ត្បូង​)</item>
+        <item>ឡាតវីយ៉ា (ឡាតវីយ៉ា​)</item>
+        <item>លីទុយអានី (លីទុយអានី​)</item>
+        <item>ម៉ាឡេស៊ី (ម៉ាឡេស៊ី​)</item>
+        <item>ម៉ាឡេស៊ី (សិង្ហបុរី​)</item>
+        <item>ន័រវែស បុកម៉ាល (ន័រវែស​)</item>
+        <item>ន័រវែស នីនូស (ន័រវែស​)</item>
+        <item>ភឺសៀន (អ៊ីរ៉ង់​)</item>
+        <item>ប៉ូឡូញ (ប៉ូឡូញ​)</item>
+        <item>ព័រទុយហ្កាល់ (ព័រទុយហ្កាល់​)</item>
+        <item>ព័រទុយហ្គាល់ (ប្រេស៊ីល)</item>
+        <item>ព័រទុយហ្គាល់ (ព័រទុយហ្គាល់)</item>
+        <item>រ៉ូម៉ានី (រ៉ូម៉ានី​)</item>
+        <item>រុស្ស៊ី (បេឡារុស​)</item>
+        <item>រុស្ស៊ី (​រុស្ស៊ី​)</item>
+        <item>Sepedi (អាហ្វ្រិក​ខាង​ត្បូង​)</item>
+        <item>សើប (សើប, ស៊ីរី​)</item>
+        <item>សេ​សូ​ដូ (អាហ្វ្រិក​ខាង​ត្បូង​)</item>
+        <item>Setswana (អាហ្វ្រិក​ខាង​ត្បូង​)</item>
+        <item>siSwati (អាហ្វ្រិក​ខាង​ត្បូង​)</item>
+        <item>ស្លូវ៉ាគី (ស្លូវ៉ាគី​)</item>
+        <item>ស្លូវ៉ានី​ (ស្លូវ៉ានី)</item>
+        <item>អេស្ប៉ាញ (អាហ្សង់ទីន​)</item>
+        <item>អេស្ប៉ាញ (បូលីវី​)</item>
+        <item>អេស្ប៉ាញ (ឈីលី​)</item>
+        <item>អេស្ប៉ាញ (កូឡុំប៊ី​)</item>
+        <item>អេស្ប៉ាញ (កូស្តារីកា​)</item>
+        <item>អេស្ប៉ាញ (​គុយបា​)</item>
+        <item>អេស្ប៉ាញ (សាធារណរដ្ឋ​ដូមីនីក​)</item>
+        <item>អេស្ប៉ាញ (អេក្វាទ័រ​)</item>
+        <item>អេស្ប៉ាញ (El Salvador​)</item>
+        <item>អេស្ប៉ាញ (ក្វាតេម៉ាឡា​)</item>
+        <item>អេស្ប៉ាញ (Honduras​)</item>
+        <item>អេស្ប៉ាញ (ម៉ិកស៊ិក​)</item>
+        <item>អេស្ប៉ាញ (នីការ៉ាហ្គា​)</item>
+        <item>អេស្ប៉ាញ (ប៉ាណាម៉ា​)</item>
+        <item>អេស្ប៉ាញ (ប៉ារ៉ាហ្គាយ​)</item>
+        <item>អេស្ប៉ាញ (ប៉េរូ​)</item>
+        <item>អេស្ប៉ាញ (ព័រតូរីកូ​)</item>
+        <item>អេស្ប៉ាញ (អេស្ប៉ាញ​)</item>
+        <item>អេស្ប៉ាញ (អាមេរិក​)</item>
+        <item>អេស្ប៉ាញ (អ៊ុយរូហ្គាយ​)</item>
+        <item>អេស្ប៉ាញ (វ៉េណេស៊ុយអេឡា​)</item>
+        <item>ស្វាហ៊ីលី (កេនយ៉ា​)</item>
+        <item>ស្វាហ៊ីលី (តង់សានី​)</item>
+        <item>ស្វាហ៊ីលី (អ៊ូហ្គាង់ដា​)</item>
+        <item>ស៊ុយអែដ (ហ្វាំងឡង់​)</item>
+        <item>ស៊ុយអែដ (ស៊ុយអែដ​)</item>
+        <item>ថៃ (ថៃ​)</item>
+        <item>Tshivenda (អាហ្វ្រិក​ខាង​ត្បូង​)</item>
+        <item>ទួរគី (ទួរគី​)</item>
+        <item>អ៊ុយក្រែន (អ៊ុយក្រែន​)</item>
+        <item>អ៊ូរឌូ (ប៉ាគីស្ថាន​)</item>
+        <item>​វៀតណាម (វៀតណាម​)</item>
+        <item>Xitsonga (អាហ្វ្រិក​ខាង​ត្បូង​)</item>
+    </string-array>
+    <string-array name="edit_reminder_day">
+        <item>ថ្ងៃនេះ</item>
+        <item>ថ្ងៃស្អែក</item>
+        <item>ម្ដងម្កាល</item>
+        <item>កំណត់​កាលបរិច្ឆេទ…</item>
+    </string-array>
+    <string-array name="edit_reminder_time">
+        <item>ពេល​ព្រឹក</item>
+        <item>ពេល​រសៀល</item>
+        <item>ពេល​ល្ងាច</item>
+        <item>ពេល​រាត្រី</item>
+        <item>ពេញ​មួយ​ថ្ងៃ</item>
+        <item>កំណត់​ពេលវេលា…</item>
+    </string-array>
+    <string-array name="edit_reminder_location_trigger_type">
+        <item>មក​ដល់</item>
+        <item>ចាកចេញ</item>
+    </string-array>
+    <string-array name="edit_reminder_location">
+        <item>ផ្ទះ</item>
+        <item>កន្លែង​ធ្វើការ</item>
+        <item>កំណត់​ទីតាំង…</item>
+    </string-array>
+    <string-array name="network_error_tts_messages">
+        <item>ការតភ្ជាប់អ៊ីនធឺណិតដំណើរការមិនរលូនទេនៅពេលនេះ។</item>
+        <item>ការតភ្ជាប់អ៊ីនធឺណិតដំណើរការមិនរលូនទេនៅខណៈនេះ។</item>
+        <item>ការតភ្ជាប់អ៊ីនធឺណិតគ្មានស្ថេរភាពទេនៅពេលនេះ។</item>
+        <item>ការតភ្ជាប់អ៊ីនធឺណិតគ្មានស្ថេរភាពទេខណៈនេះ។</item>
+        <item>ការតភ្ជាប់អ៊ីនធឺណិតមិនមានសេវាខ្លាំងគ្រប់គ្រាន់ទេនៅពេលនេះ។</item>
+        <item>ការតភ្ជាប់អ៊ីនធឺណិតមិនមានសេវាខ្លាំងគ្រប់គ្រាន់ទេខណៈនេះ។</item>
+    </string-array>
+    <string-array name="read_it_grammar">
+        <item>អានវា</item>
+        <item>អានសារនេះ</item>
+        <item>អានសារនោះ</item>
+    </string-array>
+    <string-array name="reply_grammar">
+        <item>ឆ្លើយតប</item>
+        <item>ផ្ញើការឆ្លើយតប</item>
+        <item>ផ្ញើការឆ្លើយតប</item>
+        <item>ឆ្លើយតបនឹងសារនេះ</item>
+        <item>ផ្ញើការឆ្លើយតបទៅវា</item>
+    </string-array>
+    <string-array name="call_back_grammar">
+        <item>ហៅទៅអ្នកផ្ញើសារចុងក្រោយវិញ</item>
+        <item>ហៅទៅគាត់</item>
+        <item>ហៅទៅគាត់វិញ</item>
+        <item>ហៅទៅនាង</item>
+        <item>ហៅទៅនាងវិញ</item>
+    </string-array>
+</resources>

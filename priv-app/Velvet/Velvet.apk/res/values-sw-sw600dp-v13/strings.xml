@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="search_phone_or_tablet">Tafuta Kompyuta kibao</string>
+    <string name="corpus_name_summons">Kompyuta kibao</string>
+    <string name="search_sources">Utafutaji wa kompyuta kibao</string>
+    <string name="no_summons_found">"Hakuna matokeo yaliyopatikana 
+ kwenye kompyuta kibao yako."</string>
+    <string name="hands_free_unlock_device">Ili utafute kwenye Google kwa kutamka, tafadhali fungua kompyuta kibao yako.</string>
+    <string name="icing_manage_storage_summary">Tunaharakisha utafutaji kwenye kompyuta kibao yako kwa kutoa injini ya utafutaji ili itumiwe na Programu zako.</string>
+</resources>

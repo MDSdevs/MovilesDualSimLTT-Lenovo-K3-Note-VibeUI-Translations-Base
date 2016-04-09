@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AboutTheme.Calendar" parent="@android:style/Theme.DeviceDefault.Light">
+        <item name="android:windowActionBar">true</item>
+        <item name="android:windowActionBarOverlay">true</item>
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:windowTranslucentNavigation">true</item>
+        <item name="mainDivider">#ffa3a3a3</item>
+        <item name="mainBackground">#ffffffff</item>
+        <item name="appNameTextColor">#ff191919</item>
+        <item name="versionNameTextColor">#ff191919</item>
+        <item name="listViewDivider">#ffe8e8e8</item>
+        <item name="listViewTextColor">@color/ab_list_view_text_color_light</item>
+        <item name="listViewSummaryTextColor">@color/ab_list_view_summary_text_color_light</item>
+        <item name="copyrightTextColor">#ff9b9b9b</item>
+        <item name="copyrightBackground">#ffe8e8e8</item>
+        <item name="tableItemViewDivider">#ffe8e8e8</item>
+        <item name="backButton">@drawable/ab_ic_back_light</item>
+        <item name="backButtonBg">@drawable/ab_ic_back_light_bg</item>
+        <item name="cmccPromptTextColor">#ff191919</item>
+        <item name="padLandRightBackground">#fff3f3f3</item>
+        <item name="moreButton">@drawable/ab_ic_light_arrow</item>
+        <item name="listItemSelector">@drawable/ab_list_item_selector_light</item>
+    </style>
+    <style name="FeedbackTheme.Calendar" parent="@android:style/Theme.DeviceDefault.Light">
+        <item name="android:windowActionBar">true</item>
+        <item name="android:windowActionBarOverlay">true</item>
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:windowTranslucentNavigation">true</item>
+        <item name="titleBarBackground">#ffffffff</item>
+        <item name="titleNameTextColor">#ff191919</item>
+        <item name="fbTipTextColor">#ff757575</item>
+        <item name="titleBarBackgroundOpposite">#ff000000</item>
+        <item name="shapeCornerLine">@drawable/fb_shape_corner_line_light</item>
+        <item name="fbLineColor">#ffa3a3a3</item>
+        <item name="fbListViewLineColor">#ffe8e8e8</item>
+        <item name="fbMyfeedbackTimeTextColor">#ff757575</item>
+        <item name="fbTextColorOpposite">#ffffffff</item>
+        <item name="fbIMBackground">#fff8f8f8</item>
+        <item name="fbIMInfoBackground">#ffffffff</item>
+        <item name="fbListItemTextColor">@color/ab_list_view_text_color_light</item>
+        <item name="fbListItemTextTimeColor">@color/fb_list_view_text_time_color_light</item>
+        <item name="fbListEmptyTextTimeColor">#ff191919</item>
+        <item name="fbBackButton">@drawable/ab_ic_back_light</item>
+        <item name="fbBackButtonBg">@drawable/ab_ic_back_light_bg</item>
+        <item name="personalInfoBtn">@drawable/fb_ic_info_light</item>
+        <item name="myFeedbackBtn">@drawable/fb_ic_list_light</item>
+        <item name="addFeedbackBtn">@drawable/fb_ic_add_light</item>
+        <item name="feedbackIcAddPic">@drawable/fb_ic_add_pic_light</item>
+        <item name="submitBtnTextColor">@drawable/fb_submit_btn_text_light</item>
+        <item name="submitBtnBackgroundColor">@drawable/fb_submit_btn_background_light</item>
+        <item name="fbIcSendSelector">@drawable/fb_ic_send_selector_light</item>
+        <item name="fbMoreButton">@drawable/ab_ic_light_arrow</item>
+        <item name="fbListItemSelector">@drawable/ab_list_item_selector_light</item>
+    </style>
+    <style name="AppBaseTheme" parent="@android:style/Theme.DeviceDefault.Light">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+    </style>
+    <style name="ToolBarMonthSelectTitle">
+        <item name="android:textSize">18.0sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/toolbar_color_white</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="ToolBarWeahterInfo">
+        <item name="android:textSize">12.0sp</item>
+        <item name="android:textColor">@color/toolbar_color_white</item>
+    </style>
+</resources>

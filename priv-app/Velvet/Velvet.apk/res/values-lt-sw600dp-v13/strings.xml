@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="search_phone_or_tablet">Paieška planšetiniame kompiuteryje</string>
+    <string name="corpus_name_summons">Planš. kompiut.</string>
+    <string name="search_sources">Paieška planšetiniu kompiuteriu</string>
+    <string name="no_summons_found">"Planšetiniame kompiuteryje
+rezultatų nerasta."</string>
+    <string name="hands_free_unlock_device">Jei norite atlikti „Google“ paiešką balsu, atrakinkite planšetinį kompiuterį.</string>
+    <string name="icing_manage_storage_summary">Pagreitiname paiešką planšetiniame kompiuteryje programoms pateikdami paieškos variklį.</string>
+</resources>

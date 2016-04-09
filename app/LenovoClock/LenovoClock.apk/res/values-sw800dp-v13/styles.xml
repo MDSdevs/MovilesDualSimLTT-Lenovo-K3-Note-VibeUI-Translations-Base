@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="actonbar_btn_shadow">
+        <item name="android:textSize">24.0sp</item>
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:paddingTop">7.0dip</item>
+        <item name="android:layout_width">@dimen/timer_sw_startbtn_width_min</item>
+        <item name="android:layout_height">56.0dip</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:shadowColor">#00000000</item>
+        <item name="android:shadowDx">1.0</item>
+        <item name="android:shadowDy">1.0</item>
+        <item name="android:shadowRadius">1.0</item>
+    </style>
+</resources>

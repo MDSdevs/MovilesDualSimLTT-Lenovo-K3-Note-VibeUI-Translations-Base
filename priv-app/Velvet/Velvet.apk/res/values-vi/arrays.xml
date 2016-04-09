@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="recurrence_freq">
+        <item>LẶP LẠI HÀNG NGÀY</item>
+        <item>LẶP LẠI HÀNG TUẦN</item>
+        <item>LẶP LẠI HÀNG THÁNG</item>
+        <item>LẶP LẠI HÀNG NĂM</item>
+    </string-array>
+    <string-array name="edit_recurrence">
+        <item>Không lặp lại</item>
+        <item>Hàng ngày</item>
+        <item>Hàng tuần</item>
+        <item>Hàng tháng</item>
+        <item>Hàng năm</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>vào mọi Chủ Nhật đầu tiên</item>
+        <item>vào mọi Chủ Nhật thứ hai</item>
+        <item>vào mọi Chủ Nhật thứ ba</item>
+        <item>vào mọi Chủ Nhật thứ tư</item>
+        <item>vào mọi Chủ Nhật cuối cùng</item>
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>vào mọi Thứ Hai đầu tiên</item>
+        <item>vào mọi Thứ Hai thứ hai</item>
+        <item>vào mọi Thứ Hai thứ ba</item>
+        <item>vào mọi Thứ Hai thứ tư</item>
+        <item>vào mọi Thứ Hai cuối cùng</item>
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>vào mọi Thứ Ba đầu tiên</item>
+        <item>vào mọi Thứ Ba thứ hai</item>
+        <item>vào mọi Thứ Ba thứ ba</item>
+        <item>vào mọi Thứ Ba thứ tư</item>
+        <item>vào mọi Thứ Ba cuối cùng</item>
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>vào mọi Thứ Tư đầu tiên</item>
+        <item>vào mọi Thứ Tư thứ hai</item>
+        <item>vào mọi Thứ Tư thứ ba</item>
+        <item>vào mọi Thứ Tư thứ tư</item>
+        <item>vào mọi Thứ Tư cuối cùng</item>
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>vào mọi Thứ Năm đầu tiên</item>
+        <item>vào mọi Thứ Năm thứ hai</item>
+        <item>vào mọi Thứ Năm thứ ba</item>
+        <item>vào mọi Thứ Năm thứ tư</item>
+        <item>vào mọi Thứ Năm cuối cùng</item>
+    </string-array>
+    <string-array name="repeat_by_nth_fri">
+        <item>vào mọi Thứ Sáu đầu tiên</item>
+        <item>vào mọi Thứ Sáu thứ hai</item>
+        <item>vào mọi Thứ Sáu thứ ba</item>
+        <item>vào mọi Thứ Sáu thứ tư</item>
+        <item>vào mọi Thứ Sáu cuối cùng</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>vào mọi Thứ Bảy đầu tiên</item>
+        <item>vào mọi Thứ Bảy thứ hai</item>
+        <item>vào mọi Thứ Bảy thứ ba</item>
+        <item>vào mọi Thứ Bảy thứ tư</item>
+        <item>vào mọi Thứ Bảy cuối cùng</item>
+    </string-array>
+    <string-array name="baseball_innings">
+        <item>Lượt chơi thứ nhất</item>
+        <item>Lượt chơi thứ 2</item>
+        <item>Lượt chơi thứ 3</item>
+        <item>Lượt chơi thứ 4</item>
+        <item>Lượt chơi thứ 5</item>
+        <item>Lượt chơi thứ 6</item>
+        <item>Lượt chơi thứ 7</item>
+        <item>Lượt chơi thứ 8</item>
+        <item>Lượt chơi thứ 9</item>
+        <item>Lượt chơi thứ 10</item>
+        <item>Lượt chơi thứ 11</item>
+        <item>Lượt chơi thứ 12</item>
+    </string-array>
+    <string-array name="qp_top_baseball_innings">
+        <item>Đầu lượt chơi thứ 1</item>
+        <item>Đầu lượt chơi thứ 2</item>
+        <item>Đầu lượt chơi thứ 3</item>
+        <item>Đầu lượt chơi thứ 4</item>
+        <item>Đầu lượt chơi thứ 5</item>
+        <item>Đầu lượt chơi thứ 6</item>
+        <item>Đầu lượt chơi thứ 7</item>
+        <item>Đầu lượt chơi thứ 8</item>
+        <item>Đầu lượt chơi thứ 9</item>
+        <item>Đầu lượt chơi thứ 10</item>
+        <item>Đầu lượt chơi thứ 11</item>
+        <item>Đầu lượt chơi thứ 12</item>
+    </string-array>
+    <string-array name="qp_bottom_baseball_innings">
+        <item>Cuối lượt chơi thứ 1</item>
+        <item>Cuối lượt chơi thứ 2</item>
+        <item>Cuối lượt chơi thứ 3</item>
+        <item>Cuối lượt chơi thứ 4</item>
+        <item>Cuối lượt chơi thứ 5</item>
+        <item>Cuối lượt chơi thứ 6</item>
+        <item>Cuối lượt chơi thứ 7</item>
+        <item>Cuối lượt chơi thứ 8</item>
+        <item>Cuối lượt chơi thứ 9</item>
+        <item>Cuối lượt chơi thứ 10</item>
+        <item>Cuối lượt chơi thứ 11</item>
+        <item>Cuối lượt chơi thứ 12</item>
+    </string-array>
+    <string-array name="local_results_markers">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+    </string-array>
+    <string-array name="languageNames">
+        <item>Tiếng Hà Lan ở Nam Phi (Nam Phi)</item>
+        <item>Tiếng Ả rập (Algeria)</item>
+        <item>Tiếng Ả rập (Ai Cập)</item>
+        <item>Tiếng Ả rập (I-rắc)</item>
+        <item>Tiếng Ả rập (Israel)</item>
+        <item>Tiếng Ả rập (Jordan)</item>
+        <item>Tiếng Ả rập (Kuwait)</item>
+        <item>Tiếng Ả rập (Li Băng)</item>
+        <item>Tiếng Ả rập (Libya)</item>
+        <item>Tiếng Ả rập (Ma-rốc)</item>
+        <item>Tiếng Ả rập (Qatar)</item>
+        <item>Tiếng Ả rập (Ả-rập Xê-út)</item>
+        <item>Tiếng Ả rập (Sudan)</item>
+        <item>Tiếng Ả rập (Syria)</item>
+        <item>Tiếng Ả rập (Tunisia)</item>
+        <item>Tiếng Ả rập (Các Tiểu vương quốc Ả rập Thống nhất)</item>
+        <item>Tiếng Ả rập (Yemen)</item>
+        <item>Tiếng Bê-la-rút (Belarus)</item>
+        <item>Tiếng Bengali (Bangladesh)</item>
+        <item>Tiếng Bungari (Bulgaria)</item>
+        <item>Tiếng Catalan (Tây Ban Nha)</item>
+        <item>Tiếng Trung, Phổ thông (Trung Quốc, Giản thể)</item>
+        <item>Tiếng Trung, Phổ thông (Hồng Kông, Giản thể)</item>
+        <item>Tiếng Trung, Phổ thông (Hồng Kông, Phồn thể)</item>
+        <item>Tiếng Trung, Phổ thông (Singapore, Giản thể)</item>
+        <item>Tiếng Trung, Phổ thông (Đài Loan, Giản thể)</item>
+        <item>Tiếng Trung, Phổ thông (Đài Loan, Phồn thể)</item>
+        <item>Tiếng Trung, Yue (Trung Quốc, Giản thể)</item>
+        <item>Tiếng Trung, Yue (Hồng Kông, Phồn thể)</item>
+        <item>Tiếng Croatia (Croatia)</item>
+        <item>Tiếng Séc (Cộng hòa Séc)</item>
+        <item>Tiếng Đan Mạch (Đan Mạch)</item>
+        <item>Tiếng Hà Lan (Bỉ)</item>
+        <item>Tiếng Hà Lan (Hà Lan)</item>
+        <item>Tiếng Anh (Chung)</item>
+        <item>Tiếng Anh (Úc)</item>
+        <item>Tiếng Anh (Bangladesh)</item>
+        <item>Tiếng Anh (Canada)</item>
+        <item>Tiếng Anh (Hồng Kông)</item>
+        <item>Tiếng Anh (Ấn Độ)</item>
+        <item>Tiếng Anh (Ireland)</item>
+        <item>Tiếng Anh (Kenya)</item>
+        <item>Tiếng Anh (Malaysia)</item>
+        <item>Tiếng Anh (New Zealand)</item>
+        <item>Tiếng Anh (Nigeria)</item>
+        <item>Tiếng Anh (Pakistan)</item>
+        <item>Tiếng Anh (Philipin)</item>
+        <item>Tiếng Anh (Singapore)</item>
+        <item>Tiếng Anh (Nam Phi)</item>
+        <item>Tiếng Anh (Sudan)</item>
+        <item>Tiếng Anh (Tanzania)</item>
+        <item>Tiếng Anh (Uganda)</item>
+        <item>Tiếng Anh (Anh)</item>
+        <item>Tiếng Anh (Mỹ)</item>
+        <item>Tiếng Estonia (Estonia)</item>
+        <item>Tiếng Philipin (Philipin)</item>
+        <item>Tiếng Phần Lan (Phần Lan)</item>
+        <item>Tiếng Pháp (Bỉ)</item>
+        <item>Tiếng Pháp (Canada)</item>
+        <item>Tiếng Pháp (Pháp)</item>
+        <item>Tiếng Pháp (Thụy Sĩ)</item>
+        <item>Tiếng Galicia (Tây Ban Nha)</item>
+        <item>Tiếng Đức (Áo)</item>
+        <item>Tiếng Đức (Đức)</item>
+        <item>Tiếng Đức (Thụy Sĩ)</item>
+        <item>Tiếng Đức (Liechtenstein)</item>
+        <item>Tiếng Hy Lạp (Hy Lạp)</item>
+        <item>Tiếng Do Thái (Israel)</item>
+        <item>Tiếng Hindi (Ấn Độ)</item>
+        <item>Tiếng Hungary (Hungary)</item>
+        <item>Tiếng Iceland (Iceland)</item>
+        <item>Tiếng Indo (Indonesia)</item>
+        <item>Tiếng Ai-len (Ai-len)</item>
+        <item>Tiếng isiNdebele (Nam Phi)</item>
+        <item>Tiếng isiXhosa (Nam Phi)</item>
+        <item>Tiếng isiZulu (Nam Phi)</item>
+        <item>Tiếng Ý (Ý)</item>
+        <item>Tiếng Ý (Thụy Sĩ)</item>
+        <item>Tiếng Nhật (Nhật Bản)</item>
+        <item>Tiếng Hàn (Hàn Quốc)</item>
+        <item>Tiếng Latvia (Latvia)</item>
+        <item>Tiếng Lithuania (Lithuania)</item>
+        <item>Tiếng Malay (Malaysia)</item>
+        <item>Tiếng Malay (Singapore)</item>
+        <item>Tiếng Na Uy Bokmål (Na Uy)</item>
+        <item>Tiếng Na Uy Nynorsk (Na Uy)</item>
+        <item>Tiếng Ba Tư (Iran)</item>
+        <item>Tiếng Ba Lan (Ba Lan)</item>
+        <item>Tiếng Bồ Đào Nha (Angola)</item>
+        <item>Tiếng Bồ Đào Nha (Braxin)</item>
+        <item>Tiếng Bồ Đào Nha (Bồ Đào Nha)</item>
+        <item>Tiếng Rumani (Rumani)</item>
+        <item>Tiếng Nga (Belarus)</item>
+        <item>Tiếng Nga (Nga)</item>
+        <item>Tiếng Sepedi (Nam Phi)</item>
+        <item>Tiếng Serbia (Serbia, Ký tự Kirin)</item>
+        <item>Tiếng Sesotho (Nam Phi)</item>
+        <item>Tiếng Setswana (Nam Phi)</item>
+        <item>Tiếng siSwati (Nam Phi)</item>
+        <item>Tiếng Slovak (Slovakia)</item>
+        <item>Tiếng Slovenia (Slovenia)</item>
+        <item>Tiếng Tây Ban Nha (Argentina)</item>
+        <item>Tiếng Tây Ban Nha (Bolivia)</item>
+        <item>Tiếng Tây Ban Nha (Chi Lê)</item>
+        <item>Tiếng Tây Ban Nha (Colombia)</item>
+        <item>Tiếng Tây Ban Nha (Costa Rica)</item>
+        <item>Tiếng Tây Ban Nha (Cuba)</item>
+        <item>Tiếng Tây Ban Nha (Cộng hòa Dominica)</item>
+        <item>Tiếng Tây Ban Nha (Ecuador)</item>
+        <item>Tiếng Tây Ban Nha (El Salvador)</item>
+        <item>Tiếng Tây Ban Nha (Guatemala)</item>
+        <item>Tiếng Tây Ban Nha (Honduras)</item>
+        <item>Tiếng Tây Ban Nha (Mexico)</item>
+        <item>Tiếng Tây Ban Nha (Nicaragua)</item>
+        <item>Tiếng Tây Ban Nha (Panama)</item>
+        <item>Tiếng Tây Ban Nha (Paraguay)</item>
+        <item>Tiếng Tây Ban Nha (Peru)</item>
+        <item>Tiếng Tây Ban Nha (Puerto Rico)</item>
+        <item>Tiếng Tây Ban Nha (Tây Ban Nha)</item>
+        <item>Tiếng Tây Ban Nha (Mỹ)</item>
+        <item>Tiếng Tây Ban Nha (Uruguay)</item>
+        <item>Tiếng Tây Ban Nha (Venezuela)</item>
+        <item>Tiếng Swahili (Kenya)</item>
+        <item>Tiếng Swahili (Tanzania)</item>
+        <item>Tiếng Swahili (Uganda)</item>
+        <item>Tiếng Thụy Điển (Phần Lan)</item>
+        <item>Tiếng Thụy Điển (Thụy Điển)</item>
+        <item>Tiếng Thái (Thái Lan)</item>
+        <item>Tiếng Tshivenda (Nam Phi)</item>
+        <item>Tiếng Thổ Nhĩ Kỳ (Thổ Nhĩ Kỳ)</item>
+        <item>Tiếng Ukraina (Ukraina)</item>
+        <item>Tiếng Urdu (Pakistan)</item>
+        <item>Tiếng Việt (Việt Nam)</item>
+        <item>Tiếng Xitsonga (Nam Phi)</item>
+    </string-array>
+    <string-array name="edit_reminder_day">
+        <item>Hôm nay</item>
+        <item>Ngày mai</item>
+        <item>Thỉnh thoảng</item>
+        <item>Đặt ngày...</item>
+    </string-array>
+    <string-array name="edit_reminder_time">
+        <item>Sáng</item>
+        <item>Chiều</item>
+        <item>Tối</item>
+        <item>Đêm</item>
+        <item>Cả ngày</item>
+        <item>Đặt giờ...</item>
+    </string-array>
+    <string-array name="edit_reminder_location_trigger_type">
+        <item>Đến</item>
+        <item>Rời khỏi</item>
+    </string-array>
+    <string-array name="edit_reminder_location">
+        <item>Nhà riêng</item>
+        <item>Cơ quan</item>
+        <item>Đặt vị trí...</item>
+    </string-array>
+    <string-array name="network_error_tts_messages">
+        <item>Hiện giờ, kết nối Internet này không đáng tin cậy.</item>
+        <item>Hiện tại, kết nối Internet này không đáng tin cậy.</item>
+        <item>Hiện giờ, kết nối Internet này không ổn định.</item>
+        <item>Hiện tại, kết nối Internet này không ổn định.</item>
+        <item>Hiện giờ, kết nối Internet này không đủ mạnh.</item>
+        <item>Hiện tại, kết nối Internet này không đủ mạnh.</item>
+    </string-array>
+    <string-array name="read_it_grammar">
+        <item>đọc tin nhắn đó</item>
+        <item>đọc tin nhắn</item>
+        <item>đọc văn bản đó</item>
+    </string-array>
+    <string-array name="reply_grammar">
+        <item>trả lời</item>
+        <item>gửi trả lời</item>
+        <item>gửi trả lời</item>
+        <item>trả lời tin nhắn văn bản</item>
+        <item>gửi trả lời cho tin nhắn</item>
+    </string-array>
+    <string-array name="call_back_grammar">
+        <item>gọi lại người gửi tin nhắn cuối cùng</item>
+        <item>gọi cho anh ấy</item>
+        <item>gọi lại cho anh ấy</item>
+        <item>gọi cho cô ấy</item>
+        <item>gọi lại cho cô ấy</item>
+    </string-array>
+</resources>

@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="recurrence_freq">
+        <item>RUDIA KILA SIKU</item>
+        <item>RUDIA KILA WIKI</item>
+        <item>RUDIA KILA MWEZI</item>
+        <item>RUDIA KILA MWAKA</item>
+    </string-array>
+    <string-array name="edit_recurrence">
+        <item>Halirudiwi</item>
+        <item>Kila siku</item>
+        <item>Kila wiki</item>
+        <item>Kila mwezi</item>
+        <item>Kila mwaka</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>kila Jumapili ya kwanza</item>
+        <item>kila Jumapili ya pili</item>
+        <item>kila Jumapili ya tatu</item>
+        <item>kila Jumapili ya nne</item>
+        <item>kila Jumapili ya mwisho</item>
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>kila Jumatatu ya kwanza</item>
+        <item>kila Jumatatu ya pili</item>
+        <item>kila Jumatatu ya tatu</item>
+        <item>kila Jumatatu ya nne</item>
+        <item>kila Jumatatu ya mwisho</item>
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>kila Jumanne ya kwanza</item>
+        <item>kila Jumanne ya pili</item>
+        <item>kila Jumanne ya tatu</item>
+        <item>kila Jumanne ya nne</item>
+        <item>kila Jumanne ya mwisho</item>
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>kila Jumatano ya kwanza</item>
+        <item>kila Jumatano ya pili</item>
+        <item>kila Jumatano ya tatu</item>
+        <item>kila Jumatano ya nne</item>
+        <item>kila Jumatano ya mwisho</item>
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>kila Alhamisi ya kwanza</item>
+        <item>kila Alhamisi ya pili</item>
+        <item>kila Alhamisi ya tatu</item>
+        <item>kila Alhamisi ya nne</item>
+        <item>kila Alhamisi ya mwisho</item>
+    </string-array>
+    <string-array name="repeat_by_nth_fri">
+        <item>kila Ijumaa ya kwanza</item>
+        <item>kila Ijumaa ya pili</item>
+        <item>kila Ijumaa ya tatu</item>
+        <item>kila Ijumaa ya nne</item>
+        <item>kila Ijumaa ya mwisho</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>kila Jumamosi ya kwanza</item>
+        <item>kila Jumamosi ya pili</item>
+        <item>kila Jumamosi ya tatu</item>
+        <item>kila Jumamosi ya nne</item>
+        <item>kila Jumamosi ya mwisho</item>
+    </string-array>
+    <string-array name="baseball_innings">
+        <item>Mzunguko wa 1</item>
+        <item>Mzunguko wa 2</item>
+        <item>Mzunguko wa 3</item>
+        <item>Mzunguko wa 4</item>
+        <item>Mzunguko wa 5</item>
+        <item>Mzunguko wa 6</item>
+        <item>Mzunguko wa 7</item>
+        <item>Mzunguko wa 8</item>
+        <item>Mzunguko wa 9</item>
+        <item>Mzunguko wa 10</item>
+        <item>Mzunguko wa 11</item>
+        <item>Mzunguko wa 12</item>
+    </string-array>
+    <string-array name="qp_top_baseball_innings">
+        <item>Ya 1 nusu ya juu</item>
+        <item>Ya 2 nusu ya juu</item>
+        <item>Ya 3 nusu ya juu</item>
+        <item>Ya 4 nusu ya juu</item>
+        <item>Ya 5 nusu ya juu</item>
+        <item>Ya 6 nusu ya juu</item>
+        <item>Ya 7 nusu ya juu</item>
+        <item>Ya 8 nusu ya juu</item>
+        <item>Ya 9 nusu ya juu</item>
+        <item>Ya 10 nusu ya juu</item>
+        <item>Ya 11 nusu ya juu</item>
+        <item>Ya 12 nusu ya juu</item>
+    </string-array>
+    <string-array name="qp_bottom_baseball_innings">
+        <item>Ya 1 nusu ya chini</item>
+        <item>Ya 2 nusu ya chini</item>
+        <item>Ya 3 nusu ya chini</item>
+        <item>Ya 4 nusu ya chini</item>
+        <item>Ya 5 nusu ya chini</item>
+        <item>Ya 6 nusu ya chini</item>
+        <item>Ya 7 nusu ya chini</item>
+        <item>Ya 8 nusu ya chini</item>
+        <item>Ya 9 nusu ya chini</item>
+        <item>Ya 10 nusu ya chini</item>
+        <item>Ya 11 nusu ya chini</item>
+        <item>Ya 12 nusu ya chini</item>
+    </string-array>
+    <string-array name="local_results_markers">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+    </string-array>
+    <string-array name="languageNames">
+        <item>Kiafrikana (Afrika Kusini)</item>
+        <item>Kiarabu (Aljeria)</item>
+        <item>Kiarabu (Misri)</item>
+        <item>Kiarabu (Iraki)</item>
+        <item>Kiarabu (Israeli)</item>
+        <item>Kiarabu (Yordani)</item>
+        <item>Kiarabu (Kuwaiti)</item>
+        <item>Kiarabu (Lebanoni)</item>
+        <item>Kiarabu (Libya)</item>
+        <item>Kiarabu (Moroko)</item>
+        <item>Kiarabu (Katari)</item>
+        <item>Kiarabu (Saudia)</item>
+        <item>Kiarabu (Sudani)</item>
+        <item>Kiarabu (Siria)</item>
+        <item>Kiarabu (Tunisia)</item>
+        <item>Kiarabu (Muungano wa Falme za Kiarabu)</item>
+        <item>Kiarabu (Yemeni)</item>
+        <item>Kibelarusi (Belarusi)</item>
+        <item>Kibengali (Bangladeshi)</item>
+        <item>Kibulgaria (Bulgaria)</item>
+        <item>Kikatalani (Hispania)</item>
+        <item>Kichina, Mandarini (Uchina, Kilichorahisishwa)</item>
+        <item>Kichina, Mandarini (Hong Kong, Kilichorahisishwa)</item>
+        <item>Kichina, Kimandarini (Hong Kong, cha Jadi)</item>
+        <item>Kichina, Kimandarini (Singapore, Kilichorahisishwa)</item>
+        <item>Kichina, Mandarini (Taiwani, Kilichorahisishwa)</item>
+        <item>Kichina, Mandarini (Taiwani, cha Jadi)</item>
+        <item>Kichina, Yue (Uchina, Kilichorahisishwa)</item>
+        <item>Kichina, Yue (Hong Kong, cha Jadi)</item>
+        <item>Kikroatia (Kroatia)</item>
+        <item>Kicheki (Jamhuri ya Cheki)</item>
+        <item>Kidani (Denmaki)</item>
+        <item>Kiholanzi (Ubelgiji)</item>
+        <item>Kiholanzi (Uholanzi)</item>
+        <item>Kiingereza (Jumla)</item>
+        <item>Kiingereza (Australia)</item>
+        <item>Kiingereza (Bangiladeshi)</item>
+        <item>Kiingereza (Kanada)</item>
+        <item>Kiingereza (Hong Kong)</item>
+        <item>Kiingereza (India)</item>
+        <item>Kiingereza (Ayalandi)</item>
+        <item>Kiingereza (Kenya)</item>
+        <item>Kiingereza (Malesia)</item>
+        <item>Kiingereza (Nyuzilandi)</item>
+        <item>Kiingereza (Nijeria)</item>
+        <item>Kiingereza (Pakistani)</item>
+        <item>Kiingereza (Filipino)</item>
+        <item>Kiingereza (Singapoo)</item>
+        <item>Kiingereza (Afrika Kusini)</item>
+        <item>Kiingereza (Sudani)</item>
+        <item>Kiingereza (Tanzania)</item>
+        <item>Kiingereza (Uganda)</item>
+        <item>Kiingereza (Uingereza)</item>
+        <item>Kiingereza (Marekani)</item>
+        <item>Kiestonia (Estonia)</item>
+        <item>Kifilipino (Ufilipino)</item>
+        <item>Kifini (Ufini)</item>
+        <item>Kifaransa (Ubelgiji)</item>
+        <item>Kifaransa (Kanada)</item>
+        <item>Kifaransa (Ufaransa)</item>
+        <item>Kifaransa (Uswizi)</item>
+        <item>Kigalisia (Hispania)</item>
+        <item>Kijerumani (Austria)</item>
+        <item>Kijerumani (Ujerumani)</item>
+        <item>Kijerumani (Uswizi)</item>
+        <item>Kijerumani (Lishenteni)</item>
+        <item>Kiigiriki (Ugiriki)</item>
+        <item>Kiyahudi (Israeli)</item>
+        <item>Kihindi (India)</item>
+        <item>Kihungaria (Hungaria)</item>
+        <item>Kiisilandi (Isilandi)</item>
+        <item>Kiindonesia (Indonesia)</item>
+        <item>Kiirishi (Iyalandi)</item>
+        <item>Kiisindebele (Afrika Kusini)</item>
+        <item>Kiisixhosa (Afrika Kusini)</item>
+        <item>Kiisizulu (Afrika Kusini)</item>
+        <item>Kiitaliano (Italia)</item>
+        <item>Kiitaliano (Uswizi)</item>
+        <item>Kijapani (Japani)</item>
+        <item>Kikorea (Korea Kusini)</item>
+        <item>Kilativia (Lativia)</item>
+        <item>Kilithuani (Lithwania)</item>
+        <item>Kimalei (Malesia)</item>
+        <item>Kimalei (Singapore)</item>
+        <item>Bokmål ya Norwe (Norwe)</item>
+        <item>Lugha ya Kinorwe (Norwe)</item>
+        <item>Kiajemi (Irani)</item>
+        <item>Kipoli (Polandi)</item>
+        <item>Kireno (Angola)</item>
+        <item>Kireno (Brazili)</item>
+        <item>Kireno (Ureno)</item>
+        <item>Kirumi (Romania)</item>
+        <item>Kirusi (Belarusi)</item>
+        <item>Kirusi (Urusi)</item>
+        <item>Kisepedi (Afrika Kusini)</item>
+        <item>Kisebia (Sebia, Siriliki)</item>
+        <item>Kisesotho (Afrika Kusini)</item>
+        <item>Kisetswana (Afrika Kusini)</item>
+        <item>Kisiswati (Afrika Kusini)</item>
+        <item>Kislovaki (Slovakia)</item>
+        <item>Kislovenia (Slovenia)</item>
+        <item>Kihispania (Ajentina)</item>
+        <item>Kihispania (Bolivia)</item>
+        <item>Kihispania (Chile)</item>
+        <item>Kihispania (Kolombia)</item>
+        <item>Kihispania (Kostarika)</item>
+        <item>Kihispania (Kuba)</item>
+        <item>Kihispania (Jamhuri ya Dominika)</item>
+        <item>Kihispania (Ekwado)</item>
+        <item>Kihispania (ElSalvado)</item>
+        <item>Kihispania (Guatemala)</item>
+        <item>Kihispania (Hondurasi)</item>
+        <item>Kihispania (Meksiko)</item>
+        <item>Kihispania (Nikaragua)</item>
+        <item>Kihispania (Panama)</item>
+        <item>Kihispania (Paragwai)</item>
+        <item>Kihispania (Peru)</item>
+        <item>Kihispania (Puetoriko)</item>
+        <item>Kihispania (Uhispania)</item>
+        <item>Kihispania (Marekani)</item>
+        <item>Kihispania (Urugwai)</item>
+        <item>Kihispania (Venezuela)</item>
+        <item>Kiswahili (Kenya)</item>
+        <item>Kiswahili (Tanzania)</item>
+        <item>Kiswahili (Uganda)</item>
+        <item>Kiswidi (Ufini)</item>
+        <item>Kiswidi (Uswidi)</item>
+        <item>Kithai (Thailandi)</item>
+        <item>Tshivenda (Afrika Kusini)</item>
+        <item>Kituruki (Uturuki)</item>
+        <item>Kiukraini (Ukraini)</item>
+        <item>Kiurdu (Pakistani)</item>
+        <item>Kivietinamu (Vietinamu)</item>
+        <item>Kisitsonga (Afrika Kusini)</item>
+    </string-array>
+    <string-array name="edit_reminder_day">
+        <item>Leo</item>
+        <item>Kesho</item>
+        <item>Wakati mwingine</item>
+        <item>Weka tarehe...</item>
+    </string-array>
+    <string-array name="edit_reminder_time">
+        <item>Asubuhi</item>
+        <item>Alasiri</item>
+        <item>Jioni</item>
+        <item>Usiku</item>
+        <item>Kutwa</item>
+        <item>Weka muda...</item>
+    </string-array>
+    <string-array name="edit_reminder_location_trigger_type">
+        <item>Wasili</item>
+        <item>Ondoka</item>
+    </string-array>
+    <string-array name="edit_reminder_location">
+        <item>Nyumbani</item>
+        <item>Kazini</item>
+        <item>Weka eneo...</item>
+    </string-array>
+    <string-array name="network_error_tts_messages">
+        <item>Muunganisho huu wa Intaneti hautegemewi kwa sasa.</item>
+        <item>Muunganisho huu wa Intaneti hautegemewi kwa sasa.</item>
+        <item>Muunganisho huu wa Intaneti si imara kwa sasa.</item>
+        <item>Muunganisho huu wa Intaneti si imara kwa sasa.</item>
+        <item>Muunganisho huu wa Intaneti ni dhaifu kwa sasa.</item>
+        <item>Muunganisho huu wa Intaneti ni dhaifu kwa sasa.</item>
+    </string-array>
+    <string-array name="read_it_grammar">
+        <item>soma</item>
+        <item>soma ujumbe</item>
+        <item>soma huo ujumbe</item>
+    </string-array>
+    <string-array name="reply_grammar">
+        <item>jibu</item>
+        <item>tuma jibu</item>
+        <item>tuma jibu</item>
+        <item>tuma jibu la ujumbe wa SMS</item>
+        <item>ujibu</item>
+    </string-array>
+    <string-array name="call_back_grammar">
+        <item>mpigie simu mtumaji wa ujumbe wa mwisho</item>
+        <item>mpigie simu</item>
+        <item>mpigie simu</item>
+        <item>mpigie simu</item>
+        <item>mpigie simu</item>
+    </string-array>
+</resources>

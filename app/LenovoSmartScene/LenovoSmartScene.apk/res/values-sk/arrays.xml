@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sim_name">
+        <item>SIM 1</item>
+        <item>SIM 2</item>
+        <item>Zatvoriť</item>
+    </string-array>
+    <string-array name="week_day">
+        <item>Nedeľa</item>
+        <item>Pondelok</item>
+        <item>Utorok</item>
+        <item>Streda</item>
+        <item>Štvrtok</item>
+        <item>Piatok</item>
+        <item>Sobota</item>
+    </string-array>
+    <string-array name="short_week_day">
+        <item>Ne</item>
+        <item>Po</item>
+        <item>Ut</item>
+        <item>St</item>
+        <item>Št</item>
+        <item>Pi</item>
+        <item>So</item>
+    </string-array>
+</resources>

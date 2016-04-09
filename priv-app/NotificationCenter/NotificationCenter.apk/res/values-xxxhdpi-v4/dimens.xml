@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="only_secure_password_area_bottom">310.0dip</dimen>
+</resources>

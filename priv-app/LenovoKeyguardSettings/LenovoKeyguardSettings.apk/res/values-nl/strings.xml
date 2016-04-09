@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="user_nickname">Bijnaam</string>
+    <string name="show_owner_info_on_lockscreen_label">Eigenaarsgegevens weergeven op vergrendeld scherm</string>
+    <string name="show_profile_info_on_lockscreen_label">Profielinfo weergeven op vergrendelingsscherm</string>
+    <string name="show_user_info_on_lockscreen_label">Gebruikersgegevens weergeven op vergrendeld scherm</string>
+    <string name="lockpassword_confirm_your_pattern_header">Uw patroon bevestigen</string>
+    <string name="security_settings_title">Beveiliging</string>
+    <string name="security_passwords_title">Wachtwoorden</string>
+    <string name="show_password">Wachtwoorden zichtbaar maken</string>
+    <string name="lock_after_timeout">Automatisch vergrendelen</string>
+    <string name="lock_after_timeout_summary">%1$s na slaapstand</string>
+    <string name="lock_after_timeout_summary_with_exception">%1$s na slaapstand, behalve wanneer ontgrendeld gehouden door %2$s</string>
+    <string name="owner_info_settings_title">Eigenaarsgegevens</string>
+    <string name="owner_info_settings_summary" />
+    <string name="owner_info_settings_edit_text_hint">Typ tekst voor weergave op vergrendeld scherm</string>
+    <string name="lock_settings_picker_title">Schermvergr. kiezen</string>
+    <string name="biometric_weak_improve_matching_title">Gezichtsvergelijking verbeteren</string>
+    <string name="biometric_weak_liveliness_title">Liveness-controle</string>
+    <string name="biometric_weak_liveliness_summary">Ogen knipperen vereist bij ontgrendelen</string>
+    <string name="lockpassword_choose_your_password_header">Uw wachtwoord kiezen</string>
+    <string name="lockpassword_choose_your_pattern_header">Uw patroon kiezen</string>
+    <string name="lockpassword_choose_your_pin_header">Uw PIN-code kiezen</string>
+    <string name="lockpassword_confirm_passwords_dont_match">Wachtwoorden komen niet overeen</string>
+    <string name="lockpassword_confirm_pins_dont_match">PIN-codes komen niet overeen</string>
+    <string name="lock_settings_title">Schermbeveiliging</string>
+    <string name="lockpattern_change_lock_pattern_label">Ontgrendelingspatroon wijzigen</string>
+    <string name="lockpattern_change_lock_pin_label">PIN-code voor ontgrendelen wijzigen</string>
+    <string name="lockpattern_need_to_unlock">Opgeslagen patroon bevestigen</string>
+    <string name="lockpattern_need_to_unlock_wrong">Probeer het opnieuw:</string>
+    <string name="lockpattern_recording_intro_header">Teken een ontgrendelingspatroon</string>
+    <string name="lockpattern_recording_intro_footer">"Druk op 'Menu' voor hulp."</string>
+    <string name="lockpattern_recording_inprogress">Haal uw vinger van het scherm als u klaar bent</string>
+    <string name="lockpattern_recording_incorrect_too_short">Verbind minimaal %d punten. Probeer het opnieuw.</string>
+    <string name="lockpattern_pattern_entered_header">Patroon opgenomen</string>
+    <string name="lockpattern_need_to_confirm">Teken patroon nogmaals ter bevestiging</string>
+    <string name="lockpattern_pattern_confirmed_header">Uw nieuwe ontgrendelingspatroon</string>
+    <string name="lockpattern_confirm_button_text">Bevestigen</string>
+    <string name="lockpattern_restart_button_text">Opnieuw tekenen</string>
+    <string name="lockpattern_retry_button_text">Opnieuw proberen</string>
+    <string name="lockpattern_continue_button_text">Doorgaan</string>
+    <string name="lockpattern_settings_title">Ontgrendelingspatroon</string>
+    <string name="lockpattern_settings_enable_title">Patroon vereist</string>
+    <string name="lockpattern_settings_enable_summary">U moet een patroon tekenen om het scherm te ontgrendelen</string>
+    <string name="lockpattern_settings_enable_visible_pattern_title">Patroon zichtbaar maken</string>
+    <string name="lockpattern_settings_enable_tactile_feedback_title">Trillen bij aanraking</string>
+    <string name="lockpattern_settings_enable_power_button_instantly_locks">Aan/uit-knop vergrendelt direct</string>
+    <string name="lockpattern_settings_power_button_instantly_locks_summary">Behalve wanneer ontgrendeld gehouden door %1$s</string>
+    <string name="lockpattern_settings_choose_lock_pattern">Ontgrendelingspatroon instellen</string>
+    <string name="lockpattern_settings_change_lock_pattern">Ontgrendelingspatroon wijzigen</string>
+    <string name="lockpattern_settings_help_how_to_record">U tekent als volgt een ontgrendelingspatroon</string>
+    <string name="lockpattern_too_many_failed_confirmation_attempts_header">Te veel onjuiste pogingen!</string>
+    <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Probeer het over %d seconden opnieuw.</string>
+    <string name="unlock_set_unlock_launch_picker_title">Schermvergrendeling</string>
+    <string name="unlock_set_unlock_launch_picker_change_title">Schermvergr. wijzigen</string>
+    <string name="unlock_set_unlock_launch_picker_change_summary">Beveiliging via patroon, PIN of wachtwoord wijzigen of uitschakelen</string>
+    <string name="unlock_set_unlock_launch_picker_enable_summary">Kies een methode voor schermvergrendeling</string>
+    <string name="unlock_backup_info_summary">Hoe wilt u ontgrendelen als Ontgrendelen via gezichtsherkenning niet mogelijk is?</string>
+    <string name="unlock_set_unlock_off_title">Geen</string>
+    <string name="unlock_set_unlock_off_summary" />
+    <string name="unlock_set_unlock_none_title">Vegen</string>
+    <string name="unlock_set_unlock_none_summary">Geen beveiliging</string>
+    <string name="unlock_set_unlock_biometric_weak_title">Ontgrendelen via gezichtsherkenning</string>
+    <string name="unlock_set_unlock_biometric_weak_summary">Lage beveiliging, experimenteel</string>
+    <string name="unlock_set_unlock_pattern_title">Patroon</string>
+    <string name="unlock_set_unlock_pattern_summary">Gemiddelde beveiliging</string>
+    <string name="unlock_set_unlock_pin_title">PIN</string>
+    <string name="unlock_set_unlock_pin_summary">Gemiddelde tot zware beveiliging</string>
+    <string name="unlock_set_unlock_password_title">Wachtwoord</string>
+    <string name="unlock_set_unlock_password_summary">Zware beveiliging</string>
+    <string name="unlock_set_unlock_disabled_summary">Uitgeschakeld door beheerder, encryptiebeleid of referentieopslag</string>
+    <string name="unlock_set_unlock_mode_off">Geen</string>
+    <string name="unlock_set_unlock_mode_none">Vegen</string>
+    <string name="unlock_set_unlock_mode_biometric_weak">Ontgrendelen via gezichtsherkenning</string>
+    <string name="unlock_set_unlock_mode_pattern">Patroon</string>
+    <string name="unlock_set_unlock_mode_pin">Pincode</string>
+    <string name="unlock_set_unlock_mode_password">Wachtwoord</string>
+    <string name="unlock_disable_lock_title">Schermvergrendeling uitschakelen</string>
+    <string name="unlock_disable_lock_pattern_summary">Ontgrendelingspatroon verwijderen</string>
+    <string name="unlock_disable_lock_pin_summary">PIN-code voor ontgrendelen verwijderen</string>
+    <string name="unlock_disable_lock_password_summary">Ontgrendelingswachtwoord verwijderen</string>
+    <string name="unlock_change_lock_pattern_title">Ontgrendelingspatroon wijzigen</string>
+    <string name="unlock_change_lock_pin_title">PIN-code voor ontgrendelen wijzigen</string>
+    <string name="unlock_change_lock_password_title">Ontgrendelingswachtwoord wijzigen</string>
+    <string name="keywords_lockscreen">vegen wachtwoord patroon pincode</string>
+    <string name="switch_on_text">Aan</string>
+    <string name="switch_off_text">Uit</string>
+    <string name="screen_pinning_title">Een scherm vastzetten</string>
+    <string name="screen_pinning_description">"Wanneer deze instelling wordt ingeschakeld, kunt u het apparaat in een status plaatsen waarbij de weergave van het huidige scherm wordt vastgezet.
+
+U kunt als volgt een scherm vastzetten:
+
+1. Schakel deze instelling in.
+
+2. Open een app.
+
+3. Tik op de knop 'Recent'.
+
+4. Tik op het pictogram 'Vastzetten'."</string>
+    <string name="settings_safetylegal_activity_loading">Laden...</string>
+    <string name="no_applications">Geen apps.</string>
+    <string name="help_label">Help en feedback</string>
+    <string name="lockpassword_ok_label">OK</string>
+    <string name="lockpattern_tutorial_cancel_label">Annuleren</string>
+    <string name="lockpattern_tutorial_continue_label">Volgende</string>
+    <string name="lockpassword_confirm_your_pin_header">Uw PIN-code bevestigen</string>
+    <string name="lockpassword_confirm_your_password_header">Uw wachtwoord bevestigen</string>
+    <string name="cancel">Annuleren</string>
+    <string name="lock_screen_notifications_title">Bij vergrendeld apparaat</string>
+    <string name="lock_screen_notifications_summary_show">Inhoud van alle meldingen weergeven</string>
+    <string name="lock_screen_notifications_summary_hide">Inhoud van gevoelige meldingen verbergen</string>
+    <string name="lock_screen_notifications_summary_disable">Helemaal geen meldingen weergeven</string>
+    <string name="lock_screen_notifications_interstitial_message">Hoe moeten meldingen worden weergegeven wanneer uw apparaat is vergrendeld?</string>
+    <string name="app_notifications_dialog_done">Gereed</string>
+    <string name="lockpassword_cancel_label">Annuleren</string>
+    <string name="lockpassword_password_too_long">Wachtwoord moet korter zijn dan %d tekens.</string>
+    <string name="lockpassword_pin_too_long">Pincode moet korter zijn dan %d cijfers.</string>
+    <string name="lockpassword_password_too_short">Wachtwoord moet ten minste %d tekens lang zijn</string>
+    <string name="lockpassword_pin_too_short">Pincode moet ten minste %d cijfers zijn</string>
+    <string name="lockpassword_press_continue">"Raak 'Doorgaan' aan als u klaar bent"</string>
+    <string name="lockpassword_continue_label">Doorgaan</string>
+    <string name="lockpassword_pin_no_sequential_digits">Een oplopende, aflopende of herhaalde reeks cijfers is niet toegestaan</string>
+    <string name="lockpassword_pin_contains_non_digits">Pincode mag alleen de cijfers 0-9 bevatten.</string>
+    <string name="lockpassword_pin_recently_used">Apparaatbeheerder staat het gebruik van een recente pincode niet toe.</string>
+    <string name="lockpassword_illegal_character">Wachtwoord bevat een ongeldig teken.</string>
+    <string name="lockpassword_password_requires_alpha">Wachtwoord moet ten minste één letter bevatten.</string>
+    <string name="lockpassword_password_requires_digit">Wachtwoord moet ten minste één cijfer bevatten.</string>
+    <string name="lockpassword_password_requires_symbol">Wachtwoord moet ten minste één symbool bevatten.</string>
+    <string name="lockpassword_password_recently_used">Apparaatbeheerder staat het gebruik van een recent wachtwoord niet toe.</string>
+    <string name="backup_lock_settings_picker_title">Back-upvergr. kiezen</string>
+    <string name="profile_info_settings_title">Profielinfo</string>
+    <string name="user_info_settings_title">Gebruikersgegevens</string>
+    <string name="credential_storage_type_hardware">Ondersteund door hardware</string>
+    <string name="credential_storage_type_software">Alleen software</string>
+    <string name="error_title" />
+    <string name="lockpassword_choose_lock_generic_header">Ontgrendelingsmethode selecteren</string>
+</resources>

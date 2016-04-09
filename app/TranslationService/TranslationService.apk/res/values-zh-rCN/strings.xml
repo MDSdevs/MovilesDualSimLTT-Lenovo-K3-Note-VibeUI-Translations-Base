@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="editor_translate_network_traffic_title">欢迎使用翻译服务</string>
+    <string name="editor_translate_network_traffic_content">尊敬的用户，翻译服务在使用过程中需要连接网络。您是否同意？</string>
+    <string name="editor_translate_network_traffic_data_usage_confirm">不再提醒</string>
+    <string name="editor_translate_network_traffic_confirm">同意并继续</string>
+    <string name="editor_translate_network_traffic_exit">退出</string>
+    <string name="editor_popup_menu_translate_pending">翻译中...</string>
+    <string name="editor_popup_menu_network_connect_fail">网络连接失败</string>
+    <string name="editor_popup_menu_retry">重试</string>
+    <string name="editor_popup_menu_pronun_en">英</string>
+    <string name="editor_popup_menu_pronun_am">美</string>
+    <string name="editor_popup_menu_pronun_other">其他</string>
+    <string name="editor_popup_menu_pronun_pinyin">拼音</string>
+    <string name="editor_popup_menu_translate_suggest">"查词建议: "</string>
+    <string name="editor_popup_menu_translate_no_suggest">无</string>
+    <string name="editor_popup_menu_item_translate">翻译</string>
+    <string name="editor_popup_menu_jump_to_translate_app">打开金山词霸查看更多翻译</string>
+    <string name="editor_popup_menu_no_network_permission">应用无联网权限，请点击以下链接到金山词霸查看翻译</string>
+    <string name="editor_translate_action_start_service">com.lenovo.component.translationservice.ACTION_START_SERVICE</string>
+    <string name="selectAll">全选</string>
+    <string name="search_go">搜索</string>
+    <string name="find">查找</string>
+    <string name="copy">复制</string>
+    <string name="cut">剪切</string>
+    <string name="paste">粘贴</string>
+</resources>

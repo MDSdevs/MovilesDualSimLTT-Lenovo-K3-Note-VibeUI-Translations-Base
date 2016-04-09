@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="antithief_main_list_item_Hight">52.0dip</dimen>
+    <dimen name="antithief_main_text_size_normal">16.0dip</dimen>
+</resources>

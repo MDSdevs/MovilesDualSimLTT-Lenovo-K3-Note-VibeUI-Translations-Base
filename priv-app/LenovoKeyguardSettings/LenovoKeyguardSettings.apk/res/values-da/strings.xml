@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="user_nickname">Kaldenavn</string>
+    <string name="show_owner_info_on_lockscreen_label">Vis tekst fra ejer på låseskærm</string>
+    <string name="show_profile_info_on_lockscreen_label">Vis profiloplysninger på låseskærmen</string>
+    <string name="show_user_info_on_lockscreen_label">Vis brugeroplysninger ved låst skærm</string>
+    <string name="lockpassword_confirm_your_pattern_header">Bekræft dit mønster</string>
+    <string name="security_settings_title">Sikkerhed</string>
+    <string name="security_passwords_title">Adgangskoder</string>
+    <string name="show_password">Gør adgangskoder synlige</string>
+    <string name="lock_after_timeout">Lås automatisk</string>
+    <string name="lock_after_timeout_summary">%1$s efter dvale</string>
+    <string name="lock_after_timeout_summary_with_exception">%1$s efter dvale, undtagen når den holdes oplåst af %2$s</string>
+    <string name="owner_info_settings_title">Tekst fra ejer</string>
+    <string name="owner_info_settings_summary" />
+    <string name="owner_info_settings_edit_text_hint">Indtast den tekst, der skal vises på låseskærmen</string>
+    <string name="lock_settings_picker_title">Vælg skærmlås</string>
+    <string name="biometric_weak_improve_matching_title">Gør ansigtsregistreringen bedre</string>
+    <string name="biometric_weak_liveliness_title">Bevægelseskontrol</string>
+    <string name="biometric_weak_liveliness_summary">Kræv et blink med øjnene, når der låses op</string>
+    <string name="lockpassword_choose_your_password_header">Vælg din adgangskode</string>
+    <string name="lockpassword_choose_your_pattern_header">Vælg dit mønster</string>
+    <string name="lockpassword_choose_your_pin_header">Vælg din pinkode</string>
+    <string name="lockpassword_confirm_passwords_dont_match">Adgangskoderne matcher ikke</string>
+    <string name="lockpassword_confirm_pins_dont_match">Pinkoderne matcher ikke</string>
+    <string name="lock_settings_title">Skærmsikkerhed</string>
+    <string name="lockpattern_change_lock_pattern_label">Skift oplåsningsmønster</string>
+    <string name="lockpattern_change_lock_pin_label">Skift pinkode til at låse op</string>
+    <string name="lockpattern_need_to_unlock">Bekræft gemt mønster</string>
+    <string name="lockpattern_need_to_unlock_wrong">Prøv igen:</string>
+    <string name="lockpattern_recording_intro_header">Tegn et oplåsningsmønster</string>
+    <string name="lockpattern_recording_intro_footer">Tryk på Menu for at få hjælp.</string>
+    <string name="lockpattern_recording_inprogress">Slip, når du er færdig</string>
+    <string name="lockpattern_recording_incorrect_too_short">Forbind mindst %d punkter. Prøv igen.</string>
+    <string name="lockpattern_pattern_entered_header">Mønstret blev registreret</string>
+    <string name="lockpattern_need_to_confirm">Tegn mønstret igen for at bekræfte</string>
+    <string name="lockpattern_pattern_confirmed_header">Dit nye oplåsningsmønster</string>
+    <string name="lockpattern_confirm_button_text">Bekræft</string>
+    <string name="lockpattern_restart_button_text">Tegn igen</string>
+    <string name="lockpattern_retry_button_text">Prøv igen</string>
+    <string name="lockpattern_continue_button_text">Fortsæt</string>
+    <string name="lockpattern_settings_title">Oplåsningsmønster</string>
+    <string name="lockpattern_settings_enable_title">Kræv mønster</string>
+    <string name="lockpattern_settings_enable_summary">Du skal tegne et mønster for at låse skærmen op</string>
+    <string name="lockpattern_settings_enable_visible_pattern_title">Gør mønster synligt</string>
+    <string name="lockpattern_settings_enable_tactile_feedback_title">Vibrer ved berøring</string>
+    <string name="lockpattern_settings_enable_power_button_instantly_locks">Afbryderknappen låser straks</string>
+    <string name="lockpattern_settings_power_button_instantly_locks_summary">Undtagen når den holdes oplåst af %1$s</string>
+    <string name="lockpattern_settings_choose_lock_pattern">Angiv oplåsningsmønster</string>
+    <string name="lockpattern_settings_change_lock_pattern">Skift oplåsningsmønster</string>
+    <string name="lockpattern_settings_help_how_to_record">Sådan tegnes et oplåsningsmønster</string>
+    <string name="lockpattern_too_many_failed_confirmation_attempts_header">For mange forkerte forsøg!</string>
+    <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Prøv igen om %d sekunder.</string>
+    <string name="unlock_set_unlock_launch_picker_title">Skærmlås</string>
+    <string name="unlock_set_unlock_launch_picker_change_title">Skift skærmlås</string>
+    <string name="unlock_set_unlock_launch_picker_change_summary">Skift eller deaktiver mønster, pinkode eller adgangskode.</string>
+    <string name="unlock_set_unlock_launch_picker_enable_summary">Vælg en metode til låsning af skærmen</string>
+    <string name="unlock_backup_info_summary">Hvordan vil du låse op, når Ansigtslås ikke kan se dig?</string>
+    <string name="unlock_set_unlock_off_title">Ingen</string>
+    <string name="unlock_set_unlock_off_summary" />
+    <string name="unlock_set_unlock_none_title">Stryg</string>
+    <string name="unlock_set_unlock_none_summary">Ingen sikkerhed</string>
+    <string name="unlock_set_unlock_biometric_weak_title">Ansigtslås</string>
+    <string name="unlock_set_unlock_biometric_weak_summary">Lav sikkerhed, eksperimenterende</string>
+    <string name="unlock_set_unlock_pattern_title">Mønster</string>
+    <string name="unlock_set_unlock_pattern_summary">Mellem sikkerhed</string>
+    <string name="unlock_set_unlock_pin_title">Pinkode</string>
+    <string name="unlock_set_unlock_pin_summary">Medium til høj sikkerhed</string>
+    <string name="unlock_set_unlock_password_title">Adgangskode</string>
+    <string name="unlock_set_unlock_password_summary">Høj sikkerhed</string>
+    <string name="unlock_set_unlock_disabled_summary">Deaktiveret af administrator, kryptering eller loginlager</string>
+    <string name="unlock_set_unlock_mode_off">Ingen</string>
+    <string name="unlock_set_unlock_mode_none">Stryg</string>
+    <string name="unlock_set_unlock_mode_biometric_weak">Ansigtslås</string>
+    <string name="unlock_set_unlock_mode_pattern">Mønster</string>
+    <string name="unlock_set_unlock_mode_pin">Pinkode</string>
+    <string name="unlock_set_unlock_mode_password">Adgangskode</string>
+    <string name="unlock_disable_lock_title">Slå skærmlås fra</string>
+    <string name="unlock_disable_lock_pattern_summary">Fjern mønster til at låse op</string>
+    <string name="unlock_disable_lock_pin_summary">Fjern pinkode til at låse op</string>
+    <string name="unlock_disable_lock_password_summary">Fjern adgangskode til at låse op</string>
+    <string name="unlock_change_lock_pattern_title">Skift mønster til at låse op</string>
+    <string name="unlock_change_lock_pin_title">Skift pinkode til at låse op</string>
+    <string name="unlock_change_lock_password_title">Skift adgangskode til at låse op</string>
+    <string name="keywords_lockscreen">stryg adgangskode mønster pinkode</string>
+    <string name="switch_on_text">Til</string>
+    <string name="switch_off_text">Fra</string>
+    <string name="screen_pinning_title">Bliv i app</string>
+    <string name="screen_pinning_description">"Når denne indstilling er slået til, kan du aktivere en tilstand på enheden, der fastholder visningen af det aktuelle skærmbillede.
+
+Sådan fastgør du et skærmbillede:
+
+1. Slå denne indstilling til.
+
+2. Åbn en app.
+
+3. Tryk på knappen Seneste apps.
+
+4. Tryk på tegnestiften."</string>
+    <string name="settings_safetylegal_activity_loading">Indlæser...</string>
+    <string name="no_applications">Ingen apps.</string>
+    <string name="help_label">Hjælp og feedback</string>
+    <string name="lockpassword_ok_label">OK</string>
+    <string name="lockpattern_tutorial_cancel_label">Annuller</string>
+    <string name="lockpattern_tutorial_continue_label">Næste</string>
+    <string name="lockpassword_confirm_your_pin_header">Bekræft din pinkode</string>
+    <string name="lockpassword_confirm_your_password_header">Bekræft din adgangskode</string>
+    <string name="cancel">Annuller</string>
+    <string name="lock_screen_notifications_title">Når enheden er låst</string>
+    <string name="lock_screen_notifications_summary_show">Vis alt indhold i underretninger</string>
+    <string name="lock_screen_notifications_summary_hide">Skjul følsomt indhold i underretninger</string>
+    <string name="lock_screen_notifications_summary_disable">Vis slet ingen underretninger</string>
+    <string name="lock_screen_notifications_interstitial_message">Hvordan skal underretninger vises, når din enhed er låst?</string>
+    <string name="app_notifications_dialog_done">Udfør</string>
+    <string name="lockpassword_cancel_label">Annuller</string>
+    <string name="lockpassword_password_too_long">Adgangskoden skal være kortere end %d tegn.</string>
+    <string name="lockpassword_pin_too_long">Pinkoden skal være kortere end %d cifre.</string>
+    <string name="lockpassword_password_too_short">Adgangskoden skal være på mindst %d tegn</string>
+    <string name="lockpassword_pin_too_short">Pinkoden skal være på mindst %d tegn</string>
+    <string name="lockpassword_press_continue">Tryk på Fortsæt, når du er færdig</string>
+    <string name="lockpassword_continue_label">Fortsæt</string>
+    <string name="lockpassword_pin_no_sequential_digits">En stigende eller faldende sekvens af cifre og gentagne cifre er ikke tilladt</string>
+    <string name="lockpassword_pin_contains_non_digits">Pinkoden må kun indeholde cifrene 0-9.</string>
+    <string name="lockpassword_pin_recently_used">Enhedens administrator tillader ikke brug af en nylig brugt pinkode.</string>
+    <string name="lockpassword_illegal_character">Adgangskoden indeholder et ulovligt tegn.</string>
+    <string name="lockpassword_password_requires_alpha">Adgangskoden skal indeholde mindst ét bogstav.</string>
+    <string name="lockpassword_password_requires_digit">Adgangskoden skal indeholde mindst ét tal.</string>
+    <string name="lockpassword_password_requires_symbol">Adgangskoden skal indeholde mindst ét symbol.</string>
+    <string name="lockpassword_password_recently_used">Enhedens administrator tillader ikke brug af en nylig brugt adgangskode.</string>
+    <string name="backup_lock_settings_picker_title">Vælg backuplås</string>
+    <string name="profile_info_settings_title">Profiloplysninger</string>
+    <string name="user_info_settings_title">Brugeroplysninger</string>
+    <string name="credential_storage_type_hardware">Hardwarebaseret</string>
+    <string name="credential_storage_type_software">Kun software</string>
+    <string name="error_title" />
+    <string name="lockpassword_choose_lock_generic_header">Vælg oplåsning</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="search_phone_or_tablet">Auf Tablet suchen</string>
+    <string name="corpus_name_summons">Tablet</string>
+    <string name="search_sources">Tablet-Suche</string>
+    <string name="no_summons_found">"Auf deinem Tablet
+wurden keine Ergebnisse gefunden."</string>
+    <string name="hands_free_unlock_device">Um die Google-Sprachsuche zu verwenden, muss das Tablet entsperrt sein.</string>
+    <string name="icing_manage_storage_summary">Die Suche auf deinem Tablet wird durch die Bereitstellung einer Suchmaschine beschleunigt, die deine Apps nutzen können.</string>
+</resources>

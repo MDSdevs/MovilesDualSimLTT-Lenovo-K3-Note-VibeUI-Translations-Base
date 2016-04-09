@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="search_phone_or_tablet">搜索平板电脑</string>
+    <string name="corpus_name_summons">平板电脑</string>
+    <string name="search_sources">平板电脑搜索</string>
+    <string name="no_summons_found">"平板电脑上
+找不到任何结果。"</string>
+    <string name="hands_free_unlock_device">请先解锁您的平板电脑，然后再执行Google语音搜索。</string>
+    <string name="icing_manage_storage_summary">我们为您的应用提供专门的搜索引擎，从而加快您在平板电脑上的搜索速度。</string>
+</resources>

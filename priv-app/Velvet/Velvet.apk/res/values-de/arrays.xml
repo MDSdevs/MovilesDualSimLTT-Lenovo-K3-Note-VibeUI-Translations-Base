@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="recurrence_freq">
+        <item>Täglich</item>
+        <item>Wöchentlich</item>
+        <item>Monatlich</item>
+        <item>Jährlich</item>
+    </string-array>
+    <string-array name="edit_recurrence">
+        <item>Einmalig</item>
+        <item>Täglich</item>
+        <item>Wöchentlich</item>
+        <item>Monatlich</item>
+        <item>Jährlich</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>an jedem ersten Sonntag</item>
+        <item>an jedem zweiten Sonntag</item>
+        <item>an jedem dritten Sonntag</item>
+        <item>an jedem vierten Sonntag</item>
+        <item>an jedem letzten Sonntag</item>
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>an jedem ersten Montag</item>
+        <item>an jedem zweiten Montag</item>
+        <item>an jedem dritten Montag</item>
+        <item>an jedem vierten Montag</item>
+        <item>an jedem letzten Montag</item>
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>an jedem ersten Dienstag</item>
+        <item>an jedem zweiten Dienstag</item>
+        <item>an jedem dritten Dienstag</item>
+        <item>an jedem vierten Dienstag</item>
+        <item>an jedem letzten Dienstag</item>
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>an jedem ersten Mittwoch</item>
+        <item>an jedem zweiten Mittwoch</item>
+        <item>an jedem dritten Mittwoch</item>
+        <item>an jedem vierten Mittwoch</item>
+        <item>an jedem letzten Mittwoch</item>
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>an jedem ersten Donnerstag</item>
+        <item>an jedem zweiten Donnerstag</item>
+        <item>an jedem dritten Donnerstag</item>
+        <item>an jedem vierten Donnerstag</item>
+        <item>an jedem letzten Donnerstag</item>
+    </string-array>
+    <string-array name="repeat_by_nth_fri">
+        <item>an jedem ersten Freitag</item>
+        <item>an jedem zweiten Freitag</item>
+        <item>an jedem dritten Freitag</item>
+        <item>an jedem vierten Freitag</item>
+        <item>an jedem letzten Freitag</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>an jedem ersten Samstag</item>
+        <item>an jedem zweiten Samstag</item>
+        <item>an jedem dritten Samstag</item>
+        <item>an jedem vierten Samstag</item>
+        <item>an jedem letzten Samstag</item>
+    </string-array>
+    <string-array name="baseball_innings">
+        <item>1. Inning</item>
+        <item>2. Inning</item>
+        <item>3. Inning</item>
+        <item>4. Inning</item>
+        <item>5. Inning</item>
+        <item>6. Inning</item>
+        <item>7. Inning</item>
+        <item>8. Inning</item>
+        <item>9. Inning</item>
+        <item>10. Inning</item>
+        <item>11. Inning</item>
+        <item>12. Inning</item>
+    </string-array>
+    <string-array name="qp_top_baseball_innings">
+        <item>Top – 1.</item>
+        <item>Top – 2.</item>
+        <item>Top – 3.</item>
+        <item>Top – 4.</item>
+        <item>Top – 5.</item>
+        <item>Top – 6.</item>
+        <item>Top – 7.</item>
+        <item>Top – 8.</item>
+        <item>Top – 9.</item>
+        <item>Top – 10.</item>
+        <item>Top – 11.</item>
+        <item>Top – 12.</item>
+    </string-array>
+    <string-array name="qp_bottom_baseball_innings">
+        <item>Bot. – 1.</item>
+        <item>Bot. – 2.</item>
+        <item>Bot. – 3.</item>
+        <item>Bot. – 4.</item>
+        <item>Bot. – 5.</item>
+        <item>Bot. – 6.</item>
+        <item>Bot. – 7.</item>
+        <item>Bot. – 8.</item>
+        <item>Bot. – 9.</item>
+        <item>Bot. – 10.</item>
+        <item>Bot. – 11.</item>
+        <item>Bot. – 12.</item>
+    </string-array>
+    <string-array name="local_results_markers">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+    </string-array>
+    <string-array name="languageNames">
+        <item>Afrikaans (Südafrika)</item>
+        <item>Arabisch (Algerien)</item>
+        <item>Arabisch (Ägypten)</item>
+        <item>Arabisch (Irak)</item>
+        <item>Arabisch (Israel)</item>
+        <item>Arabisch (Jordanien)</item>
+        <item>Arabisch (Kuwait)</item>
+        <item>Arabisch (Libanon)</item>
+        <item>Arabisch (Libyen)</item>
+        <item>Arabisch (Marokko)</item>
+        <item>Arabisch (Katar)</item>
+        <item>Arabisch (Saudi-Arabien)</item>
+        <item>Arabisch (Sudan)</item>
+        <item>Arabisch (Syrien)</item>
+        <item>Arabisch (Tunesien)</item>
+        <item>Arabisch (Vereinigte Arabische Emirate)</item>
+        <item>Arabisch (Jemen)</item>
+        <item>Weißrussisch (Weißrussland)</item>
+        <item>Bengalisch (Bangladesch)</item>
+        <item>Bulgarisch (Bulgarien)</item>
+        <item>Katalanisch (Spanien)</item>
+        <item>Chinesisch, Mandarin (China, vereinfacht)</item>
+        <item>Chinesisch, Mandarin (Hongkong, vereinfacht)</item>
+        <item>Chinesisch, Mandarin (Hongkong, traditionell)</item>
+        <item>Chinesisch, Mandarin (Singapur, vereinfacht)</item>
+        <item>Chinesisch, Mandarin (Taiwan, vereinfacht)</item>
+        <item>Chinesisch, Mandarin (Taiwan, traditionell)</item>
+        <item>Chinesisch, Kantonesisch (China, vereinfacht)</item>
+        <item>Chinesisch, Kantonesisch (Hongkong, traditionell)</item>
+        <item>Kroatisch (Kroatien)</item>
+        <item>Tschechisch (Tschechische Republik)</item>
+        <item>Dänisch (Dänemark)</item>
+        <item>Niederländisch (Belgien)</item>
+        <item>Niederländisch (Niederlande)</item>
+        <item>Englisch (allgemein)</item>
+        <item>Englisch (Australien)</item>
+        <item>Englisch (Bangladesch)</item>
+        <item>Englisch (Kanada)</item>
+        <item>Englisch (Hongkong)</item>
+        <item>Englisch (Indien)</item>
+        <item>Englisch (Irland)</item>
+        <item>Englisch (Kenia)</item>
+        <item>Englisch (Malaysia)</item>
+        <item>Englisch (Neuseeland)</item>
+        <item>Englisch (Nigeria)</item>
+        <item>Englisch (Pakistan)</item>
+        <item>Englisch (Philippinen)</item>
+        <item>Englisch (Singapur)</item>
+        <item>Englisch (Südafrika)</item>
+        <item>Englisch (Sudan)</item>
+        <item>Englisch (Tansania)</item>
+        <item>Englisch (Uganda)</item>
+        <item>Englisch (Vereinigtes Königreich)</item>
+        <item>Englisch (USA)</item>
+        <item>Estnisch (Estland)</item>
+        <item>Filipino (Philippinen)</item>
+        <item>Finnisch (Finnland)</item>
+        <item>Französisch (Belgien)</item>
+        <item>Französisch (Kanada)</item>
+        <item>Französisch (Frankreich)</item>
+        <item>Französisch (Schweiz)</item>
+        <item>Galizisch (Spanien)</item>
+        <item>Deutsch (Österreich)</item>
+        <item>Deutsch (Deutschland)</item>
+        <item>Deutsch (Schweiz)</item>
+        <item>Deutsch (Liechtenstein)</item>
+        <item>Griechisch (Griechenland)</item>
+        <item>Hebräisch (Israel)</item>
+        <item>Hindi (Indien)</item>
+        <item>Ungarisch (Ungarn)</item>
+        <item>Isländisch (Island)</item>
+        <item>Indonesisch (Indonesien)</item>
+        <item>Irisch (Irland)</item>
+        <item>isiNdebele (Südafrika)</item>
+        <item>isiXhosa (Südafrika)</item>
+        <item>isiZulu (Südafrika)</item>
+        <item>Italienisch (Italien)</item>
+        <item>Italienisch (Schweiz)</item>
+        <item>Japanisch (Japan)</item>
+        <item>Koreanisch (Südkorea)</item>
+        <item>Lettisch (Lettland)</item>
+        <item>Litauisch (Litauen)</item>
+        <item>Malaiisch (Malaysia)</item>
+        <item>Malaiisch (Singapur)</item>
+        <item>Norwegisch, Bokmål (Norwegen)</item>
+        <item>Norwegisch, Nynorsk (Norwegen)</item>
+        <item>Persisch (Iran)</item>
+        <item>Polnisch (Polen)</item>
+        <item>Portugiesisch (Angola)</item>
+        <item>Portugiesisch (Brasilien)</item>
+        <item>Portugiesisch (Portugal)</item>
+        <item>Rumänisch (Rumänien)</item>
+        <item>Russisch (Weißrussland)</item>
+        <item>Russisch (Russland)</item>
+        <item>Sepedi (Südafrika)</item>
+        <item>Serbisch (Serbien, kyrillisch)</item>
+        <item>Sesotho (Südafrika)</item>
+        <item>Setswana (Südafrika)</item>
+        <item>siSwati (Südafrika)</item>
+        <item>Slowakisch (Slowakei)</item>
+        <item>Slowenisch (Slowenien)</item>
+        <item>Spanisch (Argentinien)</item>
+        <item>Spanisch (Bolivien)</item>
+        <item>Spanisch (Chile)</item>
+        <item>Spanisch (Kolumbien)</item>
+        <item>Spanisch (Costa Rica)</item>
+        <item>Spanisch (Kuba)</item>
+        <item>Spanisch (Dominikanische Republik)</item>
+        <item>Spanisch (Ecuador)</item>
+        <item>Spanisch (El Salvador)</item>
+        <item>Spanisch (Guatemala)</item>
+        <item>Spanisch (Honduras)</item>
+        <item>Spanisch (Mexiko)</item>
+        <item>Spanisch (Nicaragua)</item>
+        <item>Spanisch (Panama)</item>
+        <item>Spanisch (Paraguay)</item>
+        <item>Spanisch (Peru)</item>
+        <item>Spanisch (Puerto Rico)</item>
+        <item>Spanisch (Spanien)</item>
+        <item>Spanisch (USA)</item>
+        <item>Spanisch (Uruguay)</item>
+        <item>Spanisch (Venezuela)</item>
+        <item>Suaheli (Kenia)</item>
+        <item>Suaheli (Tansania)</item>
+        <item>Suaheli (Uganda)</item>
+        <item>Schwedisch (Finnland)</item>
+        <item>Schwedisch (Schweden)</item>
+        <item>Thailändisch (Thailand)</item>
+        <item>Tshivenda (Südafrika)</item>
+        <item>Türkisch (Türkei)</item>
+        <item>Ukrainisch (Ukraine)</item>
+        <item>Urdu (Pakistan)</item>
+        <item>Vietnamesisch (Vietnam)</item>
+        <item>Xitsonga (Südafrika)</item>
+    </string-array>
+    <string-array name="edit_reminder_day">
+        <item>Heute</item>
+        <item>Morgen</item>
+        <item>Gelegentlich</item>
+        <item>Datum festlegen...</item>
+    </string-array>
+    <string-array name="edit_reminder_time">
+        <item>Morgens</item>
+        <item>Nachmittags</item>
+        <item>Abends</item>
+        <item>Nachts</item>
+        <item>Ganztägig</item>
+        <item>Uhrzeit festlegen…</item>
+    </string-array>
+    <string-array name="edit_reminder_location_trigger_type">
+        <item>Bei Ankunft</item>
+        <item>Bei Verlassen</item>
+    </string-array>
+    <string-array name="edit_reminder_location">
+        <item>Zu Hause</item>
+        <item>Arbeit</item>
+        <item>Standort festlegen…</item>
+    </string-array>
+    <string-array name="network_error_tts_messages">
+        <item>Diese Internetverbindung ist derzeit nicht zuverlässig.</item>
+        <item>Diese Internetverbindung ist im Moment nicht zuverlässig.</item>
+        <item>Diese Internetverbindung ist derzeit nicht stabil.</item>
+        <item>Diese Internetverbindung ist im Moment nicht stabil.</item>
+        <item>Diese Internetverbindung ist derzeit nicht stark genug.</item>
+        <item>Diese Internetverbindung ist im Moment nicht stark genug.</item>
+    </string-array>
+    <string-array name="read_it_grammar">
+        <item>SMS lesen</item>
+        <item>Nachricht lesen</item>
+        <item>SMS lesen</item>
+    </string-array>
+    <string-array name="reply_grammar">
+        <item>Antworten</item>
+        <item>Antwort senden</item>
+        <item>Antwort senden</item>
+        <item>Auf SMS antworten</item>
+        <item>Darauf antworten</item>
+    </string-array>
+    <string-array name="call_back_grammar">
+        <item>Absender der letzten Nachricht zurückrufen</item>
+        <item>Ihn anrufen</item>
+        <item>Ihn zurückrufen</item>
+        <item>Sie anrufen</item>
+        <item>Sie zurückrufen</item>
+    </string-array>
+</resources>

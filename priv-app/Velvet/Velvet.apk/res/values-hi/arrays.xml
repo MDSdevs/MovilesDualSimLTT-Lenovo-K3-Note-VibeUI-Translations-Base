@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="recurrence_freq">
+        <item>प्रतिदिन दोहराएं</item>
+        <item>साप्ताहिक रूप से दोहराएं</item>
+        <item>मासिक रूप से दोहराएं</item>
+        <item>वार्षिक रूप से दोहराएं</item>
+    </string-array>
+    <string-array name="edit_recurrence">
+        <item>दोहराया नहीं जाता</item>
+        <item>प्रत्येक दिन</item>
+        <item>प्रत्येक सप्ताह</item>
+        <item>प्रत्येक महीने</item>
+        <item>प्रत्येक वर्ष</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>प्रत्येक पहले रविवार को</item>
+        <item>प्रत्येक दूसरे रविवार को</item>
+        <item>प्रत्येक तीसरे रविवार को</item>
+        <item>प्रत्येक चौथे रविवार को</item>
+        <item>प्रत्येक अंतिम रविवार को</item>
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>प्रत्येक पहले सोमवार को</item>
+        <item>प्रत्येक दूसरे सोमवार को</item>
+        <item>प्रत्येक तीसरे सोमवार को</item>
+        <item>प्रत्येक चौथे सोमवार को</item>
+        <item>प्रत्येक अंतिम सोमवार को</item>
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>प्रत्येक पहले मंगलवार को</item>
+        <item>प्रत्येक दूसरे मंगलवार को</item>
+        <item>प्रत्येक तीसरे मंगलवार को</item>
+        <item>प्रत्येक चौथे मंगलवार को</item>
+        <item>प्रत्येक अंतिम मंगलवार को</item>
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>प्रत्येक पहले बुधवार को</item>
+        <item>प्रत्येक दूसरे बुधवार को</item>
+        <item>प्रत्येक तीसरे बुधवार को</item>
+        <item>प्रत्येक चौथे बुधवार को</item>
+        <item>प्रत्येक अंतिम बुधवार को</item>
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>प्रत्येक पहले गुरुवार को</item>
+        <item>प्रत्येक दूसरे गुरुवार को</item>
+        <item>प्रत्येक तीसरे गुरुवार को</item>
+        <item>प्रत्येक चौथे गुरुवार को</item>
+        <item>प्रत्येक अंतिम गुरुवार को</item>
+    </string-array>
+    <string-array name="repeat_by_nth_fri">
+        <item>प्रत्येक पहले शुक्रवार को</item>
+        <item>प्रत्येक दूसरे शुक्रवार को</item>
+        <item>प्रत्येक तीसरे शुक्रवार को</item>
+        <item>प्रत्येक चौथे शुक्रवार को</item>
+        <item>प्रत्येक अंतिम शुक्रवार को</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>प्रत्येक पहले शनिवार को</item>
+        <item>प्रत्येक दूसरे शनिवार को</item>
+        <item>प्रत्येक तीसरे शनिवार को</item>
+        <item>प्रत्येक चौथे शनिवार को</item>
+        <item>प्रत्येक अंतिम शनिवार को</item>
+    </string-array>
+    <string-array name="baseball_innings">
+        <item>पहली इनिंग</item>
+        <item>दूसरी इनिंग</item>
+        <item>तीसरी इनिंग</item>
+        <item>चौथी इनिंग</item>
+        <item>पांचवीं इनिंग</item>
+        <item>छठी इनिंग</item>
+        <item>सातवीं इनिंग</item>
+        <item>आठवीं इनिंग</item>
+        <item>नवीं इनिंग</item>
+        <item>दसवीं इनिंग</item>
+        <item>ग्यारहवीं इनिंग</item>
+        <item>बारहवीं इनिंग</item>
+    </string-array>
+    <string-array name="qp_top_baseball_innings">
+        <item>टॉप 1 ला</item>
+        <item>टॉप 2 रा</item>
+        <item>टॉप 3 रा</item>
+        <item>टॉप 4 था</item>
+        <item>टॉप 5 वां</item>
+        <item>टॉप 6 ठा</item>
+        <item>टॉप 7 वां</item>
+        <item>टॉप 8 वां</item>
+        <item>टॉप 9 वां</item>
+        <item>टॉप 10 वां</item>
+        <item>टॉप 11 वां</item>
+        <item>टॉप 12 वां</item>
+    </string-array>
+    <string-array name="qp_bottom_baseball_innings">
+        <item>बॉटम 1 ला</item>
+        <item>बॉटम 2 रा</item>
+        <item>बॉटम 3 रा</item>
+        <item>बॉटम 4 था</item>
+        <item>बॉटम 5 वां</item>
+        <item>बॉटम 6 ठा</item>
+        <item>बॉटम 7 वां</item>
+        <item>बॉटम 8 वां</item>
+        <item>बॉटम 9 वां</item>
+        <item>बॉटम 10 वां</item>
+        <item>बॉटम 11 वां</item>
+        <item>बॉटम 12 वां</item>
+    </string-array>
+    <string-array name="local_results_markers">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+    </string-array>
+    <string-array name="languageNames">
+        <item>अफ़्रीकान्स (दक्षिण अफ़्रीका)</item>
+        <item>अरबी (अल्जीरिया)</item>
+        <item>अरबी (मिस्र)</item>
+        <item>अरबी (इराक)</item>
+        <item>अरबी (इज़राइल)</item>
+        <item>अरबी (जॉर्डन)</item>
+        <item>अरबी (कुवैत)</item>
+        <item>अरबी (लेबनान)</item>
+        <item>अरबी (लीबिया)</item>
+        <item>अरबी (मोरक्को)</item>
+        <item>अरबी (कतर)</item>
+        <item>अरबी (सऊदी अरब)</item>
+        <item>अरबी (सूडान)</item>
+        <item>अरबी (सीरिया)</item>
+        <item>अरबी (ट्यूनिशिया)</item>
+        <item>अरबी (संयुक्त अरब अमीरात)</item>
+        <item>अरबी (यमन)</item>
+        <item>बेलारूसी (बेलारूस)</item>
+        <item>बांग्ला (बांग्लादेश)</item>
+        <item>बुल्गारियाई (बुल्गारिया)</item>
+        <item>कातलान (स्पेन)</item>
+        <item>चीनी, मंडारिन (चीन, सरलीकृत)</item>
+        <item>चीनी मंडारिन, (हांग कांग, सरलीकृत)</item>
+        <item>चीनी, मंडारिन, (हांग कांग, पारंपरिक)</item>
+        <item>चीनी, मंडारिन (सिंगापुर, सरलीकृत)</item>
+        <item>चीनी, मंडारिन (ताइवान, सरलीकृत)</item>
+        <item>चीनी, मंडारिन (ताइवान, पारंपरिक)</item>
+        <item>चीनी, यू (चीन, सरलीकृत)</item>
+        <item>चीनी, यू (हांग कांग, पारंपरिक)</item>
+        <item>क्रोएशियाई (क्रोएशिया)</item>
+        <item>चेक (चेक गणराज्य)</item>
+        <item>डेनिश (डेनमार्क)</item>
+        <item>डच (बेल्जियम)</item>
+        <item>डच (नीदरलैंड्स)</item>
+        <item>अंग्रेज़ी (सामान्य)</item>
+        <item>अंग्रेज़ी (ऑस्ट्रेलिया)</item>
+        <item>अंग्रेज़ी (बांग्लादेश)</item>
+        <item>अंग्रेज़ी (कनाडा)</item>
+        <item>अंग्रेज़ी (हांगकांग)</item>
+        <item>अंग्रेज़ी (भारत)</item>
+        <item>अंग्रेज़ी (आयरलैंड)</item>
+        <item>अंग्रेज़ी (केन्या)</item>
+        <item>अंग्रेज़ी (मलेशिया)</item>
+        <item>अंग्रेज़ी (न्यूजीलैंड)</item>
+        <item>अंग्रेज़ी (नाइजीरिया)</item>
+        <item>अंग्रेज़ी (पाकिस्तान)</item>
+        <item>अंग्रेज़ी (फिलिपींस)</item>
+        <item>अंग्रेज़ी (सिंगापुर)</item>
+        <item>अंग्रेज़ी (दक्षिण अफ़्रीका)</item>
+        <item>अंग्रेज़ी (सूडान)</item>
+        <item>अंग्रेज़ी (तंज़ानिया)</item>
+        <item>अंग्रेज़ी (युगांडा)</item>
+        <item>अंग्रेज़ी (यूके)</item>
+        <item>अंग्रेज़ी (यूएस)</item>
+        <item>एस्टोनियाई (एस्टोनिया)</item>
+        <item>फ़िलिपिनो (फ़िलिपींस)</item>
+        <item>फ़िनिश (फ़िनलैंड)</item>
+        <item>फ़्रांसीसी (बेल्जियम)</item>
+        <item>फ़्रांसीसी (कनाडा)</item>
+        <item>फ़्रांसीसी (फ़्रांस)</item>
+        <item>फ़्रांसीसी (स्विट्ज़रलैंड)</item>
+        <item>गैलिशियाई (स्पेन)</item>
+        <item>जर्मन (ऑस्‍ट्रिया)</item>
+        <item>जर्मन (जर्मनी)</item>
+        <item>जर्मन (स्विट्ज़रलैंड)</item>
+        <item>जर्मन (लिकटेंस्टाइन)</item>
+        <item>यूनानी (यूनान)</item>
+        <item>हिब्रू (इज़राइल)</item>
+        <item>हिन्दी (भारत)</item>
+        <item>हंगेरियाई (हंगरी)</item>
+        <item>आइसलैंडिक (आइसलैंड)</item>
+        <item>इंडोनेशियाई (इंडोनेशिया)</item>
+        <item>आयरिश (आयरलैंड)</item>
+        <item>इसिंडिबेले (दक्षिण अफ़्रीका)</item>
+        <item>इसिज़ोसा (दक्षिण अफ़्रीका)</item>
+        <item>इसिज़ूलू (दक्षिण अफ़्रीका)</item>
+        <item>इतालवी (इटली)</item>
+        <item>इतालवी (स्विट्ज़रलैंड)</item>
+        <item>जापानी (जापान)</item>
+        <item>कोरियाई (दक्षिण कोरिया)</item>
+        <item>लातवियाई (लातविया)</item>
+        <item>लिथुआनियाई (लिथुआनिया)</item>
+        <item>मलय (मलेशिया)</item>
+        <item>मलय (सिंगापुर)</item>
+        <item>नॉर्वेजियाई बुकमॉल (नॉर्वे)</item>
+        <item>नार्वेजियाई नीनॉर्स्क (नॉर्वे)</item>
+        <item>फ़ारसी (ईरान)</item>
+        <item>पोलिश (पोलैंड)</item>
+        <item>पुर्तगाली (अंगोला)</item>
+        <item>पुर्तगाली (ब्राज़ील)</item>
+        <item>पुर्तगाली (पुर्तगाल)</item>
+        <item>रोमानियाई (रोमानिया)</item>
+        <item>रूसी (बेलारूस)</item>
+        <item>रूसी (रूस)</item>
+        <item>सेपेडी (दक्षिण अफ़्रीका)</item>
+        <item>सर्बियाई (सर्बिया, सिरिलिक)</item>
+        <item>सेसोथो (दक्षिण अफ़्रीका)</item>
+        <item>सेत्सवाना (दक्षिण अफ़्रीका)</item>
+        <item>सिस्वाती (दक्षिण अफ़्रीका)</item>
+        <item>स्लोवाक (स्लोवाकिया)</item>
+        <item>स्लोवेनियाई (स्लोवेनिया)</item>
+        <item>स्पेनिश (अर्जेंटीना)</item>
+        <item>स्पेनिश (बोलीविया)</item>
+        <item>स्पेनिश (चिली)</item>
+        <item>स्पेनिश (कोलंबिया)</item>
+        <item>स्पेनिश (कोस्टा रिका)</item>
+        <item>स्पेनिश (क्यूबा)</item>
+        <item>स्पेनिश (डोमिनिकन गणराज्य)</item>
+        <item>स्पेनिश (इक्वाडोर)</item>
+        <item>स्पेनिश (अल सल्वाडोर)</item>
+        <item>स्पेनिश (ग्वाटेमाला)</item>
+        <item>स्‍पेनिश (होंडुरास)</item>
+        <item>स्पेनिश (मेक्सिको)</item>
+        <item>स्पेनिश (निकारागुआ)</item>
+        <item>स्पेनिश (पनामा)</item>
+        <item>स्पेनिश (पराग्वे)</item>
+        <item>स्पेनिश (पेरू)</item>
+        <item>स्‍पेनिश (प्‍योर्टो ‍रिको)</item>
+        <item>स्पेनिश (स्पेन)</item>
+        <item>स्पे‍निश (यूएस)</item>
+        <item>स्पेनिश (उरुग्वे)</item>
+        <item>स्पेनिश (वेनेजुएला)</item>
+        <item>स्वाहिली (केन्या)</item>
+        <item>स्वाहिली (तंज़ानिया)</item>
+        <item>स्वाहिली (युगांडा)</item>
+        <item>स्वीडिश (फ़िनलैंड)</item>
+        <item>स्वीडिश (स्वीडन)</item>
+        <item>थाई (थाईलैंड)</item>
+        <item>शिवेंडा (दक्षिण अफ़्रीका)</item>
+        <item>तुर्की (तुर्की)</item>
+        <item>यूक्रेनियाई (यूक्रेन)</item>
+        <item>उर्दू (पाकिस्तान)</item>
+        <item>वियतनामी (वियतनाम)</item>
+        <item>ज़ित्सोंगा (दक्षिण अफ़्रीका)</item>
+    </string-array>
+    <string-array name="edit_reminder_day">
+        <item>आज</item>
+        <item>कल</item>
+        <item>कभी-कभी</item>
+        <item>दिनांक सेट करें…</item>
+    </string-array>
+    <string-array name="edit_reminder_time">
+        <item>सुबह</item>
+        <item>दोपहर</item>
+        <item>शाम</item>
+        <item>रात</item>
+        <item>दिनभर</item>
+        <item>समय सेट करें…</item>
+    </string-array>
+    <string-array name="edit_reminder_location_trigger_type">
+        <item>आगमन</item>
+        <item>प्रस्थान</item>
+    </string-array>
+    <string-array name="edit_reminder_location">
+        <item>घर</item>
+        <item>कार्यालय</item>
+        <item>स्थान सेट करें…</item>
+    </string-array>
+    <string-array name="network_error_tts_messages">
+        <item>यह इंटरनेट कनेक्शन अभी विश्वसनीय नहीं है.</item>
+        <item>यह इंटरनेट कनेक्शन इस समय विश्वसनीय नहीं है.</item>
+        <item>यह इंटरनेट कनेक्शन अभी स्थिर नहीं है.</item>
+        <item>यह इंटरनेट कनेक्शन इस समय स्थिर नहीं है.</item>
+        <item>यह इंटरनेट कनेक्शन अभी पर्याप्त प्रबल नहीं है.</item>
+        <item>यह इंटरनेट कनेक्शन इस समय पर्याप्त प्रबल नहीं है.</item>
+    </string-array>
+    <string-array name="read_it_grammar">
+        <item>उसे पढें</item>
+        <item>संदेश पढ़ें</item>
+        <item>वह पाठ पढ़ें</item>
+    </string-array>
+    <string-array name="reply_grammar">
+        <item>जवाब दें</item>
+        <item>जवाब भेजें</item>
+        <item>जवाब भेजें</item>
+        <item>लेख संदेश का जवाब दें</item>
+        <item>उसका जवाब भेजें</item>
+    </string-array>
+    <string-array name="call_back_grammar">
+        <item>पिछले संदेश के प्रेषक को वापस कॉल करें</item>
+        <item>उसे कॉल करें</item>
+        <item>उसे वापस कॉल करें</item>
+        <item>उसे कॉल करें</item>
+        <item>उसे वापस कॉल करें</item>
+    </string-array>
+</resources>

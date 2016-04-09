@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">%1$d hautatuta</item>
+        <item quantity="zero">%1$d hautatuta</item>
+        <item quantity="one">%1$d hautatuta</item>
+    </plurals>
+    <plurals name="recurrence_end_count">
+        <item quantity="other">%d gertaeratan</item>
+        <item quantity="one">%d gertaeratan</item>
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+        <item quantity="other">%d egunez behin</item>
+        <item quantity="one">%d egunez behin</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+        <item quantity="other">%d astez behin</item>
+        <item quantity="one">%d astez behin</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+        <item quantity="other">%d hilabetez behin</item>
+        <item quantity="one">%d hilabetez behin</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+        <item quantity="other">%d urtez behin</item>
+        <item quantity="one">%d urtez behin</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item quantity="other">; %d aldiz</item>
+        <item quantity="one">; behin</item>
+    </plurals>
+    <plurals name="daily">
+        <item quantity="other">%d egunez behin</item>
+        <item quantity="one">Egunero</item>
+        <item quantity="two">%d egunez behin</item>
+        <item quantity="few">%d egunez behin</item>
+        <item quantity="many">%d egunez behin</item>
+    </plurals>
+    <plurals name="daily_lower">
+        <item quantity="other">%d egunez behin</item>
+        <item quantity="one">egunero</item>
+        <item quantity="two">%d egunez behin</item>
+        <item quantity="few">%d egunez behin</item>
+        <item quantity="many">%d egunez behin</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="other">%1$d astez behin, egun honetan: %2$s</item>
+        <item quantity="one">Astero, egun honetan: %2$s</item>
+        <item quantity="two">%1$d astez behin, egun honetan: %2$s</item>
+        <item quantity="few">%1$d astez behin, egun honetan: %2$s</item>
+        <item quantity="many">%1$d astez behin, egun honetan: %2$s</item>
+    </plurals>
+    <plurals name="weekly_lower">
+        <item quantity="other">%1$d astez behin, egun honetan: %2$s</item>
+        <item quantity="one">astero, egun honetan: %2$s</item>
+        <item quantity="two">%1$d astez behin, egun honetan: %2$s</item>
+        <item quantity="few">%1$d astez behin, egun honetan: %2$s</item>
+        <item quantity="many">%1$d astez behin, egun honetan: %2$s</item>
+    </plurals>
+    <plurals name="monthly_interval">
+        <item quantity="other">%1$d hilabetez behin</item>
+        <item quantity="one">Hilero</item>
+        <item quantity="two">%1$d hilabetez behin</item>
+        <item quantity="few">%1$d hilabetez behin</item>
+        <item quantity="many">%1$d hilabetez behin</item>
+    </plurals>
+    <plurals name="monthly_interval_lower">
+        <item quantity="other">%1$d hilabetez behin</item>
+        <item quantity="one">hilero</item>
+        <item quantity="two">%1$d hilabetez behin</item>
+        <item quantity="few">%1$d hilabetez behin</item>
+        <item quantity="many">%1$d hilabetez behin</item>
+    </plurals>
+    <plurals name="yearly_interval_plain">
+        <item quantity="other">%1$d urtez behin</item>
+        <item quantity="one">Urtero</item>
+        <item quantity="two">%1$d urtez behin</item>
+        <item quantity="few">%1$d urtez behin</item>
+        <item quantity="many">%1$d urtez behin</item>
+    </plurals>
+    <plurals name="yearly_interval_lower">
+        <item quantity="other">%1$d urtez behin</item>
+        <item quantity="one">urtero</item>
+        <item quantity="two">%1$d urtez behin</item>
+        <item quantity="few">%1$d urtez behin</item>
+        <item quantity="many">%1$d urtez behin</item>
+    </plurals>
+    <plurals name="duration_in_hours">
+        <item quantity="other">%1$d ordu</item>
+        <item quantity="one">%1$d ordu</item>
+    </plurals>
+    <plurals name="duration_in_hours_short">
+        <item quantity="other">%1$d ordu</item>
+        <item quantity="one">%1$d ordu</item>
+    </plurals>
+    <plurals name="duration_in_minutes">
+        <item quantity="other">%1$d minutu</item>
+        <item quantity="one">%1$d minutu</item>
+    </plurals>
+    <plurals name="duration_in_minutes_short">
+        <item quantity="other">%1$d minutu</item>
+        <item quantity="one">%1$d minutu</item>
+    </plurals>
+    <plurals name="duration_in_days">
+        <item quantity="other">%1$d egun</item>
+        <item quantity="one">%1$d egun</item>
+    </plurals>
+    <plurals name="duration_in_days_short">
+        <item quantity="other">%1$d egun</item>
+        <item quantity="one">%1$d egun</item>
+    </plurals>
+    <plurals name="duration_in_months">
+        <item quantity="other">%1$d hilabete</item>
+        <item quantity="one">%1$d hilabete</item>
+    </plurals>
+    <plurals name="duration_in_months_short">
+        <item quantity="other">%1$d hilabete</item>
+        <item quantity="one">%1$d hilabete</item>
+    </plurals>
+    <plurals name="duration_in_years">
+        <item quantity="other">%1$d urte</item>
+        <item quantity="one">%1$d urte</item>
+    </plurals>
+    <plurals name="duration_in_years_short">
+        <item quantity="other">%1$d urte</item>
+        <item quantity="one">%1$d urte</item>
+    </plurals>
+    <plurals name="items_from_without_colon">
+        <item quantity="other">Hemengo %1$d elementu:</item>
+        <item quantity="one">Hemengo %1$d elementu:</item>
+    </plurals>
+    <plurals name="last_bus_home_departure_time">
+        <item quantity="other">Etxera itzultzeko azken autobusa %2$s%1$d minutu%3$s barru da</item>
+        <item quantity="one">Etxera itzultzeko azken autobusa %2$s%1$d minutu%3$s barru da</item>
+    </plurals>
+    <plurals name="last_bus_to_hotel_departure_time">
+        <item quantity="other">Hotelera itzultzeko azken autobusa %2$s%1$d minutu%3$s barru da</item>
+        <item quantity="one">Hotelera itzultzeko azken autobusa %2$s%1$d minutu%3$s barru da</item>
+    </plurals>
+    <plurals name="last_train_home_departure_time">
+        <item quantity="other">Etxera joateko azken trena %2$s%1$d minutu%3$s barru da</item>
+        <item quantity="one">Etxera joateko azken trena %2$sminutu bat%3$s barru da</item>
+    </plurals>
+    <plurals name="last_train_to_hotel_departure_time">
+        <item quantity="other">Hotelera joateko azken trena %2$s%1$d minutu%3$s barru da</item>
+        <item quantity="one">Hotelera joateko azken trena %2$sminutu bat%3$s barru da</item>
+    </plurals>
+    <plurals name="last_transit_home_departure_time">
+        <item quantity="other">Etxera itzultzeko azken garraio-aukera %2$s%1$d minutu%3$s barru da</item>
+        <item quantity="one">Etxera itzultzeko azken garraio-aukera %2$s%1$d minutu%3$s barru da</item>
+    </plurals>
+    <plurals name="last_transit_to_hotel_departure_time">
+        <item quantity="other">Hotelera itzultzeko azken garraio-aukera %2$s%1$d minutu%3$s barru da</item>
+        <item quantity="one">Hotelera itzultzeko azken garraio-aukera %2$s%1$d minutu%3$s barru da</item>
+    </plurals>
+    <plurals name="transit_next_line_departure_subtext_no_platform">
+        <item quantity="other">Egin oinez %1$d minutu %2$s geltokiraino</item>
+        <item quantity="one">Egin oinez minutu bat %2$s geltokiraino</item>
+    </plurals>
+    <plurals name="minutes_delay">
+        <item quantity="other">%1$d minutuko atzerapena</item>
+        <item quantity="one">Minutu bateko atzerapena</item>
+    </plurals>
+    <plurals name="minutes_delay_more_than_usual">
+        <item quantity="other">Ohikoa baino %1$d min gehiago</item>
+        <item quantity="one">Ohikoa baino 1 min gehiago</item>
+    </plurals>
+    <plurals name="minutes_delay_less_than_usual">
+        <item quantity="other">Ohikoa baino %1$d min gehiago</item>
+        <item quantity="one">Ohikoa baino 1 min gehiago</item>
+    </plurals>
+    <plurals name="usual_traffic_minutes_delay">
+        <item quantity="other">Ohiko trafikoa: %1$d min atzerapena</item>
+        <item quantity="one">Ohiko trafikoa: 1 min atzerapena</item>
+    </plurals>
+    <plurals name="num_min_late">
+        <item quantity="other">%1$d minutuko atzerapena</item>
+        <item quantity="one">Minutu bateko atzerapena</item>
+    </plurals>
+    <plurals name="num_min_early">
+        <item quantity="other">%1$d minutuko aurrerapena</item>
+        <item quantity="one">Minutu bateko aurrerapena</item>
+    </plurals>
+    <plurals name="transit_interval_in_minutes">
+        <item quantity="other">· %1$s minutuz behin</item>
+        <item quantity="one">· %1$s minutuz behin</item>
+    </plurals>
+    <plurals name="transit_interval_in_hours">
+        <item quantity="other">· %1$d orduz behin</item>
+        <item quantity="one">· %1$d orduz behin</item>
+    </plurals>
+    <plurals name="qp_transit_interval_in_minutes">
+        <item quantity="other">%1$s minutuz behin</item>
+        <item quantity="one">%1$s minutuz behin</item>
+    </plurals>
+    <plurals name="qp_transit_interval_in_hours">
+        <item quantity="other">%1$d orduz behin</item>
+        <item quantity="one">%1$d orduz behin</item>
+    </plurals>
+    <plurals name="sports_overtime_period_header">
+        <item quantity="other">%1$d. luzapena</item>
+        <item quantity="one">Luzapena</item>
+    </plurals>
+    <plurals name="time_to_leave_user_arrival_generic">
+        <item quantity="other">%1$d minutu lehenago iritsiko zara</item>
+        <item quantity="one">%1$d minutu lehenago iritsiko zara</item>
+    </plurals>
+    <plurals name="time_to_leave_user_arrival_flight">
+        <item quantity="other">Irteera baino %1$d minutu lehenago iritsiko zara</item>
+        <item quantity="one">Irteera baino %1$d minutu lehenago iritsiko zara</item>
+    </plurals>
+    <plurals name="time_to_leave_user_arrival_reservation">
+        <item quantity="other">Erreserba-ordua baino %1$d minutu lehenago iritsiko zara</item>
+        <item quantity="one">Erreserba-ordua baino %1$d minutu lehenago iritsiko zara</item>
+    </plurals>
+    <plurals name="time_to_leave_user_arrival_movie">
+        <item quantity="other">Filma hasi baino %1$d minutu lehenago iritsiko zara</item>
+        <item quantity="one">Filma hasi baino %1$d minutu lehenago iritsiko zara</item>
+    </plurals>
+    <plurals name="time_to_leave_user_arrival_concert">
+        <item quantity="other">Kontzertua hasi baino %1$d minutu lehenago iritsiko zara</item>
+        <item quantity="one">Kontzertua hasi baino %1$d minutu lehenago iritsiko zara</item>
+    </plurals>
+    <plurals name="email_everyone">
+        <item quantity="other">Bidali mezu elektronikoa guztiei (%1$d)</item>
+        <item quantity="one">Bidali mezu elektronikoa guztiei (%1$d)</item>
+    </plurals>
+    <plurals name="card_count">
+        <item quantity="other">%1$d txartel</item>
+        <item quantity="one">Txartel bat</item>
+    </plurals>
+    <plurals name="num_movie_tickets">
+        <item quantity="other">%1$d txartel</item>
+        <item quantity="one">%1$d txartel</item>
+    </plurals>
+    <plurals name="qp_hotel_reservation_length">
+        <item quantity="other">%1$d gaueko erreserba</item>
+        <item quantity="one">%1$d gaueko erreserba</item>
+    </plurals>
+    <plurals name="reminders">
+        <item quantity="other">%1$d abisu</item>
+        <item quantity="one">%1$d abisu</item>
+    </plurals>
+    <plurals name="number_of_location_sharers">
+        <item quantity="other">%1$d pertsona kokapena zurekin partekatzen ari dira</item>
+        <item quantity="one">%1$d pertsona kokapena zurekin partekatzen ari da</item>
+    </plurals>
+    <plurals name="expiring_duration_in_days">
+        <item quantity="other">%1$d egun barru iraungiko da</item>
+        <item quantity="one">%1$d egun barru iraungiko da</item>
+    </plurals>
+    <plurals name="expiring_duration_in_hours">
+        <item quantity="other">%1$d ordu barru iraungiko da</item>
+        <item quantity="one">%1$d ordu barru iraungiko da</item>
+    </plurals>
+    <plurals name="expiring_duration_in_minutes">
+        <item quantity="other">%1$d minutu barru iraungiko da</item>
+        <item quantity="one">%1$d minutu barru iraungiko da</item>
+    </plurals>
+    <plurals name="view_count">
+        <item quantity="other">%1$,d ikustaldi</item>
+        <item quantity="one">%1$,d ikustaldi</item>
+    </plurals>
+    <plurals name="transportation_seat">
+        <item quantity="other">%1$d eserleku</item>
+        <item quantity="one">1 eserleku</item>
+    </plurals>
+    <plurals name="more_directions">
+        <item quantity="other">Beste %1$d jarraibide</item>
+        <item quantity="one">Beste %1$d jarraibide</item>
+    </plurals>
+    <plurals name="time_duration_spoken_hour">
+        <item quantity="other">%1$d ordu</item>
+        <item quantity="one">ordu bat</item>
+    </plurals>
+    <plurals name="time_duration_spoken_minute">
+        <item quantity="other">%1$d minutu</item>
+        <item quantity="one">minutu bat</item>
+    </plurals>
+    <plurals name="time_duration_spoken_second">
+        <item quantity="other">%1$d segundo</item>
+        <item quantity="one">segundo bat</item>
+    </plurals>
+    <plurals name="agenda_eyes_free_all_day_events">
+        <item quantity="other">%2$s: egun osoko %1$d gertaera dituzu: %3$s.</item>
+        <item quantity="one">%2$s: egun osoko gertaera bat duzu: %3$s.</item>
+    </plurals>
+</resources>

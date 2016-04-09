@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="status_bar_height">24.0dip</dimen>
+    <dimen name="content_paddingTop">76.0dip</dimen>
+    <dimen name="menu_marginTop">54.0dip</dimen>
+</resources>

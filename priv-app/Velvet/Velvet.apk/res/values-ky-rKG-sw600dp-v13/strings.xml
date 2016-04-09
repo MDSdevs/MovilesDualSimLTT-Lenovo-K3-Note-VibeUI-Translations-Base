@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="search_phone_or_tablet">Планшет издөө</string>
+    <string name="corpus_name_summons">Планшет</string>
+    <string name="search_sources">Планшетте издөө</string>
+    <string name="no_summons_found">"Планшетиңизде натыйжалар 
+табылган жок."</string>
+    <string name="hands_free_unlock_device">"Google'да үн менен издөө үчүн, планшетиңиздин кулпусун ачыңыз"</string>
+    <string name="icing_manage_storage_summary">Колдонмолоруңузду издөө каражаты менен камсыз кылып, планшетиңиздин издөө аракетин тездетебиз.</string>
+</resources>

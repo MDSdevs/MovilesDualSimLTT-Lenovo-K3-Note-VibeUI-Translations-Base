@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="user_nickname">Smeknamn</string>
+    <string name="show_owner_info_on_lockscreen_label">Visa ägaruppgifter på den låsta skärmen</string>
+    <string name="show_profile_info_on_lockscreen_label">Visa profilinfo på den låsta skärmen</string>
+    <string name="show_user_info_on_lockscreen_label">Visa användarinfo på den låsta skärmen</string>
+    <string name="lockpassword_confirm_your_pattern_header">Bekräfta mönster</string>
+    <string name="security_settings_title">Säkerhet</string>
+    <string name="security_passwords_title">Lösenord</string>
+    <string name="show_password">Gör lösenord synliga</string>
+    <string name="lock_after_timeout">Lås automatiskt</string>
+    <string name="lock_after_timeout_summary">%1$s efter viloläge</string>
+    <string name="lock_after_timeout_summary_with_exception">%1$s efter viloläge, utom när den hålls olåst av %2$s</string>
+    <string name="owner_info_settings_title">Ägaruppgifter</string>
+    <string name="owner_info_settings_summary" />
+    <string name="owner_info_settings_edit_text_hint">Ange text som ska visas på den låsta skärmen</string>
+    <string name="lock_settings_picker_title">Välj skärmlås</string>
+    <string name="biometric_weak_improve_matching_title">Förbättra ansiktsmatchningen</string>
+    <string name="biometric_weak_liveliness_title">Liveness-kontroll</string>
+    <string name="biometric_weak_liveliness_summary">Blinkning krävs vid upplåsning</string>
+    <string name="lockpassword_choose_your_password_header">Välj ett lösenord</string>
+    <string name="lockpassword_choose_your_pattern_header">Välj mönster</string>
+    <string name="lockpassword_choose_your_pin_header">Välj en PIN-kod</string>
+    <string name="lockpassword_confirm_passwords_dont_match">Lösenorden matchar inte</string>
+    <string name="lockpassword_confirm_pins_dont_match">PIN-koderna matchar inte</string>
+    <string name="lock_settings_title">Skärmsäkerhet</string>
+    <string name="lockpattern_change_lock_pattern_label">Byt grafiskt lösenord</string>
+    <string name="lockpattern_change_lock_pin_label">Ändra PIN-kod för upplåsning</string>
+    <string name="lockpattern_need_to_unlock">Bekräfta sparat grafiskt lösenord</string>
+    <string name="lockpattern_need_to_unlock_wrong">Försök igen:</string>
+    <string name="lockpattern_recording_intro_header">Rita ett grafiskt lösenord</string>
+    <string name="lockpattern_recording_intro_footer">Tryck på Menu om du vill ha hjälp.</string>
+    <string name="lockpattern_recording_inprogress">Lyft fingret när du är klar</string>
+    <string name="lockpattern_recording_incorrect_too_short">Anslut minst %d punkter. Försök igen.</string>
+    <string name="lockpattern_pattern_entered_header">Det grafiska lösenordet har registrerats</string>
+    <string name="lockpattern_need_to_confirm">Rita ditt grafiska lösenord igen för att bekräfta</string>
+    <string name="lockpattern_pattern_confirmed_header">Ditt nya grafiska lösenord</string>
+    <string name="lockpattern_confirm_button_text">Bekräfta</string>
+    <string name="lockpattern_restart_button_text">Rita igen</string>
+    <string name="lockpattern_retry_button_text">Försök igen</string>
+    <string name="lockpattern_continue_button_text">Fortsätt</string>
+    <string name="lockpattern_settings_title">Grafiskt lösenord</string>
+    <string name="lockpattern_settings_enable_title">Begär grafiskt lösenord</string>
+    <string name="lockpattern_settings_enable_summary">Måste rita grafiskt lösenord för att låsa upp skärmen</string>
+    <string name="lockpattern_settings_enable_visible_pattern_title">Gör mönster synligt</string>
+    <string name="lockpattern_settings_enable_tactile_feedback_title">Vibrera vid tryck</string>
+    <string name="lockpattern_settings_enable_power_button_instantly_locks">Avstängningsknappen låser direkt</string>
+    <string name="lockpattern_settings_power_button_instantly_locks_summary">Utom när den hålls olåst av %1$s</string>
+    <string name="lockpattern_settings_choose_lock_pattern">Ange grafiskt lösenord</string>
+    <string name="lockpattern_settings_change_lock_pattern">Byt grafiskt lösenord</string>
+    <string name="lockpattern_settings_help_how_to_record">Så här ritar du ett grafiskt lösenord</string>
+    <string name="lockpattern_too_many_failed_confirmation_attempts_header">För många felaktiga försök!</string>
+    <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Försök igen om %d sekunder.</string>
+    <string name="unlock_set_unlock_launch_picker_title">Skärmlås</string>
+    <string name="unlock_set_unlock_launch_picker_change_title">Byt skärmlås</string>
+    <string name="unlock_set_unlock_launch_picker_change_summary">Ändra eller inaktivera grafiskt lösenord, PIN eller lösenord</string>
+    <string name="unlock_set_unlock_launch_picker_enable_summary">Välj en metod för att låsa skärmen</string>
+    <string name="unlock_backup_info_summary">Hur vill du låsa upp när Ansiktslås inte kan \"se\" dig?</string>
+    <string name="unlock_set_unlock_off_title">Ingen</string>
+    <string name="unlock_set_unlock_off_summary" />
+    <string name="unlock_set_unlock_none_title">Dra</string>
+    <string name="unlock_set_unlock_none_summary">Ingen säkerhet</string>
+    <string name="unlock_set_unlock_biometric_weak_title">Ansiktslås</string>
+    <string name="unlock_set_unlock_biometric_weak_summary">Låg säkerhet, experimentell</string>
+    <string name="unlock_set_unlock_pattern_title">Grafiskt lösenord</string>
+    <string name="unlock_set_unlock_pattern_summary">Medelhög säkerhet</string>
+    <string name="unlock_set_unlock_pin_title">PIN</string>
+    <string name="unlock_set_unlock_pin_summary">Medelhög till hög säkerhet</string>
+    <string name="unlock_set_unlock_password_title">Lösenord</string>
+    <string name="unlock_set_unlock_password_summary">Hög säkerhet</string>
+    <string name="unlock_set_unlock_disabled_summary">Inaktiverad p.g.a. admin., kryptering eller uppgiftslagring</string>
+    <string name="unlock_set_unlock_mode_off">Inget</string>
+    <string name="unlock_set_unlock_mode_none">Dra</string>
+    <string name="unlock_set_unlock_mode_biometric_weak">Ansiktslås</string>
+    <string name="unlock_set_unlock_mode_pattern">Grafiskt lösenord</string>
+    <string name="unlock_set_unlock_mode_pin">PIN-kod</string>
+    <string name="unlock_set_unlock_mode_password">Lösenord</string>
+    <string name="unlock_disable_lock_title">Inaktivera skärmlås</string>
+    <string name="unlock_disable_lock_pattern_summary">Ta bort grafiskt lösenord</string>
+    <string name="unlock_disable_lock_pin_summary">Ta bort PIN-kod för upplåsning</string>
+    <string name="unlock_disable_lock_password_summary">Ta bort lösenord för upplåsning</string>
+    <string name="unlock_change_lock_pattern_title">Byt grafiskt lösenord</string>
+    <string name="unlock_change_lock_pin_title">Ändra PIN-kod för upplåsning</string>
+    <string name="unlock_change_lock_password_title">Ändra lösenord för upplåsning</string>
+    <string name="keywords_lockscreen">dra lösenord mönster pinkod</string>
+    <string name="switch_on_text">På</string>
+    <string name="switch_off_text">Av</string>
+    <string name="screen_pinning_title">Fästa skärmen</string>
+    <string name="screen_pinning_description">"När den här inställningen är aktiverad kan du ställa in enheten i ett läge som behåller den aktuella skärmen i vyn.
+
+Så här fäster du skärmen:
+
+1. Aktivera den här inställningen.
+
+2.Öppna en app.
+
+3. Tryck på knappen Senaste.
+
+4. Tryck på nålikonen."</string>
+    <string name="settings_safetylegal_activity_loading">Läser in …</string>
+    <string name="no_applications">Inga appar.</string>
+    <string name="help_label">Hjälp och feedback</string>
+    <string name="lockpassword_ok_label">OK</string>
+    <string name="lockpattern_tutorial_cancel_label">Avbryt</string>
+    <string name="lockpattern_tutorial_continue_label">Nästa</string>
+    <string name="lockpassword_confirm_your_pin_header">Bekräfta din PIN-kod</string>
+    <string name="lockpassword_confirm_your_password_header">Bekräfta ditt lösenord</string>
+    <string name="cancel">Avbryt</string>
+    <string name="lock_screen_notifications_title">När enheten är låst</string>
+    <string name="lock_screen_notifications_summary_show">Visa allt aviseringsinnehåll</string>
+    <string name="lock_screen_notifications_summary_hide">Dölj känsligt aviseringsinnehåll</string>
+    <string name="lock_screen_notifications_summary_disable">Visa inga aviseringar alls</string>
+    <string name="lock_screen_notifications_interstitial_message">Hur vill du att aviseringar visas när enheten är låst?</string>
+    <string name="app_notifications_dialog_done">Klart</string>
+    <string name="lockpassword_cancel_label">Avbryt</string>
+    <string name="lockpassword_password_too_long">Lösenordet får inte innehålla mer än %d tecken.</string>
+    <string name="lockpassword_pin_too_long">PIN-koden får inte innehålla mer än %d siffror.</string>
+    <string name="lockpassword_password_too_short">Lösenordet måste innehålla minst %d tecken</string>
+    <string name="lockpassword_pin_too_short">PIN-koden måste innehålla minst %d siffror</string>
+    <string name="lockpassword_press_continue">Tryck på Fortsätt när du är färdig</string>
+    <string name="lockpassword_continue_label">Fortsätt</string>
+    <string name="lockpassword_pin_no_sequential_digits">En stigande, sjunkande eller upprepad sekvens av siffror är inte tillåten</string>
+    <string name="lockpassword_pin_contains_non_digits">PIN-koden får bara innehålla siffrorna 0 till 9.</string>
+    <string name="lockpassword_pin_recently_used">Enhetsadministratören tillåter inte att en PIN-kod som använts nyligen används igen.</string>
+    <string name="lockpassword_illegal_character">Lösenordet innehåller ett ogiltigt tecken.</string>
+    <string name="lockpassword_password_requires_alpha">Lösenord måste innehålla minst en bokstav.</string>
+    <string name="lockpassword_password_requires_digit">Lösenord måste innehålla minst en siffra.</string>
+    <string name="lockpassword_password_requires_symbol">Lösenord måste innehålla minst en symbol.</string>
+    <string name="lockpassword_password_recently_used">Enhetsadministratören tillåter inte att ett lösenord som använts nyligen används igen.</string>
+    <string name="backup_lock_settings_picker_title">Välj lås för säkerhetskopiering</string>
+    <string name="profile_info_settings_title">Profilinfo</string>
+    <string name="user_info_settings_title">Användarinfo</string>
+    <string name="credential_storage_type_hardware">Maskinvarustöd</string>
+    <string name="credential_storage_type_software">Endast programvara</string>
+    <string name="error_title" />
+    <string name="lockpassword_choose_lock_generic_header">Upplåsningsalternativ</string>
+</resources>

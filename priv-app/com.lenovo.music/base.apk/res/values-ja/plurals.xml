@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="bytes">
+        <item quantity="other">B</item>
+        <item quantity="one">B</item>
+    </plurals>
+    <plurals name="kilobytes">
+        <item quantity="other">KB</item>
+        <item quantity="one">KB</item>
+    </plurals>
+    <plurals name="megabytes">
+        <item quantity="other">MB</item>
+        <item quantity="one">MB</item>
+    </plurals>
+    <plurals name="gigabytes">
+        <item quantity="other">GB</item>
+        <item quantity="one">GB</item>
+    </plurals>
+    <plurals name="Nsongs">
+        <item quantity="other">%d 曲</item>
+        <item quantity="one">1 曲</item>
+    </plurals>
+    <plurals name="Nalbums">
+        <item quantity="other">%d 枚のアルバム</item>
+        <item quantity="one">1 枚のアルバム</item>
+    </plurals>
+    <plurals name="playlist_add_count_tip">
+        <item quantity="other">%d 曲追加されました:</item>
+        <item quantity="one">1 曲追加されました:</item>
+    </plurals>
+    <plurals name="Ntracks">
+        <item quantity="other">%d 曲</item>
+        <item quantity="one">1 曲</item>
+    </plurals>
+    <plurals name="Nalbum">
+        <item quantity="other">%d 枚のアルバム</item>
+        <item quantity="one">1 枚のアルバム</item>
+    </plurals>
+    <plurals name="Nfolders">
+        <item quantity="other">%d 個のフォルダー</item>
+        <item quantity="one">1 個のフォルダー</item>
+    </plurals>
+    <plurals name="Nartists">
+        <item quantity="other">%d 組のアーティスト</item>
+        <item quantity="one">1 組のアーティスト</item>
+    </plurals>
+    <plurals name="Nlists">
+        <item quantity="other">%d 個のプレイリスト</item>
+        <item quantity="one">1 個のプレイリスト</item>
+    </plurals>
+    <plurals name="local_count_songs">
+        <item quantity="other">合計: %d 曲</item>
+        <item quantity="one">合計: 1 曲</item>
+    </plurals>
+    <plurals name="local_count_playLists">
+        <item quantity="other">合計: %d 個のプレイリスト</item>
+        <item quantity="one">合計: 1 個のプレイリスト</item>
+    </plurals>
+    <plurals name="local_count_artists">
+        <item quantity="other">合計: %d 組のアーティスト</item>
+        <item quantity="one">合計: 1 組のアーティスト</item>
+    </plurals>
+    <plurals name="local_count_folders">
+        <item quantity="other">合計: %d 個のフォルダー</item>
+        <item quantity="one">合計: 1 個のフォルダー</item>
+    </plurals>
+    <plurals name="local_count_albums">
+        <item quantity="other">合計: %d 枚のアルバム</item>
+        <item quantity="one">合計: 1 枚のアルバム</item>
+    </plurals>
+    <plurals name="online_search_result_tip">
+        <item quantity="other">%d 枚のアルバム</item>
+        <item quantity="one">1 枚のアルバム</item>
+    </plurals>
+    <plurals name="local_edit_delete_songs">
+        <item quantity="other">%d 曲が削除されました</item>
+        <item quantity="one">1 曲が削除されました</item>
+    </plurals>
+    <plurals name="online_count_songs">
+        <item quantity="other">%d 曲がロードされました</item>
+        <item quantity="one">1 曲がロードされました</item>
+    </plurals>
+    <plurals name="online_count_artists">
+        <item quantity="other">%d 組のアーティストがロードされました</item>
+        <item quantity="one">1 組のアーティストがロードされました</item>
+    </plurals>
+    <plurals name="online_count_albums">
+        <item quantity="other">%d 枚のアルバムがロードされました</item>
+        <item quantity="one">1 枚のアルバムがロードされました</item>
+    </plurals>
+    <plurals name="media_playlist_title_count_songs">
+        <item quantity="other">合計 %d 曲</item>
+        <item quantity="one">合計 1 曲</item>
+    </plurals>
+    <plurals name="local_edit_remove_songs">
+        <item quantity="other">%d 曲が削除されました</item>
+        <item quantity="one">1 曲が削除されました</item>
+    </plurals>
+    <plurals name="local_edit_selected_songs">
+        <item quantity="other">%d 曲選択しました</item>
+        <item quantity="one">1 曲選択しました</item>
+    </plurals>
+    <plurals name="add_songs_to_queue">
+        <item quantity="other">プレイリストに %d 曲追加されました</item>
+        <item quantity="one">プレイリストに 1 曲追加されました</item>
+    </plurals>
+</resources>

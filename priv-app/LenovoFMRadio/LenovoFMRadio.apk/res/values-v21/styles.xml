@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.FM" parent="@android:style/Theme.DeviceDefault.Light">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowCloseOnTouchOutside">true</item>
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:windowTranslucentNavigation">true</item>
+    </style>
+    <style name="AppTheme" parent="@android:style/Theme.DeviceDefault.Light.NoActionBar">
+        <item name="android:colorPrimary">@android:color/transparent</item>
+        <item name="android:colorAccent">#ffffaad4</item>
+    </style>
+    <style name="Theme.FM.Black" parent="@android:style/Theme.DeviceDefault.Light">
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:windowTranslucentNavigation">true</item>
+    </style>
+    <style name="subpage_title_imagebtn_lightBACK">
+        <item name="android:background">@drawable/ripple_back</item>
+        <item name="android:padding">8.0dip</item>
+        <item name="android:clickable">true</item>
+        <item name="android:layout_width">48.0dip</item>
+        <item name="android:layout_height">52.0dip</item>
+        <item name="android:layout_marginLeft">8.0dip</item>
+        <item name="android:src">@drawable/ab_ic_back_light</item>
+    </style>
+    <style name="subpage_title_imagebtn_lightBACK_opsite">
+        <item name="android:background">@drawable/ripple_back</item>
+        <item name="android:padding">8.0dip</item>
+        <item name="android:clickable">true</item>
+        <item name="android:layout_width">48.0dip</item>
+        <item name="android:layout_height">52.0dip</item>
+        <item name="android:layout_marginLeft">8.0dip</item>
+        <item name="android:src">@drawable/ab_ic_back_light_opsite</item>
+    </style>
+    <style name="subpage_title_imagebtn_DarkBACK">
+        <item name="android:background">@drawable/ripple_back</item>
+        <item name="android:padding">8.0dip</item>
+        <item name="android:clickable">true</item>
+        <item name="android:layout_width">48.0dip</item>
+        <item name="android:layout_height">52.0dip</item>
+        <item name="android:layout_marginLeft">8.0dip</item>
+        <item name="android:src">@drawable/ab_ic_back_dark</item>
+    </style>
+    <style name="subpage_title_imagebtn.Right" parent="@style/subpage_title_imagebtn">
+        <item name="android:background">@drawable/ripple_back</item>
+        <item name="android:layout_marginRight">@dimen/boxright</item>
+    </style>
+    <style name="Lenovo_button">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:paddingLeft">20.0dip</item>
+        <item name="android:paddingRight">20.0dip</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:minHeight">28.0dip</item>
+        <item name="android:layout_centerInParent">true</item>
+    </style>
+    <style name="itembg">
+        <item name="android:background">@drawable/item_bg_color_selector_ripple</item>
+        <item name="android:minHeight">60.0dip</item>
+    </style>
+    <style name="ripple_back">
+        <item name="android:background">@drawable/ripple_back</item>
+    </style>
+</resources>

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="user_nickname">Isidlaliso</string>
+    <string name="show_owner_info_on_lockscreen_label">Bonisa ulwazi lomnikazi ekuvaleni isikrini</string>
+    <string name="show_profile_info_on_lockscreen_label">Bonisa ulwazi lwephrofayela ekukhiyeni isikrini</string>
+    <string name="show_user_info_on_lockscreen_label">Bonisa ulwazi lomsebenzisi esikrinini sokukhiya</string>
+    <string name="lockpassword_confirm_your_pattern_header">Qinisekisa iphathini yakho</string>
+    <string name="security_settings_title">Ukuphepha</string>
+    <string name="security_passwords_title">Amaphasiwedi</string>
+    <string name="show_password">Yenza ukuthi amaphasiwedi abonakale</string>
+    <string name="lock_after_timeout">Ivalwe ngokuzenzakalelayo</string>
+    <string name="lock_after_timeout_summary">%1$s ngemuva kokulala</string>
+    <string name="lock_after_timeout_summary_with_exception">%1$s ngemva kokulala, ngaphandle kokugcina ivuliwe yi-%2$s</string>
+    <string name="owner_info_settings_title">Imininingwane yomnikazi</string>
+    <string name="owner_info_settings_summary" />
+    <string name="owner_info_settings_edit_text_hint">Faka umbhalo wokubonisa kwisikrini sokuvala</string>
+    <string name="lock_settings_picker_title">Khetha isivali sesikrini</string>
+    <string name="biometric_weak_improve_matching_title">Enza kangcono ukufana kobuso</string>
+    <string name="biometric_weak_liveliness_title">Ukuhlola ukuphila</string>
+    <string name="biometric_weak_liveliness_summary">Idinga ukucwabiza kweso ngenkathi ivula</string>
+    <string name="lockpassword_choose_your_password_header">Khetha iphasiwedi yakho</string>
+    <string name="lockpassword_choose_your_pattern_header">Khetha iphathini yakho</string>
+    <string name="lockpassword_choose_your_pin_header">Khetha i-PIN yakho</string>
+    <string name="lockpassword_confirm_passwords_dont_match">Amaphasiwedi awafani</string>
+    <string name="lockpassword_confirm_pins_dont_match">Ama-PIN awafani</string>
+    <string name="lock_settings_title">Ukuvikeleka kwesikrini</string>
+    <string name="lockpattern_change_lock_pattern_label">Shintsha iphathini yokuvula</string>
+    <string name="lockpattern_change_lock_pin_label">Shintsha ukuvula i-PIN</string>
+    <string name="lockpattern_need_to_unlock">Qinisekisa iphathini egciniwe</string>
+    <string name="lockpattern_need_to_unlock_wrong">Zama futhi:</string>
+    <string name="lockpattern_recording_intro_header">Dweba iphathini yokuvula</string>
+    <string name="lockpattern_recording_intro_footer">Chofoza Imenyu ukuthola usizo.</string>
+    <string name="lockpattern_recording_inprogress">Dedela umunwe uma usuqedile</string>
+    <string name="lockpattern_recording_incorrect_too_short">Xhuma okungenani amachashazi angu-%d. Zama futhi.</string>
+    <string name="lockpattern_pattern_entered_header">Iphethini iqoshiwe</string>
+    <string name="lockpattern_need_to_confirm">Dweba iphethini futhi ukuze uqinisekise</string>
+    <string name="lockpattern_pattern_confirmed_header">Iphethini yakho entsha yokuvula</string>
+    <string name="lockpattern_confirm_button_text">Qinisekisa</string>
+    <string name="lockpattern_restart_button_text">Dweba kabusha</string>
+    <string name="lockpattern_retry_button_text">Zama futhi</string>
+    <string name="lockpattern_continue_button_text">Qhubeka</string>
+    <string name="lockpattern_settings_title">Vula iphathini</string>
+    <string name="lockpattern_settings_enable_title">Dinga iphathini</string>
+    <string name="lockpattern_settings_enable_summary">Kumelwe udwebe iphathini ukuze uvule isikrini</string>
+    <string name="lockpattern_settings_enable_visible_pattern_title">Yenza iphethini ibonakale</string>
+    <string name="lockpattern_settings_enable_tactile_feedback_title">Dlidliza lapho uthinta</string>
+    <string name="lockpattern_settings_enable_power_button_instantly_locks">Inkinobho yamandla iyakhiyeka ngokushesha</string>
+    <string name="lockpattern_settings_power_button_instantly_locks_summary">Ngaphandle kokuthi igcinwe ivuliwe yi-%1$s</string>
+    <string name="lockpattern_settings_choose_lock_pattern">Setha iphathini yokuvula</string>
+    <string name="lockpattern_settings_change_lock_pattern">Shintsha iphathini yokuvula</string>
+    <string name="lockpattern_settings_help_how_to_record">Udweba kanjani phathini yokuvula</string>
+    <string name="lockpattern_too_many_failed_confirmation_attempts_header">Kunemizamo engalungile eminingi kakhulu!</string>
+    <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Zama futhi emasekhondini angu-%d.</string>
+    <string name="unlock_set_unlock_launch_picker_title">Isikrini sivaliwe.</string>
+    <string name="unlock_set_unlock_launch_picker_change_title">Shintsha ukuvala isikrini</string>
+    <string name="unlock_set_unlock_launch_picker_change_summary">Shintsha noma vimbela iphathini, i-PIN, noma ukuphepha kwephasiwedi</string>
+    <string name="unlock_set_unlock_launch_picker_enable_summary">Khetha indlela yokuvula isikrini</string>
+    <string name="unlock_backup_info_summary">Uma izimo ze-Face Unlock zingakuboni, ufuna ukuvula kanjani?</string>
+    <string name="unlock_set_unlock_off_title">Lutho</string>
+    <string name="unlock_set_unlock_off_summary" />
+    <string name="unlock_set_unlock_none_title">Swayipha</string>
+    <string name="unlock_set_unlock_none_summary">Akukho ukuphepha</string>
+    <string name="unlock_set_unlock_biometric_weak_title">I-Face Unlock</string>
+    <string name="unlock_set_unlock_biometric_weak_summary">Ukuphepha okuphansi, ukulinga</string>
+    <string name="unlock_set_unlock_pattern_title">Iphathini</string>
+    <string name="unlock_set_unlock_pattern_summary">Ukuphepha Okuphakathi nendawo</string>
+    <string name="unlock_set_unlock_pin_title">i-PIN</string>
+    <string name="unlock_set_unlock_pin_summary">Ukuphepha okuphakathi nendawo kuya kokuphezulu</string>
+    <string name="unlock_set_unlock_password_title">Iphasiwedi</string>
+    <string name="unlock_set_unlock_password_summary">Ukuphepha okuphezulu</string>
+    <string name="unlock_set_unlock_disabled_summary">Khubaza umqondisi, ukubethela inqubomgomo, noma isitoreji sobuqinisekisa</string>
+    <string name="unlock_set_unlock_mode_off">Lutho</string>
+    <string name="unlock_set_unlock_mode_none">Swayipha</string>
+    <string name="unlock_set_unlock_mode_biometric_weak">I-Face Unlock</string>
+    <string name="unlock_set_unlock_mode_pattern">Iphathini</string>
+    <string name="unlock_set_unlock_mode_pin">PIN</string>
+    <string name="unlock_set_unlock_mode_password">Iphasiwedi</string>
+    <string name="unlock_disable_lock_title">Cima ukuvala isikrini</string>
+    <string name="unlock_disable_lock_pattern_summary">Khipha iphathini yokuvula</string>
+    <string name="unlock_disable_lock_pin_summary">Khipha ukuvala i-PIN</string>
+    <string name="unlock_disable_lock_password_summary">Khipha iphasiwedi yokuvula</string>
+    <string name="unlock_change_lock_pattern_title">Shintsha iphathini yokuvula</string>
+    <string name="unlock_change_lock_pin_title">Shintsha i-PIN yokuvula</string>
+    <string name="unlock_change_lock_password_title">Shintsha iphasiwedi yokuvula</string>
+    <string name="keywords_lockscreen">slayida iphini yephethini yephasiwedi</string>
+    <string name="switch_on_text">Vuliwe</string>
+    <string name="switch_off_text">Valiwe</string>
+    <string name="screen_pinning_title">Ukuphina isikrini</string>
+    <string name="screen_pinning_description">"Uma lesi silungiselelelo sivuliwe, ungabeka idivayisi esimeni esigcina isikrini samanje ekubukeni.
+
+Ukuze uphine isikrini:
+
+1. Vula lesi silungiselelo.
+
+2. Vula uhlelo lokusebenza.
+
+3. Thinta inkinobho Okwakamuva.
+
+4. Thinta isithonjana sephini."</string>
+    <string name="settings_safetylegal_activity_loading">Iyalayisha…</string>
+    <string name="no_applications">Azikho izinhlelo zokusebenza</string>
+    <string name="help_label">Usizo nempendulo</string>
+    <string name="lockpassword_ok_label">KULUNGILE</string>
+    <string name="lockpattern_tutorial_cancel_label">Khansela</string>
+    <string name="lockpattern_tutorial_continue_label">Okulandelayo</string>
+    <string name="lockpassword_confirm_your_pin_header">Qinisekisa i-PIN yakho</string>
+    <string name="lockpassword_confirm_your_password_header">Qinisekisa iphasiwedi yakho</string>
+    <string name="cancel">Khansela</string>
+    <string name="lock_screen_notifications_title">Uma idivayisi ikhiyiwe</string>
+    <string name="lock_screen_notifications_summary_show">Bonisa konke okuqukethwe kwesaziso</string>
+    <string name="lock_screen_notifications_summary_hide">Fihla okuqukethwe kwesaziso esizwelayo</string>
+    <string name="lock_screen_notifications_summary_disable">Ungabonisi izaziso sanhlobo</string>
+    <string name="lock_screen_notifications_interstitial_message">Uma idivayisi yakho ikhiyiwe, ufuna ukuthi izaziso zivele kanjani?</string>
+    <string name="app_notifications_dialog_done">Kwenziwe</string>
+    <string name="lockpassword_cancel_label">Khansela</string>
+    <string name="lockpassword_password_too_long">Iphasiwedi kumele ibe ngaphansi ngezinhlamvu ezingu-%d.</string>
+    <string name="lockpassword_pin_too_long">I-PIN kumele ibe ngaphansi ngamadijithi angu-%d.</string>
+    <string name="lockpassword_password_too_short">Iphasiwedi kumele okungenani ibe nezinhlamvu ezingu-%d</string>
+    <string name="lockpassword_pin_too_short">Iphinikhodi kumele okungenani ibe amadijithi angu-%d.</string>
+    <string name="lockpassword_press_continue">Thinta Qhubeka uma usuqedile</string>
+    <string name="lockpassword_continue_label">Qhubeka</string>
+    <string name="lockpassword_pin_no_sequential_digits">Ukunyuka, ukwehla noma ukulandelana kwamadijithi okuphindiwe kuvinjelwe</string>
+    <string name="lockpassword_pin_contains_non_digits">I-PIN kumele ibe namadijithi kuphela asuka ku- 0-9</string>
+    <string name="lockpassword_pin_recently_used">Umqondisi wedivayisi akavumeli ukusebenzisa i-PIN yakamuva.</string>
+    <string name="lockpassword_illegal_character">Iphasiwedi inohlamvu olungekho emthethweni.</string>
+    <string name="lockpassword_password_requires_alpha">Iphasiwedi kumele okungenani ibe nohlamvu olulodwa</string>
+    <string name="lockpassword_password_requires_digit">Iphasiwedi kumele okungenani ibe nenombolo eyodwa.</string>
+    <string name="lockpassword_password_requires_symbol">Iphasiwedi kumele okungenani ibe nesimbuli eyodwa.</string>
+    <string name="lockpassword_password_recently_used">Umqondisi wedivayisi akavumeli ukusebenzisa iphasiwedi yakamuva.</string>
+    <string name="backup_lock_settings_picker_title">Khetha ukukhiywa kokulondoloza</string>
+    <string name="profile_info_settings_title">Ulwazi lwephrofayela</string>
+    <string name="user_info_settings_title">Ulwazi lomsebenzisi</string>
+    <string name="credential_storage_type_hardware">Izingxenyekazi zekhompyutha zisekelwe ngokulondoloza</string>
+    <string name="credential_storage_type_software">Isofthiwe kuphela</string>
+    <string name="error_title" />
+    <string name="lockpassword_choose_lock_generic_header">Okukhethwa kukho kokuvula</string>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="dimen" name="navigation_bar_height">@android:dimen/navigation_bar_height</item>
+    <dimen name="widget_full_width">481.0dip</dimen>
+    <dimen name="widget_full_height">270.0dip</dimen>
+    <dimen name="widget_visible_width">481.0dip</dimen>
+    <dimen name="widget_visible_height">270.0dip</dimen>
+    <dimen name="widget_round_width">481.0dip</dimen>
+    <dimen name="widget_round_height">270.0dip</dimen>
+    <dimen name="VideoThumbnail_width">458.0dip</dimen>
+    <dimen name="VideoThumbnail_height">240.0dip</dimen>
+    <dimen name="widget_bottom_visiableblock_marginbottom">5.0dip</dimen>
+    <dimen name="widget_bottom_frame_height">104.0dip</dimen>
+    <dimen name="widget_playButton_margin_right">35.0dip</dimen>
+    <dimen name="widget_title_frame_width">360.0dip</dimen>
+    <dimen name="widget_title_marginTop">26.0dip</dimen>
+    <dimen name="widget_title_textSize">34.0dip</dimen>
+    <dimen name="widget_duration_marginTop">9.0dip</dimen>
+    <dimen name="widget_duration_textSize">20.0dip</dimen>
+    <dimen name="widget_control_play_marginTop">16.0dip</dimen>
+    <dimen name="widget_playButton_width">70.0dip</dimen>
+    <dimen name="widget_playButton_height">78.0dip</dimen>
+</resources>

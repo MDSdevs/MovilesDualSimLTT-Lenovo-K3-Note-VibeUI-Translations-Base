@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="string" name="timer_circle_radius_multiplier">0.69</item>
+    <item type="string" name="timer_background_circle_radius_multiplier">0.79</item>
+    <item type="string" name="timer_ampm_circle_radius_multiplier">0.4</item>
+    <item type="string" name="timer_selection_radius_multiplier">0.18</item>
+    <item type="string" name="timer_numbers_radius_multiplier_normal">0.88</item>
+    <item type="string" name="timer_circle_width">0.11</item>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="search_phone_or_tablet">ٹیبلیٹ تلاش کریں</string>
+    <string name="corpus_name_summons">ٹیبلٹ</string>
+    <string name="search_sources">ٹیبلیٹ تلاش</string>
+    <string name="no_summons_found">"آپ کے ٹیبلیٹ پر
+کوئی نتائج نہیں ملے۔"</string>
+    <string name="hands_free_unlock_device">‏ایک Google صوتی تلاش کرنے کیلئے، براہ کرم اپنے ٹیبلیٹ کو غیر مقفل کریں۔</string>
+    <string name="icing_manage_storage_summary">ہم آپ کے ایپس کے استعمال کیلئے ایک تلاش انجن فراہم کرکے آپ کے ٹیبلیٹ پر تلاش کو تیز کرتے ہیں۔</string>
+</resources>

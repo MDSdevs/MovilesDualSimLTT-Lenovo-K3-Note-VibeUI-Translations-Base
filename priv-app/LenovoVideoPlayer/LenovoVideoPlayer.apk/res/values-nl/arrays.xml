@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="items_for_allVideo">
+        <item>Afspelen</item>
+        <item>Naam wijzigen</item>
+        <item>Delete</item>
+        <item>Informatie</item>
+        <item>Delen</item>
+        <item>Meerdere selecteren</item>
+    </string-array>
+    <string-array name="items_for_allVideo_aruba">
+        <item>Afspelen</item>
+        <item>Naam wijzigen</item>
+        <item>Delete</item>
+    </string-array>
+    <string-array name="items_for_recentVideo">
+        <item>Afspelen</item>
+        <item>Delete</item>
+        <item>Lijst wissen</item>
+    </string-array>
+    <string-array name="items_for_externalCaller">
+        <item>Afspelen</item>
+        <item>Deze video toevoegen</item>
+    </string-array>
+</resources>

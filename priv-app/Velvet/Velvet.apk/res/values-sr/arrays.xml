@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="recurrence_freq">
+        <item>ПОНАВЉАЈ ДНЕВНО</item>
+        <item>ПОНАВЉАЈ НЕДЕЉНО</item>
+        <item>ПОНАВЉАЈ МЕСЕЧНО</item>
+        <item>ПОНАВЉАЈ ГОДИШЊЕ</item>
+    </string-array>
+    <string-array name="edit_recurrence">
+        <item>Не понавља се</item>
+        <item>Сваког дана</item>
+        <item>Сваке недеље</item>
+        <item>Сваког месеца</item>
+        <item>Сваке године</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>сваке прве недеље</item>
+        <item>сваке друге недеље</item>
+        <item>сваке треће недеље</item>
+        <item>сваке четврте недеље</item>
+        <item>сваке последње недеље</item>
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>сваког првог понедељка</item>
+        <item>сваког другог понедељка</item>
+        <item>сваког трећег понедељка</item>
+        <item>сваког четвртог понедељка</item>
+        <item>сваког последњег понедељка</item>
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>сваког првог уторка</item>
+        <item>сваког другог уторка</item>
+        <item>сваког трећег уторка</item>
+        <item>сваког четвртог уторка</item>
+        <item>сваког последњег уторка</item>
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>сваке прве среде</item>
+        <item>сваке друге среде</item>
+        <item>сваке треће среде</item>
+        <item>сваке четврте среде</item>
+        <item>сваке последње среде</item>
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>сваког првог четвртка</item>
+        <item>сваког другог четвртка</item>
+        <item>сваког трећег четвртка</item>
+        <item>сваког четвртог четвртка</item>
+        <item>сваког последњег четвртка</item>
+    </string-array>
+    <string-array name="repeat_by_nth_fri">
+        <item>сваког првог петка</item>
+        <item>сваког другог петка</item>
+        <item>сваког трећег петка</item>
+        <item>сваког четвртог петка</item>
+        <item>сваког последњег петка</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>сваке прве суботе</item>
+        <item>сваке друге суботе</item>
+        <item>сваке треће суботе</item>
+        <item>сваке четврте суботе</item>
+        <item>сваке последње суботе</item>
+    </string-array>
+    <string-array name="baseball_innings">
+        <item>1. ининг</item>
+        <item>2. ининг</item>
+        <item>3. ининг</item>
+        <item>4. ининг</item>
+        <item>5. ининг</item>
+        <item>6. ининг</item>
+        <item>7. ининг</item>
+        <item>8. ининг</item>
+        <item>9. ининг</item>
+        <item>10. ининг</item>
+        <item>11. ининг</item>
+        <item>12. ининг</item>
+    </string-array>
+    <string-array name="qp_top_baseball_innings">
+        <item>1. у горњој половини</item>
+        <item>2. у горњој половини</item>
+        <item>3. у горњој половини</item>
+        <item>4. у горњој половини</item>
+        <item>5. у горњој половини</item>
+        <item>6. у горњој половини</item>
+        <item>7. у горњој половини</item>
+        <item>8. у горњој половини</item>
+        <item>9. у горњој половини</item>
+        <item>10. у горњој половини</item>
+        <item>11. у горњој половини</item>
+        <item>12. у горњој половини</item>
+    </string-array>
+    <string-array name="qp_bottom_baseball_innings">
+        <item>1. у доњој половини</item>
+        <item>2. у доњој половини</item>
+        <item>3. у доњој половини</item>
+        <item>4. у доњој половини</item>
+        <item>5. у доњој половини</item>
+        <item>6. у доњој половини</item>
+        <item>7. у доњој половини</item>
+        <item>8. у доњој половини</item>
+        <item>9. у доњој половини</item>
+        <item>10. у доњој половини</item>
+        <item>11. у доњој половини</item>
+        <item>12. у доњој половини</item>
+    </string-array>
+    <string-array name="local_results_markers">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+    </string-array>
+    <string-array name="languageNames">
+        <item>африканс (Јужноафричка Република)</item>
+        <item>арапски (Алжир)</item>
+        <item>арапски (Египат)</item>
+        <item>арапски (Ирак)</item>
+        <item>арапски (Израел)</item>
+        <item>арапски (Јордан)</item>
+        <item>арапски (Кувајт)</item>
+        <item>арапски (Либан)</item>
+        <item>арапски (Либија)</item>
+        <item>арапски (Мароко)</item>
+        <item>арапски (Катар)</item>
+        <item>арапски (Саудијска Арабија)</item>
+        <item>арапски (Судан)</item>
+        <item>арапски (Сирија)</item>
+        <item>арапски (Тунис)</item>
+        <item>арапски (Уједињени Арапски Емирати)</item>
+        <item>арапски (Јемен)</item>
+        <item>белоруски (Белорусија)</item>
+        <item>бенгалски (Бангладеш)</item>
+        <item>бугарски (Бугарска)</item>
+        <item>каталонски (Шпанија)</item>
+        <item>кинески, мандарински (Кина, поједностављени)</item>
+        <item>кинески, мандарински (Хонгконг, поједностављени)</item>
+        <item>кинески, мандарински (Хонгконг, традиционални)</item>
+        <item>кинески, мандарински (Сингапур, поједностављени)</item>
+        <item>кинески, мандарински (Тајван, поједностављени)</item>
+        <item>кинески, мандарински (Тајван, традиционални)</item>
+        <item>кинески, кантонски (Кина, поједностављени)</item>
+        <item>кинески, кантонски (Хонгконг, традиционални)</item>
+        <item>хрватски (Хрватска)</item>
+        <item>чешки (Чешка Република)</item>
+        <item>дански (Данска)</item>
+        <item>холандски (Белгија)</item>
+        <item>холандски (Холандија)</item>
+        <item>енглески (општи)</item>
+        <item>енглески (Аустралија)</item>
+        <item>енглески (Бангладеш)</item>
+        <item>енглески (Канада)</item>
+        <item>енглески (Хонгконг)</item>
+        <item>енглески (Индија)</item>
+        <item>енглески (Ирска)</item>
+        <item>енглески (Кенија)</item>
+        <item>енглески (Малезија)</item>
+        <item>енглески (Нови Зеланд)</item>
+        <item>енглески (Нигерија)</item>
+        <item>енглески (Пакистан)</item>
+        <item>енглески (Филипини)</item>
+        <item>енглески (Сингапур)</item>
+        <item>енглески (Јужноафричка Република)</item>
+        <item>енглески (Судан)</item>
+        <item>енглески (Танзанија)</item>
+        <item>енглески (Уганда)</item>
+        <item>енглески (УК)</item>
+        <item>енглески (САД)</item>
+        <item>естонски (Естонија)</item>
+        <item>филипински (Филипини)</item>
+        <item>фински (Финска)</item>
+        <item>француски (Белгија)</item>
+        <item>француски (Канада)</item>
+        <item>француски (Француска)</item>
+        <item>француски (Швајцарска)</item>
+        <item>галицијски (Шпанија)</item>
+        <item>немачки (Аустрија)</item>
+        <item>немачки (Немачка)</item>
+        <item>немачки (Швајцарска)</item>
+        <item>немачки (Лихтенштајн)</item>
+        <item>грчки (Грчка)</item>
+        <item>хебрејски (Израел)</item>
+        <item>хинди (Индија)</item>
+        <item>мађарски (Мађарска)</item>
+        <item>исландски (Исланд)</item>
+        <item>индонежански (Индонезија)</item>
+        <item>ирски (Ирска)</item>
+        <item>исиндебеле (Јужноафричка Република)</item>
+        <item>исикоса (Јужноафричка Република)</item>
+        <item>исизулу (Јужноафричка Република)</item>
+        <item>италијански (Италија)</item>
+        <item>италијански (Швајцарска)</item>
+        <item>јапански (Јапан)</item>
+        <item>корејски (Јужна Кореја)</item>
+        <item>летонски (Летонија)</item>
+        <item>литвански (Литванија)</item>
+        <item>малајски (Малезија)</item>
+        <item>малајски (Сингапур)</item>
+        <item>норвешки бокмал (Норвешка)</item>
+        <item>норвешки нинорск (Норвешка)</item>
+        <item>персијски (Иран)</item>
+        <item>пољски (Пољска)</item>
+        <item>португалски (Ангола)</item>
+        <item>португалски (Бразил)</item>
+        <item>португалски (Португалија)</item>
+        <item>румунски (Румунија)</item>
+        <item>руски (Белорусија)</item>
+        <item>руски (Русија)</item>
+        <item>сепеди (Јужноафричка Република)</item>
+        <item>српски (Србија, ћирилица)</item>
+        <item>сесото (Јужноафричка Република)</item>
+        <item>сецвана (Јужноафричка Република)</item>
+        <item>сисвати (Јужноафричка Република)</item>
+        <item>словачки (Словачка)</item>
+        <item>словеначки (Словенија)</item>
+        <item>шпански (Аргентина)</item>
+        <item>шпански (Боливија)</item>
+        <item>шпански (Чиле)</item>
+        <item>шпански (Колумбија)</item>
+        <item>шпански (Костарика)</item>
+        <item>шпански (Куба)</item>
+        <item>шпански (Доминиканска Република)</item>
+        <item>шпански (Еквадор)</item>
+        <item>шпански (Салвадор)</item>
+        <item>шпански (Гватемала)</item>
+        <item>шпански (Хондурас)</item>
+        <item>шпански (Мексико)</item>
+        <item>шпански (Никарагва)</item>
+        <item>шпански (Панама)</item>
+        <item>шпански (Парагвај)</item>
+        <item>шпански (Перу)</item>
+        <item>шпански (Порторико)</item>
+        <item>шпански (Шпанија)</item>
+        <item>шпански (САД)</item>
+        <item>шпански (Уругвај)</item>
+        <item>шпански (Венецуела)</item>
+        <item>свахили (Кенија)</item>
+        <item>свахили (Танзанија)</item>
+        <item>свахили (Уганда)</item>
+        <item>шведски (Финска)</item>
+        <item>шведски (Шведска)</item>
+        <item>тајски (Тајланд)</item>
+        <item>венда (Јужноафричка Република)</item>
+        <item>турски (Турска)</item>
+        <item>украјински (Украјина)</item>
+        <item>урду (Пакистан)</item>
+        <item>вијетнамски (Вијетнам)</item>
+        <item>ксицонга (Јужноафричка Република)</item>
+    </string-array>
+    <string-array name="edit_reminder_day">
+        <item>Данас</item>
+        <item>Сутра</item>
+        <item>Повремено</item>
+        <item>Подеси датум...</item>
+    </string-array>
+    <string-array name="edit_reminder_time">
+        <item>Јутро</item>
+        <item>Поподне</item>
+        <item>Вече</item>
+        <item>Ноћ</item>
+        <item>Цео дан</item>
+        <item>Подеси време...</item>
+    </string-array>
+    <string-array name="edit_reminder_location_trigger_type">
+        <item>Долазак</item>
+        <item>Одлазак</item>
+    </string-array>
+    <string-array name="edit_reminder_location">
+        <item>Кућа</item>
+        <item>Посао</item>
+        <item>Подеси локацију...</item>
+    </string-array>
+    <string-array name="network_error_tts_messages">
+        <item>Ова интернет веза тренутно није поуздана.</item>
+        <item>Ова интернет веза није поуздана тренутно.</item>
+        <item>Ова интернет веза тренутно није стабилна.</item>
+        <item>Ова интернет веза није стабилна тренутно.</item>
+        <item>Ова интернет веза тренутно није довољно јака.</item>
+        <item>Ова интернет веза није довољно јака тренутно.</item>
+    </string-array>
+    <string-array name="read_it_grammar">
+        <item>прочитај</item>
+        <item>прочитај поруку</item>
+        <item>прочитај тај SMS</item>
+    </string-array>
+    <string-array name="reply_grammar">
+        <item>одговори</item>
+        <item>пошаљи одговор</item>
+        <item>пошаљи одговор</item>
+        <item>одговори на SMS</item>
+        <item>пошаљи одговор на SMS</item>
+    </string-array>
+    <string-array name="call_back_grammar">
+        <item>позови пошиљаоца последње поруке</item>
+        <item>позови га</item>
+        <item>узврати му позив</item>
+        <item>позови је</item>
+        <item>узврати јој позив</item>
+    </string-array>
+</resources>

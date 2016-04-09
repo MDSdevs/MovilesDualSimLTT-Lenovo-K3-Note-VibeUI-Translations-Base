@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="recurrence_freq">
+        <item>ENDURTAKA DAGLEGA</item>
+        <item>ENDURTAKA VIKULEGA</item>
+        <item>ENDURTAKA MÁNAÐARL.</item>
+        <item>ENDURTAKA ÁRLEGA</item>
+    </string-array>
+    <string-array name="edit_recurrence">
+        <item>Ekki endurtekið</item>
+        <item>Á hverjum degi</item>
+        <item>Í hverri viku</item>
+        <item>Í hverjum mánuði</item>
+        <item>Á hverju ári</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>fyrsta sunnudag hvers mánaðar</item>
+        <item>annan sunnudag hvers mánaðar</item>
+        <item>þriðja sunnudag hvers mánaðar</item>
+        <item>fjórða sunnudag hvers mánaðar</item>
+        <item>síðasta sunnudag hvers mánaðar</item>
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>fyrsta mánudag hvers mánaðar</item>
+        <item>annan mánudag hvers mánaðar</item>
+        <item>þriðja mánudag hvers mánaðar</item>
+        <item>fjórða mánudag hvers mánaðar</item>
+        <item>síðasta mánudag hvers mánaðar</item>
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>fyrsta þriðjudag hvers mánaðar</item>
+        <item>annan þriðjudag hvers mánaðar</item>
+        <item>þriðja þriðjudag hvers mánaðar</item>
+        <item>fjórða þriðjudag hvers mánaðar</item>
+        <item>síðasta þriðjudag hvers mán.</item>
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>fyrsta miðvikudag hvers mán.</item>
+        <item>annan miðvikudag hvers mánaðar</item>
+        <item>þriðja miðvikudag hvers mán.</item>
+        <item>fjórða miðvikudag hvers mán.</item>
+        <item>síðasta miðvikudag hvers mán.</item>
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>fyrsta fimmtudag hvers mánaðar</item>
+        <item>annan fimmtudag hvers mánaðar</item>
+        <item>þriðja fimmtudag hvers mánaðar</item>
+        <item>fjórða fimmtudag hvers mánaðar</item>
+        <item>síðasta fimmtudag hvers mán.</item>
+    </string-array>
+    <string-array name="repeat_by_nth_fri">
+        <item>fyrsta föstudag hvers mánaðar</item>
+        <item>annan föstudag hvers mánaðar</item>
+        <item>þriðja föstudag hvers mánaðar</item>
+        <item>fjórða föstudag hvers mánaðar</item>
+        <item>síðasta föstudag hvers mánaðar</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>fyrsta laugardag hvers mánaðar</item>
+        <item>annan laugardag hvers mánaðar</item>
+        <item>þriðja laugardag hvers mánaðar</item>
+        <item>fjórða laugardag hvers mánaðar</item>
+        <item>síðasta laugardag hvers mán.</item>
+    </string-array>
+    <string-array name="baseball_innings">
+        <item>1. lota</item>
+        <item>2. lota</item>
+        <item>3. lota</item>
+        <item>4. lota</item>
+        <item>5. lota</item>
+        <item>6. lota</item>
+        <item>7. lota</item>
+        <item>8. lota</item>
+        <item>9. lota</item>
+        <item>10. lota</item>
+        <item>11. lota</item>
+        <item>12. lota</item>
+    </string-array>
+    <string-array name="qp_top_baseball_innings">
+        <item>Seinni hluti 1. lotu</item>
+        <item>Seinni hluti 2. lotu</item>
+        <item>Seinni hluti 3. lotu</item>
+        <item>Seinni hluti 4. lotu</item>
+        <item>Seinni hluti 5. lotu</item>
+        <item>Seinni hluti 6. lotu</item>
+        <item>Seinni hluti 7. lotu</item>
+        <item>Seinni hluti 8. lotu</item>
+        <item>Seinni hluti 9. lotu</item>
+        <item>Seinni hluti 10. lotu</item>
+        <item>Seinni hluti 11. lotu</item>
+        <item>Seinni hluti 12. lotu</item>
+    </string-array>
+    <string-array name="qp_bottom_baseball_innings">
+        <item>Fyrri hluti 1. lotu</item>
+        <item>Fyrri hluti 2. lotu</item>
+        <item>Fyrri hluti 3. lotu</item>
+        <item>Fyrri hluti 4. lotu</item>
+        <item>Fyrri hluti 5. lotu</item>
+        <item>Fyrri hluti 6. lotu</item>
+        <item>Fyrri hluti 7. lotu</item>
+        <item>Fyrri hluti 8. lotu</item>
+        <item>Fyrri hluti 9. lotu</item>
+        <item>Fyrri hluti 10. lotu</item>
+        <item>Fyrri hluti 11. lotu</item>
+        <item>Fyrri hluti 12. lotu</item>
+    </string-array>
+    <string-array name="local_results_markers">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+    </string-array>
+    <string-array name="languageNames">
+        <item>Afríkanska (Suður-Afríka)</item>
+        <item>Arabíska (Alsír)</item>
+        <item>Arabíska (Egyptaland)</item>
+        <item>Arabíska (Írak)</item>
+        <item>Arabíska (Ísrael)</item>
+        <item>Arabíska (Jórdanía)</item>
+        <item>Arabíska (Kúveit)</item>
+        <item>Arabíska (Líbanon)</item>
+        <item>Arabíska (Líbýa)</item>
+        <item>Arabíska (Marokkó)</item>
+        <item>Arabíska (Katar)</item>
+        <item>Arabíska (Sádi-Arabía)</item>
+        <item>Arabíska (Súdan)</item>
+        <item>Arabíska (Sýrland)</item>
+        <item>Arabíska (Túnis)</item>
+        <item>Arabíska (Sameinuðu arabísku furstadæmin)</item>
+        <item>Arabíska (Jemen)</item>
+        <item>Hvítrússneska (Hvíta-Rússland)</item>
+        <item>Bengalska (Bangladess)</item>
+        <item>Búlgarska (Búlgaría)</item>
+        <item>Katalónska (Spánn)</item>
+        <item>Kínverska, mandarín (Kína, einfölduð)</item>
+        <item>Kínverska, mandarín (Hong Kong, einfölduð)</item>
+        <item>Kínverska, mandarín (Hong Kong, hefðbundin)</item>
+        <item>Kínverska, mandarín (Singapúr, einfölduð)</item>
+        <item>Kínverska, mandarín (Taívan, einfölduð)</item>
+        <item>Kínverska, mandarín (Taívan, hefðbundin)</item>
+        <item>Kínverska, yue (Kína, einfölduð)</item>
+        <item>Kínverska, yue (Hong Kong, hefðbundin)</item>
+        <item>Króatíska (Króatía)</item>
+        <item>Tékkneska (Tékkland)</item>
+        <item>Danska (Danmörk)</item>
+        <item>Hollenska (Belgía)</item>
+        <item>Hollenska (Holland)</item>
+        <item>Enska (almenn)</item>
+        <item>Enska (Ástralía)</item>
+        <item>Enska (Bangladess)</item>
+        <item>Enska (Kanada)</item>
+        <item>Enska (Hong Kong)</item>
+        <item>Enska (Indland)</item>
+        <item>Enska (Írland)</item>
+        <item>Enska (Kenía)</item>
+        <item>Enska (Malasía)</item>
+        <item>Enska (Nýja-Sjáland)</item>
+        <item>Enska (Nígería)</item>
+        <item>Enska (Pakistan)</item>
+        <item>Enska (Filippseyjar)</item>
+        <item>Enska (Singapúr)</item>
+        <item>Enska (Suður-Afríka)</item>
+        <item>Enska (Súdan)</item>
+        <item>Enska (Tansanía)</item>
+        <item>Enska (Úganda)</item>
+        <item>Enska (Bretland)</item>
+        <item>Enska (Bandaríkin)</item>
+        <item>Eistneska (Eistland)</item>
+        <item>Filippseyska (Filippseyjar)</item>
+        <item>Finnska (Finnland)</item>
+        <item>Franska (Belgía)</item>
+        <item>Franska (Kanada)</item>
+        <item>Franska (Frakkland)</item>
+        <item>Franska (Sviss)</item>
+        <item>Galisíska (Spánn)</item>
+        <item>Þýska (Austurríki)</item>
+        <item>Þýska (Þýskaland)</item>
+        <item>Þýska (Sviss)</item>
+        <item>Þýska (Liechtenstein)</item>
+        <item>Gríska (Grikkland)</item>
+        <item>Hebreska (Ísrael)</item>
+        <item>Hindí (Indland)</item>
+        <item>Ungverska (Ungverjaland)</item>
+        <item>Íslenska (Ísland)</item>
+        <item>Indónesíska (Indónesía)</item>
+        <item>Írska (Írland)</item>
+        <item>isiNdebele (Suður-Afríka)</item>
+        <item>isiXhosa (Suður-Afríka)</item>
+        <item>isiZulu (Suður-Afríka)</item>
+        <item>Ítalska (Ítalía)</item>
+        <item>Ítalska (Sviss)</item>
+        <item>Japanska (Japan)</item>
+        <item>Kóreska (Suður-Kórea)</item>
+        <item>Lettneska (Lettland)</item>
+        <item>Litháíska (Litháen)</item>
+        <item>Malajíska (Malasía)</item>
+        <item>Malajíska (Singapúr)</item>
+        <item>Norskt bókmál (Noregur)</item>
+        <item>Nýnorska (Noregur)</item>
+        <item>Persneska (Íran)</item>
+        <item>Pólska (Pólland)</item>
+        <item>Portúgalska (Angóla)</item>
+        <item>Portúgalska (Brasilía)</item>
+        <item>Portúgalska (Portúgal)</item>
+        <item>Rúmenska (Rúmenía)</item>
+        <item>Rússneska (Hvíta-Rússland)</item>
+        <item>Rússneska (Rússland)</item>
+        <item>Sepedi (Suður-Afríka)</item>
+        <item>Serbneska (Serbía, kyrillíska)</item>
+        <item>Sesótó (Suður-Afríka)</item>
+        <item>Setswana (Suður-Afríka)</item>
+        <item>siSwati (Suður-Afríka)</item>
+        <item>Slóvakíska (Slóvakía)</item>
+        <item>Slóvenska (Slóvenía)</item>
+        <item>Spænska (Argentína)</item>
+        <item>Spænska (Bólivía)</item>
+        <item>Spænska (Síle)</item>
+        <item>Spænska (Kólumbía)</item>
+        <item>Spænska (Kostaríka)</item>
+        <item>Spænska (Kúba)</item>
+        <item>Spænska (Dóminíska lýðveldið)</item>
+        <item>Spænska (Ekvador)</item>
+        <item>Spænska (El Salvador)</item>
+        <item>Spænska (Gvatemala)</item>
+        <item>Spænska (Hondúras)</item>
+        <item>Spænska (Mexíkó)</item>
+        <item>Spænska (Níkaragva)</item>
+        <item>Spænska (Panama)</item>
+        <item>Spænska (Paragvæ)</item>
+        <item>Spænska (Perú)</item>
+        <item>Spænska (Púertó Ríkó)</item>
+        <item>Spænska (Spánn)</item>
+        <item>Spænskt (Bandaríkin)</item>
+        <item>Spænska (Úrúgvæ)</item>
+        <item>Spænska (Venesúela)</item>
+        <item>Svahílí (Kenía)</item>
+        <item>Svahílí (Tansanía)</item>
+        <item>Svahílí (Úganda)</item>
+        <item>Sænska (Finnland)</item>
+        <item>Sænska (Svíþjóð)</item>
+        <item>Taílenska (Taíland)</item>
+        <item>Tshivenda (Suður-Afríka)</item>
+        <item>Tyrkneska (Tyrkland)</item>
+        <item>Úkraínska (Úkraína)</item>
+        <item>Úrdú (Pakistan)</item>
+        <item>Víetnamska (Víetnam)</item>
+        <item>Xitsonga (Suður-Afríka)</item>
+    </string-array>
+    <string-array name="edit_reminder_day">
+        <item>Í dag</item>
+        <item>Á morgun</item>
+        <item>Af og til</item>
+        <item>Velja dagsetningu…</item>
+    </string-array>
+    <string-array name="edit_reminder_time">
+        <item>Morgunn</item>
+        <item>Síðdegi</item>
+        <item>Kvöld</item>
+        <item>Síðkvöld</item>
+        <item>Allur dagurinn</item>
+        <item>Velja tíma…</item>
+    </string-array>
+    <string-array name="edit_reminder_location_trigger_type">
+        <item>Koma</item>
+        <item>Leggja af stað</item>
+    </string-array>
+    <string-array name="edit_reminder_location">
+        <item>Heima</item>
+        <item>Vinna</item>
+        <item>Velja staðsetningu…</item>
+    </string-array>
+    <string-array name="network_error_tts_messages">
+        <item>Þessi nettenging er ekki áreiðanleg eins og er.</item>
+        <item>Þessi nettenging er ekki áreiðanleg í augnablikinu.</item>
+        <item>Þessi nettenging er ekki stöðug eins og er.</item>
+        <item>Þessi nettenging er ekki stöðug í augnablikinu.</item>
+        <item>Þessi nettenging er ekki nógu góð eins og er.</item>
+        <item>Þessi nettenging er ekki nógu góð í augnablikinu.</item>
+    </string-array>
+    <string-array name="read_it_grammar">
+        <item>lesa þau</item>
+        <item>lesa skilaboðin</item>
+        <item>lesa þetta SMS</item>
+    </string-array>
+    <string-array name="reply_grammar">
+        <item>svara</item>
+        <item>senda svar</item>
+        <item>svara SMS</item>
+        <item>svara skilaboðum</item>
+        <item>senda svar við þeim</item>
+    </string-array>
+    <string-array name="call_back_grammar">
+        <item>hringja í sendanda síðustu skilaboða</item>
+        <item>hringja í hann</item>
+        <item>hringja í hann til baka</item>
+        <item>hringja í hana</item>
+        <item>hringja í hana til baka</item>
+    </string-array>
+</resources>

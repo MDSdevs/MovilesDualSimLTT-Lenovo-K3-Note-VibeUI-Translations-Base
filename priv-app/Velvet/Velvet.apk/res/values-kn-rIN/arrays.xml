@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="recurrence_freq">
+        <item>ಪ್ರತಿದಿನ ಪುನರಾವರ್ತಿಸು</item>
+        <item>ವಾರ ಪುನರಾವರ್ತಿಸು</item>
+        <item>ತಿಂಗಳು ಪುನರಾವರ್ತಿಸು</item>
+        <item>ವಾರ್ಷಿಕ ಪುನರಾವರ್ತಿಸು</item>
+    </string-array>
+    <string-array name="edit_recurrence">
+        <item>ಪುನರಾವರ್ತನೆ ಇಲ್ಲ</item>
+        <item>ಪ್ರತಿ ದಿನ</item>
+        <item>ಪ್ರತಿ ವಾರ</item>
+        <item>ಪ್ರತಿ ತಿಂಗಳು</item>
+        <item>ಪ್ರತಿ ವರ್ಷ</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>ಪ್ರತಿ ಮೊದಲ ಭಾನುವಾರ</item>
+        <item>ಪ್ರತಿ ಎರಡನೇ ಭಾನುವಾರ</item>
+        <item>ಪ್ರತಿ ಮೂರನೇ ಭಾನುವಾರ</item>
+        <item>ಪ್ರತಿ ನಾಲ್ಕನೇ ಭಾನುವಾರ</item>
+        <item>ಪ್ರತಿ ಕೊನೆಯ ಭಾನುವಾರ</item>
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>ಪ್ರತಿ ಮೊದಲ ಸೋಮವಾರ</item>
+        <item>ಪ್ರತಿ ಎರಡನೇ ಸೋಮವಾರ</item>
+        <item>ಪ್ರತಿ ಮೂರನೇ ಸೋಮವಾರ</item>
+        <item>ಪ್ರತಿ ನಾಲ್ಕನೇ ಸೋಮವಾರ</item>
+        <item>ಪ್ರತಿ ಕೊನೆಯ ಸೋಮವಾರ</item>
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>ಪ್ರತಿ ಮೊದಲ ಮಂಗಳವಾರ</item>
+        <item>ಪ್ರತಿ ಎರಡನೇ ಮಂಗಳವಾರ</item>
+        <item>ಪ್ರತಿ ಮೂರನೇ ಮಂಗಳವಾರ</item>
+        <item>ಪ್ರತಿ ನಾಲ್ಕನೇ ಮಂಗಳವಾರ</item>
+        <item>ಪ್ರತಿ ಕೊನೆಯ ಮಂಗಳವಾರ</item>
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>ಪ್ರತಿ ಮೊದಲ ಬುಧವಾರ</item>
+        <item>ಪ್ರತಿ ಎರಡನೇ ಬುಧವಾರ</item>
+        <item>ಪ್ರತಿ ಮೂರನೇ ಬುಧವಾರ</item>
+        <item>ಪ್ರತಿ ನಾಲ್ಕನೇ ಬುಧವಾರ</item>
+        <item>ಪ್ರತಿ ಕೊನೆಯ ಬುಧವಾರ</item>
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>ಪ್ರತಿ ಮೊದಲ ಗುರುವಾರ</item>
+        <item>ಪ್ರತಿ ಎರಡನೇ ಗುರುವಾರ</item>
+        <item>ಪ್ರತಿ ಮೂರನೇ ಗುರುವಾರ</item>
+        <item>ಪ್ರತಿ ನಾಲ್ಕನೇ ಗುರುವಾರ</item>
+        <item>ಪ್ರತಿ ಕೊನೆಯ ಗುರುವಾರ</item>
+    </string-array>
+    <string-array name="repeat_by_nth_fri">
+        <item>ಪ್ರತಿ ಮೊದಲ ಶುಕ್ರವಾರ</item>
+        <item>ಪ್ರತಿ ಎರಡನೇ ಶುಕ್ರವಾರ</item>
+        <item>ಪ್ರತಿ ಮೂರನೇ ಶುಕ್ರವಾರ</item>
+        <item>ಪ್ರತಿ ನಾಲ್ಕನೇ ಶುಕ್ರವಾರ</item>
+        <item>ಪ್ರತಿ ಕೊನೆಯ ಶುಕ್ರವಾರ</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>ಪ್ರತಿ ಮೊದಲ ಶನಿವಾರ</item>
+        <item>ಪ್ರತಿ ಎರಡನೇ ಶನಿವಾರ</item>
+        <item>ಪ್ರತಿ ಮೂರನೇ ಶನಿವಾರ</item>
+        <item>ಪ್ರತಿ ನಾಲ್ಕನೇ ಶನಿವಾರ</item>
+        <item>ಪ್ರತಿ ಕೊನೆಯ ಶನಿವಾರ</item>
+    </string-array>
+    <string-array name="baseball_innings">
+        <item>1 ನೇ ಇನ್ನಿಂಗ್</item>
+        <item>2ನೇ ಇನ್ನಿಂಗ್</item>
+        <item>3 ನೇ ಇನ್ನಿಂಗ್</item>
+        <item>4 ನೇ ಇನ್ನಿಂಗ್</item>
+        <item>5 ನೇ ಇನ್ನಿಂಗ್</item>
+        <item>6ನೇ ಇನ್ನಿಂಗ್‌</item>
+        <item>7 ನೇ ಇನ್ನಿಂಗ್</item>
+        <item>8ನೆ ಇನ್ನಿಂಗ್‌</item>
+        <item>9ನೇ ಇನ್ನಿಂಗ್</item>
+        <item>10 ನೇ ಇನ್ನಿಂಗ್</item>
+        <item>11ನೇ ಇನ್ನಿಂಗ್‌</item>
+        <item>12 ನೇ ಇನ್ನಿಂಗ್</item>
+    </string-array>
+    <string-array name="qp_top_baseball_innings">
+        <item>ಅಗ್ರ 1ನೇ</item>
+        <item>ಅಗ್ರ 2ನೇ</item>
+        <item>ಅಗ್ರ 3ನೇ</item>
+        <item>ಅಗ್ರ 4ನೇ</item>
+        <item>ಅಗ್ರ 5ನೇ</item>
+        <item>ಅಗ್ರ 6ನೇ</item>
+        <item>ಅಗ್ರ 7ನೇ</item>
+        <item>ಅಗ್ರ 8ನೇ</item>
+        <item>ಅಗ್ರ 9ನೇ</item>
+        <item>ಅಗ್ರ 10ನೇ</item>
+        <item>ಅಗ್ರ 11ನೇ</item>
+        <item>ಅಗ್ರ 12ನೇ</item>
+    </string-array>
+    <string-array name="qp_bottom_baseball_innings">
+        <item>ಕೆಳಗಿನ 1ನೇ</item>
+        <item>ಕೆಳಗಿನ 2ನೇ</item>
+        <item>ಕೆಳಗಿನ 3ನೇ</item>
+        <item>ಕೆಳಗಿನ 4ನೇ</item>
+        <item>ಕೆಳಗಿನ 5ನೇ</item>
+        <item>ಕೆಳಗಿನ 6ನೇ</item>
+        <item>ಕೆಳಗಿನ 7ನೇ</item>
+        <item>ಕೆಳಗಿನ 8ನೇ</item>
+        <item>ಕೆಳಗಿನ 9ನೇ</item>
+        <item>ಕೆಳಗಿನ 10ನೇ</item>
+        <item>ಕೆಳಗಿನ 11ನೇ</item>
+        <item>ಕೆಳಗಿನ 12ನೇ</item>
+    </string-array>
+    <string-array name="local_results_markers">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+    </string-array>
+    <string-array name="languageNames">
+        <item>ಆಫ್ರಿಕಾನ್ಸ್ (ದಕ್ಷಿಣ ಆಫ್ರಿಕಾ)</item>
+        <item>ಅರೇಬಿಕ್ (ಆಲ್ಜೀರಿಯಾ)</item>
+        <item>ಅರೇಬಿಕ್ (ಈಜಿಪ್ಟ್)</item>
+        <item>ಅರೇಬಿಕ್ (ಇರಾಕ್)</item>
+        <item>ಅರೇಬಿಕ್ (ಇಸ್ರೇಲ್)</item>
+        <item>ಅರೇಬಿಕ್ (ಜೋರ್ಡಾನ್)</item>
+        <item>ಅರೇಬಿಕ್ (ಕುವೈತ್)</item>
+        <item>ಅರೇಬಿಕ್ (ಲೆಬನಾನ್)</item>
+        <item>ಅರೇಬಿಕ್ (ಲಿಬಿಯಾ)</item>
+        <item>ಅರೇಬಿಕ್ (ಮೊರಾಕೊ)</item>
+        <item>ಅರೇಬಿಕ್ (ಖತಾರ್)</item>
+        <item>ಅರೇಬಿಕ್ (ಸೌದಿ ಅರೇಬಿಯಾ)</item>
+        <item>ಅರೇಬಿಕ್ (ಸುಡಾನ್)</item>
+        <item>ಅರೇಬಿಕ್ (ಸಿರಿಯಾ)</item>
+        <item>ಅರೇಬಿಕ್ (ಟುನೀಶಿಯ)</item>
+        <item>ಅರೇಬಿಕ್ (ಯುನೈಟೆಡ್ ಅರಬ್ ಎಮಿರೇಟ್ಸ್)</item>
+        <item>ಅರೇಬಿಕ್ (ಯೇಮನ್)</item>
+        <item>ಬೆಲಾರೂಸಿಯನ್ (ಬೆಲಾರಸ್)</item>
+        <item>ಬೆಂಗಾಲಿ (ಬಾಂಗ್ಲಾದೇಶ)</item>
+        <item>ಬಲ್ಗೇರಿಯನ್ (ಬಲ್ಗೇರಿಯಾ)</item>
+        <item>ಕ್ಯಾಟಲಾನ್ (ಸ್ಪೇನ್)</item>
+        <item>ಚೈನೀಸ್, ಮ್ಯಾಂಡರಿನ್‌‌ (ಚೈನಾ, ಸರಳೀಕೃತ)</item>
+        <item>ಚೈನೀಸ್, ಮ್ಯಾಂಡರಿನ್ (ಹಾಂಗ್ ಕಾಂಗ್, ಸರಳೀಕೃತ)</item>
+        <item>ಚೈನೀಸ್, ಮ್ಯಾಂಡರಿನ್ (ಹಾಂಗ್‌ಕಾಂಗ್, ಸಾಂಪ್ರದಾಯಿಕ)</item>
+        <item>ಚೈನೀಸ್, ಮ್ಯಾಂಡರಿನ್ (ಸಿಂಗಪುರ್, ಸರಳೀಕೃತ)</item>
+        <item>ಚೈನೀಸ್, ಮ್ಯಾಂಡರಿನ್ (ತೈವಾನ್, ಸರಳೀಕೃತ)</item>
+        <item>ಚೈನೀಸ್, ಮ್ಯಾಂಡರಿನ್‌ (ತೈವಾನ್‌, ಸಾಂಪ್ರದಾಯಿಕ)</item>
+        <item>ಚೈನೀಸ್, ಯು (ಚೀನಾ, ಸರಳೀಕೃತ)</item>
+        <item>ಚೈನೀಸ್, ಯು (ಹಾಂಗ್‌ಕಾಂಗ್‌‌, ಸಾಂಪ್ರದಾಯಿಕ)</item>
+        <item>ಕ್ರೊಯೇಶಿಯನ್ (ಕ್ರೊಯೇಷಿಯಾ)</item>
+        <item>ಝೆಕ್‌ (ಝೆಕ್‌ ಗಣರಾಜ್ಯ)</item>
+        <item>ಡ್ಯಾನಿಷ್ (ಡೆನ್ಮಾರ್ಕ್)</item>
+        <item>ಡಚ್ (ಬೆಲ್ಜಿಯಂ)</item>
+        <item>ಡಚ್ (ನೆದರ್‌ಲ್ಯಾಂಡ್ಸ್)</item>
+        <item>ಇಂಗ್ಲಿಷ್‌ (ಸಾಮಾನ್ಯ)</item>
+        <item>ಇಂಗ್ಲಿಷ್ (ಆಸ್ಟ್ರೇಲಿಯಾ)</item>
+        <item>ಇಂಗ್ಲಿಷ್‌ (ಬಾಂಗ್ಲಾದೇಶ)</item>
+        <item>ಇಂಗ್ಲಿಷ್‌ (ಕೆನಡಾ)</item>
+        <item>ಇಂಗ್ಲಿಷ್ (ಹಾಂಗ್ ಕಾಂಗ್)</item>
+        <item>ಇಂಗ್ಲಿಷ್‌‌ (ಭಾರತ)</item>
+        <item>ಇಂಗ್ಲಿಷ್ (ಐರ್ಲ್ಯಾಂಡ್)</item>
+        <item>ಇಂಗ್ಲಿಷ್ (ಕೀನ್ಯಾ)</item>
+        <item>ಇಂಗ್ಲಿಷ್ (ಮಲೇಷ್ಯಾ)</item>
+        <item>ಇಂಗ್ಲಿಷ್‌ (ನ್ಯೂಜಿಲ್ಯಾಂಡ್)</item>
+        <item>ಇಂಗ್ಲಿಷ್ (ನೈಜೀರಿಯಾ)</item>
+        <item>ಇಂಗ್ಲಿಷ್ (ಪಾಕಿಸ್ತಾನ)</item>
+        <item>ಇಂಗ್ಲಿಷ್ (ಫಿಲಿಫೈನ್ಸ್)</item>
+        <item>ಇಂಗ್ಲಿಷ್ (ಸಿಂಗಪುರ್)</item>
+        <item>ಇಂಗ್ಲಿಷ್‌‌ (ದಕ್ಷಿಣ ಆಫ್ರಿಕಾ)</item>
+        <item>ಇಂಗ್ಲಿಷ್‌ (ಸುಡಾನ್)</item>
+        <item>ಇಂಗ್ಲಿಷ್ (ಟಾಂಜೇನಿಯಾ)</item>
+        <item>ಇಂಗ್ಲಿಷ್ (ಉಗಾಂಡಾ)</item>
+        <item>ಇಂಗ್ಲಿಷ್ (UK)</item>
+        <item>ಇಂಗ್ಲಿಷ್ (US)</item>
+        <item>ಎಸ್ಟೋನಿಯನ್ (ಎಸ್ಟೋನಿಯಾ)</item>
+        <item>ಫಿಲಿಪಿನೊ (ಫಿಲಿಪೀನ್ಸ್)</item>
+        <item>ಫಿನ್ನಿಶ್ (ಫಿನ್‌ಲ್ಯಾಂಡ್)</item>
+        <item>ಫ್ರೆಂಚ್ (ಬೆಲ್ಜಿಯಂ)</item>
+        <item>ಫ್ರೆಂಚ್‌ (ಕೆನಡಾ)</item>
+        <item>ಫ್ರೆಂಚ್ (ಫ್ರಾನ್ಸ್)</item>
+        <item>ಫ್ರೆಂಚ್ (ಸ್ವಿಟ್ಜರ್ಲ್ಯಾಂಡ್)</item>
+        <item>ಗ್ಯಾಲಿಶಿಯನ್ (ಸ್ಪೇನ್)</item>
+        <item>ಜರ್ಮನ್ (ಆಸ್ಟ್ರಿಯಾ)</item>
+        <item>ಜರ್ಮನ್ (ಜರ್ಮನಿ)</item>
+        <item>ಜರ್ಮನ್ (ಸ್ವಿಟ್ಜರ್‌ಲ್ಯಾಂಡ್)</item>
+        <item>ಜರ್ಮನ್ (ಲಿಚ್ಟೆನ್‌ಸ್ಟಿನ್)</item>
+        <item>ಗ್ರೀಕ್ (ಗ್ರೀಸ್)</item>
+        <item>ಹೀಬ್ರೂ (ಇಸ್ರೇಲ್)</item>
+        <item>ಹಿಂದಿ (ಭಾರತ)</item>
+        <item>ಹಂಗೇರಿಯನ್ (ಹಂಗಾರಿ)</item>
+        <item>ಐಸ್‌ಲ್ಯಾಂಡಿಕ್ (ಐಸ್‌ಲ್ಯಾಂಡ್)</item>
+        <item>ಇಂಡೋನೇಷಿಯನ್ (ಇಂಡೋನೇಷ್ಯಾ)</item>
+        <item>ಐರಿಷ್ (ಐರ್ಲೆಂಡ್)</item>
+        <item>ಇಂಗ್ಲಿಷ್ (ದಕ್ಷಿಣ ಆಫ್ರಿಕಾ)</item>
+        <item>ಇಸಿಘೋಸಾ (ದಕ್ಷಿಣ ಆಫ್ರಿಕಾ)</item>
+        <item>ಐಸಿಝುಲು (ದಕ್ಷಿಣ ಆಫ್ರಿಕಾ)</item>
+        <item>ಇಟಾಲಿಯನ್ (ಇಟಲಿ)</item>
+        <item>ಇಟ್ಯಾಲಿಯನ್ (ಸ್ವಿಟ್ಜರ್‌ಲ್ಯಾಂಡ್)</item>
+        <item>ಜಾಪನೀಸ್ (ಜಪಾನ್)</item>
+        <item>ಕೊರಿಯನ್ (ದಕ್ಷಿಣ ಕೊರಿಯಾ)</item>
+        <item>ಲಾಟ್ವಿಯನ್ (ಲಾಟ್ವಿಯಾ)</item>
+        <item>ಲಿಥುವೇನಿಯನ್ (ಲಿಥುವೇನಿಯಾ)</item>
+        <item>ಮಲಾಯ್ (ಮಲೇಷ್ಯಾ)</item>
+        <item>ಮಲಾಯ್ (ಸಿಂಗಪುರ್)</item>
+        <item>ನೋರ್ವೇಜಿಯನ್ ಬೊಕ್ಮಲ್ (ನಾರ್ವೆ)</item>
+        <item>ನಾರ್ವೇಜಿಯನ್ ನೂನಾರ್ಸ್ಕ್ (ನಾರ್ವೆ)</item>
+        <item>ಪರ್ಷಿಯನ್ (ಇರಾನ್)</item>
+        <item>ಪೋಲಿಷ್ (ಪೋಲೆಂಡ್)</item>
+        <item>ಪೋರ್ಚುಗೀಸ್ (ಅಂಗೋಲ)</item>
+        <item>ಪೋರ್ಚುಗೀಸ್‌ (ಬ್ರೆಜಿಲ್)</item>
+        <item>ಪೋರ್ಚುಗೀಸ್ (ಪೋರ್ಚುಗಲ್)</item>
+        <item>ರೊಮೇನಿಯನ್ (ರೊಮೇನಿಯಾ)</item>
+        <item>ರಷ್ಯಾ (ಬೆಲಾರಸ್)</item>
+        <item>ರಷ್ಯನ್ (ರಷ್ಯಾ)</item>
+        <item>ಸೆಪೆಡಿ (ದಕ್ಷಿಣ ಆಫ್ರಿಕಾ)</item>
+        <item>ಸರ್ಬಿಯನ್ (ಸರ್ಬಿಯಾ, ಸಿರಿಲಿಕ್)</item>
+        <item>ಸೆಸೊತೊ (ದಕ್ಷಿಣ ಆಫ್ರಿಕಾ)</item>
+        <item>ಸೆಟ್‌ಸ್ವಾನಾ (ದಕ್ಷಿಣ ಆಫ್ರಿಕಾ)</item>
+        <item>ಸಿಸ್ವಾತಿ (ದಕ್ಷಿಣ ಆಫ್ರಿಕಾ)</item>
+        <item>ಸ್ಲೋವಾಕ್ (ಸ್ಲೋವಾಕಿಯಾ)</item>
+        <item>ಸ್ಲೋವೇನಿಯನ್ (ಸ್ಲೊವೇನಿಯಾ)</item>
+        <item>ಸ್ಪ್ಯಾನಿಷ್ (ಅರ್ಜೆಂಟೀನಾ)</item>
+        <item>ಸ್ಪ್ಯಾನಿಷ್ (ಬೊಲೀವಿಯಾ)</item>
+        <item>ಸ್ಪ್ಯಾನಿಷ್ (ಚಿಲಿ)</item>
+        <item>ಸ್ಪ್ಯಾನಿಷ್ (ಕೊಲಂಬಿಯಾ)</item>
+        <item>ಸ್ಪ್ಯಾನಿಷ್ (ಕೋಸ್ಟಾ ರಿಕಾ)</item>
+        <item>ಸ್ಪ್ಯಾನಿಷ್ (ಕ್ಯೂಬಾ)</item>
+        <item>ಸ್ಪ್ಯಾನಿಷ್ (ಡೊಮಿನಿಕನ್ ರಿಪಬ್ಲಿಕ್)</item>
+        <item>ಸ್ಪ್ಯಾನಿಷ್ (ಈಕ್ವೆಡಾರ್)</item>
+        <item>ಸ್ಪ್ಯಾನಿಷ್ (ಎಲ್ ಸಾಲ್ವಡಾರ್)</item>
+        <item>ಸ್ಪ್ಯಾನಿಷ್ (ಗ್ವಾಟೆಮಾಲಾ)</item>
+        <item>ಸ್ಪ್ಯಾನಿಷ್ (ಹೊಂಡುರಾಸ್)</item>
+        <item>ಸ್ಪಾನಿಷ್ (ಮೆಕ್ಸಿಕೋ)</item>
+        <item>ಸ್ಪ್ಯಾನಿಷ್ (ನಿಕರಾಗುವಾ)</item>
+        <item>ಸ್ಪ್ಯಾನಿಷ್ (ಪನಾಮ)</item>
+        <item>ಸ್ಪ್ಯಾನಿಷ್ (ಪರಾಗ್ವೇ)</item>
+        <item>ಸ್ಪ್ಯಾನಿಷ್ (ಪೆರು)</item>
+        <item>ಸ್ಪ್ಯಾನಿಷ್ (ಪ್ಯುಟೊ ರಿಕೊ)</item>
+        <item>ಸ್ಪ್ಯಾನಿಶ್ (ಸ್ಪೇನ್)</item>
+        <item>ಸ್ಪ್ಯಾನಿಷ್ (US)</item>
+        <item>ಸ್ಪ್ಯಾನಿಷ್ (ಉರುಗ್ವೆ)</item>
+        <item>ಸ್ಪ್ಯಾನಿಷ್ (ವೆನೆಜುವೆಲಾ)</item>
+        <item>ಸ್ವಹಿಲಿ (ಕೀನ್ಯಾ)</item>
+        <item>ಸ್ವಾಹಿಲಿ (ತಾಂಜೇನಿಯಾ)</item>
+        <item>ಸ್ವಹಿಲಿ (ಉಗಾಂಡಾ)</item>
+        <item>ಸ್ವೀಡಿಷ್ (ಫಿನ್‌ಲ್ಯಾಂಡ್)</item>
+        <item>ಸ್ವೀಡಿಷ್ (ಸ್ವೀಡನ್)</item>
+        <item>ಥಾಯ್ (ಥಾಯ್ಲೆಂಡ್)</item>
+        <item>ಟ್ಶಿವೆಂಡಾ (ದಕ್ಷಿಣ ಆಫ್ರಿಕಾ)</item>
+        <item>ಟರ್ಕಿಷ್ (ಟರ್ಕಿ)</item>
+        <item>ಉಕ್ರೇನಿಯನ್ (ಉಕ್ರೇನ್)</item>
+        <item>ಉರ್ದು (ಪಾಕಿಸ್ತಾನ)</item>
+        <item>ವಿಯೆಟ್ನಾಮೀಸ್ (ವಿಯೆಟ್ನಾಂ)</item>
+        <item>ಝಿಟ್‌ಸೊಂಗಾ (ದಕ್ಷಿಣ ಆಫ್ರಿಕಾ)</item>
+    </string-array>
+    <string-array name="edit_reminder_day">
+        <item>ಇಂದು</item>
+        <item>ನಾಳೆ</item>
+        <item>ಸಾಂದರ್ಭಿಕವಾಗಿ</item>
+        <item>ದಿನಾಂಕವನ್ನು ಹೊಂದಿಸಿ…</item>
+    </string-array>
+    <string-array name="edit_reminder_time">
+        <item>ಬೆಳಗ್ಗೆ</item>
+        <item>ಮಧ್ಯಾಹ್ನ</item>
+        <item>ಸಂಜೆ</item>
+        <item>ರಾತ್ರಿ</item>
+        <item>ದಿನಪೂರ್ತಿ</item>
+        <item>ಸಮಯವನ್ನು ಹೊಂದಿಸಿ…</item>
+    </string-array>
+    <string-array name="edit_reminder_location_trigger_type">
+        <item>ತಲುಪಿ</item>
+        <item>ತ್ಯಜಿಸು</item>
+    </string-array>
+    <string-array name="edit_reminder_location">
+        <item>ಮನೆ</item>
+        <item>ಕೆಲಸದ ಸ್ಥಳ</item>
+        <item>ಸ್ಥಳವನ್ನು ಹೊಂದಿಸಿ…</item>
+    </string-array>
+    <string-array name="network_error_tts_messages">
+        <item>ಈಗ ಈ ಇಂಟರ್‌ನೆಟ್ ಸಂಪರ್ಕವನ್ನು ಅವಲಂಬಿಸಿರಲು ಸಾಧ್ಯವಿಲ್ಲ.</item>
+        <item>ಈ ಕ್ಷಣದಲ್ಲಿ ಈ ಇಂಟರ್‌ನೆಟ್ ಸಂಪರ್ಕವನ್ನು ಅವಲಂಬಿಸಿರಲು ಸಾಧ್ಯವಿಲ್ಲ.</item>
+        <item>ಈಗ ಇಂಟರ್‌ನೆಟ್ ಸಂಪರ್ಕ ಸ್ಥಿರವಾಗಿಲ್ಲ.</item>
+        <item>ಈ ಕ್ಷಣದಲ್ಲಿ ಇಂಟರ್‌ನೆಟ್ ಸಂಪರ್ಕ ಸ್ಥಿರವಾಗಿಲ್ಲ.</item>
+        <item>ಈಗ ಇಂಟರ್‌ನೆಟ್ ಸಂಪರ್ಕ ಸಾಕಷ್ಟು ಬಲಯುತವಾಗಿಲ್ಲ..</item>
+        <item>ಈ ಕ್ಷಣದಲ್ಲಿ ಇಂಟರ್‌ನೆಟ್ ಸಂಪರ್ಕ ಸಾಕಷ್ಟು ಬಲಯುತವಾಗಿಲ್ಲ.</item>
+    </string-array>
+    <string-array name="read_it_grammar">
+        <item>ಇದನ್ನು ಓದಿ</item>
+        <item>ಸಂದೇಶವನ್ನು ಓದಿ</item>
+        <item>ಪಠ್ಯ ಸಂದೇಶವನ್ನು ಓದಿ</item>
+    </string-array>
+    <string-array name="reply_grammar">
+        <item>ಪ್ರತ್ಯುತ್ತರ</item>
+        <item>ಪ್ರತ್ಯುತ್ತರ ಕಳುಹಿಸು</item>
+        <item>ಪ್ರತ್ಯುತ್ತರ ಕಳುಹಿಸು</item>
+        <item>ಪಠ್ಯ ಸಂದೇಶಕ್ಕೆ ಪ್ರತ್ಯುತ್ತರಿಸು</item>
+        <item>ಇದಕ್ಕೆ ಪ್ರತ್ಯುತ್ತರ ಕಳುಹಿಸು</item>
+    </string-array>
+    <string-array name="call_back_grammar">
+        <item>ಕೊನೆಯ ಸಂದೇಶ ಕಳುಹಿಸಿದವರಿಗೆ ಮರಳಿ ಕರೆಮಾಡಿ</item>
+        <item>ಅವರಿಗೆ ಕರೆಮಾಡಿ</item>
+        <item>ಅವರಿಗೆ ಮರಳಿ ಕರೆಮಾಡಿ</item>
+        <item>ಅವರಿಗೆ ಕರೆಮಾಡಿ</item>
+        <item>ಅವರಿಗೆ ಮರಳಿ ಕರೆಮಾಡಿ</item>
+    </string-array>
+</resources>

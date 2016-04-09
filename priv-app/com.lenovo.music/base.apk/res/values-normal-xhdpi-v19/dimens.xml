@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="fp_below_arrow_bottompadding">215.0dip</dimen>
+    <dimen name="online_radio_cover_default_width">360.0dip</dimen>
+    <dimen name="online_radio_cover_default_height">175.0dip</dimen>
+    <dimen name="online_radio_channel_padding_bottom">21.0dip</dimen>
+    <dimen name="online_artist_detail_action_bar_height">85.0dip</dimen>
+    <dimen name="online_artist_detail_action_bar_parent_margin_top">35.0dip</dimen>
+    <dimen name="online_radio_cover_fl_margin_top">0.0dip</dimen>
+    <dimen name="button_textsize">16.0sp</dimen>
+    <dimen name="my_songs_action_margin_top">39.0dip</dimen>
+    <dimen name="action_bar_marginTop">25.0dip</dimen>
+    <dimen name="playlist_pic_height">260.0dip</dimen>
+    <dimen name="playlist_cover_height">90.0dip</dimen>
+    <dimen name="action_bar_for_pic_height">85.0dip</dimen>
+</resources>

@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">%1$d har valts</item>
+        <item quantity="zero">%1$d har valts</item>
+        <item quantity="one">%1$d har valts</item>
+    </plurals>
+    <plurals name="recurrence_end_count">
+        <item quantity="other">För %d händelser</item>
+        <item quantity="one">För %d händelse</item>
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+        <item quantity="other">Med %d dagars intervall</item>
+        <item quantity="one">Med %d dags intervall</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+        <item quantity="other">Med %d veckors intervall</item>
+        <item quantity="one">Med %d veckas intervall</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+        <item quantity="other">Med %d månaders intervall</item>
+        <item quantity="one">Med %d månads intervall</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+        <item quantity="other">Med %d års intervall</item>
+        <item quantity="one">Med %d års intervall</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item quantity="other">, %d gånger</item>
+        <item quantity="one">, en gång</item>
+    </plurals>
+    <plurals name="daily">
+        <item quantity="other">%d dagars interv.</item>
+        <item quantity="one">Dagligen</item>
+        <item quantity="two">%d dagars interv.</item>
+        <item quantity="few">%d dagars interv.</item>
+        <item quantity="many">%d dagars interv.</item>
+    </plurals>
+    <plurals name="daily_lower">
+        <item quantity="other">med %d dagars intervall</item>
+        <item quantity="one">varje dag</item>
+        <item quantity="two">med %d dagars intervall</item>
+        <item quantity="few">med %d dagars intervall</item>
+        <item quantity="many">med %d dagars intervall</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="other">%1$d veckors intervall på %2$s</item>
+        <item quantity="one">Varje vecka på %2$s</item>
+        <item quantity="two">%1$d veckors intervall på %2$s</item>
+        <item quantity="few">%1$d veckors intervall på %2$s</item>
+        <item quantity="many">%1$d veckors intervall på %2$s</item>
+    </plurals>
+    <plurals name="weekly_lower">
+        <item quantity="other">med %1$d veckors intervall på %2$s</item>
+        <item quantity="one">varje vecka på %2$s</item>
+        <item quantity="two">med %1$d veckors intervall på %2$s</item>
+        <item quantity="few">med %1$d veckors intervall på %2$s</item>
+        <item quantity="many">med %1$d veckors intervall på %2$s</item>
+    </plurals>
+    <plurals name="monthly_interval">
+        <item quantity="other">%1$d månaders intervall</item>
+        <item quantity="one">Varje månad</item>
+        <item quantity="two">%1$d månaders intervall</item>
+        <item quantity="few">%1$d månaders intervall</item>
+        <item quantity="many">%1$d månaders intervall</item>
+    </plurals>
+    <plurals name="monthly_interval_lower">
+        <item quantity="other">med %1$d månaders intervall</item>
+        <item quantity="one">varje månad</item>
+        <item quantity="two">med %1$d månaders intervall</item>
+        <item quantity="few">med %1$d månaders intervall</item>
+        <item quantity="many">med %1$d månaders intervall</item>
+    </plurals>
+    <plurals name="yearly_interval_plain">
+        <item quantity="other">%1$d års intervall</item>
+        <item quantity="one">Årsvis</item>
+        <item quantity="two">%1$d års intervall</item>
+        <item quantity="few">%1$d års intervall</item>
+        <item quantity="many">%1$d års intervall</item>
+    </plurals>
+    <plurals name="yearly_interval_lower">
+        <item quantity="other">med %1$d års intervall</item>
+        <item quantity="one">varje år</item>
+        <item quantity="two">med %1$d års intervall</item>
+        <item quantity="few">med %1$d års intervall</item>
+        <item quantity="many">med %1$d års intervall</item>
+    </plurals>
+    <plurals name="duration_in_hours">
+        <item quantity="other">%1$d timmar</item>
+        <item quantity="one">%1$d timme</item>
+    </plurals>
+    <plurals name="duration_in_hours_short">
+        <item quantity="other">%1$d timmar</item>
+        <item quantity="one">%1$d timme</item>
+    </plurals>
+    <plurals name="duration_in_minutes">
+        <item quantity="other">%1$d minuter</item>
+        <item quantity="one">%1$d minut</item>
+    </plurals>
+    <plurals name="duration_in_minutes_short">
+        <item quantity="other">%1$d min</item>
+        <item quantity="one">%1$d min</item>
+    </plurals>
+    <plurals name="duration_in_days">
+        <item quantity="other">%1$d dagar</item>
+        <item quantity="one">%1$d dag</item>
+    </plurals>
+    <plurals name="duration_in_days_short">
+        <item quantity="other">%1$d dagar</item>
+        <item quantity="one">%1$d dag</item>
+    </plurals>
+    <plurals name="duration_in_months">
+        <item quantity="other">%1$d månader</item>
+        <item quantity="one">%1$d månad</item>
+    </plurals>
+    <plurals name="duration_in_months_short">
+        <item quantity="other">%1$d månader</item>
+        <item quantity="one">%1$d månad</item>
+    </plurals>
+    <plurals name="duration_in_years">
+        <item quantity="other">%1$d år</item>
+        <item quantity="one">%1$d år</item>
+    </plurals>
+    <plurals name="duration_in_years_short">
+        <item quantity="other">%1$d år</item>
+        <item quantity="one">%1$d år</item>
+    </plurals>
+    <plurals name="items_from_without_colon">
+        <item quantity="other">%1$d objekt från</item>
+        <item quantity="one">%1$d objekt från</item>
+    </plurals>
+    <plurals name="last_bus_home_departure_time">
+        <item quantity="other">Sista bussen hem går om %2$s%1$d minuter%3$s</item>
+        <item quantity="one">Sista bussen hem går om %2$s%1$d minut%3$s</item>
+    </plurals>
+    <plurals name="last_bus_to_hotel_departure_time">
+        <item quantity="other">Sista bussen till hotellet går om %2$s%1$d minuter%3$s</item>
+        <item quantity="one">Sista bussen till hotellet går om %2$s%1$d minut%3$s</item>
+    </plurals>
+    <plurals name="last_train_home_departure_time">
+        <item quantity="other">Sista tåget hem går om %2$s%1$d minuter%3$s</item>
+        <item quantity="one">Sista tåget hem går om %2$s1 minut%3$s</item>
+    </plurals>
+    <plurals name="last_train_to_hotel_departure_time">
+        <item quantity="other">Sista tåget till hotellet går om %2$s%1$d minuter%3$s</item>
+        <item quantity="one">Sista tåget till hotellet går om %2$s1 minut%3$s</item>
+    </plurals>
+    <plurals name="last_transit_home_departure_time">
+        <item quantity="other">Sista turen hem går om %2$s%1$d minuter%3$s</item>
+        <item quantity="one">Sista turen hem går om %2$s%1$d minut%3$s</item>
+    </plurals>
+    <plurals name="last_transit_to_hotel_departure_time">
+        <item quantity="other">Sista turen till hotellet går om %2$s%1$d minuter%3$s</item>
+        <item quantity="one">Sista turen till hotellet går om %2$s%1$d minut%3$s</item>
+    </plurals>
+    <plurals name="transit_next_line_departure_subtext_no_platform">
+        <item quantity="other">Promenera i %1$d minuter till %2$s</item>
+        <item quantity="one">Promenera i 1 min till %2$s</item>
+    </plurals>
+    <plurals name="minutes_delay">
+        <item quantity="other">%1$d minuters försening</item>
+        <item quantity="one">1 minuts försening</item>
+    </plurals>
+    <plurals name="minutes_delay_more_than_usual">
+        <item quantity="other">%1$d minuter längre än vanligt</item>
+        <item quantity="one">1 minut längre än vanligt</item>
+    </plurals>
+    <plurals name="minutes_delay_less_than_usual">
+        <item quantity="other">%1$d minuter mindre än vanligt</item>
+        <item quantity="one">1 minut mindre än vanligt</item>
+    </plurals>
+    <plurals name="usual_traffic_minutes_delay">
+        <item quantity="other">Normal trafik: %1$d minuters försening</item>
+        <item quantity="one">Normal trafik: 1 minuts försening</item>
+    </plurals>
+    <plurals name="num_min_late">
+        <item quantity="other">%1$d min sen</item>
+        <item quantity="one">1 min sen</item>
+    </plurals>
+    <plurals name="num_min_early">
+        <item quantity="other">%1$d min före tidtabell</item>
+        <item quantity="one">1 min före tidtabell</item>
+    </plurals>
+    <plurals name="transit_interval_in_minutes">
+        <item quantity="other">Med %1$s minuters intervall</item>
+        <item quantity="one">Med %1$s minuts intervall</item>
+    </plurals>
+    <plurals name="transit_interval_in_hours">
+        <item quantity="other">Med %1$d timmars intervall</item>
+        <item quantity="one">Med %1$d timmes intervall</item>
+    </plurals>
+    <plurals name="qp_transit_interval_in_minutes">
+        <item quantity="other">Med %1$s minuters intervall</item>
+        <item quantity="one">Med %1$s minuts intervall</item>
+    </plurals>
+    <plurals name="qp_transit_interval_in_hours">
+        <item quantity="other">Med %1$d timmars intervall</item>
+        <item quantity="one">Med %1$d timmes intervall</item>
+    </plurals>
+    <plurals name="sports_overtime_period_header">
+        <item quantity="other">%1$dförlängning</item>
+        <item quantity="one">förlängning</item>
+    </plurals>
+    <plurals name="time_to_leave_user_arrival_generic">
+        <item quantity="other">Du kommer dit %1$d minuter innan det börjar</item>
+        <item quantity="one">Du kommer dit %1$d minut innan det börjar</item>
+    </plurals>
+    <plurals name="time_to_leave_user_arrival_flight">
+        <item quantity="other">Du kommer dit %1$d minuter innan avgång</item>
+        <item quantity="one">Du kommer dit %1$d minut innan avgång</item>
+    </plurals>
+    <plurals name="time_to_leave_user_arrival_reservation">
+        <item quantity="other">Du kommer dit %1$d minuter innan bokningen</item>
+        <item quantity="one">Du kommer dit %1$d minut innan bokningen</item>
+    </plurals>
+    <plurals name="time_to_leave_user_arrival_movie">
+        <item quantity="other">Du kommer dit %1$d minuter innan filmen börjar</item>
+        <item quantity="one">Du kommer dit %1$d minut innan filmen börjar</item>
+    </plurals>
+    <plurals name="time_to_leave_user_arrival_concert">
+        <item quantity="other">Du kommer dit %1$d minuter innan konserten börjar</item>
+        <item quantity="one">Du kommer dit %1$d minut innan konserten börjar</item>
+    </plurals>
+    <plurals name="email_everyone">
+        <item quantity="other">Skicka e-post till alla (%1$d)</item>
+        <item quantity="one">Skicka e-post till alla (%1$d)</item>
+    </plurals>
+    <plurals name="card_count">
+        <item quantity="other">%1$d kort</item>
+        <item quantity="one">1 kort</item>
+    </plurals>
+    <plurals name="num_movie_tickets">
+        <item quantity="other">%1$d biljetter</item>
+        <item quantity="one">%1$d biljett</item>
+    </plurals>
+    <plurals name="qp_hotel_reservation_length">
+        <item quantity="other">Rumsbokning för %1$d nätter</item>
+        <item quantity="one">Rumsbokning för %1$d natt</item>
+    </plurals>
+    <plurals name="reminders">
+        <item quantity="other">%1$d påminnelser</item>
+        <item quantity="one">%1$d påminnelse</item>
+    </plurals>
+    <plurals name="number_of_location_sharers">
+        <item quantity="other">%1$d personer delar med dig</item>
+        <item quantity="one">%1$d person delar med dig</item>
+    </plurals>
+    <plurals name="expiring_duration_in_days">
+        <item quantity="other">Upphör att gälla om %1$d dagar</item>
+        <item quantity="one">Upphör att gälla om %1$d dag</item>
+    </plurals>
+    <plurals name="expiring_duration_in_hours">
+        <item quantity="other">Upphör att gälla om %1$d timmar</item>
+        <item quantity="one">Upphör att gälla om %1$d timme</item>
+    </plurals>
+    <plurals name="expiring_duration_in_minutes">
+        <item quantity="other">Upphör att gälla om %1$d minuter</item>
+        <item quantity="one">Upphör att gälla om %1$d minut</item>
+    </plurals>
+    <plurals name="view_count">
+        <item quantity="other">%1$,d visningar</item>
+        <item quantity="one">%1$,d visning</item>
+    </plurals>
+    <plurals name="transportation_seat">
+        <item quantity="other">%1$d platser</item>
+        <item quantity="one">Plats</item>
+    </plurals>
+    <plurals name="more_directions">
+        <item quantity="other">+ %1$d fler vägbeskrivningar till</item>
+        <item quantity="one">+ %1$d vägbeskrivning till</item>
+    </plurals>
+    <plurals name="time_duration_spoken_hour">
+        <item quantity="other">%1$d timmar</item>
+        <item quantity="one">1 timme</item>
+    </plurals>
+    <plurals name="time_duration_spoken_minute">
+        <item quantity="other">%1$d minuter</item>
+        <item quantity="one">1 minut</item>
+    </plurals>
+    <plurals name="time_duration_spoken_second">
+        <item quantity="other">%1$d sekunder</item>
+        <item quantity="one">1 sekund</item>
+    </plurals>
+    <plurals name="agenda_eyes_free_all_day_events">
+        <item quantity="other">På %2$s har du %1$d heldagsevenemang: %3$s.</item>
+        <item quantity="one">På %2$s har du ett heldagsevenemang: %3$s.</item>
+    </plurals>
+</resources>

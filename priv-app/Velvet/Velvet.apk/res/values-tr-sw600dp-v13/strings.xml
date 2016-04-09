@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="search_phone_or_tablet">Tablette Ara</string>
+    <string name="corpus_name_summons">Tablet</string>
+    <string name="search_sources">Tablet arama</string>
+    <string name="no_summons_found">"Tabletinizde hiçbir
+sonuç bulunamadı."</string>
+    <string name="hands_free_unlock_device">Bir Google sesli araması yapmak için lütfen tabletinizin kilidini açın.</string>
+    <string name="icing_manage_storage_summary">Kullandığınız uygulamalar için bir arama motoru sağlayarak tabletinizde arama işlemini hızlandırdık.</string>
+</resources>

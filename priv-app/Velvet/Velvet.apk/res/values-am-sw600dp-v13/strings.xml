@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="search_phone_or_tablet">ጡባዊ ፈልግ</string>
+    <string name="corpus_name_summons">ጡባዊ ተኮ</string>
+    <string name="search_sources">የጡባዊ ተኮ ፍለጋ</string>
+    <string name="no_summons_found">"በጡባዊዎ ላይ
+ምንም ውጤቶች አልተገኙም።"</string>
+    <string name="hands_free_unlock_device">የGoogle ድምጽ ፍለጋ ለማከናወን እባክዎ ጡባዊዎን ይክፈቱት።</string>
+    <string name="icing_manage_storage_summary">ለመተግበሪያዎችዎ አንድ የፍለጋ ፕሮግራም እንዲጠቀሙት በማቅረብ በጡባዊዎችዎ ላይ የሚደረገውን ፍለጋ እናፋጥናለን።</string>
+</resources>

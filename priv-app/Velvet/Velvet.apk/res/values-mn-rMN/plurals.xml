@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">%1$d сонгогдсон</item>
+        <item quantity="zero">%1$d сонгогдсон</item>
+        <item quantity="one">%1$d сонгогдсон</item>
+    </plurals>
+    <plurals name="recurrence_end_count">
+        <item quantity="other">%d арга хэмжээ</item>
+        <item quantity="one">%d арга хэмжээ</item>
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+        <item quantity="other">%d өдөр бүр</item>
+        <item quantity="one">%d өдөр бүр</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+        <item quantity="other">%d долоо хоног бүр</item>
+        <item quantity="one">%d долоо хоног бүр</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+        <item quantity="other">%d сар тб</item>
+        <item quantity="one">%d сар бүр</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+        <item quantity="other">%d жил бүр</item>
+        <item quantity="one">%d жил бүр</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item quantity="other">; %d удаа</item>
+        <item quantity="one">; нэг удаа</item>
+    </plurals>
+    <plurals name="daily">
+        <item quantity="other">%d өдөр бүр</item>
+        <item quantity="one">Өдөр бүр</item>
+        <item quantity="two">%d өдөр бүр</item>
+        <item quantity="few">%d өдөр бүр</item>
+        <item quantity="many">%d өдөр бүр</item>
+    </plurals>
+    <plurals name="daily_lower">
+        <item quantity="other">%d өдөр тутам</item>
+        <item quantity="one">өдөр бүр</item>
+        <item quantity="two">%d өдөр тутам</item>
+        <item quantity="few">%d өдөр тутам</item>
+        <item quantity="many">%d өдөр тутам</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="other">%1$d долоо хоног бүрийн %2$s</item>
+        <item quantity="one">Долоо хоног бүрийн %2$s</item>
+        <item quantity="two">%1$d долоо хоног бүрийн %2$s</item>
+        <item quantity="few">%1$d долоо хоног бүрийн %2$s</item>
+        <item quantity="many">%1$d долоо хоног бүрийн %2$s</item>
+    </plurals>
+    <plurals name="weekly_lower">
+        <item quantity="other">%1$d долоо хоног тутмын %2$s</item>
+        <item quantity="one">долоо хоног бүрийн %2$s</item>
+        <item quantity="two">%1$d долоо хоног тутмын %2$s</item>
+        <item quantity="few">%1$d долоо хоног тутмын %2$s</item>
+        <item quantity="many">%1$d долоо хоног тутмын %2$s</item>
+    </plurals>
+    <plurals name="monthly_interval">
+        <item quantity="other">%1$d сар бүр</item>
+        <item quantity="one">Сар бүр</item>
+        <item quantity="two">%1$d сар бүр</item>
+        <item quantity="few">%1$d сар бүр</item>
+        <item quantity="many">%1$d сар бүр</item>
+    </plurals>
+    <plurals name="monthly_interval_lower">
+        <item quantity="other">%1$d сар тутам</item>
+        <item quantity="one">сар бүр</item>
+        <item quantity="two">%1$d сар тутам</item>
+        <item quantity="few">%1$d сар тутам</item>
+        <item quantity="many">%1$d сар тутам</item>
+    </plurals>
+    <plurals name="yearly_interval_plain">
+        <item quantity="other">%1$d жил бүр</item>
+        <item quantity="one">Жил бүр</item>
+        <item quantity="two">%1$d жил бүр</item>
+        <item quantity="few">%1$d жил бүр</item>
+        <item quantity="many">%1$d жил бүр</item>
+    </plurals>
+    <plurals name="yearly_interval_lower">
+        <item quantity="other">%1$d жил тутам</item>
+        <item quantity="one">жил бүр</item>
+        <item quantity="two">%1$d жил тутам</item>
+        <item quantity="few">%1$d жил тутам</item>
+        <item quantity="many">%1$d жил тутам</item>
+    </plurals>
+    <plurals name="duration_in_hours">
+        <item quantity="other">%1$d цаг</item>
+        <item quantity="one">%1$d цаг</item>
+    </plurals>
+    <plurals name="duration_in_hours_short">
+        <item quantity="other">%1$d цаг</item>
+        <item quantity="one">%1$d цаг</item>
+    </plurals>
+    <plurals name="duration_in_minutes">
+        <item quantity="other">%1$d минут</item>
+        <item quantity="one">%1$d минут</item>
+    </plurals>
+    <plurals name="duration_in_minutes_short">
+        <item quantity="other">%1$d минут</item>
+        <item quantity="one">%1$d минут</item>
+    </plurals>
+    <plurals name="duration_in_days">
+        <item quantity="other">%1$d өдөр</item>
+        <item quantity="one">%1$d өдөр</item>
+    </plurals>
+    <plurals name="duration_in_days_short">
+        <item quantity="other">%1$d өдөр</item>
+        <item quantity="one">%1$d өдөр</item>
+    </plurals>
+    <plurals name="duration_in_months">
+        <item quantity="other">%1$d сар</item>
+        <item quantity="one">%1$d сар</item>
+    </plurals>
+    <plurals name="duration_in_months_short">
+        <item quantity="other">%1$d сар</item>
+        <item quantity="one">%1$d сар</item>
+    </plurals>
+    <plurals name="duration_in_years">
+        <item quantity="other">%1$d жил</item>
+        <item quantity="one">%1$d жил</item>
+    </plurals>
+    <plurals name="duration_in_years_short">
+        <item quantity="other">%1$d жил</item>
+        <item quantity="one">%1$d жил</item>
+    </plurals>
+    <plurals name="items_from_without_colon">
+        <item quantity="other">%1$d зүйлс</item>
+        <item quantity="one">%1$d зүйл</item>
+    </plurals>
+    <plurals name="last_bus_home_departure_time">
+        <item quantity="other">Гэрлүү явах хамгийн сүүлийн автобус %2$s%1$d минутын дараа явна%3$s</item>
+        <item quantity="one">Гэрлүү явах хамгийн сүүлийн автобус %2$s%1$d минутын дараа явна%3$s</item>
+    </plurals>
+    <plurals name="last_bus_to_hotel_departure_time">
+        <item quantity="other">Зочид буудал руу явах хамгийн сүүлийн автобус %2$s%1$d минутын дараа явна%3$s</item>
+        <item quantity="one">Зочид буудал руу явах хамгийн сүүлийн автобус %2$s%1$d минутын дараа явна%3$s</item>
+    </plurals>
+    <plurals name="last_train_home_departure_time">
+        <item quantity="other">Гэрлүү явах хамгийн сүүлийн галт тэрэг %2$s%1$d минутын дараа явна %3$s</item>
+        <item quantity="one">Гэрлүү явах хамгийн сүүлийн галт тэрэг %2$s1 минутын дараа явна %3$s</item>
+    </plurals>
+    <plurals name="last_train_to_hotel_departure_time">
+        <item quantity="other">Зочид буудал руу явах хамгийн сүүлийн галт тэрэг %2$s%1$d минутын дараа явна %3$s</item>
+        <item quantity="one">Зочид буудал руу явах хамгийн сүүлийн галт тэрэг %2$s1 минутын дараа явна %3$s</item>
+    </plurals>
+    <plurals name="last_transit_home_departure_time">
+        <item quantity="other">Гэрлүү явах хамгийн сүүлийн унаа %2$s%1$d минутын дараа явна%3$s</item>
+        <item quantity="one">Гэрлүү явах хамгийн сүүлийн унаа %2$s%1$d минутын дараа явна%3$s</item>
+    </plurals>
+    <plurals name="last_transit_to_hotel_departure_time">
+        <item quantity="other">Зочид буудал руу явах хамгийн сүүлийн унаа %2$s%1$d минутын дараа явна%3$s</item>
+        <item quantity="one">Зочид буудал руу явах хамгийн сүүлийн унаа %2$s%1$d минутын дараа явна%3$s</item>
+    </plurals>
+    <plurals name="transit_next_line_departure_subtext_no_platform">
+        <item quantity="other">%2$s ороход %1$d минут алхана</item>
+        <item quantity="one">%2$s ороход 1 минут алхана</item>
+    </plurals>
+    <plurals name="minutes_delay">
+        <item quantity="other">%1$d минут хоцорч байна</item>
+        <item quantity="one">1 минут хоцорч байна</item>
+    </plurals>
+    <plurals name="minutes_delay_more_than_usual">
+        <item quantity="other">Энгийн үеэс %1$d минутын дараа</item>
+        <item quantity="one">Энгийн үеэс 1 минутын дараа</item>
+    </plurals>
+    <plurals name="minutes_delay_less_than_usual">
+        <item quantity="other">Энгийн үеэс %1$d минутын өмнө</item>
+        <item quantity="one">Энгийн үеэс 1 минутын өмнө</item>
+    </plurals>
+    <plurals name="usual_traffic_minutes_delay">
+        <item quantity="other">Замын ердийн үеийн ачаалал: %1$d минутаар хоцорч байна</item>
+        <item quantity="one">Замын ердийн үеийн ачаалал: 1 минутаар хоцорч байна</item>
+    </plurals>
+    <plurals name="num_min_late">
+        <item quantity="other">%1$d минутаар хоцорч байна</item>
+        <item quantity="one">1 минутаар хоцорч байна</item>
+    </plurals>
+    <plurals name="num_min_early">
+        <item quantity="other">%1$d минутын өмнө</item>
+        <item quantity="one">1 минутын өмнө</item>
+    </plurals>
+    <plurals name="transit_interval_in_minutes">
+        <item quantity="other">· %1$s минут тутам</item>
+        <item quantity="one">· %1$s минут тутам</item>
+    </plurals>
+    <plurals name="transit_interval_in_hours">
+        <item quantity="other">· %1$d цаг тутам</item>
+        <item quantity="one">· %1$d цаг тутам</item>
+    </plurals>
+    <plurals name="qp_transit_interval_in_minutes">
+        <item quantity="other">%1$s минут тутам</item>
+        <item quantity="one">%1$s минут тутам</item>
+    </plurals>
+    <plurals name="qp_transit_interval_in_hours">
+        <item quantity="other">%1$d цаг тутам</item>
+        <item quantity="one">%1$d цаг тутам</item>
+    </plurals>
+    <plurals name="sports_overtime_period_header">
+        <item quantity="other">%1$dИЦ</item>
+        <item quantity="one">ИЦ</item>
+    </plurals>
+    <plurals name="time_to_leave_user_arrival_generic">
+        <item quantity="other">%1$d минутын өмнө ирэх</item>
+        <item quantity="one">%1$d минутын өмнө ирэх</item>
+    </plurals>
+    <plurals name="time_to_leave_user_arrival_flight">
+        <item quantity="other">Явахаас %1$d минутын өмнө ирэх</item>
+        <item quantity="one">Явахаас %1$d минутын өмнө ирэх</item>
+    </plurals>
+    <plurals name="time_to_leave_user_arrival_reservation">
+        <item quantity="other">Захиалгаас %1$d минутын өмнө ирэх</item>
+        <item quantity="one">Захиалгаас %1$d минутын өмнө ирэх</item>
+    </plurals>
+    <plurals name="time_to_leave_user_arrival_movie">
+        <item quantity="other">ино эхлэхээс %1$d минутын өмнө ирэх</item>
+        <item quantity="one">Кино эхлэхээс %1$d минутын өмнө ирэх</item>
+    </plurals>
+    <plurals name="time_to_leave_user_arrival_concert">
+        <item quantity="other">Тоглолт эхлэхээс %1$d минутын өмнө ирэх</item>
+        <item quantity="one">Тоглолт эхлэхээс %1$d минутын өмнө ирэх</item>
+    </plurals>
+    <plurals name="email_everyone">
+        <item quantity="other">Хүн бүрт и-мэйл илгээх (%1$d)</item>
+        <item quantity="one">Хүн бүрт и-мэйл илгээх (%1$d)</item>
+    </plurals>
+    <plurals name="card_count">
+        <item quantity="other">%1$d карт</item>
+        <item quantity="one">1 карт</item>
+    </plurals>
+    <plurals name="num_movie_tickets">
+        <item quantity="other">%1$d тасалбар</item>
+        <item quantity="one">%1$d тасалбар</item>
+    </plurals>
+    <plurals name="qp_hotel_reservation_length">
+        <item quantity="other">%1$d шөнийн өрөөний захиалга</item>
+        <item quantity="one">%1$d шөнийн өрөөний захиалга</item>
+    </plurals>
+    <plurals name="reminders">
+        <item quantity="other">%1$d сануулга</item>
+        <item quantity="one">%1$d сануулга</item>
+    </plurals>
+    <plurals name="number_of_location_sharers">
+        <item quantity="other">%1$d хүн таньтай хуваалцсан байна</item>
+        <item quantity="one">%1$d хүн таньтай хуваалцсан байна</item>
+    </plurals>
+    <plurals name="expiring_duration_in_days">
+        <item quantity="other">%1$d өдрийн дараа хугацаа нь дуусна</item>
+        <item quantity="one">%1$d өдрийн дараа хугацаа нь дуусна</item>
+    </plurals>
+    <plurals name="expiring_duration_in_hours">
+        <item quantity="other">%1$d цагийн дараа хугацаа нь дуусна</item>
+        <item quantity="one">%1$d цагийн дараа хугацаа нь дуусна</item>
+    </plurals>
+    <plurals name="expiring_duration_in_minutes">
+        <item quantity="other">%1$d минутын дараа хугацаа нь дуусна</item>
+        <item quantity="one">%1$d минутын дараа хугацаа нь дуусна</item>
+    </plurals>
+    <plurals name="view_count">
+        <item quantity="other">%1$,d үзсэн</item>
+        <item quantity="one">%1$,d үзсэн</item>
+    </plurals>
+    <plurals name="transportation_seat">
+        <item quantity="other">%1$d Суудал</item>
+        <item quantity="one">Суудал</item>
+    </plurals>
+    <plurals name="more_directions">
+        <item quantity="other">+ %1$d нэмэлт чиглэл</item>
+        <item quantity="one">+ %1$d нэмэлт чиглэл</item>
+    </plurals>
+    <plurals name="time_duration_spoken_hour">
+        <item quantity="other">%1$d цаг</item>
+        <item quantity="one">1 цаг</item>
+    </plurals>
+    <plurals name="time_duration_spoken_minute">
+        <item quantity="other">%1$d минут</item>
+        <item quantity="one">1 минут</item>
+    </plurals>
+    <plurals name="time_duration_spoken_second">
+        <item quantity="other">%1$d секунд</item>
+        <item quantity="one">1 секунд</item>
+    </plurals>
+    <plurals name="agenda_eyes_free_all_day_events">
+        <item quantity="other">%2$s танд %1$d бүтэн өдрийн арга хэмжээ байна: %3$s.</item>
+        <item quantity="one">%2$s танд бүтэн өдрийн арга хэмжээ байна: %3$s.</item>
+    </plurals>
+</resources>

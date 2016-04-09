@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="recurrence_freq">
+        <item>በየቀኑ ይደገም</item>
+        <item>በየሳምንቱ ይደገም</item>
+        <item>በየወሩ ይደገም</item>
+        <item>በየዓመቱ ይደገም</item>
+    </string-array>
+    <string-array name="edit_recurrence">
+        <item>አይደግምም</item>
+        <item>በየቀኑ</item>
+        <item>በየሳምንቱ</item>
+        <item>በየወሩ</item>
+        <item>በየዓመቱ</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>በእያንዳንዱ የመጀመሪያ እሁድ</item>
+        <item>በእያንዳንዱ ሁለተኛ እሁድ</item>
+        <item>በእያንዳንዱ ሶስተኛ እሁድ</item>
+        <item>በእያንዳንዱ አራተኛ እሁድ</item>
+        <item>በእያንዳንዱ የመጨረሻ እሁድ</item>
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>በእያንዳንዱ የመጀመሪያ ሰኞ</item>
+        <item>በእያንዳንዱ ሁለተኛ ሰኞ</item>
+        <item>በእያንዳንዱ ሶስተኛ ሰኞ</item>
+        <item>በእያንዳንዱ አራተኛ ሰኞ</item>
+        <item>በእያንዳንዱ የመጨረሻ ሰኞ</item>
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>በእያንዳንዱ የመጀመሪያ ማክሰኞ</item>
+        <item>በእያንዳንዱ ሁለተኛ ማክሰኞ</item>
+        <item>በእያንዳንዱ ሶስተኛ ማክሰኞ</item>
+        <item>በእያንዳንዱ አራተኛ ማክሰኞ</item>
+        <item>በእያንዳንዱ የመጨረሻ ማክሰኞ</item>
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>በእያንዳንዱ የመጀመሪያ ረቡዕ</item>
+        <item>በእያንዳንዱ ሁለተኛ ረቡዕ</item>
+        <item>በእያንዳንዱ ሶስተኛ ረቡዕ</item>
+        <item>በእያንዳንዱ አራተኛ ረቡዕ</item>
+        <item>በእያንዳንዱ የመጨረሻ ረቡዕ</item>
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>በእያንዳንዱ የመጀመሪያ ሙስ</item>
+        <item>በእያንዳንዱ ሁለተኛ ሐሙስ</item>
+        <item>በእያንዳንዱ ሶስተኛ ሐሙስ</item>
+        <item>በእያንዳንዱ አራተኛ ሐሙስ</item>
+        <item>በእያንዳንዱ የመጨረሻ ሐ</item>
+    </string-array>
+    <string-array name="repeat_by_nth_fri">
+        <item>በእያንዳንዱ የመጀመሪያ ዓርብ</item>
+        <item>በእያንዳንዱ ሁለተኛ ዓርብ</item>
+        <item>በእያንዳንዱ ሶስተኛ ዓርብ</item>
+        <item>በእያንዳንዱ አራተኛ ዓርብ</item>
+        <item>በእያንዳንዱ የመጨረሻ ዓርብ</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>በእያንዳንዱ የመጀመሪያ ቅዳሜ</item>
+        <item>በእያንዳንዱ ሁለተኛ ቅዳሜ</item>
+        <item>በእያንዳንዱ ሶስተኛ ቅዳሜ</item>
+        <item>በእያንዳንዱ አራተኛ ቅዳሜ</item>
+        <item>በእያንዳንዱ የመጨረሻ ቅዳሜ</item>
+    </string-array>
+    <string-array name="baseball_innings">
+        <item>አንደኛ ዙር</item>
+        <item>ሁለተኛ ዙር</item>
+        <item>ሶስተኛ ዙር</item>
+        <item>አራተኛ ዙር</item>
+        <item>አምስተኛ ዙር</item>
+        <item>ስድስተኛ ዙር</item>
+        <item>ሰባተኛ ዙር</item>
+        <item>ስምንተኛ ዙር</item>
+        <item>ዘጠነኛ ዙር</item>
+        <item>10ኛ ዙር</item>
+        <item>11ኛ ዙር</item>
+        <item>12ኛ ዙር</item>
+    </string-array>
+    <string-array name="qp_top_baseball_innings">
+        <item>የላይኛው 1ኛ</item>
+        <item>የላይኛው 2ኛ</item>
+        <item>የላይኛው 3ኛ</item>
+        <item>የላይኛው 4ኛ</item>
+        <item>የላይኛው 5ኛ</item>
+        <item>የላይኛው 6ኛ</item>
+        <item>የላይኛው 7ኛ</item>
+        <item>የላይኛው 8ኛ</item>
+        <item>የላይኛው 9ኛ</item>
+        <item>የላይኛው 10ኛ</item>
+        <item>የላይኛው 11ኛ</item>
+        <item>የላይኛው 12ኛ</item>
+    </string-array>
+    <string-array name="qp_bottom_baseball_innings">
+        <item>የታችኛው 1ኛ</item>
+        <item>የታችኛው 2ኛ</item>
+        <item>የታችኛው 3ኛ</item>
+        <item>የታችኛው 4ኛ</item>
+        <item>የታችኛው 5ኛ</item>
+        <item>የታችኛው 6ኛ</item>
+        <item>የታችኛው 7ኛ</item>
+        <item>የታችኛው 8ኛ</item>
+        <item>የታችኛው 9ኛ</item>
+        <item>የታችኛው 10ኛ</item>
+        <item>የታችኛው 11ኛ</item>
+        <item>የታችኛው 12ኛ</item>
+    </string-array>
+    <string-array name="local_results_markers">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+    </string-array>
+    <string-array name="languageNames">
+        <item>"አፍሪካንስ  (ደቡብ አፍሪካ)"</item>
+        <item>አረብኛ (አልጄሪያ)</item>
+        <item>አረብኛ (ግብፅ)</item>
+        <item>አረብኛ (ኢራቅ)</item>
+        <item>አረብኛ (እስራኤል)</item>
+        <item>አረብኛ (ዮርዳኖስ)</item>
+        <item>አረብኛ (ኩዌት)</item>
+        <item>አረብኛ (ሊባኖስ)</item>
+        <item>አረብኛ (ሊቢያ)</item>
+        <item>አረብኛ (ሞሮኮ)</item>
+        <item>አረብኛ (ኳታር)</item>
+        <item>አረብኛ (ሳውዲ አረቢያ)</item>
+        <item>አረብኛ (ሱዳን)</item>
+        <item>አረብኛ (ሶሪያ)</item>
+        <item>አረብኛ (ቱኒዚያ)</item>
+        <item>አረብኛ (የተባበሩት አረብ ኢሚሬቶች)</item>
+        <item>አረብኛ (የመን)</item>
+        <item>ቤላሩስኛ (ቤላሩስ)</item>
+        <item>ቤንጋሊኛ (ባንግላዴሽ)</item>
+        <item>ቡልጋሪያኛ (ቡልጋሪያ)</item>
+        <item>ካታላንኛ (ስፔን)</item>
+        <item>ቻይንኛ፣ ማንዳሪን (ቻይና፣ ቀላል)</item>
+        <item>ቻይንኛ፣ ማንዳሪን (ሆንግ ኮንግ፣ ቀላል)</item>
+        <item>ቻይንኛ፣ ማንዳሪን (ሆንግ ኮንግ፣ ባህላዊ)</item>
+        <item>ቻይንኛ፣ ማንዳሪን (ሲንጋፖር፣ ቀላል)</item>
+        <item>ቻይንኛ፣ ማንዳሪን (ታይዋን፣ ቀላል)</item>
+        <item>ቻይንኛ፣ ማንዳሪን (ታይዋን፣ ባህላዊ)</item>
+        <item>ቻይንኛ፣ ዩዌ (ቻይና፣ ቀላል)</item>
+        <item>ቻይንኛ፣ ዩዌ (ሆንግ ኮንግ፣ ባህላዊ)</item>
+        <item>ክሮኤሽያኛ (ክሮኤሽያ)</item>
+        <item>ቼክኛ (ቼክ ሪፐብሊክ)</item>
+        <item>ዴኒሽኛ (ዴንማርክ)</item>
+        <item>ደች (ቤልጂየም)</item>
+        <item>ደች (ኔዘርላንድስ)</item>
+        <item>እንግሊዝኛ (ወጥ)</item>
+        <item>እንግሊዝኛ (አውስትራሊያ)</item>
+        <item>እንግሊዝኛ (ባንግላዲሽ)</item>
+        <item>እንግሊዝኛ (ካናዳ)</item>
+        <item>እንግሊዝኛ (ሆንግ ኮንግ)</item>
+        <item>እንግሊዝኛ (ህንድ)</item>
+        <item>እንግሊዝኛ (አየርላንድ)</item>
+        <item>እንግሊዝኛ (ኬንያ)</item>
+        <item>እንግሊዝኛ (ማሌዢያ)</item>
+        <item>እንግሊዝኛ (ኒው ዚላንድ)</item>
+        <item>እንግሊዝኛ (ናይጄሪያ)</item>
+        <item>እንግሊዝኛ (ፖኪስታን)</item>
+        <item>እንግሊዝኛ (ፊሊፒንስ)</item>
+        <item>እንግሊዝኛ (ሲንጋፖር)</item>
+        <item>እንግሊዝኛ (ደቡብ አፍሪካ)</item>
+        <item>እንግሊዝኛ (ሱዳን)</item>
+        <item>እንግሊዝኛ (ታንዛኒያ)</item>
+        <item>እንግሊዝኛ (ዩጋንዳ)</item>
+        <item>እንግሊዝኛ (ዩናይትድ ኪንግዶም)</item>
+        <item>እንግሊዝኛ (አሜሪካ)</item>
+        <item>ኢስቶኒያኛ (ኢስቶኒያ)</item>
+        <item>ፊሊፒኖ (ፊሊፒንስ)</item>
+        <item>ፊኒሽ (ፊንላንድ)</item>
+        <item>ፈረንሳይኛ (ቤልጄየም)</item>
+        <item>ፈረንሳይኛ (ካናዳ)</item>
+        <item>ፈረንሳይኛ (ፈረንሳይ)</item>
+        <item>ፈረንሳይኛ (ስዊዘርላንድ)</item>
+        <item>ጋሊሲያን (ስፔን)</item>
+        <item>ጀርመንኛ (ኦስትሪያ)</item>
+        <item>ጀርመንኛ (ጀርመን)</item>
+        <item>ጀርመንኛ (ስዊዘርላንድ)</item>
+        <item>ጀርመንኛ (ሊክተንስታይን)</item>
+        <item>ግሪክኛ (ግሪክ)</item>
+        <item>እብራይስጥ (እስራኤል)</item>
+        <item>ሂንዲ (ህንድ)</item>
+        <item>ሀንጋሪኛ (ሀንጋሪ)</item>
+        <item>አይስላንድኛ (አይስላንድ)</item>
+        <item>ኢንዶኔዢያኛ (ኢንዶኔዢያ)</item>
+        <item>አይሪሽ (አየርላንድ)</item>
+        <item>ኢሲንደበሌ (ደቡብ አፍሪካ)</item>
+        <item>ኢሲኮሳ (ደቡብ አፍሪካ)</item>
+        <item>ኢሲዙሉ (ደቡብ አፍሪካ)</item>
+        <item>ጣሊያንኛ (ጣሊያን)</item>
+        <item>ጣሊያንኛ (ስዊዘርላንድ)</item>
+        <item>ጃፓንኛ (ጃፓን)</item>
+        <item>ኮሪያኛ (ደቡብ ኮሪያ)</item>
+        <item>ላቲቪያኛ (ላቲቪያ)</item>
+        <item>ሊቱዌኒያኛ (ሊቱዌኒያ)</item>
+        <item>ማላይኛ (ማሌዢያ)</item>
+        <item>ማላይኛ (ሲንጋፖር)</item>
+        <item>ኖርዌይኛ ቦክማል (ኖርዌይ)</item>
+        <item>ኖርዌይኛ ኒኖርስክ (ኖርዌይ)</item>
+        <item>ፋርስኛ (ኢራን)</item>
+        <item>ፖሊሽ (ፖላንድ)</item>
+        <item>ፖርቱጋልኛ (አንጎላ)</item>
+        <item>ፖርቱጋልኛ (ብራዚል)</item>
+        <item>ፖርቱጋልኛ (ፖርቱጋል)</item>
+        <item>ሮማኒያኛ (ሮማኒያ)</item>
+        <item>ራሽያኛ (ቤላሩስ)</item>
+        <item>ራሽያኛ (ራሺያ)</item>
+        <item>ሴፔዲ (ደቡብ አፍሪካ)</item>
+        <item>ሰርቢያኛ (ሰርቢያ፣ ሳይሪሊክ)</item>
+        <item>ሴሶቶ (ደቡብ አፍሪካ)</item>
+        <item>ሰጿና (ደቡብ አፍሪካ)</item>
+        <item>ሲሷቲ (ደቡብ አፍሪካ)</item>
+        <item>ስሎቫክኛ (ስሎቫኪያ)</item>
+        <item>ስሎቫኒያኛ (ስሎቫኒያ)</item>
+        <item>ስፓኒሽ (አርጀንቲና)</item>
+        <item>ስፓኒሽ (ቦሊቪያ)</item>
+        <item>ስፓኒሽ (ቺሊ)</item>
+        <item>ስፓኒሽ (ኮሎምቢያ)</item>
+        <item>ስፓኒሽ (ኮስታ ሪካ)</item>
+        <item>ስፓኒሽ (ኩባ)</item>
+        <item>ስፓኒሽ (ዶሚኒካን ሪፐብሊክ)</item>
+        <item>ስፓኒሽ (ኢኳዶር)</item>
+        <item>ስፓኒሽ (ኤል ሳልቫዶር)</item>
+        <item>ስፓኒሽ (ጉዋቲማላ)</item>
+        <item>ስፓኒሽ (ሆንዱራስ)</item>
+        <item>ስፓኒሽ (ሜክሲኮ)</item>
+        <item>ስፓኒሽ (ኒካራጓ)</item>
+        <item>ስፓኒሽ (ፓናማ)</item>
+        <item>ስፓኒሽ (ፓራጓይ)</item>
+        <item>ስፓኒሽ (ፔሩ)</item>
+        <item>ስፓኒሽ (ፖርቶ ሪኮ)</item>
+        <item>ስፓኒሽ (ስፔን)</item>
+        <item>ስፓኒሽ (አሜሪካ)</item>
+        <item>ስፓኒሽ (ኡራጓይ)</item>
+        <item>ስፓንኛ (ቬነዝዌላ)</item>
+        <item>ስዋሂሊ (ኬንያ)</item>
+        <item>ስዋሂሊ (ታንዛኒያ)</item>
+        <item>ስዋሂሊ (ዩጋንዳ)</item>
+        <item>ስዊድንኛ (ፊንላንድ)</item>
+        <item>ስዊድንኛ (ስዊድን)</item>
+        <item>ታይ (ታይላንድ)</item>
+        <item>ሺቨንዳ (ደቡብ አፍሪካ)</item>
+        <item>ቱርክኛ (ቱርክ)</item>
+        <item>ዩክሬንኛ (ዩክሬይን)</item>
+        <item>ኡርዱ (ፓኪስታን)</item>
+        <item>ቪየትናምኛ (ቪየትናም)</item>
+        <item>ዚጾንጋ (ደቡብ አፍሪካ)</item>
+    </string-array>
+    <string-array name="edit_reminder_day">
+        <item>ዛሬ</item>
+        <item>ነገ</item>
+        <item>አንዳንድ ጊዜ</item>
+        <item>ቀን ያዘጋጁ…</item>
+    </string-array>
+    <string-array name="edit_reminder_time">
+        <item>ጥዋት</item>
+        <item>ከሰዓት</item>
+        <item>ምሽት</item>
+        <item>ማታ</item>
+        <item>ሙሉ ቀን</item>
+        <item>ሰዓት ያዘጋጁ…</item>
+    </string-array>
+    <string-array name="edit_reminder_location_trigger_type">
+        <item>መድረሻ</item>
+        <item>ለቀው ይውጡ</item>
+    </string-array>
+    <string-array name="edit_reminder_location">
+        <item>መነሻ</item>
+        <item>ስራ</item>
+        <item>አካባቢን ያዘጋጁ…</item>
+    </string-array>
+    <string-array name="network_error_tts_messages">
+        <item>አሁን የበይነመረቡ ግንኙነት አስተማማኝ አይደለም።</item>
+        <item>አሁን ያለው የበይነመረብ ግንኙነት አስተማማኝ አይደለም።</item>
+        <item>አሁን የበይነመረቡ ግንኙነት የተረጋጋ አይደለም።</item>
+        <item>አሁን ያለው የበይነመረብ ግንኙነት የተረጋጋ አይደለም።</item>
+        <item>አሁን የበይነመረቡ ግንኙነት ጠንካራ አይደለም።</item>
+        <item>አሁን ያለው የበይነመረብ ግንኙነት ጠንካራ አይደለም።</item>
+    </string-array>
+    <string-array name="read_it_grammar">
+        <item>አንብበው</item>
+        <item>መልዕክቱን አንብበው</item>
+        <item>ያንን ጽሑፍ አንብበው</item>
+    </string-array>
+    <string-array name="reply_grammar">
+        <item>ምላሽ ስጥ</item>
+        <item>ምላሽ ላክ</item>
+        <item>ምላሽ ላክ</item>
+        <item>ለጽሑፍ መልዕክቱ ምላሽ ስጥ</item>
+        <item>ለእሱ ምላሽ ላክ</item>
+    </string-array>
+    <string-array name="call_back_grammar">
+        <item>ለመጨረሻው መልዕክት ላኪ ደውልላቸው</item>
+        <item>ደውልለት</item>
+        <item>መልሰህ ደውልለት</item>
+        <item>ደውልላት</item>
+        <item>መልሰህ ደውልላት</item>
+    </string-array>
+</resources>

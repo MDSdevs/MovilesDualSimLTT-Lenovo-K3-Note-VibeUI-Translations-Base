@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarm_set">
+        <item>已將此鬧鐘設定為從現在起 1 分鐘內提醒。</item>
+        <item>已將此鬧鐘設定為從現在起 %1$s後再提醒。</item>
+        <item>已將此鬧鐘設定為從現在起 %2$s後再提醒。</item>
+        <item>已將此鬧鐘設定為從現在起 %1$s%2$s後再提醒。</item>
+        <item>已將此鬧鐘設定為從現在起 %3$s後再提醒。</item>
+        <item>已將此鬧鐘設定為從現在起 %1$s%3$s後再提醒。</item>
+        <item>已將此鬧鐘設定為從現在起 %2$s%3$s後再提醒。</item>
+        <item>已將該鬧鐘設定為從現在起 %1$s%2$s%3$s後再提醒。</item>
+    </string-array>
+    <string-array name="snooze_duration_entries">
+        <item>一直播放</item>
+        <item>5 分鐘</item>
+        <item>15 分鐘</item>
+        <item>30 分鐘</item>
+        <item>60 分鐘</item>
+    </string-array>
+    <string-array name="snooze_duration_values">
+        <item>0</item>
+        <item>5</item>
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+    </string-array>
+</resources>

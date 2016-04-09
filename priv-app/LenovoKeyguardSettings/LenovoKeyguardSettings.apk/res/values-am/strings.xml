@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="user_nickname">ቅጽል ስም</string>
+    <string name="show_owner_info_on_lockscreen_label">በተቆለፈ ማያ የባለቤት መረጃ አሳይ</string>
+    <string name="show_profile_info_on_lockscreen_label">የመገለጫ መረጃ በቁልፍ ማያ ገጽ ላይ አሳይ</string>
+    <string name="show_user_info_on_lockscreen_label">የተጠቃሚ መረጃ በመቆለፊያ ማያ ገጹ ላይ አሳይ</string>
+    <string name="lockpassword_confirm_your_pattern_header">ስርዓተ ጥለትዎን ያረጋግጡ</string>
+    <string name="security_settings_title">ደህንነት</string>
+    <string name="security_passwords_title">የይለፍ ቃሎች</string>
+    <string name="show_password">ይለፍቃሎችን የሚታዩ አድርግ</string>
+    <string name="lock_after_timeout">በራስ ሰር ቆልፍ</string>
+    <string name="lock_after_timeout_summary">%1$s ከእንቅልፍ በኋላ</string>
+    <string name="lock_after_timeout_summary_with_exception">ከእንቅልፍ በኋላ %1$s፣ በ%2$s ከተከፈተ በስተቀር</string>
+    <string name="owner_info_settings_title">የባለቤት መረጃ</string>
+    <string name="owner_info_settings_summary" />
+    <string name="owner_info_settings_edit_text_hint">በተቆለፈ ማያ ላይ ለማሳየት ፅሁፍ አስገባ</string>
+    <string name="lock_settings_picker_title">ማሳያ ቆልፍ ምረጥ</string>
+    <string name="biometric_weak_improve_matching_title">የፊት ማመሳሰልን አሻሽል</string>
+    <string name="biometric_weak_liveliness_title">የህያውነት ማረጋገጫ</string>
+    <string name="biometric_weak_liveliness_summary">መክፈት ላይ የአይን መጥቀስ ፈልግ</string>
+    <string name="lockpassword_choose_your_password_header">የይለፍ ቃለዎን ይምረጡ</string>
+    <string name="lockpassword_choose_your_pattern_header">የእርስዎን ስርዓተ ጥለት ይምረጡ</string>
+    <string name="lockpassword_choose_your_pin_header">የእርስዎን ፒን ይምረጡ</string>
+    <string name="lockpassword_confirm_passwords_dont_match">የይለፍ ቃላት አይዛመዱም</string>
+    <string name="lockpassword_confirm_pins_dont_match">PINኦች አይዛመዱም</string>
+    <string name="lock_settings_title">ማሳያ ደህንነት</string>
+    <string name="lockpattern_change_lock_pattern_label">መክፈቻ ስርዓት ጥለት ለውጥ</string>
+    <string name="lockpattern_change_lock_pin_label">"መክፈቻ ፒን  ለውጥ"</string>
+    <string name="lockpattern_need_to_unlock">የተቀመጠ ስርዓተ ጥለት አረጋግጥ</string>
+    <string name="lockpattern_need_to_unlock_wrong">በድጋሚ ሞክር::</string>
+    <string name="lockpattern_recording_intro_header">የመክፈቻ ስርዓተ ንጥል ሳል</string>
+    <string name="lockpattern_recording_intro_footer">ለእገዛ ምናሌ ተጫን</string>
+    <string name="lockpattern_recording_inprogress">ሲከናወን ጣትዎን ያንሱት</string>
+    <string name="lockpattern_recording_incorrect_too_short">ቢያንስ %d ነጥቦችን ያያይዙ። እንገደና ይሞክሩ።</string>
+    <string name="lockpattern_pattern_entered_header">ሥርዓተ ጥለት ተመዝግቧል</string>
+    <string name="lockpattern_need_to_confirm">ለማረጋገጥ ሥርዓተ ጥለት ድጋሚ ሳል</string>
+    <string name="lockpattern_pattern_confirmed_header">አዲሱ የእርስዎ የመክፈቻ ሥርዓተ ጥለት</string>
+    <string name="lockpattern_confirm_button_text">አረጋግጥ</string>
+    <string name="lockpattern_restart_button_text">ድጋሚ ሳል</string>
+    <string name="lockpattern_retry_button_text">እንደገና ሞክር</string>
+    <string name="lockpattern_continue_button_text">ቀጥል</string>
+    <string name="lockpattern_settings_title">ስርዓተ ጥለት ክፈት</string>
+    <string name="lockpattern_settings_enable_title">ስርዓተ ጥለት ጠይቅ</string>
+    <string name="lockpattern_settings_enable_summary">ማያ ለመክፈት ስርዓተ ጥለት ሳል</string>
+    <string name="lockpattern_settings_enable_visible_pattern_title">መልክ የሚታይ አድርግ</string>
+    <string name="lockpattern_settings_enable_tactile_feedback_title">ሲነካ ንዘር</string>
+    <string name="lockpattern_settings_enable_power_button_instantly_locks">የኃይል አዝራር ወዲያውኑ ይቆልፋል</string>
+    <string name="lockpattern_settings_power_button_instantly_locks_summary">በ%1$s ከተከፈተ በስተቀር</string>
+    <string name="lockpattern_settings_choose_lock_pattern">የክፈት ስርዓተ ጥለት አዘጋጅ</string>
+    <string name="lockpattern_settings_change_lock_pattern">መክፈቻ ስርዓት ጥለት ለውጥ</string>
+    <string name="lockpattern_settings_help_how_to_record">የመክፈቻ ስርዓተ ንጥል እንዴት ይሳላል</string>
+    <string name="lockpattern_too_many_failed_confirmation_attempts_header">በጣም ብዙ የተሳሳቱ ሙከራዎች!</string>
+    <string name="lockpattern_too_many_failed_confirmation_attempts_footer">በ%dሰከንዶች ውስጥ እንደገና ሞክር።</string>
+    <string name="unlock_set_unlock_launch_picker_title">ማሳያ መቆለፊያ</string>
+    <string name="unlock_set_unlock_launch_picker_change_title">ማሳያ ቆልፍን ለውጥ</string>
+    <string name="unlock_set_unlock_launch_picker_change_summary">"ስርዓተ ጥለት፣  ፒን ፣ ወይም የይለፍ ቃል ለውጥ ወይም አቦዝን"</string>
+    <string name="unlock_set_unlock_launch_picker_enable_summary">ማያውን ለመቆለፍ ሜተድ ምረጥ</string>
+    <string name="unlock_backup_info_summary">በፊት ገጽ መክፈቻ እርስዎን ማየት ሳይችል ሲቀር ስልኩን እንዴት ማስከፈት ይፈልጋሉ?</string>
+    <string name="unlock_set_unlock_off_title">ምንም</string>
+    <string name="unlock_set_unlock_off_summary" />
+    <string name="unlock_set_unlock_none_title">ማንሸራተት</string>
+    <string name="unlock_set_unlock_none_summary">ምንም ጥበቃ የለም</string>
+    <string name="unlock_set_unlock_biometric_weak_title">በፊት ገጽ መክፈቻ</string>
+    <string name="unlock_set_unlock_biometric_weak_summary">ዝቅተኛ ጥበቃ፣ ሙከራ</string>
+    <string name="unlock_set_unlock_pattern_title">ስርዓተ ጥለት</string>
+    <string name="unlock_set_unlock_pattern_summary">መካከለኛ ጥበቃ</string>
+    <string name="unlock_set_unlock_pin_title">ፒን</string>
+    <string name="unlock_set_unlock_pin_summary">ከመካከለኛ እስከ ከፍተኛ ጥበቃ</string>
+    <string name="unlock_set_unlock_password_title">" የይለፍ ቃል፡"</string>
+    <string name="unlock_set_unlock_password_summary">ከፍተኛ ጥበቃ</string>
+    <string name="unlock_set_unlock_disabled_summary">የምስጠራ መምሪያ ወይም ማስረጃ ማከማቻ በአስተዳዳሪ ቦዝኗል</string>
+    <string name="unlock_set_unlock_mode_off">ምንም</string>
+    <string name="unlock_set_unlock_mode_none">ማንሸራተት</string>
+    <string name="unlock_set_unlock_mode_biometric_weak">በፊት ገጽ መክፈቻ</string>
+    <string name="unlock_set_unlock_mode_pattern">ሥርዓተ ጥለት</string>
+    <string name="unlock_set_unlock_mode_pin">ፒን</string>
+    <string name="unlock_set_unlock_mode_password">የይለፍ ቃል</string>
+    <string name="unlock_disable_lock_title">የማያ መዝጊያ አጥፋ</string>
+    <string name="unlock_disable_lock_pattern_summary">የመክፈቻ ስርዓተ ጥለት አስወግድ</string>
+    <string name="unlock_disable_lock_pin_summary">"መክፈቻ ፒን  አስወግድ"</string>
+    <string name="unlock_disable_lock_password_summary">የመክፈቻ ይለፍ ቃል አስወግድ</string>
+    <string name="unlock_change_lock_pattern_title">መክፈቻ ስርዓት ጥለት ለውጥ</string>
+    <string name="unlock_change_lock_pin_title">"መክፈቻ ፒን  ለውጥ"</string>
+    <string name="unlock_change_lock_password_title">መክፈቻ ይለፍ ቃል ለውጥ</string>
+    <string name="keywords_lockscreen">ማንሸራተት የይለፍ ቃል ስርዓተ-ጥለት ፒን</string>
+    <string name="switch_on_text">በርቷል</string>
+    <string name="switch_off_text">ጠፍቷል</string>
+    <string name="screen_pinning_title">ማያ ገጽ መሰካት</string>
+    <string name="screen_pinning_description">"ይህ ቅንብር ሲበራ መሣሪያው የአሁኑን ማያ ገጽ በእይታ ውስጥ በሚያቆይ መልኩ ሊያደርጉት ይችላሉ።
+
+አንድ ማያ ገጽ ለመሰካት፦
+
+1. ይህን ቅንብር ያብሩት።
+
+2. አንድ መተግበሪያ ይክፈቱ።
+
+3. የቅርብ ጊዜዎቹ አዝራር ይንኩ።
+
+4. የሚስማር አዶውን ይንኩ።"</string>
+    <string name="settings_safetylegal_activity_loading">በማስገባት ላይ...</string>
+    <string name="no_applications">ምንም መተግበሪያዎች የሉም::</string>
+    <string name="help_label">እገዛ እና ግብረመልስ</string>
+    <string name="lockpassword_ok_label">እሺ</string>
+    <string name="lockpattern_tutorial_cancel_label">ይቅር</string>
+    <string name="lockpattern_tutorial_continue_label">ቀጥሎ</string>
+    <string name="lockpassword_confirm_your_pin_header">የእርስዎን ፒን ያረጋግጡ</string>
+    <string name="lockpassword_confirm_your_password_header">የይለፍ ቃልዎን ያረጋግጡ</string>
+    <string name="cancel">ይቅር</string>
+    <string name="lock_screen_notifications_title">መሣሪያ ሲቆለፍ</string>
+    <string name="lock_screen_notifications_summary_show">ሁሉንም የማሳወቂያ ይዘቶችን አሳይ</string>
+    <string name="lock_screen_notifications_summary_hide">ሚስጥራዊነት ያለው የማሳወቂያ ይዘት ደብቅ</string>
+    <string name="lock_screen_notifications_summary_disable">በጭራሽ ማሳወቂያዎችን አታሳይ</string>
+    <string name="lock_screen_notifications_interstitial_message">መሳሪያዎ የተቆለፈ ሲሆን ማሳወቂያዎችዎ እንዴት እንዲታዩ ይፈልጋሉ?</string>
+    <string name="app_notifications_dialog_done">ተከናውኗል</string>
+    <string name="lockpassword_cancel_label">ይቅር</string>
+    <string name="lockpassword_password_too_long">የይለፍ ቃል ከ%d ቁምፊዎች ያነሰ መሆን አለበት።</string>
+    <string name="lockpassword_pin_too_long">"ፒን  ከ%d አሀዞች ያነሰ መሆን አለበት።"</string>
+    <string name="lockpassword_password_too_short">የይለፍ ቃል ቢያንስ %d ቁምፊዎች መሆን አለበት</string>
+    <string name="lockpassword_pin_too_short">"ፒን  ቢያንስ %d አሃዞች መሆን አለበት"</string>
+    <string name="lockpassword_press_continue">ሲከናወን ቀጥል ንካ</string>
+    <string name="lockpassword_continue_label">ቀጥል</string>
+    <string name="lockpassword_pin_no_sequential_digits">ከላይ ወደታች የተዘረዘሩ፣ ከታች ወደላይ የተዘረዘሩ ወይም የተደራረቡ የአሃዞች አደራደር የተከለከለ ነው</string>
+    <string name="lockpassword_pin_contains_non_digits">"ፒን  ከ0-9 አሀዞች ብቻ መያዝ አለበት።"</string>
+    <string name="lockpassword_pin_recently_used">የቅርብ ጊዜ ፒን መጠቀም የመሳሪያ አስተዳዳሪ አይፈቅድም።</string>
+    <string name="lockpassword_illegal_character">የይለፍ ቃል ህገ ወጥ ቁምፊ ይዟል።</string>
+    <string name="lockpassword_password_requires_alpha">የይለፍ ቃል ቢያንስ አንድ ፊደል መያዝ አለበት።</string>
+    <string name="lockpassword_password_requires_digit">የይለፍ ቃል ቢያንስ አንድ አሀዝ መያዝ አለበት።</string>
+    <string name="lockpassword_password_requires_symbol">የይለፍ ቃል ቢያንስ አንድ ምልክት መያዝ አለበት።</string>
+    <string name="lockpassword_password_recently_used">የቅርብ ጊዜ የይለፍ ቃል መጠቀም የመሳሪያ አስተዳዳሪ አይፈቅድም።</string>
+    <string name="backup_lock_settings_picker_title">ምትኬ ቆላፊ ምረጥ</string>
+    <string name="profile_info_settings_title">የመገለጫ መረጃ</string>
+    <string name="user_info_settings_title">የተጠቃሚ መረጃ</string>
+    <string name="credential_storage_type_hardware">በሃርድዌር የተደገፈ</string>
+    <string name="credential_storage_type_software">ሶፍትዌር ብቻ</string>
+    <string name="error_title" />
+    <string name="lockpassword_choose_lock_generic_header">ምርጫዎችን ክፈት</string>
+</resources>

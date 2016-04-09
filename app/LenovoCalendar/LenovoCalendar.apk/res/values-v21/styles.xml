@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppBaseTheme" parent="@android:style/Theme.DeviceDefault.Light">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+    </style>
+    <style name="LeComponentsTheme" parent="@android:style/Theme.DeviceDefault.Light">
+        <item name="android:windowNoTitle">false</item>
+        <item name="android:checkboxStyle">@style/CustomCheckboxTheme</item>
+        <item name="android:radioButtonStyle">@style/CustomRadioButtonTheme</item>
+        <item name="android:actionBarStyle">@style/app_ColorActionBarStyle</item>
+        <item name="android:dialogTheme">@style/AccentColorDialog</item>
+        <item name="android:alertDialogTheme">@style/AccentColorAlertDialog</item>
+        <item name="android:actionMenuTextColor">@color/white</item>
+        <item name="android:actionBarTheme">@null</item>
+        <item name="android:colorPrimaryDark">@color/theme_color</item>
+        <item name="android:colorAccent">@color/theme_color</item>
+    </style>
+    <style name="ToolBarMonthSelectTitle">
+        <item name="android:textSize">18.0sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/toolbar_color_white</item>
+        <item name="android:background">?android:selectableItemBackgroundBorderless</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="ToolBarWeahterInfo">
+        <item name="android:textSize">12.0sp</item>
+        <item name="android:textColor">@color/toolbar_color_white</item>
+        <item name="android:background">?android:selectableItemBackgroundBorderless</item>
+    </style>
+    <style name="ToolBarMonthSelectTitle_Layout_Background">
+        <item name="android:background">?android:selectableItemBackgroundBorderless</item>
+    </style>
+    <style name="app_ColorAcitonbarTitleTextStyle" parent="@android:style/TextAppearance.DeviceDefault.Widget.ActionBar.Title">
+        <item name="android:textColor">?android:textColorPrimaryInverse</item>
+    </style>
+    <style name="app_ColorAcitonbarSubtitleTextStyle" parent="@android:style/TextAppearance.DeviceDefault.Widget.ActionBar.Subtitle">
+        <item name="android:textColor">?android:textColorSecondaryInverse</item>
+    </style>
+    <style name="app_ColorActionBarStyle" parent="@android:style/Widget.DeviceDefault.Light.ActionBar">
+        <item name="android:background">@color/actionbar_color</item>
+        <item name="android:titleTextStyle">@style/app_ColorAcitonbarTitleTextStyle</item>
+        <item name="android:subtitleTextStyle">@style/app_ColorAcitonbarSubtitleTextStyle</item>
+    </style>
+    <style name="LeComponentsTheme.NoPreview" parent="@style/LeComponentsTheme">
+        <item name="android:windowDisablePreview">true</item>
+    </style>
+    <style name="LeComponentsThemeWithBottommenu" parent="@android:style/Theme.DeviceDefault.Light">
+        <item name="android:windowNoTitle">false</item>
+        <item name="android:checkboxStyle">@style/CustomCheckboxTheme</item>
+        <item name="android:radioButtonStyle">@style/CustomRadioButtonTheme</item>
+        <item name="android:actionBarStyle">@style/app_ColorActionBarStyle</item>
+        <item name="android:dialogTheme">@style/AccentColorDialog</item>
+        <item name="android:alertDialogTheme">@style/AccentColorAlertDialog</item>
+        <item name="android:actionBarTheme">@null</item>
+        <item name="android:colorAccent">@color/theme_color</item>
+    </style>
+    <style name="LeComponentsThemeNoActionBar" parent="@android:style/Theme.DeviceDefault.Light.NoActionBar">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:checkboxStyle">@style/CustomCheckboxTheme</item>
+        <item name="android:radioButtonStyle">@style/CustomRadioButtonTheme</item>
+        <item name="android:dialogTheme">@style/AccentColorDialog</item>
+        <item name="android:alertDialogTheme">@style/AccentColorAlertDialog</item>
+        <item name="android:colorPrimaryDark">@color/theme_color</item>
+        <item name="android:colorAccent">@color/theme_color</item>
+    </style>
+    <style name="LeComponentsThemeNoActionBar.NoPreview" parent="@style/LeComponentsThemeNoActionBar">
+        <item name="android:windowDisablePreview">true</item>
+    </style>
+    <style name="LeComponentsThemeNoActionBar_Nopreview" parent="@android:style/Theme.DeviceDefault.Light.NoActionBar">
+        <item name="android:windowBackground">@drawable/all_in_one_bg</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:checkboxStyle">@style/CustomCheckboxTheme</item>
+        <item name="android:radioButtonStyle">@style/CustomRadioButtonTheme</item>
+        <item name="android:dialogTheme">@style/AccentColorDialog</item>
+        <item name="android:alertDialogTheme">@style/AccentColorAlertDialog</item>
+        <item name="android:colorPrimaryDark">@color/theme_color</item>
+        <item name="android:colorAccent">@color/theme_color</item>
+    </style>
+    <style name="SearchEventTheme" parent="@android:style/Theme.DeviceDefault.Light">
+        <item name="android:actionBarStyle">@style/app_ColorActionBarStyle</item>
+    </style>
+    <style name="AccentColorDialog" parent="@android:style/Theme.DeviceDefault.Light.Dialog">
+        <item name="android:colorAccent">@color/theme_color</item>
+    </style>
+    <style name="AccentColorAlertDialog" parent="@android:style/Theme.DeviceDefault.Light.Dialog">
+        <item name="android:colorAccent">@color/theme_color</item>
+    </style>
+    <style name="CustomCheckboxTheme" parent="@android:style/Widget.CompoundButton.CheckBox">
+        <item name="android:paddingLeft">12.0dip</item>
+    </style>
+    <style name="CustomRadioButtonTheme" parent="@android:style/Widget.CompoundButton.RadioButton">
+        <item name="android:paddingLeft">12.0dip</item>
+    </style>
+</resources>

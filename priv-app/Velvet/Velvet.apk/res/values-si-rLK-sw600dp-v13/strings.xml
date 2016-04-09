@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="search_phone_or_tablet">ටැබ්ලටය සෙවීම</string>
+    <string name="corpus_name_summons">ටැබ්ලට්</string>
+    <string name="search_sources">ටැබ්ලට් සෙවීම</string>
+    <string name="no_summons_found">"ඔබගේ ටැබ්ලටයේ
+කිසිවක් හමු නොවිණි."</string>
+    <string name="hands_free_unlock_device">Google හඬ සෙවීම කිරීමට, කරුණාකර ඔබගේ ටැබ්ලටයේ අඟුල අරින්න.</string>
+    <string name="icing_manage_storage_summary">ඔබගේ යෙදුම්වල භාවිතා කිරීමට සෙවුම් එන්ජිමක් ලබා දීමෙන්, අප ඔබගේ ටැබ්ලටයේ සෙවීම වේගවත් කරනවා.</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="lock_after_timeout_entries">
+        <item>Ngokushesha</item>
+        <item>5 amasekhondi</item>
+        <item>15 amasekhondi</item>
+        <item>30 amasekhondi</item>
+        <item>1 iminithi</item>
+        <item>2 amaminithi</item>
+        <item>5 amaminithi</item>
+        <item>10 amaminithi</item>
+        <item>30 amaminithi</item>
+    </string-array>
+</resources>

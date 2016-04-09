@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">工程指令</string>
+    <string name="factory_wipe_data">工厂方式恢复出厂设置</string>
+    <string name="factory_wipe_data_warning">按确定键将清空所有用户数据，将手机恢复到出厂状态(包括内置SD卡)，但保留预置在手机中的应用，强烈建议普通用户不要使用，以免丢失手机中的数据</string>
+    <string name="factory_wipe_data_cancel">取消</string>
+    <string name="sdcard_not_found">恢复失败</string>
+    <string name="sdcard_not_found_tip">该功能需要SD卡的支持，请确保已插入可用的SD卡</string>
+    <string name="sdcard_out_of_space">SD卡可用空间不足</string>
+    <string name="sdcard_out_of_space_tip">SD剩余%1$sM可用空间，而该功能需要SD卡预留%2$sM的可用空间</string>
+    <string name="imei">移动通信国际识别码</string>
+    <string name="imei_invalid">无效</string>
+    <string name="version_info_title">版本信息</string>
+    <string name="kernel_version">内核版本</string>
+    <string name="baseband_version">基带版本</string>
+    <string name="branch_name">分支名称</string>
+    <string name="hardware_version">硬件版本号</string>
+    <string name="audio_paraver">音频参数</string>
+    <string name="lvp_version">LVP版本号</string>
+    <string name="hw_info_ntcTemp">Ntc 温度( 每隔一分钟更新一次):</string>
+    <string name="power_warning">警告</string>
+    <string name="power_warning_info">电量小于30%, 恢复出厂设置可能失败, 请给您的手机充电</string>
+    <string name="debug_enable_mass_storage_title">打开/关闭串口</string>
+    <string name="debug_enable_mass_storage_summary">设置属性 persist sys.usb.config 为mass_storage,adb,acm / mtp,adb ，该功能仅限于调试。</string>
+    <string name="alert_message_ums_string">按[确定]切换当前usb模式</string>
+    <string name="fb_switch_title">一键反馈开关</string>
+    <string name="fb_switch_message">当前状态为%1$s，是否%2$s一键反馈功能?</string>
+    <string name="openFbBtn">打开</string>
+    <string name="closeFbBtn">关闭</string>
+    <string name="sensor_correct">Psensor,Gsensor,GyroSensor校准</string>
+    <string name="psensor_correct">Psensor校准</string>
+    <string name="gsensor_correct">Gsensor校准</string>
+    <string name="gyrosensor_correct">Gyrosensor校准</string>
+</resources>

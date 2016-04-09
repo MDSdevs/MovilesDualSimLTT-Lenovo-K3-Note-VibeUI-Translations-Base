@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="basecard_padding">7.0dip</dimen>
+    <dimen name="headermain_height">173.0dip</dimen>
+</resources>

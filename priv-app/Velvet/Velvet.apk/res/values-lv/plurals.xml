@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">Atlasītas: %1$d</item>
+        <item quantity="zero">Atlasīts: %1$d</item>
+        <item quantity="one">Atlasīta: %1$d</item>
+    </plurals>
+    <plurals name="recurrence_end_count">
+        <item quantity="other">%d reizes</item>
+        <item quantity="one">%d reizi</item>
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+        <item quantity="other">Ik pēc %d dienām</item>
+        <item quantity="one">Ik pēc %d dienas</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+        <item quantity="other">Ik pēc %d nedēļām</item>
+        <item quantity="one">Ik pēc %d nedēļas</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+        <item quantity="other">Ik pēc %d mēnešiem</item>
+        <item quantity="one">Ik pēc %d mēneša</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+        <item quantity="other">Ik pēc %d gadiem</item>
+        <item quantity="one">Ik pēc %d gada</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item quantity="other">; %d reizes</item>
+        <item quantity="one">; vienu reizi</item>
+    </plurals>
+    <plurals name="daily">
+        <item quantity="other">Ik pēc %d dienām</item>
+        <item quantity="one">Katru dienu</item>
+        <item quantity="two">Ik pēc %d dienām</item>
+        <item quantity="few">Ik pēc %d dienām</item>
+        <item quantity="many">Ik pēc %d dienām</item>
+    </plurals>
+    <plurals name="daily_lower">
+        <item quantity="other">ik pēc %d dienām</item>
+        <item quantity="one">katru dienu</item>
+        <item quantity="two">ik pēc %d dienām</item>
+        <item quantity="few">ik pēc %d dienām</item>
+        <item quantity="many">ik pēc %d dienām</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="other">Ik pēc %1$d nedēļām (katra %2$s)</item>
+        <item quantity="one">Katru nedēļu (katra %2$s)</item>
+        <item quantity="two">Ik pēc %1$d nedēļām (katra %2$s)</item>
+        <item quantity="few">Ik pēc %1$d nedēļām (katra %2$s)</item>
+        <item quantity="many">Ik pēc %1$d nedēļām (katra %2$s)</item>
+    </plurals>
+    <plurals name="weekly_lower">
+        <item quantity="other">ik pēc %1$d nedēļām (katra %2$s)</item>
+        <item quantity="one">katru nedēļu (katra %2$s)</item>
+        <item quantity="two">ik pēc %1$d nedēļām (katra %2$s)</item>
+        <item quantity="few">ik pēc %1$d nedēļām (katra %2$s)</item>
+        <item quantity="many">ik pēc %1$d nedēļām (katra %2$s)</item>
+    </plurals>
+    <plurals name="monthly_interval">
+        <item quantity="other">Ik pēc %1$d mēnešiem</item>
+        <item quantity="one">Katru mēnesi</item>
+        <item quantity="two">Ik pēc %1$d mēnešiem</item>
+        <item quantity="few">Ik pēc %1$d mēnešiem</item>
+        <item quantity="many">Ik pēc %1$d mēnešiem</item>
+    </plurals>
+    <plurals name="monthly_interval_lower">
+        <item quantity="other">ik pēc %1$d mēnešiem</item>
+        <item quantity="one">katru mēnesi</item>
+        <item quantity="two">ik pēc %1$d mēnešiem</item>
+        <item quantity="few">ik pēc %1$d mēnešiem</item>
+        <item quantity="many">ik pēc %1$d mēnešiem</item>
+    </plurals>
+    <plurals name="yearly_interval_plain">
+        <item quantity="other">Ik pēc %1$d gadiem</item>
+        <item quantity="one">Katru gadu</item>
+        <item quantity="two">Ik pēc %1$d gadiem</item>
+        <item quantity="few">Ik pēc %1$d gadiem</item>
+        <item quantity="many">Ik pēc %1$d gadiem</item>
+    </plurals>
+    <plurals name="yearly_interval_lower">
+        <item quantity="other">ik pēc %1$d gadiem</item>
+        <item quantity="one">katru gadu</item>
+        <item quantity="two">ik pēc %1$d gadiem</item>
+        <item quantity="few">ik pēc %1$d gadiem</item>
+        <item quantity="many">ik pēc %1$d gadiem</item>
+    </plurals>
+    <plurals name="duration_in_hours">
+        <item quantity="other">%1$d stundas</item>
+        <item quantity="zero">%1$d stundas</item>
+        <item quantity="one">%1$d stunda</item>
+    </plurals>
+    <plurals name="duration_in_hours_short">
+        <item quantity="other">%1$d stundas</item>
+        <item quantity="zero">%1$d stundas</item>
+        <item quantity="one">%1$d stunda</item>
+    </plurals>
+    <plurals name="duration_in_minutes">
+        <item quantity="other">%1$d minūtes</item>
+        <item quantity="zero">%1$d minūtes</item>
+        <item quantity="one">%1$d minūte</item>
+    </plurals>
+    <plurals name="duration_in_minutes_short">
+        <item quantity="other">%1$d min</item>
+        <item quantity="zero">%1$d min</item>
+        <item quantity="one">%1$d min</item>
+    </plurals>
+    <plurals name="duration_in_days">
+        <item quantity="other">%1$d dienas</item>
+        <item quantity="zero">%1$d dienas</item>
+        <item quantity="one">%1$d diena</item>
+    </plurals>
+    <plurals name="duration_in_days_short">
+        <item quantity="other">%1$d dienas</item>
+        <item quantity="zero">%1$d dienas</item>
+        <item quantity="one">%1$d diena</item>
+    </plurals>
+    <plurals name="duration_in_months">
+        <item quantity="other">%1$d mēneši</item>
+        <item quantity="zero">%1$d mēneši</item>
+        <item quantity="one">%1$d mēnesis</item>
+    </plurals>
+    <plurals name="duration_in_months_short">
+        <item quantity="other">%1$d mēneši</item>
+        <item quantity="zero">%1$d mēneši</item>
+        <item quantity="one">%1$d mēnesis</item>
+    </plurals>
+    <plurals name="duration_in_years">
+        <item quantity="other">%1$d gadi</item>
+        <item quantity="zero">%1$d gadi</item>
+        <item quantity="one">%1$d gads</item>
+    </plurals>
+    <plurals name="duration_in_years_short">
+        <item quantity="other">%1$d gadi</item>
+        <item quantity="zero">%1$d gadi</item>
+        <item quantity="one">%1$d gads</item>
+    </plurals>
+    <plurals name="items_from_without_colon">
+        <item quantity="other">%1$d vienumi no</item>
+        <item quantity="zero">%1$d vienumi no</item>
+        <item quantity="one">%1$d vienums no</item>
+    </plurals>
+    <plurals name="last_bus_home_departure_time">
+        <item quantity="other">Pēdējais autobuss uz mājām ir pēc %2$s%1$d minūtēm%3$s</item>
+        <item quantity="zero">Pēdējais autobuss uz mājām ir pēc %2$s%1$d minūtēm%3$s</item>
+        <item quantity="one">Pēdējais autobuss uz mājām ir pēc %2$s%1$d minūtes%3$s</item>
+    </plurals>
+    <plurals name="last_bus_to_hotel_departure_time">
+        <item quantity="other">Pēdējais autobuss uz viesnīcu ir pēc %2$s%1$d minūtēm%3$s</item>
+        <item quantity="zero">Pēdējais autobuss uz viesnīcu ir pēc %2$s%1$d minūtēm%3$s</item>
+        <item quantity="one">Pēdējais autobuss uz viesnīcu ir pēc %2$s%1$d minūtes%3$s</item>
+    </plurals>
+    <plurals name="last_train_home_departure_time">
+        <item quantity="other">Pēdējais vilciens uz mājām atiet pēc %2$s%1$d min%3$s</item>
+        <item quantity="zero">Pēdējais vilciens uz mājām atiet pēc %2$s%1$d min%3$s</item>
+        <item quantity="one">Pēdējais vilciens uz mājām atiet pēc %2$s%1$d min%3$s</item>
+    </plurals>
+    <plurals name="last_train_to_hotel_departure_time">
+        <item quantity="other">Pēdējais vilciens uz viesnīcu atiet pēc %2$s%1$d min%3$s</item>
+        <item quantity="zero">Pēdējais vilciens uz viesnīcu atiet pēc %2$s%1$d min%3$s</item>
+        <item quantity="one">Pēdējais vilciens uz viesnīcu atiet pēc %2$s%1$d min%3$s</item>
+    </plurals>
+    <plurals name="last_transit_home_departure_time">
+        <item quantity="other">Pēdējais transports uz mājām ir pēc %2$s%1$d minūtēm%3$s</item>
+        <item quantity="zero">Pēdējais transports uz mājām ir pēc %2$s%1$d minūtēm%3$s</item>
+        <item quantity="one">Pēdējais transports uz mājām ir pēc %2$s%1$d minūtes%3$s</item>
+    </plurals>
+    <plurals name="last_transit_to_hotel_departure_time">
+        <item quantity="other">Pēdējais transports uz viesnīcu ir pēc %2$s%1$d minūtēm%3$s</item>
+        <item quantity="zero">Pēdējais transports uz viesnīcu ir pēc %2$s%1$d minūtēm%3$s</item>
+        <item quantity="one">Pēdējais transports uz viesnīcu ir pēc %2$s%1$d minūtes%3$s</item>
+    </plurals>
+    <plurals name="transit_next_line_departure_subtext_no_platform">
+        <item quantity="other">Ejiet %1$d min līdz stacijai %2$s</item>
+        <item quantity="zero">Ejiet %1$d min līdz stacijai %2$s</item>
+        <item quantity="one">Ejiet %1$d min līdz stacijai %2$s</item>
+    </plurals>
+    <plurals name="minutes_delay">
+        <item quantity="other">kavējas %1$d minūtes</item>
+        <item quantity="zero">nekavējas</item>
+        <item quantity="one">kavējas %1$d minūti</item>
+    </plurals>
+    <plurals name="minutes_delay_more_than_usual">
+        <item quantity="other">%1$d minūtes ilgāk nekā parasti</item>
+        <item quantity="zero">nekavējas</item>
+        <item quantity="one">%1$d minūti ilgāk nekā parasti</item>
+    </plurals>
+    <plurals name="minutes_delay_less_than_usual">
+        <item quantity="other">par %1$d min mazāk nekā parasti</item>
+        <item quantity="zero">nekavējas</item>
+        <item quantity="one">par %1$d min mazāk nekā parasti</item>
+    </plurals>
+    <plurals name="usual_traffic_minutes_delay">
+        <item quantity="other">Parasta satiksme: kavējas %1$d minūtes</item>
+        <item quantity="zero">Parasta satiksme: nekavējas</item>
+        <item quantity="one">Parasta satiksme: kavējas %1$d minūti</item>
+    </plurals>
+    <plurals name="num_min_late">
+        <item quantity="other">%1$d min vēlāk</item>
+        <item quantity="zero">%1$d min vēlāk</item>
+        <item quantity="one">%1$d min vēlāk</item>
+    </plurals>
+    <plurals name="num_min_early">
+        <item quantity="other">%1$d min agrāk</item>
+        <item quantity="zero">%1$d min agrāk</item>
+        <item quantity="one">%1$d min agrāk</item>
+    </plurals>
+    <plurals name="transit_interval_in_minutes">
+        <item quantity="other">·Ik pēc %1$s min</item>
+        <item quantity="zero">·Ik pēc %1$s min</item>
+        <item quantity="one">·Ik pēc %1$s min</item>
+    </plurals>
+    <plurals name="transit_interval_in_hours">
+        <item quantity="other">·Ik pēc %1$d stundām</item>
+        <item quantity="zero">·Ik pēc %1$d stundām</item>
+        <item quantity="one">·Ik pēc %1$d stundas</item>
+    </plurals>
+    <plurals name="qp_transit_interval_in_minutes">
+        <item quantity="other">Ik pēc %1$s min</item>
+        <item quantity="zero">Ik pēc %1$s min</item>
+        <item quantity="one">Ik pēc %1$s min</item>
+    </plurals>
+    <plurals name="qp_transit_interval_in_hours">
+        <item quantity="other">Ik pēc %1$d stundām</item>
+        <item quantity="zero">Ik pēc %1$d stundām</item>
+        <item quantity="one">Ik pēc %1$d stundas</item>
+    </plurals>
+    <plurals name="sports_overtime_period_header">
+        <item quantity="other">%1$d papildlaiki</item>
+        <item quantity="zero">%1$d papildlaiki</item>
+        <item quantity="one">%1$d papildlaiks</item>
+    </plurals>
+    <plurals name="time_to_leave_user_arrival_generic">
+        <item quantity="other">Ierašanās %1$d agrāk</item>
+        <item quantity="zero">Ierašanās %1$d agrāk</item>
+        <item quantity="one">Ierašanās %1$d agrāk</item>
+    </plurals>
+    <plurals name="time_to_leave_user_arrival_flight">
+        <item quantity="other">Ierašanās %1$d min pirms izlidošanas</item>
+        <item quantity="zero">Ierašanās %1$d min pirms izlidošanas</item>
+        <item quantity="one">Ierašanās %1$d min pirms izlidošanas</item>
+    </plurals>
+    <plurals name="time_to_leave_user_arrival_reservation">
+        <item quantity="other">Ierašanās %1$d min pirms rezervācijas laika</item>
+        <item quantity="zero">Ierašanās %1$d min pirms rezervācijas laika</item>
+        <item quantity="one">Ierašanās %1$d min pirms rezervācijas laika</item>
+    </plurals>
+    <plurals name="time_to_leave_user_arrival_movie">
+        <item quantity="other">Ierašanās %1$d min pirms filmas sākuma</item>
+        <item quantity="zero">Ierašanās %1$d min pirms filmas sākuma</item>
+        <item quantity="one">Ierašanās %1$d min pirms filmas sākuma</item>
+    </plurals>
+    <plurals name="time_to_leave_user_arrival_concert">
+        <item quantity="other">Ierašanās %1$d min pirms koncerta sākuma</item>
+        <item quantity="zero">Ierašanās %1$d min pirms koncerta sākuma</item>
+        <item quantity="one">Ierašanās %1$d min pirms koncerta sākuma</item>
+    </plurals>
+    <plurals name="email_everyone">
+        <item quantity="other">Nosūtīt e-pasta ziņojumu visiem dalībniekiem (%1$d)</item>
+        <item quantity="zero">Nosūtīt e-pasta ziņojumu visiem dalībniekiem (%1$d)</item>
+        <item quantity="one">Nosūtīt e-pasta ziņojumu visiem dalībniekiem (%1$d)</item>
+    </plurals>
+    <plurals name="card_count">
+        <item quantity="other">%1$d kartītes</item>
+        <item quantity="zero">Nav kartīšu</item>
+        <item quantity="one">%1$d kartīte</item>
+    </plurals>
+    <plurals name="num_movie_tickets">
+        <item quantity="other">%1$d biļetes</item>
+        <item quantity="zero">%1$d biļetes</item>
+        <item quantity="one">%1$d biļete</item>
+    </plurals>
+    <plurals name="qp_hotel_reservation_length">
+        <item quantity="other">Numura rezervēšana %1$d naktīm</item>
+        <item quantity="zero">Numura rezervēšana %1$d naktīm</item>
+        <item quantity="one">Numura rezervēšana %1$d naktij</item>
+    </plurals>
+    <plurals name="reminders">
+        <item quantity="other">%1$d atgādinājumi</item>
+        <item quantity="zero">%1$d atgādinājumi</item>
+        <item quantity="one">%1$d atgādinājums</item>
+    </plurals>
+    <plurals name="number_of_location_sharers">
+        <item quantity="other">%1$d personas kopīgo ar jums</item>
+        <item quantity="zero">%1$d personas kopīgo ar jums</item>
+        <item quantity="one">%1$d persona kopīgo ar jums</item>
+    </plurals>
+    <plurals name="expiring_duration_in_days">
+        <item quantity="other">Termiņš: %1$d dienas</item>
+        <item quantity="zero">Termiņš: %1$d dienas</item>
+        <item quantity="one">Termiņš: %1$d diena</item>
+    </plurals>
+    <plurals name="expiring_duration_in_hours">
+        <item quantity="other">Termiņš: %1$d stundas</item>
+        <item quantity="zero">Termiņš: %1$d stundas</item>
+        <item quantity="one">Termiņš: %1$d stunda</item>
+    </plurals>
+    <plurals name="expiring_duration_in_minutes">
+        <item quantity="other">Termiņš: %1$d minūtes</item>
+        <item quantity="zero">Termiņš: %1$d minūtes</item>
+        <item quantity="one">Termiņš: %1$d minūte</item>
+    </plurals>
+    <plurals name="view_count">
+        <item quantity="other">%1$,d skatījumi</item>
+        <item quantity="zero">%1$,d skatījumi</item>
+        <item quantity="one">%1$,d skatījums</item>
+    </plurals>
+    <plurals name="transportation_seat">
+        <item quantity="other">%1$d sēdvietas</item>
+        <item quantity="zero">%1$d sēdvietas</item>
+        <item quantity="one">%1$d sēdvieta</item>
+    </plurals>
+    <plurals name="more_directions">
+        <item quantity="other">Un vēl %1$d norādes</item>
+        <item quantity="zero">Un vēl %1$d norādes</item>
+        <item quantity="one">Un vēl %1$d norāde</item>
+    </plurals>
+    <plurals name="time_duration_spoken_hour">
+        <item quantity="other">%1$d stundas</item>
+        <item quantity="zero">%1$d stundas</item>
+        <item quantity="one">%1$d stunda</item>
+    </plurals>
+    <plurals name="time_duration_spoken_minute">
+        <item quantity="other">%1$d minūtes</item>
+        <item quantity="zero">%1$d minūtes</item>
+        <item quantity="one">%1$d minūte</item>
+    </plurals>
+    <plurals name="time_duration_spoken_second">
+        <item quantity="other">%1$d sekundes</item>
+        <item quantity="zero">%1$d sekundes</item>
+        <item quantity="one">%1$d sekunde</item>
+    </plurals>
+    <plurals name="agenda_eyes_free_all_day_events">
+        <item quantity="other">%2$s jums ir %1$d pasākumi visas dienas garumā: %3$s.</item>
+        <item quantity="zero">%2$s jums ir %1$d pasākumi visas dienas garumā: %3$s.</item>
+        <item quantity="one">%2$s jums ir %1$d pasākums visas dienas garumā: %3$s.</item>
+    </plurals>
+</resources>

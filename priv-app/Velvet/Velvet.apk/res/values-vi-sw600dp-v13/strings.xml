@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="search_phone_or_tablet">Tìm kiếm trên máy tính bảng</string>
+    <string name="corpus_name_summons">Máy tính bảng</string>
+    <string name="search_sources">Tìm kiếm trên máy tính bảng</string>
+    <string name="no_summons_found">"Không tìm thấy kết quả nào
+trên máy tính bảng của bạn."</string>
+    <string name="hands_free_unlock_device">Để thực hiện tìm kiếm bằng giọng nói trên Google, vui lòng mở khóa máy tính bảng của bạn.</string>
+    <string name="icing_manage_storage_summary">Chúng tôi tăng tốc tìm kiếm trên máy tính bảng của bạn bằng cách cung cấp công cụ tìm kiếm để Ứng dụng của bạn sử dụng.</string>
+</resources>

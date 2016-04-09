@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="recurrence_freq">
+        <item>OPAKOVAŤ DENNE</item>
+        <item>OPAKOVAŤ TÝŽDENNE</item>
+        <item>OPAKOVAŤ MESAČNE</item>
+        <item>OPAKOVAŤ ROČNE</item>
+    </string-array>
+    <string-array name="edit_recurrence">
+        <item>Neopakuje sa</item>
+        <item>Každý deň</item>
+        <item>Každý týždeň</item>
+        <item>Každý mesiac</item>
+        <item>Každý rok</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>každú prvú nedeľu</item>
+        <item>každú druhú nedeľu</item>
+        <item>každú tretiu nedeľu</item>
+        <item>každú štvrtú nedeľu</item>
+        <item>každú poslednú nedeľu</item>
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>každý prvý pondelok</item>
+        <item>každý druhý pondelok</item>
+        <item>každý tretí pondelok</item>
+        <item>každý štvrtý pondelok</item>
+        <item>každý posledný pondelok</item>
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>každý prvý utorok</item>
+        <item>každý druhý utorok</item>
+        <item>každý tretí utorok</item>
+        <item>každý štvrtý utorok</item>
+        <item>každý posledný utorok</item>
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>každú prvú stredu</item>
+        <item>každú druhú stredu</item>
+        <item>každú tretiu stredu</item>
+        <item>každú štvrtú stredu</item>
+        <item>každú poslednú stredu</item>
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>každý prvý štvrtok</item>
+        <item>každý druhý štvrtok</item>
+        <item>každý tretí štvrtok</item>
+        <item>každý štvrtý štvrtok</item>
+        <item>každý posledný štvrtok</item>
+    </string-array>
+    <string-array name="repeat_by_nth_fri">
+        <item>každý prvý piatok</item>
+        <item>každý druhý piatok</item>
+        <item>každý tretí piatok</item>
+        <item>každý štvrtý piatok</item>
+        <item>každý posledný piatok</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>každú prvú sobotu</item>
+        <item>každú druhú sobotu</item>
+        <item>každú tretiu sobotu</item>
+        <item>každú štvrtú sobotu</item>
+        <item>každú poslednú sobotu</item>
+    </string-array>
+    <string-array name="baseball_innings">
+        <item>1. zmena</item>
+        <item>2. zmena</item>
+        <item>3. zmena</item>
+        <item>4. zmena</item>
+        <item>5. zmena</item>
+        <item>6. zmena</item>
+        <item>7. zmena</item>
+        <item>8. zmena</item>
+        <item>9. zmena</item>
+        <item>10. zmena</item>
+        <item>11. zmena</item>
+        <item>12. zmena</item>
+    </string-array>
+    <string-array name="qp_top_baseball_innings">
+        <item>1. hor.</item>
+        <item>2. hor.</item>
+        <item>3. hor.</item>
+        <item>4. hor.</item>
+        <item>5. hor.</item>
+        <item>6. hor.</item>
+        <item>7. hor.</item>
+        <item>8. hor.</item>
+        <item>9. hor.</item>
+        <item>10. hor.</item>
+        <item>11. hor.</item>
+        <item>12. hor.</item>
+    </string-array>
+    <string-array name="qp_bottom_baseball_innings">
+        <item>1. dol.</item>
+        <item>2. dol.</item>
+        <item>3. dol.</item>
+        <item>4. dol.</item>
+        <item>5. dol.</item>
+        <item>6. dol.</item>
+        <item>7. dol.</item>
+        <item>8. dol.</item>
+        <item>9. dol.</item>
+        <item>10. dol.</item>
+        <item>11. dol.</item>
+        <item>12. dol.</item>
+    </string-array>
+    <string-array name="local_results_markers">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>V</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+    </string-array>
+    <string-array name="languageNames">
+        <item>afrikánčina (Južná Afrika)</item>
+        <item>arabčina (Alžírsko)</item>
+        <item>arabčina (Egypt)</item>
+        <item>arabčina (Irak)</item>
+        <item>arabčina (Izrael)</item>
+        <item>arabčina (Jordánsko)</item>
+        <item>arabčina (Kuvajt)</item>
+        <item>španielčina (Libanon)</item>
+        <item>arabčina (Líbya)</item>
+        <item>arabčina (Maroko)</item>
+        <item>arabčina (Katar)</item>
+        <item>arabčina (Saudská Arábia)</item>
+        <item>arabčina (Sudán)</item>
+        <item>arabčina (Sýria)</item>
+        <item>arabčina (Tunisko)</item>
+        <item>arabčina (Spojené arabské emiráty)</item>
+        <item>arabčina (Jemen)</item>
+        <item>bieloruština (Bielorusko)</item>
+        <item>bengálčina (Bangladéš)</item>
+        <item>bulharčina (Bulharsko)</item>
+        <item>katalánčina (Španielsko)</item>
+        <item>čínština, mandarínska (Čína, zjednodušená)</item>
+        <item>čínština, mandarínska (Hong Kong, zjednodušená)</item>
+        <item>čínština, mandarínska (Hongkong, tradičná)</item>
+        <item>čínština, mandarínska (Singapur, zjednodušená)</item>
+        <item>čínština, mandarínska (Taiwan, zjednodušená)</item>
+        <item>čínština, mandarínska (Taiwan, tradičná)</item>
+        <item>čínština, kantónčina (Čína, zjednodušená)</item>
+        <item>čínština, kantónčina (Hongkong, tradičná)</item>
+        <item>chorvátčina (Chorvátsko)</item>
+        <item>čeština (Česká republika)</item>
+        <item>dánčina (Dánsko)</item>
+        <item>holandčina (Belgicko)</item>
+        <item>holandčina (Holandsko)</item>
+        <item>angličtina (všeobecná)</item>
+        <item>angličtina (Austrália)</item>
+        <item>angličtina (Bangladéš)</item>
+        <item>angličtina (Kanada)</item>
+        <item>angličtina (Hongkong)</item>
+        <item>angličtina (India)</item>
+        <item>angličtina (Írsko)</item>
+        <item>angličtina (Keňa)</item>
+        <item>angličtina (Malajzia)</item>
+        <item>angličtina (Nový Zéland)</item>
+        <item>angličtina (Nigéria)</item>
+        <item>angličtina (Pakistan)</item>
+        <item>angličtina (Filipíny)</item>
+        <item>angličtina (Singapur)</item>
+        <item>angličtina (Juhoafrická republika)</item>
+        <item>angličtina (Sudán)</item>
+        <item>angličtina (Tanzánia)</item>
+        <item>angličtina (Uganda)</item>
+        <item>angličtina (Veľká Británia)</item>
+        <item>angličtina (USA)</item>
+        <item>estónčina (Estónsko)</item>
+        <item>filipínčina (Filipíny)</item>
+        <item>fínčina (Fínsko)</item>
+        <item>francúzština (Belgicko)</item>
+        <item>francúzština (Kanada)</item>
+        <item>francúzština (Francúzsko)</item>
+        <item>francúzština (Švajčiarsko)</item>
+        <item>galícijčina (Španielsko)</item>
+        <item>nemčina (Rakúsko)</item>
+        <item>nemčina (Nemecko)</item>
+        <item>nemčina (Švajčiarsko)</item>
+        <item>nemčina (Lichtenštajnsko)</item>
+        <item>gréčtina (Grécko)</item>
+        <item>hebrejčina (Izrael)</item>
+        <item>hindčina (India)</item>
+        <item>maďarčina (Maďarsko)</item>
+        <item>islandčina (Island)</item>
+        <item>indonézčina (Indonézia)</item>
+        <item>írčina (Írsko)</item>
+        <item>ndebelčina (Južná Afrika)</item>
+        <item>xhoština (Južná Afrika)</item>
+        <item>zuluština (Južná Afrika)</item>
+        <item>taliančina (Taliansko)</item>
+        <item>taliančina (Švajčiarsko)</item>
+        <item>japončina (Japonsko)</item>
+        <item>kórejčina (Južná Kórea)</item>
+        <item>lotyština (Lotyšsko)</item>
+        <item>litovčina (Litva)</item>
+        <item>malajčina (Malajzia)</item>
+        <item>malajčina (Singapur)</item>
+        <item>nórčina, knižná (Nórsko)</item>
+        <item>nórčina, nová (Nórsko)</item>
+        <item>perzština (Irán)</item>
+        <item>poľština (Poľsko)</item>
+        <item>portugalčina (Angola)</item>
+        <item>portugalčina (Brazília)</item>
+        <item>portugalčina (Portugalsko)</item>
+        <item>rumunčina (Rumunsko)</item>
+        <item>ruština (Bielorusko)</item>
+        <item>ruština (Rusko)</item>
+        <item>severná sothčina (Južná Afrika)</item>
+        <item>srbčina (Srbsko, azbuka)</item>
+        <item>južná sothčina (Južná Afrika)</item>
+        <item>tswančina (Južná Afrika)</item>
+        <item>svazijčina (Južná Afrika)</item>
+        <item>slovenčina (Slovensko)</item>
+        <item>slovinčina (Slovinsko)</item>
+        <item>španielčina (Argentína)</item>
+        <item>španielčina (Bolívia)</item>
+        <item>španielčina (Čile)</item>
+        <item>španielčina (Kolumbia)</item>
+        <item>španielčina (Kostarika)</item>
+        <item>španielčina (Kuba)</item>
+        <item>španielčina (Dominikánska republika)</item>
+        <item>španielčina (Ekvádor)</item>
+        <item>španielčina (Salvádor)</item>
+        <item>španielčina (Guatemala)</item>
+        <item>španielčina (Honduras)</item>
+        <item>španielčina (Mexiko)</item>
+        <item>španielčina (Nikaragua)</item>
+        <item>španielčina (Panama)</item>
+        <item>španielčina (Paraguaj)</item>
+        <item>španielčina (Peru)</item>
+        <item>španielčina (Portoriko)</item>
+        <item>španielčina (Španielsko)</item>
+        <item>španielčina (USA)</item>
+        <item>španielčina (Uruguaj)</item>
+        <item>španielčina (Venezuela)</item>
+        <item>swahilčina (Keňa)</item>
+        <item>swahilčina (Tanzánia)</item>
+        <item>swahilčina (Uganda)</item>
+        <item>švédčina (Fínsko)</item>
+        <item>švédčina (Švédsko)</item>
+        <item>thajčina (Thajsko)</item>
+        <item>vendčina (Južná Afrika)</item>
+        <item>turečtina (Turecko)</item>
+        <item>ukrajinčina (Ukrajina)</item>
+        <item>urdčina (Pakistan)</item>
+        <item>vietnamčina (Vietnam)</item>
+        <item>tsongčina (Južná Afrika)</item>
+    </string-array>
+    <string-array name="edit_reminder_day">
+        <item>Dnes</item>
+        <item>Zajtra</item>
+        <item>Občas</item>
+        <item>Nastaviť dátum...</item>
+    </string-array>
+    <string-array name="edit_reminder_time">
+        <item>Ráno</item>
+        <item>Popoludní</item>
+        <item>Večer</item>
+        <item>Noc</item>
+        <item>Celý deň</item>
+        <item>Nastaviť čas...</item>
+    </string-array>
+    <string-array name="edit_reminder_location_trigger_type">
+        <item>Príchod</item>
+        <item>Odchod</item>
+    </string-array>
+    <string-array name="edit_reminder_location">
+        <item>Domov</item>
+        <item>Práca</item>
+        <item>Nastaviť miesto...</item>
+    </string-array>
+    <string-array name="network_error_tts_messages">
+        <item>Toto internetové pripojenie momentálne nie je spoľahlivé.</item>
+        <item>Toto internetové pripojenie nie je v tejto chvíli spoľahlivé.</item>
+        <item>Toto internetové pripojenie momentálne nie je stabilné.</item>
+        <item>Toto internetové pripojenie nie je v tejto chvíli stabilné.</item>
+        <item>Toto internetové pripojenie momentálne nie je dostatočne silné.</item>
+        <item>Toto internetové pripojenie nie je v tejto chvíli dostatočne silné.</item>
+    </string-array>
+    <string-array name="read_it_grammar">
+        <item>prečítať ju</item>
+        <item>prečítať správu</item>
+        <item>prečítať danú textovú správu</item>
+    </string-array>
+    <string-array name="reply_grammar">
+        <item>odpovedať</item>
+        <item>poslať odpoveď</item>
+        <item>poslať odpoveď</item>
+        <item>odpovedať na textovú správu</item>
+        <item>poslať na ňu odpoveď</item>
+    </string-array>
+    <string-array name="call_back_grammar">
+        <item>zavolať späť odosielateľovi poslednej správy</item>
+        <item>zavolať mu</item>
+        <item>zavolať mu späť</item>
+        <item>zavolať jej</item>
+        <item>zavolať jej späť</item>
+    </string-array>
+</resources>

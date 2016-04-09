@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="edit_size">21.0sp</dimen>
+    <dimen name="edit_result_size">46.0sp</dimen>
+    <dimen name="edit_size_land">14.0sp</dimen>
+    <dimen name="edit_result_size_land">31.0sp</dimen>
+    <dimen name="keypad_operator_size">18.0sp</dimen>
+    <dimen name="keypad_operator_size_land">9.0sp</dimen>
+    <dimen name="keypad_dot_size">38.0sp</dimen>
+    <dimen name="keypad_digit_size">16.0sp</dimen>
+    <dimen name="keypad_digit_land">10.0sp</dimen>
+</resources>

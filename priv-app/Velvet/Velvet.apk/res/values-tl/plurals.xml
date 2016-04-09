@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">%1$d ang napili</item>
+        <item quantity="zero">%1$d ang napili</item>
+        <item quantity="one">%1$d ang napili</item>
+    </plurals>
+    <plurals name="recurrence_end_count">
+        <item quantity="other">Para sa %d kaganapan</item>
+        <item quantity="one">Para sa %d kaganapan</item>
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+        <item quantity="other">Bawat %d (na) araw</item>
+        <item quantity="one">Bawat %d araw</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+        <item quantity="other">Bawat %d (na) linggo</item>
+        <item quantity="one">Bawat %d linggo</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+        <item quantity="other">Bawat %d (na) buwan</item>
+        <item quantity="one">Bawat %d buwan</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+        <item quantity="other">Bawat %d (na) taon</item>
+        <item quantity="one">Bawat %d taon</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item quantity="other">; %d (na) beses</item>
+        <item quantity="one">; isang beses</item>
+    </plurals>
+    <plurals name="daily">
+        <item quantity="other">Bawat %d (na) araw</item>
+        <item quantity="one">Araw-araw</item>
+        <item quantity="two">Bawat %d (na) araw</item>
+        <item quantity="few">Bawat %d (na) araw</item>
+        <item quantity="many">Bawat %d (na) araw</item>
+    </plurals>
+    <plurals name="daily_lower">
+        <item quantity="other">bawat %d (na) araw</item>
+        <item quantity="one">araw-araw</item>
+        <item quantity="two">bawat %d (na) araw</item>
+        <item quantity="few">bawat %d (na) araw</item>
+        <item quantity="many">bawat %d (na) araw</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="other">Bawat %1$d (na) linggo bawat %2$s</item>
+        <item quantity="one">Linggu-linggo bawat %2$s</item>
+        <item quantity="two">Bawat %1$d (na) linggo bawat %2$s</item>
+        <item quantity="few">Bawat %1$d (na) linggo bawat %2$s</item>
+        <item quantity="many">Bawat %1$d (na) linggo bawat %2$s</item>
+    </plurals>
+    <plurals name="weekly_lower">
+        <item quantity="other">bawat %1$d (na) linggo bawat %2$s</item>
+        <item quantity="one">linggu-linggo bawat %2$s</item>
+        <item quantity="two">bawat %1$d (na) linggo bawat %2$s</item>
+        <item quantity="few">bawat %1$d (na) linggo bawat %2$s</item>
+        <item quantity="many">bawat %1$d (na) linggo bawat %2$s</item>
+    </plurals>
+    <plurals name="monthly_interval">
+        <item quantity="other">Bawat %1$d (na) buwan</item>
+        <item quantity="one">Buwan-buwan</item>
+        <item quantity="two">Bawat %1$d (na) buwan</item>
+        <item quantity="few">Bawat %1$d (na) buwan</item>
+        <item quantity="many">Bawat %1$d (na) buwan</item>
+    </plurals>
+    <plurals name="monthly_interval_lower">
+        <item quantity="other">bawat %1$d (na) buwan</item>
+        <item quantity="one">buwan-buwan</item>
+        <item quantity="two">bawat %1$d (na) buwan</item>
+        <item quantity="few">bawat %1$d (na) buwan</item>
+        <item quantity="many">bawat %1$d (na) buwan</item>
+    </plurals>
+    <plurals name="yearly_interval_plain">
+        <item quantity="other">Bawat %1$d (na) taon</item>
+        <item quantity="one">Taun-taon</item>
+        <item quantity="two">Bawat %1$d (na) taon</item>
+        <item quantity="few">Bawat %1$d (na) taon</item>
+        <item quantity="many">Bawat %1$d (na) taon</item>
+    </plurals>
+    <plurals name="yearly_interval_lower">
+        <item quantity="other">bawat %1$d (na) taon</item>
+        <item quantity="one">taun-taon</item>
+        <item quantity="two">bawat %1$d (na) taon</item>
+        <item quantity="few">bawat %1$d (na) taon</item>
+        <item quantity="many">bawat %1$d (na) taon</item>
+    </plurals>
+    <plurals name="duration_in_hours">
+        <item quantity="other">%1$d na oras</item>
+        <item quantity="one">%1$d oras</item>
+    </plurals>
+    <plurals name="duration_in_hours_short">
+        <item quantity="other">%1$d na oras</item>
+        <item quantity="one">%1$d oras</item>
+    </plurals>
+    <plurals name="duration_in_minutes">
+        <item quantity="other">%1$d na minuto</item>
+        <item quantity="one">%1$d minuto</item>
+    </plurals>
+    <plurals name="duration_in_minutes_short">
+        <item quantity="other">%1$d na min</item>
+        <item quantity="one">%1$d min</item>
+    </plurals>
+    <plurals name="duration_in_days">
+        <item quantity="other">%1$d na araw</item>
+        <item quantity="one">%1$d araw</item>
+    </plurals>
+    <plurals name="duration_in_days_short">
+        <item quantity="other">%1$d na araw</item>
+        <item quantity="one">%1$d araw</item>
+    </plurals>
+    <plurals name="duration_in_months">
+        <item quantity="other">%1$d na buwan</item>
+        <item quantity="one">%1$d buwan</item>
+    </plurals>
+    <plurals name="duration_in_months_short">
+        <item quantity="other">%1$d na buwan</item>
+        <item quantity="one">%1$d buwan</item>
+    </plurals>
+    <plurals name="duration_in_years">
+        <item quantity="other">%1$d na taon</item>
+        <item quantity="one">%1$d taon</item>
+    </plurals>
+    <plurals name="duration_in_years_short">
+        <item quantity="other">%1$d na taon</item>
+        <item quantity="one">%1$d taon</item>
+    </plurals>
+    <plurals name="items_from_without_colon">
+        <item quantity="other">%1$d na item mula sa</item>
+        <item quantity="one">%1$d item mula sa</item>
+    </plurals>
+    <plurals name="last_bus_home_departure_time">
+        <item quantity="other">Huling bus pauwi sa loob ng %2$s%1$d na minuto%3$s</item>
+        <item quantity="one">Huling bus pauwi sa loob ng %2$s%1$d minuto%3$s</item>
+    </plurals>
+    <plurals name="last_bus_to_hotel_departure_time">
+        <item quantity="other">Huling bus papunta sa hotel sa loob ng %2$s%1$d na minuto%3$s</item>
+        <item quantity="one">Huling bus papunta sa hotel sa loob ng %2$s%1$d minuto%3$s</item>
+    </plurals>
+    <plurals name="last_train_home_departure_time">
+        <item quantity="other">Huling tren pauwi sa loob ng %2$s%1$d na min%3$s</item>
+        <item quantity="one">Huling tren pauwi sa loob ng %2$s%1$d min%3$s</item>
+    </plurals>
+    <plurals name="last_train_to_hotel_departure_time">
+        <item quantity="other">Huling tren papunta sa hotel sa loob ng %2$s%1$d na min%3$s</item>
+        <item quantity="one">Huling tren papunta sa hotel sa loob ng %2$s%1$d min%3$s</item>
+    </plurals>
+    <plurals name="last_transit_home_departure_time">
+        <item quantity="other">Huling sasakyan pauwi sa loob ng %2$s%1$d na minuto%3$s</item>
+        <item quantity="one">Huling sasakyan pauwi sa loob ng %2$s%1$d minuto%3$s</item>
+    </plurals>
+    <plurals name="last_transit_to_hotel_departure_time">
+        <item quantity="other">Huling sasakyan papunta sa hotel sa loob ng %2$s%1$d na minuto%3$s</item>
+        <item quantity="one">Huling sasakyan papunta sa hotel sa loob ng %2$s%1$d minuto%3$s</item>
+    </plurals>
+    <plurals name="transit_next_line_departure_subtext_no_platform">
+        <item quantity="other">Maglakad nang %1$d na min papunta sa %2$s</item>
+        <item quantity="one">Maglakad nang %1$d min papunta sa %2$s</item>
+    </plurals>
+    <plurals name="minutes_delay">
+        <item quantity="other">%1$d na minutong pagkaantala</item>
+        <item quantity="one">%1$d minutong pagkaantala</item>
+    </plurals>
+    <plurals name="minutes_delay_more_than_usual">
+        <item quantity="other">mahigit %1$d na minuto sa karaniwan</item>
+        <item quantity="one">mahigit %1$d minuto sa karaniwan</item>
+    </plurals>
+    <plurals name="minutes_delay_less_than_usual">
+        <item quantity="other">mas mababa nang %1$d na minuto sa karaniwan</item>
+        <item quantity="one">mas mababa nang %1$d minuto sa karaniwan</item>
+    </plurals>
+    <plurals name="usual_traffic_minutes_delay">
+        <item quantity="other">Karaniwang trapiko: %1$d na minutong pagkaantala</item>
+        <item quantity="one">Karaniwang trapiko: %1$d minutong pagkaantala</item>
+    </plurals>
+    <plurals name="num_min_late">
+        <item quantity="other">Nahuli nang %1$d na min</item>
+        <item quantity="one">Nahuli nang %1$d min</item>
+    </plurals>
+    <plurals name="num_min_early">
+        <item quantity="other">Mas maaga nang %1$d na min</item>
+        <item quantity="one">Mas maaga nang %1$d min</item>
+    </plurals>
+    <plurals name="transit_interval_in_minutes">
+        <item quantity="other">· tuwing %1$s na min</item>
+        <item quantity="one">· tuwing %1$s min</item>
+    </plurals>
+    <plurals name="transit_interval_in_hours">
+        <item quantity="other">· tuwing %1$d na oras</item>
+        <item quantity="one">· tuwing %1$d oras</item>
+    </plurals>
+    <plurals name="qp_transit_interval_in_minutes">
+        <item quantity="other">Tuwing %1$s na min</item>
+        <item quantity="one">Tuwing %1$s min</item>
+    </plurals>
+    <plurals name="qp_transit_interval_in_hours">
+        <item quantity="other">Tuwing %1$d na oras</item>
+        <item quantity="one">Tuwing %1$d oras</item>
+    </plurals>
+    <plurals name="sports_overtime_period_header">
+        <item quantity="other">%1$dOT</item>
+        <item quantity="one">%1$dOT</item>
+    </plurals>
+    <plurals name="time_to_leave_user_arrival_generic">
+        <item quantity="other">Mas maagang dumating nang %1$d na min</item>
+        <item quantity="one">Mas maagang dumating nang %1$d min</item>
+    </plurals>
+    <plurals name="time_to_leave_user_arrival_flight">
+        <item quantity="other">Dumating nang %1$d na min bago ang pag-alis</item>
+        <item quantity="one">Dumating nang %1$d min bago ang pag-alis</item>
+    </plurals>
+    <plurals name="time_to_leave_user_arrival_reservation">
+        <item quantity="other">Dumating nang %1$d na min bago ang pagpapareserba</item>
+        <item quantity="one">Dumating nang %1$d min bago ang pagpapareserba</item>
+    </plurals>
+    <plurals name="time_to_leave_user_arrival_movie">
+        <item quantity="other">Dumating nang %1$d na min bago ang pelikula</item>
+        <item quantity="one">Dumating nang %1$d min bago ang pelikula</item>
+    </plurals>
+    <plurals name="time_to_leave_user_arrival_concert">
+        <item quantity="other">Dumating nang %1$d na min bago ang konsyerto</item>
+        <item quantity="one">Dumating nang %1$d min bago ang konsyerto</item>
+    </plurals>
+    <plurals name="email_everyone">
+        <item quantity="other">I-email lahat (%1$d)</item>
+        <item quantity="one">I-email lahat (%1$d)</item>
+    </plurals>
+    <plurals name="card_count">
+        <item quantity="other">%1$d na card</item>
+        <item quantity="one">%1$d card</item>
+    </plurals>
+    <plurals name="num_movie_tickets">
+        <item quantity="other">%1$d na ticket</item>
+        <item quantity="one">%1$d ticket</item>
+    </plurals>
+    <plurals name="qp_hotel_reservation_length">
+        <item quantity="other">Pagpapareserba ng kwarto para sa %1$d na gabi</item>
+        <item quantity="one">Pagpapareserba ng kwarto para sa %1$d gabi</item>
+    </plurals>
+    <plurals name="reminders">
+        <item quantity="other">%1$d na paalala</item>
+        <item quantity="one">%1$d paalala</item>
+    </plurals>
+    <plurals name="number_of_location_sharers">
+        <item quantity="other">%1$d na tao ang nagbabahagi sa iyo</item>
+        <item quantity="one">%1$d tao ang nagbabahagi sa iyo</item>
+    </plurals>
+    <plurals name="expiring_duration_in_days">
+        <item quantity="other">Mag-e-expire pagkalipas ng %1$d na araw</item>
+        <item quantity="one">Mag-e-expire pagkalipas ng %1$d araw</item>
+    </plurals>
+    <plurals name="expiring_duration_in_hours">
+        <item quantity="other">Mag-e-expire pagkalipas ng %1$d na oras</item>
+        <item quantity="one">Mag-e-expire pagkalipas ng %1$d oras</item>
+    </plurals>
+    <plurals name="expiring_duration_in_minutes">
+        <item quantity="other">Mag-e-expire pagkalipas ng %1$d na minuto</item>
+        <item quantity="one">Mag-e-expire pagkalipas ng %1$d minuto</item>
+    </plurals>
+    <plurals name="view_count">
+        <item quantity="other">%1$,d na view</item>
+        <item quantity="one">%1$,d view</item>
+    </plurals>
+    <plurals name="transportation_seat">
+        <item quantity="other">%1$d na Upuan</item>
+        <item quantity="one">%1$d Upuan</item>
+    </plurals>
+    <plurals name="more_directions">
+        <item quantity="other">+ %1$d higit pang mga direksyon</item>
+        <item quantity="one">+ %1$d higit pang mga direksyon</item>
+    </plurals>
+    <plurals name="time_duration_spoken_hour">
+        <item quantity="other">%1$d na oras</item>
+        <item quantity="one">%1$d oras</item>
+    </plurals>
+    <plurals name="time_duration_spoken_minute">
+        <item quantity="other">%1$d na minuto</item>
+        <item quantity="one">%1$d minuto</item>
+    </plurals>
+    <plurals name="time_duration_spoken_second">
+        <item quantity="other">%1$d na segundo</item>
+        <item quantity="one">%1$d segundo</item>
+    </plurals>
+    <plurals name="agenda_eyes_free_all_day_events">
+        <item quantity="other">%2$s mayroon kang %1$d na kaganapan na pang buong-araw: %3$s.</item>
+        <item quantity="one">%2$s mayroon kang %1$d kaganapan na pang buong-araw: %3$s.</item>
+    </plurals>
+</resources>

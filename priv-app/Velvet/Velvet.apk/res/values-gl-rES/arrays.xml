@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="recurrence_freq">
+        <item>REPETIR DIARIAMENTE</item>
+        <item>REPETIR SEMANALMENTE</item>
+        <item>REPETIR MENSUALMENTE</item>
+        <item>REPETIR ANUALMENTE</item>
+    </string-array>
+    <string-array name="edit_recurrence">
+        <item>Non se repite</item>
+        <item>Cada día</item>
+        <item>Cada semana</item>
+        <item>Cada mes</item>
+        <item>Cada ano</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>o primeiro domingo de cada mes</item>
+        <item>o segundo domingo de cada mes</item>
+        <item>o terceiro domingo de cada mes</item>
+        <item>o cuarto domingo de cada mes</item>
+        <item>o último domingo de cada mes</item>
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>o primeiro luns de cada mes</item>
+        <item>o segundo luns de cada mes</item>
+        <item>o terceiro luns de cada mes</item>
+        <item>o cuarto luns de cada mes</item>
+        <item>o último luns de cada mes</item>
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>o primeiro martes de cada mes</item>
+        <item>o segundo martes de cada mes</item>
+        <item>o terceiro martes de cada mes</item>
+        <item>o cuarto martes de cada mes</item>
+        <item>o último martes de cada mes</item>
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>primeiro mércores de cada mes</item>
+        <item>o segundo mércores de cada mes</item>
+        <item>terceiro mércores de cada mes</item>
+        <item>o cuarto mércores de cada mes</item>
+        <item>o último mércores de cada mes</item>
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>o primeiro xoves de cada mes</item>
+        <item>o segundo xoves de cada mes</item>
+        <item>o terceiro xoves de cada mes</item>
+        <item>o cuarto xoves de cada mes</item>
+        <item>o último xoves de cada mes</item>
+    </string-array>
+    <string-array name="repeat_by_nth_fri">
+        <item>o primeiro venres de cada mes</item>
+        <item>o segundo venres de cada mes</item>
+        <item>o terceiro venres de cada mes</item>
+        <item>o cuarto venres de cada mes</item>
+        <item>o último venres de cada mes</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>o primeiro sábado de cada mes</item>
+        <item>o segundo sábado de cada mes</item>
+        <item>o terceiro sábado de cada mes</item>
+        <item>o cuarto sábado de cada mes</item>
+        <item>o último sábado de cada mes</item>
+    </string-array>
+    <string-array name="baseball_innings">
+        <item>1ª entrada</item>
+        <item>2º entrada</item>
+        <item>3ª entrada</item>
+        <item>4ª entrada</item>
+        <item>5ª entrada</item>
+        <item>6ª entrada</item>
+        <item>7ª entrada</item>
+        <item>8ª entrada</item>
+        <item>9ª entrada</item>
+        <item>10ª entrada</item>
+        <item>11ª entrada</item>
+        <item>12ª entrada</item>
+    </string-array>
+    <string-array name="qp_top_baseball_innings">
+        <item>Superior da 1ª</item>
+        <item>Superior da 2ª</item>
+        <item>Superior da 3ª</item>
+        <item>Superior da 4ª</item>
+        <item>Superior da 5ª</item>
+        <item>Superior da 6ª</item>
+        <item>Superior da 7ª</item>
+        <item>Superior da 8ª</item>
+        <item>Superior da 9ª</item>
+        <item>Superior da 10ª</item>
+        <item>Superior da 11ª</item>
+        <item>Superior da 12ª</item>
+    </string-array>
+    <string-array name="qp_bottom_baseball_innings">
+        <item>Inferior da 1ª</item>
+        <item>Inferior da 2ª</item>
+        <item>Inferior da 3ª</item>
+        <item>Inferior da 4ª</item>
+        <item>Inferior da 5ª</item>
+        <item>Inferior da 6ª</item>
+        <item>Inferior da 7ª</item>
+        <item>Inferior da 8ª</item>
+        <item>Inferior da 9ª</item>
+        <item>Inferior da 10ª</item>
+        <item>Inferior da 11ª</item>
+        <item>Inferior da 12ª</item>
+    </string-array>
+    <string-array name="local_results_markers">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+    </string-array>
+    <string-array name="languageNames">
+        <item>Afrikaans (Sudáfrica)</item>
+        <item>Árabe (Alxeria)</item>
+        <item>Árabe (Exipto)</item>
+        <item>Árabe (Iraq)</item>
+        <item>Árabe (Israel)</item>
+        <item>Árabe (Xordania)</item>
+        <item>Árabe (Kuwait)</item>
+        <item>Árabe (Líbano)</item>
+        <item>Árabe (Libia)</item>
+        <item>Árabe (Marrocos)</item>
+        <item>Árabe (Qatar)</item>
+        <item>Árabe (Arabia Saudita)</item>
+        <item>Árabe (Sudán)</item>
+        <item>Árabe (Siria)</item>
+        <item>Árabe (Tunisia)</item>
+        <item>Árabe (Emiratos Árabes Unidos)</item>
+        <item>Árabe (Iemen)</item>
+        <item>Bielorruso (Bielorrusia)</item>
+        <item>Bengalí (Bangladesh)</item>
+        <item>Búlgaro (Bulgaria)</item>
+        <item>Catalán (España)</item>
+        <item>Chinés, mandarín (China, simplificado)</item>
+        <item>Chinés mandarín (Hong Kong, simplificado)</item>
+        <item>Chinés, mandarín (Hong Kong, tradicional)</item>
+        <item>Chinés, mandarín (Singapur, simplificado)</item>
+        <item>Chinés, mandarín (Taiwán, simplificado)</item>
+        <item>Chinés, mandarín (Taiwán, tradicional)</item>
+        <item>Chinés, Yue (China, simplificado)</item>
+        <item>Chinés, cantonés (Hong Kong, tradicional)</item>
+        <item>Croata (Croacia)</item>
+        <item>Checo (República Checa)</item>
+        <item>Danés (Dinamarca)</item>
+        <item>Neerlandés (Bélxica)</item>
+        <item>Neerlandés (Países Baixos)</item>
+        <item>Inglés (xenérico)</item>
+        <item>Inglés (Australia)</item>
+        <item>Inglés (Bangladesh)</item>
+        <item>Inglés (Canadá)</item>
+        <item>Inglés (Hong Kong)</item>
+        <item>Inglés (India)</item>
+        <item>Inglés (Irlanda)</item>
+        <item>Inglés (Kenya)</item>
+        <item>Inglés (Malaisia)</item>
+        <item>Inglés (Nova Zelandia)</item>
+        <item>Inglés (Nixeria)</item>
+        <item>Inglés (Paquistán)</item>
+        <item>Inglés (Filipinas)</item>
+        <item>Inglés (Singapur)</item>
+        <item>Inglés (Suráfrica)</item>
+        <item>Inglés (Sudán)</item>
+        <item>Inglés (Tanzania)</item>
+        <item>Inglés (Uganda)</item>
+        <item>Inglés (Reino Unido)</item>
+        <item>Inglés (EUA)</item>
+        <item>Estoniano (Estonia)</item>
+        <item>Filipino (Filipinas)</item>
+        <item>Finés (Finlandia)</item>
+        <item>Francés (Bélxica)</item>
+        <item>Francés (Canadá)</item>
+        <item>Francés (Francia)</item>
+        <item>Francés (Suíza)</item>
+        <item>Galego (España)</item>
+        <item>Alemán (Austria)</item>
+        <item>Alemán (Alemaña)</item>
+        <item>Alemán (Suíza)</item>
+        <item>Alemán (Liechtenstein)</item>
+        <item>Grego (Grecia)</item>
+        <item>Hebreo (Israel)</item>
+        <item>Hindi (India)</item>
+        <item>Húngaro (Hungría)</item>
+        <item>Islandés (Islandia)</item>
+        <item>Indonesio (Indonesia)</item>
+        <item>Irlandés (Irlanda)</item>
+        <item>isiNdebele (Suráfrica)</item>
+        <item>isiXhosa (Suráfrica)</item>
+        <item>isiZulu (Suráfrica)</item>
+        <item>Italiano (Italia)</item>
+        <item>Italiano (Suíza)</item>
+        <item>Xaponés (Xapón)</item>
+        <item>Coreano (Corea do Sur)</item>
+        <item>Letón (Letonia)</item>
+        <item>Lituano (Lituania)</item>
+        <item>Malaio (Malaisia)</item>
+        <item>Malaio (Singapur)</item>
+        <item>Noruegués (Noruega)</item>
+        <item>Noruegués nynorsk (Noruega)</item>
+        <item>Persa (Irán)</item>
+        <item>Polaco (Polonia)</item>
+        <item>Portugués (Angola)</item>
+        <item>Portugués (Brasil)</item>
+        <item>Portugués (Portugal)</item>
+        <item>Romanés (Romanía)</item>
+        <item>Ruso (Bielorrusia)</item>
+        <item>Ruso (Rusia)</item>
+        <item>Sepedi (Sudáfrica)</item>
+        <item>Serbio (Serbia, cirílico)</item>
+        <item>Sesotho (Suráfrica)</item>
+        <item>Setswana (Sudáfrica)</item>
+        <item>Siswati (Sudáfrica)</item>
+        <item>Eslovaco (Eslovaquia)</item>
+        <item>Esloveno (Eslovenia)</item>
+        <item>Español (Arxentina)</item>
+        <item>Español (Bolivia)</item>
+        <item>Español (Chile)</item>
+        <item>Español (Colombia)</item>
+        <item>Español (Costa Rica)</item>
+        <item>Español (Cuba)</item>
+        <item>Español (República Dominicana)</item>
+        <item>Español (Ecuador)</item>
+        <item>Español (O Salvador)</item>
+        <item>Español (Guatemala)</item>
+        <item>Español (Honduras)</item>
+        <item>Español (México)</item>
+        <item>Español (Nicaragua)</item>
+        <item>Español (Panamá)</item>
+        <item>Español (Paraguai)</item>
+        <item>Español (Perú)</item>
+        <item>Español (Porto Rico)</item>
+        <item>Español (España)</item>
+        <item>Español (EUA)</item>
+        <item>Español (Uruguai)</item>
+        <item>Español (Venezuela)</item>
+        <item>Suahili (Kenya)</item>
+        <item>Suahili (Tanzania)</item>
+        <item>Swahili (Uganda)</item>
+        <item>Sueco (Finlandia)</item>
+        <item>Sueco (Suecia)</item>
+        <item>Tailandés (Tailandia)</item>
+        <item>Tshivenda (Suráfrica)</item>
+        <item>Turco (Turquía)</item>
+        <item>Ucraíno (Ucraína)</item>
+        <item>Urdú (Paquistán)</item>
+        <item>Vietnamita (Vietnam)</item>
+        <item>Xitsonga ((Suráfrica))</item>
+    </string-array>
+    <string-array name="edit_reminder_day">
+        <item>Hoxe</item>
+        <item>Mañá</item>
+        <item>Ocasionalmente</item>
+        <item>Establecer data…</item>
+    </string-array>
+    <string-array name="edit_reminder_time">
+        <item>Mañá</item>
+        <item>Tarde</item>
+        <item>Serán</item>
+        <item>Noite</item>
+        <item>Todo o día</item>
+        <item>Establecer hora…</item>
+    </string-array>
+    <string-array name="edit_reminder_location_trigger_type">
+        <item>Chegada</item>
+        <item>Saída</item>
+    </string-array>
+    <string-array name="edit_reminder_location">
+        <item>Casa</item>
+        <item>Traballo</item>
+        <item>Establecer localización…</item>
+    </string-array>
+    <string-array name="network_error_tts_messages">
+        <item>A conexión a Internet non é fiable agora mesmo.</item>
+        <item>A conexión a Internet non é fiable neste momento.</item>
+        <item>A conexión a Internet non é estable agora mesmo.</item>
+        <item>A conexión a Internet non é estable neste momento.</item>
+        <item>A conexión a Internet non é suficientemente boa agora mesmo.</item>
+        <item>A conexión a Internet non é suficientemente boa neste momento.</item>
+    </string-array>
+    <string-array name="read_it_grammar">
+        <item>lela</item>
+        <item>ler a mensaxe</item>
+        <item>ler esa mensaxe de texto</item>
+    </string-array>
+    <string-array name="reply_grammar">
+        <item>responder</item>
+        <item>enviar resposta</item>
+        <item>enviar unha resposta</item>
+        <item>responder á mensaxe de texto</item>
+        <item>enviar resposta á mensaxe</item>
+    </string-array>
+    <string-array name="call_back_grammar">
+        <item>chamar ao remitente da última mensaxe</item>
+        <item>chamalo</item>
+        <item>devolverlle a chamada</item>
+        <item>chamala</item>
+        <item>devolverlle a chamada</item>
+    </string-array>
+</resources>

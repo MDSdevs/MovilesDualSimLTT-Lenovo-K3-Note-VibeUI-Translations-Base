@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">%1$d തിരഞ്ഞെടുത്തു</item>
+        <item quantity="zero">%1$d തിരഞ്ഞെടുത്തു</item>
+        <item quantity="one">%1$d തിരഞ്ഞെടുത്തു</item>
+    </plurals>
+    <plurals name="recurrence_end_count">
+        <item quantity="other">%d ഇവന്റുകൾക്ക്</item>
+        <item quantity="one">%d ഇവന്റിന്</item>
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+        <item quantity="other">ഓരോ %d ദിവസവും</item>
+        <item quantity="one">ഓരോ %d ദിവസവും</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+        <item quantity="other">ഓരോ %d ആഴ്‌ച കൂടുമ്പോഴും</item>
+        <item quantity="one">ഓരോ %d ആഴ്‌ച കൂടുമ്പോഴും</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+        <item quantity="other">ഓരോ %d മാസം കൂടുമ്പോഴും</item>
+        <item quantity="one">ഓരോ %d മാസം കൂടുമ്പോഴും</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+        <item quantity="other">ഓരോ %d വർഷം കൂടുമ്പോഴും</item>
+        <item quantity="one">ഓരോ %d വർഷം കൂടുമ്പോഴും</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item quantity="other">; %d തവണ</item>
+        <item quantity="one">; ഒരു തവണ</item>
+    </plurals>
+    <plurals name="daily">
+        <item quantity="other">ഓരോ %d ദിവസത്തിലും</item>
+        <item quantity="one">എല്ലാ ദിവസവും</item>
+        <item quantity="two">ഓരോ %d ദിവസത്തിലും</item>
+        <item quantity="few">ഓരോ %d ദിവസത്തിലും</item>
+        <item quantity="many">ഓരോ %d ദിവസത്തിലും</item>
+    </plurals>
+    <plurals name="daily_lower">
+        <item quantity="other">ഓരോ %d ദിവസവും</item>
+        <item quantity="one">എല്ലാ ദിവസവും</item>
+        <item quantity="two">ഓരോ %d ദിവസവും</item>
+        <item quantity="few">ഓരോ %d ദിവസവും</item>
+        <item quantity="many">ഓരോ %d ദിവസവും</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="other">ഓരോ %1$d ആഴ്‌ചയും %2$s ദിവസം</item>
+        <item quantity="one">എല്ലാ ആഴ്‌ചയിലും %2$s ദിവസം</item>
+        <item quantity="two">ഓരോ %1$d ആഴ്‌ചയും %2$s ദിവസം</item>
+        <item quantity="few">ഓരോ %1$d ആഴ്‌ചയും %2$s ദിവസം</item>
+        <item quantity="many">ഓരോ %1$d ആഴ്‌ചയും %2$s ദിവസം</item>
+    </plurals>
+    <plurals name="weekly_lower">
+        <item quantity="other">ഓരോ %1$d ആഴ്‌ചയും %2$s ദിവസം</item>
+        <item quantity="one">എല്ലാ ആഴ്‌ചയിലേയും %2$s</item>
+        <item quantity="two">ഓരോ %1$d ആഴ്‌ചയും %2$s ദിവസം</item>
+        <item quantity="few">ഓരോ %1$d ആഴ്‌ചയും %2$s ദിവസം</item>
+        <item quantity="many">ഓരോ %1$d ആഴ്‌ചയും %2$s ദിവസം</item>
+    </plurals>
+    <plurals name="monthly_interval">
+        <item quantity="other">ഓരോ %1$d മാസത്തിലും</item>
+        <item quantity="one">എല്ലാ മാസവും</item>
+        <item quantity="two">ഓരോ %1$d മാസത്തിലും</item>
+        <item quantity="few">ഓരോ %1$d മാസത്തിലും</item>
+        <item quantity="many">ഓരോ %1$d മാസത്തിലും</item>
+    </plurals>
+    <plurals name="monthly_interval_lower">
+        <item quantity="other">ഓരോ %1$d മാസവും</item>
+        <item quantity="one">എല്ലാ മാസവും</item>
+        <item quantity="two">ഓരോ %1$d മാസവും</item>
+        <item quantity="few">ഓരോ %1$d മാസവും</item>
+        <item quantity="many">ഓരോ %1$d മാസവും</item>
+    </plurals>
+    <plurals name="yearly_interval_plain">
+        <item quantity="other">ഓരോ %1$d വർഷവും</item>
+        <item quantity="one">എല്ലാ വർഷ‌വും</item>
+        <item quantity="two">ഓരോ %1$d വർഷവും</item>
+        <item quantity="few">ഓരോ %1$d വർഷവും</item>
+        <item quantity="many">ഓരോ %1$d വർഷവും</item>
+    </plurals>
+    <plurals name="yearly_interval_lower">
+        <item quantity="other">ഓരോ %1$d വർഷവും</item>
+        <item quantity="one">എല്ലാ വർഷവും</item>
+        <item quantity="two">ഓരോ %1$d വർഷവും</item>
+        <item quantity="few">ഓരോ %1$d വർഷവും</item>
+        <item quantity="many">ഓരോ %1$d വർഷവും</item>
+    </plurals>
+    <plurals name="duration_in_hours">
+        <item quantity="other">%1$d മണിക്കൂര്‍</item>
+        <item quantity="one">%1$d മണിക്കൂര്‍</item>
+    </plurals>
+    <plurals name="duration_in_hours_short">
+        <item quantity="other">%1$d മണിക്കൂര്‍</item>
+        <item quantity="one">%1$d മണിക്കൂര്‍</item>
+    </plurals>
+    <plurals name="duration_in_minutes">
+        <item quantity="other">%1$d മിനിറ്റ്</item>
+        <item quantity="one">%1$d മിനിറ്റ്</item>
+    </plurals>
+    <plurals name="duration_in_minutes_short">
+        <item quantity="other">%1$d മിനിറ്റ്</item>
+        <item quantity="one">%1$d മിനിറ്റ്</item>
+    </plurals>
+    <plurals name="duration_in_days">
+        <item quantity="other">%1$d ദിവസം</item>
+        <item quantity="one">%1$d ദിവസം</item>
+    </plurals>
+    <plurals name="duration_in_days_short">
+        <item quantity="other">%1$d ദിവസം</item>
+        <item quantity="one">%1$d ദിവസം</item>
+    </plurals>
+    <plurals name="duration_in_months">
+        <item quantity="other">%1$d മാസം</item>
+        <item quantity="one">%1$d മാസം</item>
+    </plurals>
+    <plurals name="duration_in_months_short">
+        <item quantity="other">%1$d മാസം</item>
+        <item quantity="one">%1$d മാസം</item>
+    </plurals>
+    <plurals name="duration_in_years">
+        <item quantity="other">%1$d വര്‍ഷം</item>
+        <item quantity="one">%1$d വര്‍ഷം</item>
+    </plurals>
+    <plurals name="duration_in_years_short">
+        <item quantity="other">%1$d വര്‍ഷം</item>
+        <item quantity="one">%1$d വര്‍ഷം</item>
+    </plurals>
+    <plurals name="items_from_without_colon">
+        <item quantity="other">ഇതിൽ നിന്നുള്ള %1$d ഇനങ്ങൾ</item>
+        <item quantity="one">ഇതിൽ നിന്നുള്ള %1$d ഇനം</item>
+    </plurals>
+    <plurals name="last_bus_home_departure_time">
+        <item quantity="other">വീട്ടിലേക്കുള്ള അവസാന ബസ് %2$s%1$d മിനിറ്റിനുള്ളിലാണ്%3$s</item>
+        <item quantity="one">വീട്ടിലേക്കുള്ള അവസാന ബസ് %2$s%1$d മിനിറ്റിനുള്ളിലാണ്%3$s</item>
+    </plurals>
+    <plurals name="last_bus_to_hotel_departure_time">
+        <item quantity="other">ഹോട്ടലിലേക്കുള്ള അവസാന ബസ് %2$s%1$d മിനിറ്റിനുള്ളിലാണ്%3$s</item>
+        <item quantity="one">ഹോട്ടലിലേക്കുള്ള അവസാന ബസ് %2$s%1$d മിനിറ്റിനുള്ളിലാണ്%3$s</item>
+    </plurals>
+    <plurals name="last_train_home_departure_time">
+        <item quantity="other">വീട്ടിലേക്കുള്ള അവസാന ട്രെയിൻ %2$s%1$d മിനിറ്റിനുള്ളിലാണ്%3$s</item>
+        <item quantity="one">വീട്ടിലേക്കുള്ള അവസാന ട്രെയിൻ %2$sഒരു മിനിറ്റിനുള്ളിലാണ്%3$s</item>
+    </plurals>
+    <plurals name="last_train_to_hotel_departure_time">
+        <item quantity="other">ഹോട്ടലിലേക്കുള്ള അവസാന ട്രെയിൻ %2$s%1$d മിനിറ്റിനുള്ളിലാണ്%3$s</item>
+        <item quantity="one">ഹോട്ടലിലേക്കുള്ള അവസാന ട്രെയിൻ %2$sഒരു മിനിറ്റിനുള്ളിലാണ്%3$s</item>
+    </plurals>
+    <plurals name="last_transit_home_departure_time">
+        <item quantity="other">വീട്ടിലേക്കുള്ള അവസാന ഗതാഗത സേവനം %2$s%1$d മിനിറ്റിനുള്ളിലാണ്%3$s</item>
+        <item quantity="one">വീട്ടിലേക്കുള്ള അവസാന ഗതാഗത സേവനം %2$s%1$d മിനിറ്റിനുള്ളിലാണ്%3$s</item>
+    </plurals>
+    <plurals name="last_transit_to_hotel_departure_time">
+        <item quantity="other">ഹോട്ടലിലേക്കുള്ള അവസാന ഗതാഗത സേവനം %2$s%1$d മിനിറ്റിനുള്ളിലാണ്%3$s</item>
+        <item quantity="one">ഹോട്ടലിലേക്കുള്ള അവസാന ഗതാഗത സേവനം %2$s%1$d മിനിറ്റിനുള്ളിലാണ്%3$s</item>
+    </plurals>
+    <plurals name="transit_next_line_departure_subtext_no_platform">
+        <item quantity="other">%2$s എന്നയിടത്തേക്ക് %1$d മിനിറ്റ് നടക്കുക</item>
+        <item quantity="one">%2$s എന്നയിടത്തേക്ക് ഒരു മിനിറ്റ് നടക്കുക</item>
+    </plurals>
+    <plurals name="minutes_delay">
+        <item quantity="other">%1$d മിനിറ്റ് വൈകി</item>
+        <item quantity="one">ഒരു മിനിറ്റ് വൈകി</item>
+    </plurals>
+    <plurals name="minutes_delay_more_than_usual">
+        <item quantity="other">സാധാരണയിലും %1$d മിനിറ്റ് കൂടുതൽ</item>
+        <item quantity="one">സാധാരണയിലും ഒരു മിനിറ്റ് കൂടുതൽ</item>
+    </plurals>
+    <plurals name="minutes_delay_less_than_usual">
+        <item quantity="other">സാധാരണയുള്ളതിലും %1$d മിനിറ്റ് കുറവ്</item>
+        <item quantity="one">സാധാരണയുള്ളതിലും ഒരു മിനിറ്റ് കുറവ്</item>
+    </plurals>
+    <plurals name="usual_traffic_minutes_delay">
+        <item quantity="other">സാധാരണ ട്രാഫിക്: %1$d മിനിറ്റ് വൈകി</item>
+        <item quantity="one">സാധാരണ ട്രാഫിക്: ഒരു മിനിറ്റ് വൈകി</item>
+    </plurals>
+    <plurals name="num_min_late">
+        <item quantity="other">%1$d മിനിറ്റ് വൈകി</item>
+        <item quantity="one">ഒരു മിനിറ്റ് വൈകി</item>
+    </plurals>
+    <plurals name="num_min_early">
+        <item quantity="other">പ്രതീക്ഷിച്ചതിലും %1$d മിനിറ്റ് മുമ്പ്</item>
+        <item quantity="one">പ്രതീക്ഷിച്ചതിലും ഒരു മിനിറ്റ് മുമ്പ്</item>
+    </plurals>
+    <plurals name="transit_interval_in_minutes">
+        <item quantity="other">· ഓരോ %1$s മിനിറ്റിലും</item>
+        <item quantity="one">· ഓരോ %1$s മിനിറ്റിലും</item>
+    </plurals>
+    <plurals name="transit_interval_in_hours">
+        <item quantity="other">· ഓരോ %1$d മണിക്കൂറിലും</item>
+        <item quantity="one">· ഓരോ %1$d മണിക്കൂറിലും</item>
+    </plurals>
+    <plurals name="qp_transit_interval_in_minutes">
+        <item quantity="other">ഓരോ %1$s മിനിറ്റിലും</item>
+        <item quantity="one">ഓരോ %1$s മിനിറ്റിലും</item>
+    </plurals>
+    <plurals name="qp_transit_interval_in_hours">
+        <item quantity="other">ഓരോ %1$d മണിക്കൂറിലും</item>
+        <item quantity="one">ഓരോ %1$d മണിക്കൂറിലും</item>
+    </plurals>
+    <plurals name="sports_overtime_period_header">
+        <item quantity="other">%1$dOT</item>
+        <item quantity="one">OT</item>
+    </plurals>
+    <plurals name="time_to_leave_user_arrival_generic">
+        <item quantity="other">%1$d മി. മുമ്പ് എത്തും</item>
+        <item quantity="one">%1$d മി. മുമ്പ് എത്തും</item>
+    </plurals>
+    <plurals name="time_to_leave_user_arrival_flight">
+        <item quantity="other">പുറപ്പെടുന്നതിന് %1$d മി. മുമ്പ് എത്തിച്ചേരും</item>
+        <item quantity="one">പുറപ്പെടുന്നതിന് %1$d മി. മുമ്പ് എത്തിച്ചേരും</item>
+    </plurals>
+    <plurals name="time_to_leave_user_arrival_reservation">
+        <item quantity="other">റിസർവ്വേഷന് %1$d മി. മുമ്പ് എത്തിച്ചേരും</item>
+        <item quantity="one">റിസർവ്വേഷന് %1$d മി. മുമ്പ് എത്തിച്ചേരും</item>
+    </plurals>
+    <plurals name="time_to_leave_user_arrival_movie">
+        <item quantity="other">സിനിമയ്‌ക്ക് %1$d മി. മുമ്പ് എത്തിച്ചേരും</item>
+        <item quantity="one">സിനിമയ്‌ക്ക് %1$d മി. മുമ്പ് എത്തിച്ചേരും</item>
+    </plurals>
+    <plurals name="time_to_leave_user_arrival_concert">
+        <item quantity="other">സംഗീതകച്ചേരിക്ക് %1$d മി. മുമ്പ് എത്തിച്ചേരും</item>
+        <item quantity="one">സംഗീതകച്ചേരിക്ക് %1$d മി. മുമ്പ് എത്തിച്ചേരും</item>
+    </plurals>
+    <plurals name="email_everyone">
+        <item quantity="other">എല്ലാവർക്കും ഇമെയിൽ അയയ്‌ക്കുക (%1$d)</item>
+        <item quantity="one">എല്ലാവർക്കും ഇമെയിൽ അയയ്‌ക്കുക (%1$d)</item>
+    </plurals>
+    <plurals name="card_count">
+        <item quantity="other">%1$d കാർഡുകൾ</item>
+        <item quantity="one">ഒരു കാർഡ്</item>
+    </plurals>
+    <plurals name="num_movie_tickets">
+        <item quantity="other">%1$d ടിക്കറ്റ്</item>
+        <item quantity="one">%1$d ടിക്കറ്റ്</item>
+    </plurals>
+    <plurals name="qp_hotel_reservation_length">
+        <item quantity="other">%1$d രാത്രിക്കുള്ള റൂം റിസർവേഷൻ</item>
+        <item quantity="one">%1$d രാത്രിക്കുള്ള റൂം റിസർവേഷൻ</item>
+    </plurals>
+    <plurals name="reminders">
+        <item quantity="other">%1$d ഓ‌ർമ്മപ്പെടുത്തലുകൾ</item>
+        <item quantity="one">%1$d ഓ‌ർമ്മപ്പെടുത്തൽ</item>
+    </plurals>
+    <plurals name="number_of_location_sharers">
+        <item quantity="other">%1$d പേർ നിങ്ങളുമായി പങ്കിടുന്നു</item>
+        <item quantity="one">%1$d വ്യക്തി നിങ്ങളുമായി പങ്കിടുന്നു</item>
+    </plurals>
+    <plurals name="expiring_duration_in_days">
+        <item quantity="other">%1$d ദിവസത്തിനുള്ളിൽ കാലഹരണപ്പെടുന്നു</item>
+        <item quantity="one">%1$d ദിവസത്തിനുള്ളിൽ കാലഹരണപ്പെടുന്നു</item>
+    </plurals>
+    <plurals name="expiring_duration_in_hours">
+        <item quantity="other">%1$d മണിക്കൂറിനുള്ളിൽ കാലഹരണപ്പെടുന്നു</item>
+        <item quantity="one">%1$d മണിക്കൂറിനുള്ളിൽ കാലഹരണപ്പെടുന്നു</item>
+    </plurals>
+    <plurals name="expiring_duration_in_minutes">
+        <item quantity="other">%1$d മിനിറ്റിനുള്ളിൽ കാലഹരണപ്പെടുന്നു</item>
+        <item quantity="one">%1$d മിനിറ്റിനുള്ളിൽ കാലഹരണപ്പെടുന്നു</item>
+    </plurals>
+    <plurals name="view_count">
+        <item quantity="other">%1$,d കാഴ്‌ചകൾ</item>
+        <item quantity="one">%1$,d കാഴ്‌ച</item>
+    </plurals>
+    <plurals name="transportation_seat">
+        <item quantity="other">%1$d സീറ്റുകൾ</item>
+        <item quantity="one">സീറ്റ്</item>
+    </plurals>
+    <plurals name="more_directions">
+        <item quantity="other">+ %1$d വഴികൾ കൂടി</item>
+        <item quantity="one">+ %1$d വഴികൾ കൂടി</item>
+    </plurals>
+    <plurals name="time_duration_spoken_hour">
+        <item quantity="other">%1$d മണിക്കൂർ</item>
+        <item quantity="one">ഒരു മണിക്കൂർ</item>
+    </plurals>
+    <plurals name="time_duration_spoken_minute">
+        <item quantity="other">%1$d മിനിറ്റ്</item>
+        <item quantity="one">ഒരു മിനിറ്റ്</item>
+    </plurals>
+    <plurals name="time_duration_spoken_second">
+        <item quantity="other">%1$d സെക്കൻഡ്</item>
+        <item quantity="one">ഒരു സെക്കൻഡ്</item>
+    </plurals>
+    <plurals name="agenda_eyes_free_all_day_events">
+        <item quantity="other">%2$s ദിവസം നിങ്ങൾക്ക് ദിവസം മുഴുവൻ നീണ്ടുനിൽക്കുന്ന %1$d ഇവന്റുകൾ ഉണ്ട്: %3$s.</item>
+        <item quantity="one">%2$s ദിവസം നിങ്ങൾക്ക് ദിവസം മുഴുവൻ നീണ്ടുനിൽക്കുന്ന ഇവന്റ് ഉണ്ട്: %3$s.</item>
+    </plurals>
+</resources>

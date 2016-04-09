@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="E300ButtonBar" parent="@style/E300ButtonBarBase">
+        <item name="android:gravity">end</item>
+        <item name="android:paddingLeft">@dimen/e300_content_padding</item>
+        <item name="android:paddingRight">@dimen/e300_content_padding</item>
+    </style>
+    <style name="E300Button" parent="@style/E300ButtonBase">
+        <item name="android:layout_width">wrap_content</item>
+    </style>
+    <style name="E300IntroImage">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">380.0dip</item>
+        <item name="android:layout_marginTop">220.0dip</item>
+        <item name="android:src">@drawable/hotword_header_tablet_image</item>
+    </style>
+    <style name="SnackbarContainer">
+        <item name="android:layout_width">wrap_content</item>
+    </style>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="search_phone_or_tablet">Søg på tablet</string>
+    <string name="corpus_name_summons">Tablet</string>
+    <string name="search_sources">Søg på tablet</string>
+    <string name="no_summons_found">"Der blev ikke fundet nogen resultater
+på din tablet."</string>
+    <string name="hands_free_unlock_device">Hvis du vil foretage en talesøgning i Google, skal du låse din tablet op.</string>
+    <string name="icing_manage_storage_summary">Vi gør søgningen hurtigere på din tablet ved at give dig en søgemaskine, som dine apps kan bruge.</string>
+</resources>

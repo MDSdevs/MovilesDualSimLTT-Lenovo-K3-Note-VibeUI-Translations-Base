@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="search_phone_or_tablet">Пошук на планшеті</string>
+    <string name="corpus_name_summons">Планшетний ПК</string>
+    <string name="search_sources">Пошук у планшетному ПК</string>
+    <string name="no_summons_found">"На вашому планшеті
+результати не знайдено."</string>
+    <string name="hands_free_unlock_device">Щоб шукати голосом у Google, розблокуйте планшет.</string>
+    <string name="icing_manage_storage_summary">Ми прискорюємо пошук на планшеті, пропонуючи пошукову систему для ваших програм.</string>
+</resources>

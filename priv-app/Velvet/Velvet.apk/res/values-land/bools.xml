@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="use_full_bleed_voice_search">false</bool>
+    <bool name="clip_children_and_to_padding">true</bool>
+    <bool name="isLandscape">true</bool>
+    <bool name="assist_full_bleed">false</bool>
+</resources>

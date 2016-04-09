@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">បាន​ជ្រើស %1$d</item>
+        <item quantity="zero">បាន​ជ្រើស %1$d</item>
+        <item quantity="one">បាន​ជ្រើស %1$d</item>
+    </plurals>
+    <plurals name="recurrence_end_count">
+        <item quantity="other">សម្រាប់%dព្រឹត្តិការណ៍</item>
+        <item quantity="one">សម្រាប់%dព្រឹត្តិការណ៍</item>
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+        <item quantity="other">រៀងរាល់ %d ថ្ងៃ</item>
+        <item quantity="one">រៀងរាល់ %d ថ្ងៃ</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+        <item quantity="other">រៀងរាល់ %d សប្ដាហ៍</item>
+        <item quantity="one">រៀងរាល់ %d សប្ដាហ៍</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+        <item quantity="other">រៀងរាល់ %d ខែ</item>
+        <item quantity="one">រៀងរាល់ %d ខែ</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+        <item quantity="other">រៀងរាល់ %d ឆ្នាំ</item>
+        <item quantity="one">រៀងរាល់ %d ឆ្នាំ</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item quantity="other">; សម្រាប់ %d ដង</item>
+        <item quantity="one">; សម្រាប់​ម្ដង</item>
+    </plurals>
+    <plurals name="daily">
+        <item quantity="other">រៀង​រាល់ %d ថ្ងៃ</item>
+        <item quantity="one">ប្រចាំ​ថ្ងៃ</item>
+        <item quantity="two">រៀង​រាល់ %d ថ្ងៃ</item>
+        <item quantity="few">រៀង​រាល់ %d ថ្ងៃ</item>
+        <item quantity="many">រៀង​រាល់ %d ថ្ងៃ</item>
+    </plurals>
+    <plurals name="daily_lower">
+        <item quantity="other">រៀង​រាល់ %d ថ្ងៃ</item>
+        <item quantity="one">ប្រចាំ​ថ្ងៃ</item>
+        <item quantity="two">រៀង​រាល់ %d ថ្ងៃ</item>
+        <item quantity="few">រៀង​រាល់ %d ថ្ងៃ</item>
+        <item quantity="many">រៀង​រាល់ %d ថ្ងៃ</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="other">​រាល់ %1$d សប្ដាហ៍​​នៅ %2$s</item>
+        <item quantity="one">រៀងរាល់​​សប្ដាហ៍​នៅ %2$s</item>
+        <item quantity="two">​រាល់ %1$d សប្ដាហ៍​​នៅ %2$s</item>
+        <item quantity="few">​រាល់ %1$d សប្ដាហ៍​​នៅ %2$s</item>
+        <item quantity="many">​រាល់ %1$d សប្ដាហ៍​​នៅ %2$s</item>
+    </plurals>
+    <plurals name="weekly_lower">
+        <item quantity="other">រៀង​រាល់ %1$d សប្ដាហ៍​​នៅ %2$s</item>
+        <item quantity="one">រាល់​សប្ដាហ៍​នៅ %2$s</item>
+        <item quantity="two">រៀង​រាល់ %1$d សប្ដាហ៍​​នៅ %2$s</item>
+        <item quantity="few">រៀង​រាល់ %1$d សប្ដាហ៍​​នៅ %2$s</item>
+        <item quantity="many">រៀង​រាល់ %1$d សប្ដាហ៍​​នៅ %2$s</item>
+    </plurals>
+    <plurals name="monthly_interval">
+        <item quantity="other">រៀង​រាល់ %1$d ខែ</item>
+        <item quantity="one">រាល់ខែ</item>
+        <item quantity="two">រៀង​រាល់ %1$d ខែ</item>
+        <item quantity="few">រៀង​រាល់ %1$d ខែ</item>
+        <item quantity="many">រៀង​រាល់ %1$d ខែ</item>
+    </plurals>
+    <plurals name="monthly_interval_lower">
+        <item quantity="other">រៀង​រាល់ %1$d ខែ</item>
+        <item quantity="one">រាល់​​ខែ</item>
+        <item quantity="two">រៀង​រាល់ %1$d ខែ</item>
+        <item quantity="few">រៀង​រាល់ %1$d ខែ</item>
+        <item quantity="many">រៀង​រាល់ %1$d ខែ</item>
+    </plurals>
+    <plurals name="yearly_interval_plain">
+        <item quantity="other">​រៀង​រាល់ %1$d ឆ្នាំ</item>
+        <item quantity="one">រាល់​ឆ្នាំ</item>
+        <item quantity="two">​រៀង​រាល់ %1$d ឆ្នាំ</item>
+        <item quantity="few">​រៀង​រាល់ %1$d ឆ្នាំ</item>
+        <item quantity="many">​រៀង​រាល់ %1$d ឆ្នាំ</item>
+    </plurals>
+    <plurals name="yearly_interval_lower">
+        <item quantity="other">​រៀង​រាល់ %1$d ឆ្នាំ</item>
+        <item quantity="one">រាល់​ឆ្នាំ</item>
+        <item quantity="two">​រៀង​រាល់ %1$d ឆ្នាំ</item>
+        <item quantity="few">​រៀង​រាល់ %1$d ឆ្នាំ</item>
+        <item quantity="many">​រៀង​រាល់ %1$d ឆ្នាំ</item>
+    </plurals>
+    <plurals name="duration_in_hours">
+        <item quantity="other">%1$d ម៉ោង</item>
+        <item quantity="one">%1$d ម៉ោង</item>
+    </plurals>
+    <plurals name="duration_in_hours_short">
+        <item quantity="other">%1$d ម៉ោង</item>
+        <item quantity="one">%1$d ម៉ោង</item>
+    </plurals>
+    <plurals name="duration_in_minutes">
+        <item quantity="other">%1$d នាទី</item>
+        <item quantity="one">%1$d នាទី</item>
+    </plurals>
+    <plurals name="duration_in_minutes_short">
+        <item quantity="other">%1$d នាទី</item>
+        <item quantity="one">%1$d នាទី</item>
+    </plurals>
+    <plurals name="duration_in_days">
+        <item quantity="other">%1$d ថ្ងៃ</item>
+        <item quantity="one">%1$d ថ្ងៃ</item>
+    </plurals>
+    <plurals name="duration_in_days_short">
+        <item quantity="other">%1$d ថ្ងៃ</item>
+        <item quantity="one">%1$d ថ្ងៃ</item>
+    </plurals>
+    <plurals name="duration_in_months">
+        <item quantity="other">%1$d ខែ</item>
+        <item quantity="one">%1$d ខែ</item>
+    </plurals>
+    <plurals name="duration_in_months_short">
+        <item quantity="other">%1$d ខែ</item>
+        <item quantity="one">%1$d ខែ</item>
+    </plurals>
+    <plurals name="duration_in_years">
+        <item quantity="other">%1$d ឆ្នាំ</item>
+        <item quantity="one">%1$d ឆ្នាំ</item>
+    </plurals>
+    <plurals name="duration_in_years_short">
+        <item quantity="other">%1$d ឆ្នាំ</item>
+        <item quantity="one">%1$d ឆ្នាំ</item>
+    </plurals>
+    <plurals name="items_from_without_colon">
+        <item quantity="other">ធាតុ %1$d ពី</item>
+        <item quantity="one">ធាតុ %1$d ពី</item>
+    </plurals>
+    <plurals name="last_bus_home_departure_time">
+        <item quantity="other">រថយន្តចុងក្រោយទៅផ្ទះក្នុងពេល %2$s%1$d នាទី%3$s</item>
+        <item quantity="one">រថយន្តចុងក្រោយទៅផ្ទះក្នុងពេល %2$s%1$d នាទី%3$s</item>
+    </plurals>
+    <plurals name="last_bus_to_hotel_departure_time">
+        <item quantity="other">រថយន្តចុងក្រោយទៅសណ្ឋាគារក្នុងពេល %2$s%1$d នាទី%3$s</item>
+        <item quantity="one">រថយន្តចុងក្រោយទៅសណ្ឋាគារក្នុងពេល %2$s%1$d នាទី%3$s</item>
+    </plurals>
+    <plurals name="last_train_home_departure_time">
+        <item quantity="other">រថភ្លើងចុងក្រោយទៅផ្ទះក្នុងពេល %2$s%1$d នាទី%3$s</item>
+        <item quantity="one">រថភ្លើងចុងក្រោយទៅផ្ទះក្នុងពេល %2$s1 នាទី%3$s</item>
+    </plurals>
+    <plurals name="last_train_to_hotel_departure_time">
+        <item quantity="other">រថភ្លើងចុងក្រោយទៅសណ្ឋាគារក្នុងពេល %2$s%1$d នាទី%3$s</item>
+        <item quantity="one">រថភ្លើងចុងក្រោយទៅសណ្ឋាគារក្នុងពេល %2$s1 នាទី%3$s</item>
+    </plurals>
+    <plurals name="last_transit_home_departure_time">
+        <item quantity="other">យានជំនិះចុងក្រោយទៅផ្ទះក្នុងពេល %2$s%1$d នាទី%3$s</item>
+        <item quantity="one">យានជំនិះចុងក្រោយទៅផ្ទះក្នុងពេល %2$s%1$d នាទី%3$s</item>
+    </plurals>
+    <plurals name="last_transit_to_hotel_departure_time">
+        <item quantity="other">យានជំនិះចុងក្រោយទៅសណ្ឆាគារក្នុងពេល %2$s%1$d នាទី%3$s</item>
+        <item quantity="one">យានជំនិះចុងក្រោយទៅសណ្ឋាគារក្នុងពេល %2$s%1$d នាទី%3$s</item>
+    </plurals>
+    <plurals name="transit_next_line_departure_subtext_no_platform">
+        <item quantity="other">ដើរ %1$d នាទីទៅ %2$s</item>
+        <item quantity="one">ដើរ 1 នាទីទៅ %2$s</item>
+    </plurals>
+    <plurals name="minutes_delay">
+        <item quantity="other">ពន្យាពេល %1$d នាទី</item>
+        <item quantity="one">ពន្យាពេល 1 នាទី</item>
+    </plurals>
+    <plurals name="minutes_delay_more_than_usual">
+        <item quantity="other">%1$d នាទីយឺតជាងធម្មតា</item>
+        <item quantity="one">1 នាទីយឺតជាងធម្មតា</item>
+    </plurals>
+    <plurals name="minutes_delay_less_than_usual">
+        <item quantity="other">%1$d នាទីលឿនជាងធម្មតា</item>
+        <item quantity="one">1 នាទីលឿនជាងធម្មតា</item>
+    </plurals>
+    <plurals name="usual_traffic_minutes_delay">
+        <item quantity="other">ចរាចរណ៍ធម្មតា៖ ពន្យាពេល %1$d នាទី</item>
+        <item quantity="one">ចរាចរណ៍ធម្មតា៖ ពន្យាពេល 1 នាទី</item>
+    </plurals>
+    <plurals name="num_min_late">
+        <item quantity="other">យឺត %1$d នាទី</item>
+        <item quantity="one">យឺត 1 នាទី</item>
+    </plurals>
+    <plurals name="num_min_early">
+        <item quantity="other">មុន %1$d នាទី</item>
+        <item quantity="one">មុន 1 នាទី</item>
+    </plurals>
+    <plurals name="transit_interval_in_minutes">
+        <item quantity="other">· រៀងរាល់ %1$s នាទី</item>
+        <item quantity="one">· រៀងរាល់ %1$s នាទី</item>
+    </plurals>
+    <plurals name="transit_interval_in_hours">
+        <item quantity="other">· រៀងរាល់ %1$d ម៉ោង</item>
+        <item quantity="one">· រៀងរាល់ %1$d ម៉ោង</item>
+    </plurals>
+    <plurals name="qp_transit_interval_in_minutes">
+        <item quantity="other">រៀងរាល់ %1$s នាទី</item>
+        <item quantity="one">រៀងរាល់ %1$s នាទី</item>
+    </plurals>
+    <plurals name="qp_transit_interval_in_hours">
+        <item quantity="other">រៀងរាល់ %1$d ម៉ោង</item>
+        <item quantity="one">រៀងរាល់ %1$d ម៉ោង</item>
+    </plurals>
+    <plurals name="sports_overtime_period_header">
+        <item quantity="other">ថែមម៉ោង %1$d ដង</item>
+        <item quantity="one">ថែមម៉ោង</item>
+    </plurals>
+    <plurals name="time_to_leave_user_arrival_generic">
+        <item quantity="other">មកដល់ %1$d នាទីមុន</item>
+        <item quantity="one">មកដល់ %1$d នាទីមុន</item>
+    </plurals>
+    <plurals name="time_to_leave_user_arrival_flight">
+        <item quantity="other">មកដល់ %1$d នាទីមុនពេលចេញដំណើរ</item>
+        <item quantity="one">មកដល់ %1$d នាទីមុនពេលចេញដំណើរ</item>
+    </plurals>
+    <plurals name="time_to_leave_user_arrival_reservation">
+        <item quantity="other">មកដល់ %1$d នាទីមុនការកក់</item>
+        <item quantity="one">មកដល់ %1$d នាទីមុនការកក់</item>
+    </plurals>
+    <plurals name="time_to_leave_user_arrival_movie">
+        <item quantity="other">មកដល់ %1$d នាទីមុនការបញ្ចាំងភាពយន្ត</item>
+        <item quantity="one">មកដល់ %1$d នាទីមុនការបញ្ចាំងភាពយន្ត</item>
+    </plurals>
+    <plurals name="time_to_leave_user_arrival_concert">
+        <item quantity="other">មកដល់ %1$d មុនការប្រគុំតន្ត្រី</item>
+        <item quantity="one">មកដល់ %1$d នាទីមុនការប្រគុំតន្ត្រី</item>
+    </plurals>
+    <plurals name="email_everyone">
+        <item quantity="other">អ៊ីមែលទៅអ្នករាល់គ្នា (%1$d)</item>
+        <item quantity="one">អ៊ីមែលទៅអ្នករាល់គ្នា (%1$d)</item>
+    </plurals>
+    <plurals name="card_count">
+        <item quantity="other">%1$d កាត</item>
+        <item quantity="one">1 កាត</item>
+    </plurals>
+    <plurals name="num_movie_tickets">
+        <item quantity="other">សំបុត្រ %1$d</item>
+        <item quantity="one">សំបុត្រ %1$d</item>
+    </plurals>
+    <plurals name="qp_hotel_reservation_length">
+        <item quantity="other">កក់បន្ទប់ %1$d យប់</item>
+        <item quantity="one">កក់បន្ទប់ %1$d យប់</item>
+    </plurals>
+    <plurals name="reminders">
+        <item quantity="other">កម្មវិធីរំលឹក %1$d</item>
+        <item quantity="one">កម្មវិធីរំលឹក %1$d</item>
+    </plurals>
+    <plurals name="number_of_location_sharers">
+        <item quantity="other">មនុស្ស %1$d នាក់ចែករំលែកជាមួយអ្នក</item>
+        <item quantity="one">មនុស្ស %1$d នាក់ចែករំលែកជាមួយអ្នក</item>
+    </plurals>
+    <plurals name="expiring_duration_in_days">
+        <item quantity="other">ផុតកំណត់ក្នុងរយៈពេល %1$d ថ្ងៃ</item>
+        <item quantity="one">ផុតកំណត់ក្នុងរយៈពេល %1$d ថ្ងៃ</item>
+    </plurals>
+    <plurals name="expiring_duration_in_hours">
+        <item quantity="other">ផុតកំណត់ក្នុងរយៈពេល %1$d ម៉ោង</item>
+        <item quantity="one">ផុតកំណត់ក្នុងរយៈពេល %1$d ម៉ោង</item>
+    </plurals>
+    <plurals name="expiring_duration_in_minutes">
+        <item quantity="other">ផុតកំណត់ក្នុងរយៈពេល %1$d នាទី</item>
+        <item quantity="one">ផុតកំណត់ក្នុងរយៈពេល %1$d នាទី</item>
+    </plurals>
+    <plurals name="view_count">
+        <item quantity="other">មើល %1$,d ដង</item>
+        <item quantity="one">មើល %1$,d ដង</item>
+    </plurals>
+    <plurals name="transportation_seat">
+        <item quantity="other">%1$d កៅអី</item>
+        <item quantity="one">កៅអី</item>
+    </plurals>
+    <plurals name="more_directions">
+        <item quantity="other">+ %1$d ទិសដៅទៀត</item>
+        <item quantity="one">+ %1$d ទិសដៅទៀត</item>
+    </plurals>
+    <plurals name="time_duration_spoken_hour">
+        <item quantity="other">%1$d ម៉ោង</item>
+        <item quantity="one">1 ម៉ោង</item>
+    </plurals>
+    <plurals name="time_duration_spoken_minute">
+        <item quantity="other">%1$d នាទី</item>
+        <item quantity="one">1 នាទី</item>
+    </plurals>
+    <plurals name="time_duration_spoken_second">
+        <item quantity="other">%1$d វិនាទី</item>
+        <item quantity="one">1 វិនាទី</item>
+    </plurals>
+    <plurals name="agenda_eyes_free_all_day_events">
+        <item quantity="other">%2$s អ្នកមានព្រឹត្តិការណ៍ %1$d ពេញមួយថ្ងៃ៖ %3$s។</item>
+        <item quantity="one">%2$s អ្នកមានព្រឹត្តិការណ៍មួយពេញមួយថ្ងៃ៖ %3$s។</item>
+    </plurals>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.CryptKeeper" parent="@android:style/Theme.Material.NoActionBar">
+        <item name="android:windowTranslucentStatus">false</item>
+        <item name="android:windowTranslucentNavigation">false</item>
+        <item name="android:regularColor">@color/unlock_pattern_view_regular_color</item>
+        <item name="android:errorColor">@color/unlock_pattern_view_error_color</item>
+        <item name="android:successColor">@color/unlock_pattern_view_success_color</item>
+    </style>
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="audio_effect_gridview_num">3</integer>
+    <integer name="local_playlist_desc_max_lines">2</integer>
+    <integer name="local_playlist_desc_max_length">140</integer>
+    <integer name="online_playlist_column_num">1</integer>
+    <integer name="online_playlist_page_size">10</integer>
+    <integer name="online_playlist_max_page_size">12</integer>
+    <integer name="online_playlist_desc_max_lines">2</integer>
+    <integer name="user_info_head_pic_aspectX">1</integer>
+    <integer name="user_info_head_pic_aspectY">1</integer>
+    <integer name="user_info_head_pic_outputX">720</integer>
+    <integer name="user_info_head_pic_outputY">720</integer>
+    <integer name="local_playlist_tag_gridview_num">4</integer>
+    <integer name="playlist_desc_max_lines">2</integer>
+    <integer name="scan_animation_duration">50</integer>
+    <integer name="scan_animation_first_frame_duration">0</integer>
+    <integer name="cta_dialog_anim_duration">300</integer>
+    <integer name="frame_defalt_duration">70</integer>
+    <integer name="scan_duration">850</integer>
+</resources>

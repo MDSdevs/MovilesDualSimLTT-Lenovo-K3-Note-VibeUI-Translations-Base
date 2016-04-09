@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="search_phone_or_tablet">جستجوی رایانه لوحی</string>
+    <string name="corpus_name_summons">رایانهٔ لوحی</string>
+    <string name="search_sources">جستجوی رایانهٔ لوحی</string>
+    <string name="no_summons_found">"هیچ نتیجه‌ای در
+رایانه لوحی شما یافت نشد."</string>
+    <string name="hands_free_unlock_device">‏برای انجام یک جستجوی صوتی Google، لطفاً رایانه‌لوحی‌تان را از حالت قفل خارج کنید.</string>
+    <string name="icing_manage_storage_summary">‏ما با فراهم کردن موتور جستجویی جهت استفاده برای Apps شما، جستجو را در رایانه لوحی‌تان سرعت می‌بخشیم.</string>
+</resources>

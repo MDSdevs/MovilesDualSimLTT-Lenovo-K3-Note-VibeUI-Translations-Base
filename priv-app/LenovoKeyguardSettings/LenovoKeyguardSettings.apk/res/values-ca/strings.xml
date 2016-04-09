@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="user_nickname">Àlies</string>
+    <string name="show_owner_info_on_lockscreen_label">Mostra informació del propietari a la pantalla de bloqueig</string>
+    <string name="show_profile_info_on_lockscreen_label">Mostra la inf. de perfil a la pantalla de bloqueig</string>
+    <string name="show_user_info_on_lockscreen_label">"Mostra info. de l'usuari a la pantalla de bloqueig"</string>
+    <string name="lockpassword_confirm_your_pattern_header">Confirma el patró</string>
+    <string name="security_settings_title">Seguretat</string>
+    <string name="security_passwords_title">Contrasenyes</string>
+    <string name="show_password">Mostra les contrasenyes</string>
+    <string name="lock_after_timeout">Bloqueja automàticament</string>
+    <string name="lock_after_timeout_summary">"%1$s després d'entrar en repòs"</string>
+    <string name="lock_after_timeout_summary_with_exception">"%1$s després del repòs, excepte quan l'agent %2$s el mantingui desbloquejat"</string>
+    <string name="owner_info_settings_title">Informació de propietari</string>
+    <string name="owner_info_settings_summary" />
+    <string name="owner_info_settings_edit_text_hint">Escriu el text que vulguis mostrar a la pantalla de bloqueig</string>
+    <string name="lock_settings_picker_title">Tria bloqueig de pantalla</string>
+    <string name="biometric_weak_improve_matching_title">Millora la coincidència facial</string>
+    <string name="biometric_weak_liveliness_title">Comprovació de moviment</string>
+    <string name="biometric_weak_liveliness_summary">"Requereix parpelleig d'ulls en desbloquejar"</string>
+    <string name="lockpassword_choose_your_password_header">Tria una contrasenya</string>
+    <string name="lockpassword_choose_your_pattern_header">Tria el teu patró</string>
+    <string name="lockpassword_choose_your_pin_header">Selecciona un PIN</string>
+    <string name="lockpassword_confirm_passwords_dont_match">Les contrasenyes no coincideixen</string>
+    <string name="lockpassword_confirm_pins_dont_match">Els codis PIN no coincideixen</string>
+    <string name="lock_settings_title">Seguretat de la pantalla</string>
+    <string name="lockpattern_change_lock_pattern_label">Canvia el patró de desbloqueig</string>
+    <string name="lockpattern_change_lock_pin_label">Canvia el PIN de desbloqueig</string>
+    <string name="lockpattern_need_to_unlock">Confirma el patró desat</string>
+    <string name="lockpattern_need_to_unlock_wrong">Torna-ho a provar:</string>
+    <string name="lockpattern_recording_intro_header">Crea un patró de desbloqueig</string>
+    <string name="lockpattern_recording_intro_footer">Premeu Menú per obtenir ajuda.</string>
+    <string name="lockpattern_recording_inprogress">Deixa anar el dit en acabar</string>
+    <string name="lockpattern_recording_incorrect_too_short">Connecta %d punts com a mínim. Torna-ho a provar.</string>
+    <string name="lockpattern_pattern_entered_header">Patró enregistrat</string>
+    <string name="lockpattern_need_to_confirm">Torna a dibuixar el patró per confirmar-lo</string>
+    <string name="lockpattern_pattern_confirmed_header">Patró de desbloqueig nou</string>
+    <string name="lockpattern_confirm_button_text">Confirma</string>
+    <string name="lockpattern_restart_button_text">Torna a dibuixar</string>
+    <string name="lockpattern_retry_button_text">Reintenta</string>
+    <string name="lockpattern_continue_button_text">Continua</string>
+    <string name="lockpattern_settings_title">Patró de desbloqueig</string>
+    <string name="lockpattern_settings_enable_title">Requereix un patró</string>
+    <string name="lockpattern_settings_enable_summary">Cal dibuixar el patró per desbloquejar la pantalla</string>
+    <string name="lockpattern_settings_enable_visible_pattern_title">Mostra el patró</string>
+    <string name="lockpattern_settings_enable_tactile_feedback_title">Vibrar en tocar</string>
+    <string name="lockpattern_settings_enable_power_button_instantly_locks">Bloqueja en engegar</string>
+    <string name="lockpattern_settings_power_button_instantly_locks_summary">"Excepte quan l'agent %1$s el mantingui desbloquejat"</string>
+    <string name="lockpattern_settings_choose_lock_pattern">Defineix el patró de desbloqueig</string>
+    <string name="lockpattern_settings_change_lock_pattern">Canvia el patró de desbloqueig</string>
+    <string name="lockpattern_settings_help_how_to_record">Com dibuixar un patró de desbloqueig</string>
+    <string name="lockpattern_too_many_failed_confirmation_attempts_header">Massa intents incorrectes</string>
+    <string name="lockpattern_too_many_failed_confirmation_attempts_footer">"Torneu-ho a provar d'aquí a %d segons."</string>
+    <string name="unlock_set_unlock_launch_picker_title">Bloqueig de pantalla</string>
+    <string name="unlock_set_unlock_launch_picker_change_title">Canvi pantalla bloq.</string>
+    <string name="unlock_set_unlock_launch_picker_change_summary">Canvia o desactiva la seguretat de contrasenyes, PIN o patrons</string>
+    <string name="unlock_set_unlock_launch_picker_enable_summary">Trieu un mètode per bloquejar la pantalla</string>
+    <string name="unlock_backup_info_summary">"Si Desbloqueig facial no pot veure't, com vols desbloquejar?"</string>
+    <string name="unlock_set_unlock_off_title">Cap</string>
+    <string name="unlock_set_unlock_off_summary" />
+    <string name="unlock_set_unlock_none_title">Fes lliscar el dit</string>
+    <string name="unlock_set_unlock_none_summary">No hi ha seguretat</string>
+    <string name="unlock_set_unlock_biometric_weak_title">Desbloqueig facial</string>
+    <string name="unlock_set_unlock_biometric_weak_summary">Nivell de seguretat baix, experimental</string>
+    <string name="unlock_set_unlock_pattern_title">Patró</string>
+    <string name="unlock_set_unlock_pattern_summary">Nivell de seguretat mitjà</string>
+    <string name="unlock_set_unlock_pin_title">PIN</string>
+    <string name="unlock_set_unlock_pin_summary">Nivell de seguretat mitjà o alt</string>
+    <string name="unlock_set_unlock_password_title">Contrasenya</string>
+    <string name="unlock_set_unlock_password_summary">Nivell de seguretat alt</string>
+    <string name="unlock_set_unlock_disabled_summary">"Desactivat per administrador, política d'encriptació o emmagatzematge de credencials"</string>
+    <string name="unlock_set_unlock_mode_off">Cap</string>
+    <string name="unlock_set_unlock_mode_none">Fes lliscar el dit</string>
+    <string name="unlock_set_unlock_mode_biometric_weak">Desbloqueig facial</string>
+    <string name="unlock_set_unlock_mode_pattern">Patró</string>
+    <string name="unlock_set_unlock_mode_pin">PIN</string>
+    <string name="unlock_set_unlock_mode_password">Contrasenya</string>
+    <string name="unlock_disable_lock_title">Desactiva el bloqueig de pantalla</string>
+    <string name="unlock_disable_lock_pattern_summary">Elimina el patró de desbloqueig</string>
+    <string name="unlock_disable_lock_pin_summary">Elimina el PIN de desbloqueig</string>
+    <string name="unlock_disable_lock_password_summary">Elimina la contrasenya de desbloqueig</string>
+    <string name="unlock_change_lock_pattern_title">Canvia el patró de desbloqueig</string>
+    <string name="unlock_change_lock_pin_title">Canvia el PIN de desbloqueig</string>
+    <string name="unlock_change_lock_password_title">Canvia la contrasenya de desbloqueig</string>
+    <string name="keywords_lockscreen">fer lliscar el dit, contrasenya, patró, PIN</string>
+    <string name="switch_on_text">Activat</string>
+    <string name="switch_off_text">Desactivat</string>
+    <string name="screen_pinning_title">Fixació de pantalla</string>
+    <string name="screen_pinning_description">"Si aquesta opció de configuració està activada, pots fer que el dispositiu fixi la pantalla actual.
+
+Per fixar una pantalla, segueix aquests passos:
+
+1. Activa aquesta opció.
+
+2. Obre una aplicació.
+
+3. Toca el botó Recents.
+
+4. Toca la icona en forma de xinxeta."</string>
+    <string name="settings_safetylegal_activity_loading">"S'està carregant…"</string>
+    <string name="no_applications">No hi ha aplicacions.</string>
+    <string name="help_label">Ajuda i suggeriments</string>
+    <string name="lockpassword_ok_label">"D'acord"</string>
+    <string name="lockpattern_tutorial_cancel_label">Cancel·la</string>
+    <string name="lockpattern_tutorial_continue_label">Següent</string>
+    <string name="lockpassword_confirm_your_pin_header">Confirmació del PIN</string>
+    <string name="lockpassword_confirm_your_password_header">Confirma la teva contrasenya</string>
+    <string name="cancel">Cancel·la</string>
+    <string name="lock_screen_notifications_title">Amb el dispositiu bloquejat</string>
+    <string name="lock_screen_notifications_summary_show">Mostra tot el contingut a les notificacions.</string>
+    <string name="lock_screen_notifications_summary_hide">Amaga el contingut confidencial de les notificac.</string>
+    <string name="lock_screen_notifications_summary_disable">No mostris cap notificació</string>
+    <string name="lock_screen_notifications_interstitial_message">Com vols que es mostrin les notificacions quan el dispositiu estigui bloquejat?</string>
+    <string name="app_notifications_dialog_done">Fet</string>
+    <string name="lockpassword_cancel_label">Cancel·la</string>
+    <string name="lockpassword_password_too_long">La contrasenya ha de tenir menys de %d caràcters.</string>
+    <string name="lockpassword_pin_too_long">El PIN ha de tenir menys de %d dígits.</string>
+    <string name="lockpassword_password_too_short">La contrasenya ha de tenir almenys %d caràcters</string>
+    <string name="lockpassword_pin_too_short">El PIN ha de tenir almenys %d dígits</string>
+    <string name="lockpassword_press_continue">Quan estiguis, toca \"Continua\"</string>
+    <string name="lockpassword_continue_label">Continua</string>
+    <string name="lockpassword_pin_no_sequential_digits">No es permet una seqüència de dígits ascendents, descendents ni repetits.</string>
+    <string name="lockpassword_pin_contains_non_digits">El PIN només pot contenir els dígits del 0 al 9.</string>
+    <string name="lockpassword_pin_recently_used">"L'administrador del dispositiu no permet l'ús d'un PIN recent."</string>
+    <string name="lockpassword_illegal_character">La contrasenya conté un caràcter no vàlid.</string>
+    <string name="lockpassword_password_requires_alpha">La contrasenya ha de contenir almenys una lletra.</string>
+    <string name="lockpassword_password_requires_digit">La contrasenya ha de contenir almenys un dígit.</string>
+    <string name="lockpassword_password_requires_symbol">La contrasenya ha de contenir almenys un símbol.</string>
+    <string name="lockpassword_password_recently_used">"L'administrador del dispositiu no permet l'ús d'una contrasenya recent."</string>
+    <string name="backup_lock_settings_picker_title">Tria bloq. còpia seg.</string>
+    <string name="profile_info_settings_title">Informació de perfil</string>
+    <string name="user_info_settings_title">"Info. de l'usuari"</string>
+    <string name="credential_storage_type_hardware">Emmagatzemat en maquinari</string>
+    <string name="credential_storage_type_software">Només programari</string>
+    <string name="error_title" />
+    <string name="lockpassword_choose_lock_generic_header">Desbloqueja la selecció</string>
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="items_for_allVideo">
+        <item>کھیلیں</item>
+        <item>نیا نام دیں</item>
+        <item>حذف کریں</item>
+        <item>اطلاع</item>
+        <item>اشتراک کریں</item>
+        <item>متعدد انتخاب</item>
+    </string-array>
+    <string-array name="items_for_allVideo_aruba">
+        <item>کھیلیں</item>
+        <item>نیا نام دیں</item>
+        <item>حذف کریں</item>
+    </string-array>
+    <string-array name="items_for_recentVideo">
+        <item>کھیلیں</item>
+        <item>حذف کریں</item>
+        <item>فہرست ساف کریں</item>
+    </string-array>
+    <string-array name="items_for_externalCaller">
+        <item>کھیلیں</item>
+        <item>اس ویڈیو کو شامل کریں</item>
+    </string-array>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="cc_timeSecond">
+        <item quantity="other">%d 秒</item>
+    </plurals>
+    <plurals name="cc_timeMinute">
+        <item quantity="other">%d 分</item>
+    </plurals>
+    <plurals name="cc_timeHour">
+        <item quantity="other">%d 小时</item>
+    </plurals>
+    <plurals name="cc_ratingScores">
+        <item quantity="other">%d 分</item>
+        <item quantity="one">1 分</item>
+    </plurals>
+</resources>

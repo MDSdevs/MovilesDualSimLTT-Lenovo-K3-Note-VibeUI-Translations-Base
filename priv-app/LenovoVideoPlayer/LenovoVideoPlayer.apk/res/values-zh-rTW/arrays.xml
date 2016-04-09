@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="dolby_array">
+        <item>新聞</item>
+        <item>運動</item>
+        <item>戲劇</item>
+        <item>音樂錄影帶</item>
+        <item>電影</item>
+        <item>喜劇</item>
+        <item>動作</item>
+        <item>音樂劇</item>
+        <item>卡通</item>
+        <item>綜藝</item>
+    </string-array>
+    <string-array name="items_for_allVideo">
+        <item>播放</item>
+        <item>重新命名</item>
+        <item>刪除</item>
+        <item>詳細資料</item>
+        <item>分享</item>
+        <item>多重選取</item>
+    </string-array>
+    <string-array name="items_for_allVideo_aruba">
+        <item>播放</item>
+        <item>重新命名</item>
+        <item>刪除</item>
+    </string-array>
+    <string-array name="items_for_recentVideo">
+        <item>播放</item>
+        <item>刪除</item>
+        <item>清除清單</item>
+    </string-array>
+    <string-array name="items_for_externalCaller">
+        <item>播放</item>
+        <item>新增此視訊</item>
+    </string-array>
+</resources>

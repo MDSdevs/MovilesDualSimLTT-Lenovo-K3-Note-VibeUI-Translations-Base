@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="search_phone_or_tablet">Iskanje v tabličnem računalniku</string>
+    <string name="corpus_name_summons">Tablični račun.</string>
+    <string name="search_sources">Iskanje v tabličnem računalniku</string>
+    <string name="no_summons_found">"Ni rezultatov
+v tabličnem računalniku."</string>
+    <string name="hands_free_unlock_device">Če želite glasovno iskati z Googlom, odklenite tablični računalnik.</string>
+    <string name="icing_manage_storage_summary">Iskanje v tabličnem računalniku pospešujemo tako, da aplikacijam omogočamo uporabo iskalnika.</string>
+</resources>

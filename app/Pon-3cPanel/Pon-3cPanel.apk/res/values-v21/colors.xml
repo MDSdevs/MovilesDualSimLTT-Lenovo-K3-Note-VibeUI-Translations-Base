@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#ffefefef</color>
+    <color name="off_white">#b3607d8b</color>
+    <color name="black">#ff1e1e1e</color>
+    <color name="grid_lines">#4deeeeee</color>
+    <color name="cb">#bf37474f</color>
+    <color name="freq_hl">#2000ddff</color>
+    <color name="freq_hl2">#3333b5e5</color>
+    <color name="eq_red">#b3c62828</color>
+    <color name="eq_yellow">#b3cddc39</color>
+    <color name="eq_holo_bright">#66e3f2fd</color>
+    <color name="eq_holo_blue">#cc37474f</color>
+    <color name="eq_holo_dark">#b31e1e1e</color>
+    <color name="cb_shader">#ff455a64</color>
+    <color name="cb_shader_alpha">#33607d8b</color>
+    <color name="action_bar_divider">#ff607d8b</color>
+</resources>

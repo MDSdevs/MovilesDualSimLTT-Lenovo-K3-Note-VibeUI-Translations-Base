@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="baseball_innings">
+        <item>پہلی اننگ</item>
+        <item>دوسری اننگ</item>
+        <item>تیسری اننگ</item>
+        <item>چوتھی اننگ</item>
+        <item>پانچویں اننگ</item>
+        <item>چھٹی اننگ</item>
+        <item>ساتویں اننگ</item>
+        <item>آٹھویں اننگ</item>
+        <item>9ویں اننگ</item>
+        <item>دسویں اننگز</item>
+        <item>11ویں اننگ</item>
+        <item>بارہویں اننگ</item>
+    </string-array>
+    <string-array name="qp_top_baseball_innings">
+        <item>ٹاپ پہلا</item>
+        <item>ٹاپ دوسرا</item>
+        <item>ٹاپ تیسرا</item>
+        <item>ٹاپ چوتھا</item>
+        <item>ٹاپ پانچواں</item>
+        <item>ٹاپ چھٹا</item>
+        <item>ٹاپ ساتواں</item>
+        <item>ٹاپ آٹھواں</item>
+        <item>ٹاپ نواں</item>
+        <item>ٹاپ دسواں</item>
+        <item>ٹاپ گیارہواں</item>
+        <item>ٹاپ بارہواں</item>
+    </string-array>
+    <string-array name="qp_bottom_baseball_innings">
+        <item>بوٹم پہلا</item>
+        <item>بوٹم دوسرا</item>
+        <item>بوٹم تیسرا</item>
+        <item>بوٹم چوتھا</item>
+        <item>بوٹم پانچواں</item>
+        <item>بوٹم چھٹا</item>
+        <item>بوٹم ساتواں</item>
+        <item>بوٹم آٹھواں</item>
+        <item>بوٹم نواں</item>
+        <item>بوٹم دسواں</item>
+        <item>بوٹم گیارہواں</item>
+        <item>بوٹم بارہواں</item>
+    </string-array>
+    <string-array name="local_results_markers">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+    </string-array>
+    <string-array name="languageNames">
+        <item>افریقی (جنوبی افریقہ)</item>
+        <item>عربی (الجیریا)</item>
+        <item>عربی (مصر)</item>
+        <item>عربی (عراق)</item>
+        <item>عربی (اسرائیل)</item>
+        <item>عربی (اردن)</item>
+        <item>عربی (کویت)</item>
+        <item>عربی (لبنان)</item>
+        <item>عربی (لیبیا)</item>
+        <item>عربی (مراکش)</item>
+        <item>عربی (قطر)</item>
+        <item>عربی (سعودی عرب)</item>
+        <item>عربی (سوڈان)</item>
+        <item>عربی (سیریا)</item>
+        <item>عربی (تیونس)</item>
+        <item>عربی (متحدہ عرب امارات)</item>
+        <item>عربی (یمن)</item>
+        <item>بیلاروسی (بیلاروس)</item>
+        <item>بنگالی (بنگلا دیش)</item>
+        <item>بلغاریائی (بلغاریہ)</item>
+        <item>کیٹیلان (اسپین)</item>
+        <item>چینی، منڈارین (چین، آسان)</item>
+        <item>چینی، منڈارین (ہانگ کانگ، آسان)</item>
+        <item>چینی، منڈارین (ہانگ کانگ، روایتی)</item>
+        <item>چینی، منڈارین (سنگاپور، آسان)</item>
+        <item>چینی، منڈارین (تائیوان، آسان)</item>
+        <item>چینی، منڈارین (تائیوان، روایتی)</item>
+        <item>چینی، یوئی (چین، آسان)</item>
+        <item>چینی، یوئی (ہانگ کانگ، روایتی)</item>
+        <item>کروشیائی (کروشیا)</item>
+        <item>چیک (جمہوریہ چیک)</item>
+        <item>ڈینش (ڈنمارک)</item>
+        <item>ڈچ (بیلجیم)</item>
+        <item>ڈچ (نیدرلینڈز)</item>
+        <item>انگریزی (عمومی)</item>
+        <item>انگریزی (آسٹریلیا)</item>
+        <item>انگریزی (بنگلا دیش)</item>
+        <item>انگریزی (کینیڈا)</item>
+        <item>انگریزی (ہانگ کانگ)</item>
+        <item>انگریزی (ہندوستان)</item>
+        <item>انگریزی (آئرلینڈ)</item>
+        <item>انگریزی (کینیا)</item>
+        <item>انگریزی (ملیشیا)</item>
+        <item>انگریزی (نیوزی لینڈ)</item>
+        <item>انگریزی (نائیجیریا)</item>
+        <item>انگریزی (پاکستان)</item>
+        <item>انگریزی (فلپائن)</item>
+        <item>انگریزی (سنگاپور)</item>
+        <item>انگریزی (جنوبی افریقہ)</item>
+        <item>انگریزی (سوڈان)</item>
+        <item>انگریزی (تنزانیہ)</item>
+        <item>انگریزی (یوگنڈا)</item>
+        <item>انگریزی (برطانیہ)</item>
+        <item>انگریزی (امریکہ)</item>
+        <item>ایسٹونیائی (ایسٹونیا)</item>
+        <item>فلپینی (فلپائن)</item>
+        <item>فننش (فن لینڈ)</item>
+        <item>فرانسیسی (بیلجیم)</item>
+        <item>فرانسیسی (کینیڈا)</item>
+        <item>فرانسیسی (فرانس)</item>
+        <item>فرانسیسی (سوئٹزر لینڈ)</item>
+        <item>گلیشیائی (اسپین)</item>
+        <item>جرمن (آسٹریا)</item>
+        <item>جرمن (جرمنی)</item>
+        <item>جرمن (سوئٹزر لینڈ)</item>
+        <item>جرمن (لکٹنسٹائن)</item>
+        <item>یونانی (یونان)</item>
+        <item>ہیبرو (اسرائیل)</item>
+        <item>ہندی (ہندوستان)</item>
+        <item>ہنگریائی (ہنگری)</item>
+        <item>آئس لینڈک (آئس لینڈ)</item>
+        <item>انڈونیشیائی (انڈونیشیا)</item>
+        <item>آئرش (آئرلینڈ)</item>
+        <item>اسنڈیبیلے (جنوبی افریقہ)</item>
+        <item>اسیکھیزا (جنوبی افریقہ)</item>
+        <item>زولو (جنوبی افریقہ)</item>
+        <item>اطالوی (اٹلی)</item>
+        <item>اطالوی (سوئٹزر لینڈ)</item>
+        <item>جاپانی (جاپان)</item>
+        <item>کوریائی (جنوبی کوریا)</item>
+        <item>لاتویائی (لٹوِیا)</item>
+        <item>لتھوانیائی (لتھوانیا)</item>
+        <item>مالے (ملائیشیا)</item>
+        <item>مالے (سنگاپور)</item>
+        <item>نارویجین بوکمل (ناروے)</item>
+        <item>نارویجین نینورک (ناروے)</item>
+        <item>فارسی (ایران)</item>
+        <item>پولش (پولینڈ)</item>
+        <item>پرتگالی (انگولا)</item>
+        <item>پرتگالی (برازیل)</item>
+        <item>پرتگالی (پرتگال)</item>
+        <item>رومانیائی (رومانیہ)</item>
+        <item>روسی (بیلاروس)</item>
+        <item>روسی (روس)</item>
+        <item>سیپیڈی (جنوبی افریقہ)</item>
+        <item>سربیائی (سربیا، سیریلک)</item>
+        <item>سیسوتھو (جنوبی افریقہ)</item>
+        <item>سیتسوانا (جنوبی افریقہ)</item>
+        <item>سسواتی (جنوبی افریقہ)</item>
+        <item>سلووک (سلوواکیہ)</item>
+        <item>سلوانیائی (سلوانیہ)</item>
+        <item>ہسپانوی (ارجنٹینا)</item>
+        <item>ہسپانوی (بولیویا)</item>
+        <item>ہسپانوی (چلی)</item>
+        <item>ہسپانوی (کولمبیا)</item>
+        <item>ہسپانوی (کوسٹا ریکا)</item>
+        <item>ہسپانوی (کیوبا)</item>
+        <item>ہسپانوی (ڈومینیکن ریپبلک)</item>
+        <item>ہسپانوی (ایکواڈور)</item>
+        <item>ہسپانوی (ایل سلواڈور)</item>
+        <item>ہسپانوی (گواٹیمالا)</item>
+        <item>ہسپانوی (ہونڈوراس)</item>
+        <item>ہسپانوی (میکسیکو)</item>
+        <item>ہسپانوی (نکاراگوا)</item>
+        <item>ہسپانوی (پانامہ)</item>
+        <item>ہسپانوی (پیراگوئے)</item>
+        <item>ہسپانوی (پیرو)</item>
+        <item>ہسپانوی (پورٹو ریکو)</item>
+        <item>ہسپانوی (اسپین)</item>
+        <item>ہسپانوی (امریکہ)</item>
+        <item>ہسپانوی (یوراگوئے)</item>
+        <item>ہسپانوی (وینزوئیلا)</item>
+        <item>سواہیلی (کینیا)</item>
+        <item>سواہیلی (تنزانیہ)</item>
+        <item>سواہلی (یوگینڈا)</item>
+        <item>سویڈش (فن لینڈ)</item>
+        <item>سویڈش (سویڈن)</item>
+        <item>تھائی (تھائی لینڈ)</item>
+        <item>شیونڈا (جنوبی افریقہ)</item>
+        <item>ترکش (ترکی)</item>
+        <item>یوکرینیائی (یوکرین)</item>
+        <item>اردو (پاکستان)</item>
+        <item>ویتنامی (ویتنام)</item>
+        <item>زٹسانگا (جنوبی افریقہ)</item>
+    </string-array>
+    <string-array name="edit_reminder_day">
+        <item>آج</item>
+        <item>آئندہ کل</item>
+        <item>کبھی کبھار</item>
+        <item>تاریخ سیٹ کریں…</item>
+    </string-array>
+    <string-array name="edit_reminder_time">
+        <item>صبح</item>
+        <item>سہ پہر</item>
+        <item>شام</item>
+        <item>رات</item>
+        <item>پورے دن</item>
+        <item>وقت سیٹ کریں…</item>
+    </string-array>
+    <string-array name="edit_reminder_location_trigger_type">
+        <item>پہنچیں</item>
+        <item>نکلیں</item>
+    </string-array>
+    <string-array name="edit_reminder_location">
+        <item>گھر</item>
+        <item>دفتر</item>
+        <item>مقام سیٹ کریں…</item>
+    </string-array>
+    <string-array name="network_error_tts_messages">
+        <item>یہ انٹرنیٹ کنکشن ابھی قابل بھروسہ نہیں ہے۔</item>
+        <item>یہ انٹرنیٹ کنکشن اس وقت قابل بھروسہ نہیں ہے۔</item>
+        <item>یہ انٹرنیٹ کنکشن ابھی مستحکم نہیں ہے۔</item>
+        <item>یہ انٹرنیٹ کنکشن اس وقت مستحکم نہیں ہے۔</item>
+        <item>یہ انٹرنیٹ کنکشن ابھی کافی مضبوط نہیں ہے۔</item>
+        <item>یہ انٹرنیٹ کنکشن اس وقت کافی مضبوط نہیں ہے۔</item>
+    </string-array>
+    <string-array name="read_it_grammar">
+        <item>اسے پڑھیں</item>
+        <item>پیغام پڑھیں</item>
+        <item>اس متن کو پڑھیں</item>
+    </string-array>
+    <string-array name="reply_grammar">
+        <item>جواب دیں</item>
+        <item>جواب بھیجیں</item>
+        <item>ایک جواب بھیجیں</item>
+        <item>متنی پیغام کا جواب دیں</item>
+        <item>اس کا جواب بھیجیں</item>
+    </string-array>
+    <string-array name="call_back_grammar">
+        <item>پچھلے پیغام کے مرسل کو واپسی کال کریں</item>
+        <item>اسے کال کریں</item>
+        <item>اسے واپسی کال کریں</item>
+        <item>اسے کال کریں</item>
+        <item>اسے واپسی کال کریں</item>
+    </string-array>
+</resources>

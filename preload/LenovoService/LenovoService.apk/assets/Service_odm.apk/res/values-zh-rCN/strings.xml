@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">乐服务远程协助服务组件</string>
+    <string name="ime_tip">远程输入法</string>
+    <string name="cc_video_connect_failed">视频连接失败</string>
+    <string name="cc_video_connect_exception">视频连接异常</string>
+    <string name="cc_video_login_failed">视频登录失败</string>
+    <string name="applock_desc">您是否共享包含有个人隐私信息的程序 %1$s？选择拒绝时程序将结束。</string>
+    <string name="accept">接受</string>
+    <string name="reject">拒绝</string>
+    <string name="permission_read_provider_label">读取CChelper数据库</string>
+    <string name="permission_read_provider_desc">允许此程序读取CChelper数据库</string>
+</resources>

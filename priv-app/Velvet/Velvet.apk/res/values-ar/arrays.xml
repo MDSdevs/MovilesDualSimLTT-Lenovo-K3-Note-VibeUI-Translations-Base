@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="recurrence_freq">
+        <item>تكرار يوميًا</item>
+        <item>تكرار أسبوعيًا</item>
+        <item>تكرار شهريًا</item>
+        <item>تكرار سنويًا</item>
+    </string-array>
+    <string-array name="edit_recurrence">
+        <item>بدون تكرار</item>
+        <item>كل يوم</item>
+        <item>كل أسبوع</item>
+        <item>كل شهر</item>
+        <item>كل عام</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>في أول يوم أحد من كل شهر</item>
+        <item>في ثاني يوم أحد من كل شهر</item>
+        <item>في ثالث يوم أحد من كل شهر</item>
+        <item>في رابع يوم أحد من كل شهر</item>
+        <item>في آخر يوم أحد من كل شهر</item>
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>في أول يوم اثنين من كل شهر</item>
+        <item>في ثاني يوم اثنين من كل شهر</item>
+        <item>في ثالث يوم اثنين من كل شهر</item>
+        <item>في رابع يوم اثنين من كل شهر</item>
+        <item>في آخر يوم اثنين من كل شهر</item>
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>في أول يوم ثلاثاء من كل شهر</item>
+        <item>في ثاني يوم ثلاثاء من كل شهر</item>
+        <item>في ثالث يوم ثلاثاء من كل شهر</item>
+        <item>في رابع يوم ثلاثاء من كل شهر</item>
+        <item>في آخر يوم ثلاثاء من كل شهر</item>
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>في أول يوم أربعاء من كل شهر</item>
+        <item>في ثاني يوم أربعاء من كل شهر</item>
+        <item>في ثالث يوم أربعاء من كل شهر</item>
+        <item>في رابع يوم أربعاء من كل شهر</item>
+        <item>في آخر يوم أربعاء من كل شهر</item>
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>في أول يوم خميس من كل شهر</item>
+        <item>في ثاني يوم خميس من كل شهر</item>
+        <item>في ثالث يوم خميس من كل شهر</item>
+        <item>في رابع يوم خميس من كل شهر</item>
+        <item>في آخر يوم خميس من كل شهر</item>
+    </string-array>
+    <string-array name="repeat_by_nth_fri">
+        <item>في أول يوم جمعة من كل شهر</item>
+        <item>في ثاني يوم جمعة من كل شهر</item>
+        <item>في ثالث يوم جمعة من كل شهر</item>
+        <item>في رابع يوم جمعة من كل شهر</item>
+        <item>في آخر يوم جمعة من كل شهر</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>في أول يوم سبت من كل شهر</item>
+        <item>في ثاني يوم سبت من كل شهر</item>
+        <item>في ثالث يوم سبت من كل شهر</item>
+        <item>في رابع يوم سبت من كل شهر</item>
+        <item>في يوم السبت الأخير من كل شهر</item>
+    </string-array>
+    <string-array name="baseball_innings">
+        <item>الشوط الأول</item>
+        <item>الشوط الثاني</item>
+        <item>الشوط الثالث</item>
+        <item>الشوط الرابع</item>
+        <item>الشوط الخامس</item>
+        <item>الشوط السادس</item>
+        <item>الشوط السابع</item>
+        <item>الشوط الثامن</item>
+        <item>الشوط التاسع</item>
+        <item>الشوط العاشر</item>
+        <item>الشوط الحادي عشر</item>
+        <item>الشوط الثاني عشر</item>
+    </string-array>
+    <string-array name="qp_top_baseball_innings">
+        <item>أعلى 1</item>
+        <item>أعلى 2</item>
+        <item>أعلى 3</item>
+        <item>أعلى 4</item>
+        <item>أعلى 5</item>
+        <item>أعلى 6</item>
+        <item>أعلى 7</item>
+        <item>أعلى 8</item>
+        <item>أعلى 9</item>
+        <item>أعلى 10</item>
+        <item>أعلى 11</item>
+        <item>أعلى 12</item>
+    </string-array>
+    <string-array name="qp_bottom_baseball_innings">
+        <item>أسفل 1</item>
+        <item>أسفل 2</item>
+        <item>أسفل 3</item>
+        <item>أسفل 4</item>
+        <item>أسفل 5</item>
+        <item>أسفل 6</item>
+        <item>أسفل 7</item>
+        <item>أسفل 8</item>
+        <item>أسفل 9</item>
+        <item>أسفل 10</item>
+        <item>أسفل 11</item>
+        <item>أسفل 12</item>
+    </string-array>
+    <string-array name="local_results_markers">
+        <item>أ</item>
+        <item>ب</item>
+        <item>ت</item>
+        <item>ث</item>
+        <item>ج</item>
+        <item>ح</item>
+        <item>خ</item>
+        <item>د</item>
+        <item>ذ</item>
+        <item>ر</item>
+        <item>ز</item>
+        <item>س</item>
+        <item>ش</item>
+        <item>ص</item>
+        <item>ض</item>
+        <item>ط</item>
+        <item>ظ</item>
+        <item>ع</item>
+        <item>غ</item>
+        <item>ف</item>
+        <item>ق</item>
+        <item>ك</item>
+        <item>ل</item>
+        <item>م</item>
+        <item>ن</item>
+        <item>هـ</item>
+    </string-array>
+    <string-array name="languageNames">
+        <item>الأفريقانية (جنوب إفريقيا)</item>
+        <item>العربية (الجزائر)</item>
+        <item>العربية (مصر)</item>
+        <item>العربية (العراق)</item>
+        <item>العربية (إسرائيل)</item>
+        <item>العربية (الأردن)</item>
+        <item>العربية (الكويت)</item>
+        <item>العربية (لبنان)</item>
+        <item>العربية (ليبيا)</item>
+        <item>العربية (المغرب)</item>
+        <item>العربية (قطر)</item>
+        <item>العربية (المملكة العربية السعودية)</item>
+        <item>العربية (السودان)</item>
+        <item>العربية (سوريا)</item>
+        <item>العربية (تونس)</item>
+        <item>العربية (الإمارات العربية المتحدة)</item>
+        <item>العربية (اليمن)</item>
+        <item>البيلاروسية (بيلاروس)</item>
+        <item>البنغالية (بنغلاديش)</item>
+        <item>البلغارية (بلغاريا)</item>
+        <item>الكتالانية (إسبانيا)</item>
+        <item>الصينية، الماندارين (الصين، المبسطة)</item>
+        <item>الصينية، الماندارين (هونغ كونغ، المبسطة)</item>
+        <item>الصينية، الماندارين (هونغ كونغ، التقليدية)</item>
+        <item>الصينية، الماندارين (سنغافورة، المبسطة)</item>
+        <item>الصينية، الماندارين (تايوان، المبسطة)</item>
+        <item>الصينية، الماندارين (تايوان، التقليدية)</item>
+        <item>الصينية، يوي (الصين، المبسطة)</item>
+        <item>الصينية، يوي (هونغ كونغ، التقليدية)</item>
+        <item>الكرواتية (كرواتيا)</item>
+        <item>التشيكية (جمهورية التشيك)</item>
+        <item>الدنماركية (الدنمارك)</item>
+        <item>الهولندية (بلجيكا)</item>
+        <item>الهولندية (هولندا)</item>
+        <item>الإنجليزية (عامة)</item>
+        <item>الإنجليزية (أستراليا)</item>
+        <item>الإنجليزية (بنغلاديش)</item>
+        <item>الإنجليزية (كندا)</item>
+        <item>الإنجليزية (هونغ كونغ)</item>
+        <item>الإنجليزية (الهند)</item>
+        <item>الإنجليزية (أيرلندا)</item>
+        <item>الإنجليزية (كينيا)</item>
+        <item>الإنجليزية (ماليزيا)</item>
+        <item>الإنجليزية (نيوزيلندا)</item>
+        <item>الإنجليزية (نيجيريا)</item>
+        <item>الإنجليزية (باكستان)</item>
+        <item>الإنجليزية (الفلبين)</item>
+        <item>الإنجليزية (سنغافورة)</item>
+        <item>الإنجليزية (جنوب إفريقيا)</item>
+        <item>الإنجليزية (السودان)</item>
+        <item>الإنجليزية (تنزانيا)</item>
+        <item>الإنجليزية (أوغندا)</item>
+        <item>الإنجليزية (المملكة المتحدة)</item>
+        <item>الإنجليزية (الولايات المتحدة)</item>
+        <item>الإستونية (إستونيا)</item>
+        <item>الفلبينية (الفلبين)</item>
+        <item>الفنلندية (فنلندا)</item>
+        <item>الفرنسية (بلجيكا)</item>
+        <item>الفرنسية (كندا)</item>
+        <item>الفرنسية (فرنسا)</item>
+        <item>الفرنسية (سويسرا)</item>
+        <item>الغليشيانية (إسبانيا)</item>
+        <item>الألمانية (النمسا)</item>
+        <item>الألمانية (ألمانيا)</item>
+        <item>الألمانية (سويسرا)</item>
+        <item>الألمانية (ليختنشتاين)</item>
+        <item>اليونانية (اليونان)</item>
+        <item>العبرية (إسرائيل)</item>
+        <item>الهندية (الهند)</item>
+        <item>المجرية (المجر)</item>
+        <item>الأيسلندية (أيسلندا)</item>
+        <item>الإندونيسية (إندونيسيا)</item>
+        <item>الأيرلندية (أيرلندا)</item>
+        <item>النديبيلة الشمالية (جنوب إفريقيا)</item>
+        <item>الخوسا (جنوب إفريقيا)</item>
+        <item>الزولو (جنوب إفريقيا)</item>
+        <item>الإيطالية (إيطاليا)</item>
+        <item>الإيطالية (سويسرا)</item>
+        <item>اليابانية (اليابان)</item>
+        <item>الكورية (كوريا الجنوبية)</item>
+        <item>اللاتفية (لاتفيا)</item>
+        <item>الليتوانية (ليتوانيا)</item>
+        <item>الماليزية (ماليزيا)</item>
+        <item>الماليزية (سنغافورة)</item>
+        <item>النرويجية بوكمال (النرويج)</item>
+        <item>النرويجية نينورسك (النرويج)</item>
+        <item>الفارسية (إيران)</item>
+        <item>البولندية (بولندا)</item>
+        <item>البرتغالية (أنغولا)</item>
+        <item>البرتغالية (البرازيل)</item>
+        <item>البرتغالية (البرتغال)</item>
+        <item>الرومانية (رومانيا)</item>
+        <item>الروسية (بيلاروس)</item>
+        <item>الروسية (روسيا)</item>
+        <item>سبيدي (جنوب إفريقيا)</item>
+        <item>الصربية (صربيا، السيريلية)</item>
+        <item>سيسوتو (جنوب إفريقيا)</item>
+        <item>الستسوانا (جنوب إفريقيا)</item>
+        <item>السيسواتية (جنوب إفريقيا)</item>
+        <item>السلوفاكية (سلوفاكيا)</item>
+        <item>السلوفينية (سلوفينيا)</item>
+        <item>الإسبانية (الأرجنتين)</item>
+        <item>الإسبانية (بوليفيا)</item>
+        <item>الإسبانية (تشيلي)</item>
+        <item>الإسبانية (كولومبيا)</item>
+        <item>الإسبانية (كوستاريكا)</item>
+        <item>الإسبانية (كوبا)</item>
+        <item>الإسبانية (الجمهورية الدومينيكية)</item>
+        <item>الإسبانية (الإكوادور)</item>
+        <item>الإسبانية (السلفادور)</item>
+        <item>الإسبانية (غواتيمالا)</item>
+        <item>الإسبانية (هندوراس)</item>
+        <item>الإسبانية (المكسيك)</item>
+        <item>الإسبانية (نيكاراغوا)</item>
+        <item>الإسبانية (بنما)</item>
+        <item>الإسبانية (باراغواي)</item>
+        <item>الإسبانية (بيرو)</item>
+        <item>الإسبانية (بورتوريكو)</item>
+        <item>الإسبانية (إسبانيا)</item>
+        <item>الإسبانية (الولايات المتحدة)</item>
+        <item>الإسبانية (أوروغواي)</item>
+        <item>الإسبانية (فنزويلا)</item>
+        <item>السواحيلية (كينيا)</item>
+        <item>السواحيلية (تنزانيا)</item>
+        <item>السواحيلية (أوغندا)</item>
+        <item>السويدية (فنلندا)</item>
+        <item>السويدية (السويد)</item>
+        <item>التايلاندية (تايلاند)</item>
+        <item>تشيفيندا (جنوب إفريقيا)</item>
+        <item>التركية (تركيا)</item>
+        <item>الأوكرانية (أوكرانيا)</item>
+        <item>الأردية (باكستان)</item>
+        <item>الفيتنامية (فيتنام)</item>
+        <item>السونجا (جنوب إفريقيا)</item>
+    </string-array>
+    <string-array name="edit_reminder_day">
+        <item>اليوم</item>
+        <item>غدًا</item>
+        <item>من آن لآخر</item>
+        <item>تعيين التاريخ...</item>
+    </string-array>
+    <string-array name="edit_reminder_time">
+        <item>صباحًا</item>
+        <item>بعد الظهر</item>
+        <item>مساءً</item>
+        <item>ليلاً</item>
+        <item>اليوم كله</item>
+        <item>تعيين الوقت...</item>
+    </string-array>
+    <string-array name="edit_reminder_location_trigger_type">
+        <item>الوصول</item>
+        <item>المغادرة</item>
+    </string-array>
+    <string-array name="edit_reminder_location">
+        <item>المنزل</item>
+        <item>العمل</item>
+        <item>تعيين الموقع...</item>
+    </string-array>
+    <string-array name="network_error_tts_messages">
+        <item>اتصال الإنترنت هذا ليس موثوقًا الآن.</item>
+        <item>اتصال الإنترنت هذا ليس موثوقًا في الوقت الحالي.</item>
+        <item>اتصال الإنترنت هذا ليس مستقرًا الآن.</item>
+        <item>اتصال الإنترنت هذا ليس مستقرًا في الوقت الحالي.</item>
+        <item>اتصال الإنترنت هذا ليس قويًا بما يكفي الآن.</item>
+        <item>اتصال الإنترنت هذا ليس قويًا بما يكفي في الوقت الحالي.</item>
+    </string-array>
+    <string-array name="read_it_grammar">
+        <item>قراءة</item>
+        <item>قراءة الرسالة</item>
+        <item>قراءة هذا النص</item>
+    </string-array>
+    <string-array name="reply_grammar">
+        <item>رد</item>
+        <item>إرسال رد</item>
+        <item>إرسال رد</item>
+        <item>رد على الرسالة النصية</item>
+        <item>إرسال رد عليها</item>
+    </string-array>
+    <string-array name="call_back_grammar">
+        <item>معاودة الاتصال بمرسل الرسالة الأخيرة</item>
+        <item>الاتصال به</item>
+        <item>معاودة الاتصال به</item>
+        <item>الاتصال بها</item>
+        <item>معاودة الاتصال بها</item>
+    </string-array>
+</resources>

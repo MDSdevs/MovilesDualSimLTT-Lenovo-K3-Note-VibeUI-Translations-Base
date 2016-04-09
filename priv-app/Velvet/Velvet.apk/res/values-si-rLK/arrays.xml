@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="recurrence_freq">
+        <item>දිනපතා නැවත කරන්න</item>
+        <item>සතිපතා නැවත කරන්න</item>
+        <item>මාස්පතා නැවත කරන්න</item>
+        <item>වාර්ෂිකව නැවත කරන්න</item>
+    </string-array>
+    <string-array name="edit_recurrence">
+        <item>යළි සිදු වෙන්නේ නැත</item>
+        <item>සෑමදාම</item>
+        <item>සෑම සතියකම</item>
+        <item>සෑම මාසයකම</item>
+        <item>සෑම වසරකම</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>සෑම පළමු ඉරිදාවකම</item>
+        <item>සෑම දෙවන ඉරිදාවකම</item>
+        <item>සෑම තෙවන ඉරිදාවකම</item>
+        <item>සෑම සිව්වන ඉරිදාවකම</item>
+        <item>සෑම අවසන් ඉරිදාවකම</item>
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>සෑම පළමු සඳුදාවකම</item>
+        <item>සෑම දෙවන සඳුදාවකම</item>
+        <item>සෑම තෙවන සඳුදාවකම</item>
+        <item>සෑම සිව්වන සඳුදාවකම</item>
+        <item>සෑම අවසන් සඳුදාවකම</item>
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>සෑම පළමු අඟහරුවාදාකම</item>
+        <item>සෑම දෙවන අඟහරුවාදාකම</item>
+        <item>සෑම තෙවන අඟහරුවාදාකම</item>
+        <item>සෑම සිව්වන අඟහරුවාදාකම</item>
+        <item>සෑම අවසන් අඟහරුවාදාකම</item>
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>සෑම පළමු බදාදාවකම</item>
+        <item>සෑම දෙවන බදාදාවකම</item>
+        <item>සෑම තෙවන බදාදාවකම</item>
+        <item>සෑම සිව්වන බදාදාවකම</item>
+        <item>සෑම අවසන් බදාදාවකම</item>
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>සෑම පළමු බ්‍රහස්පතින්දාවකම</item>
+        <item>සෑම දෙවන බ්‍රහස්පතින්දාවකම</item>
+        <item>සෑම තෙවන බ්‍රහස්පතින්දාවකම</item>
+        <item>සෑම සිව්වන බ්‍රහස්පතින්දාවකම</item>
+        <item>සෑම අවසන් බ්‍රහස්පතින්දාවකම</item>
+    </string-array>
+    <string-array name="repeat_by_nth_fri">
+        <item>සෑම පළමු සිකුරාදාවකම</item>
+        <item>සෑම දෙවන සිකුරාදාවකම</item>
+        <item>සෑම තෙවන සිකුරාදාවකම</item>
+        <item>සෑම සිව්වන සිකුරාදාවකම</item>
+        <item>සෑම අවසන් සිකුරාදාවකම</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>සෑම පළමු සෙනසුරාදාවකම</item>
+        <item>සෑම දෙවන සෙනසුරාදාවකම</item>
+        <item>සෑම තෙවන සෙනසුරාදාවකම</item>
+        <item>සෑම සිව්වන සෙනසුරාදාවකම</item>
+        <item>සෑම අවසන් සෙනසුරාදාවකම</item>
+    </string-array>
+    <string-array name="baseball_innings">
+        <item>1වන ඉනිම</item>
+        <item>2වන ඉනිම</item>
+        <item>3වන ඉනිම</item>
+        <item>4වන ඉනිම</item>
+        <item>5වන ඉනිම</item>
+        <item>6වන ඉනිම</item>
+        <item>7වන ඉනිම</item>
+        <item>8වන ඉනිම</item>
+        <item>9වන ඉනිම</item>
+        <item>10වන ඉනිම</item>
+        <item>11වන ඉනිම</item>
+        <item>12වන ඉනිම</item>
+    </string-array>
+    <string-array name="qp_top_baseball_innings">
+        <item>ඉහළ 1 වන</item>
+        <item>ඉහළ 2 වන</item>
+        <item>ඉහළ 3 වන</item>
+        <item>ඉහළ 4 වන</item>
+        <item>ඉහළ 5 වන</item>
+        <item>ඉහළ 6 වන</item>
+        <item>ඉහළ 7 වන</item>
+        <item>ඉහළ 8 වන</item>
+        <item>ඉහළ 9 වන</item>
+        <item>ඉහළ 10 වන</item>
+        <item>ඉහළ 11 වන</item>
+        <item>ඉහළ 12 වන</item>
+    </string-array>
+    <string-array name="qp_bottom_baseball_innings">
+        <item>පහළ 1 වන</item>
+        <item>පහළ 2 වන</item>
+        <item>පහළ 3 වන</item>
+        <item>පහළ 4 වන</item>
+        <item>පහළ 5 වන</item>
+        <item>පහළ 6 වන</item>
+        <item>පහළ 7 වන</item>
+        <item>පහළ 8 වන</item>
+        <item>පහළ 9 වන</item>
+        <item>පහළ 10 වන</item>
+        <item>පහළ 11 වන</item>
+        <item>පහළ 12 වන</item>
+    </string-array>
+    <string-array name="local_results_markers">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>:-P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+    </string-array>
+    <string-array name="languageNames">
+        <item>ඇෆ්රිකාන්ස් (දකුණු අප්‍රිකාව)</item>
+        <item>අරාබි (ඇල්ජිරීයාව)</item>
+        <item>අරාබියානු (ඊජිප්තුව)</item>
+        <item>අරාබි (ඉරාක)</item>
+        <item>අරාබියානු (ඊශ්‍රායලය)</item>
+        <item>"අරාබියානු  (ජෝර්දානය)"</item>
+        <item>අරාබියානු (කුවේටය)</item>
+        <item>අරාබියානු (ලෙබනනය)</item>
+        <item>අරාබි (ලිබියාව)</item>
+        <item>අරාබියානු (මොරොක්කෝව)</item>
+        <item>අරාබියානු (කටාර්)</item>
+        <item>අරාබි (සවුදි අරාබිය)</item>
+        <item>අරාබියානු (සුඩානය)</item>
+        <item>අරාබියානු (සිරියාව)</item>
+        <item>අරාබියානු (ටුනිසියාව)</item>
+        <item>අරාබි (එක්සත් අරාබි එමීර්)</item>
+        <item>අරාබි (යෙමනය)</item>
+        <item>බෙලරුසියානු (බෙලරසය)</item>
+        <item>බෙන්ගාලි (බංගලදේශය)</item>
+        <item>බල්ගේරියානු (බල්ගේරියාව)</item>
+        <item>කැටලන් (ස්පාඤ්ඤය)</item>
+        <item>චීන, මැන්ඩරින් (චීන, සරල කළ)</item>
+        <item>චීන, මැන්ඩේරියානු (හොං කොං, සරල කළ)</item>
+        <item>චීන, මැන්ඩේරියානු (හොංකොං, සම්ප්‍රදායානුකූල)</item>
+        <item>චීන, මැන්ඩරින් (සිංගප්පූරුව, සරල කළ)</item>
+        <item>චීන, මැන්ඩේරියානු (තායිවානය, සරල කළ)</item>
+        <item>චීන, මැන්ඩේරියානු (තායිවාන, සම්ප්‍රදායික)</item>
+        <item>චීන, යුයි (චීනය, සරල කළ)</item>
+        <item>චීන, යුයි (හොංකොං, සම්ප්‍රදායානුකූල)</item>
+        <item>ක්‍රොයේෂියානු (ක්‍රොයේෂියාව)</item>
+        <item>චෙක් (චෙක් සමූහාණ්ඩුව)</item>
+        <item>ඩැනිෂ් (ඩෙන්මාර්කය)</item>
+        <item>ලන්දේසි (බෙල්ජියම)</item>
+        <item>ලන්දේසි (නෙදර්ලන්තය)</item>
+        <item>ඉංග්‍රීසි (සාමාන්‍ය)</item>
+        <item>ඉංග්‍රීසි (ඕස්ට්‍රේලියාව)</item>
+        <item>ඉංග්‍රීසි (බංගලාදේශය)</item>
+        <item>ඉංග්‍රීසි (කැනඩාව)</item>
+        <item>ඉංග්‍රීසි (හොං කොං)</item>
+        <item>ඉංග්‍රීසි (ඉන්දියාව)</item>
+        <item>ඉංග්‍රීසි (අයර්ලන්තය)</item>
+        <item>ඉංග්‍රීසි (කෙන්යාව)</item>
+        <item>ඉංග්‍රීසි (මැලේසියාව)</item>
+        <item>ඉංග්‍රිසි (නවසීලන්තය)</item>
+        <item>ඉංග්‍රීසි (නයිජීරියාව)</item>
+        <item>ඉංග්‍රීසි (පකිස්ථානය)</item>
+        <item>ඉංග්‍රීසි (පිලිපීන)</item>
+        <item>ඉංග්‍රීසි (සිංගප්පූරුව)</item>
+        <item>ඉංග්‍රීසි (දකුණු අප්‍රිකාව)</item>
+        <item>ඉංග්‍රීසි (සුඩානය)</item>
+        <item>ඉංග්‍රීසි (ටැන්සානියා)</item>
+        <item>ඉංග්‍රීසි (උගන්ඩාව)</item>
+        <item>ඉංග්‍රීසි (බ්‍රිතාන්‍ය)</item>
+        <item>ඉංග්‍රීසි (ඇමෙරිකාව)</item>
+        <item>එස්ටෝනියානු (එස්ටෝනියාව)</item>
+        <item>ෆිලිපිනො (පිලිපීනය)</item>
+        <item>ෆින්ලන්ත (ෆින්ලන්තය)</item>
+        <item>ප්‍රංශ (බෙල්ජියම)</item>
+        <item>ප්‍රංශ (කැනඩාව)</item>
+        <item>ප්‍රංශ (ප්‍රංශය)</item>
+        <item>ප්‍රංශ (ස්විට්සර්ලන්තය)</item>
+        <item>ගලිශියන් (ස්පාඤ්ඤය)</item>
+        <item>ජර්මානු (ඔස්ට්‍රියාව)</item>
+        <item>ජර්මානු (ජර්මනිය)</item>
+        <item>ජර්මානු (ස්විස්ටර්ලන්තය)</item>
+        <item>ජර්මන් (ලිචෙන්ස්ටයින්)</item>
+        <item>ග්‍රීක (ග්‍රීසිය)</item>
+        <item>හීබෲ (ඊශ්‍රායලය)</item>
+        <item>හින්දි (ඉන්දියාව)</item>
+        <item>හංගේරියානු (හංගේරියාව)</item>
+        <item>අයිස්ලන්තික් (අයිස්ලන්තය)</item>
+        <item>ඉන්දුනීසියානු (ඉන්දුනීසියාව)</item>
+        <item>අයිරිෂ් (අයර්ලන්තය)</item>
+        <item>ඉසින්දෙබෙලේ (දකුණු අප්‍රිකාව)</item>
+        <item>ඉසිහොසා (දකුණු අප්‍රිකාව)</item>
+        <item>ඉසිසූලු (දකුණු අප්‍රිකාව)</item>
+        <item>ඉතාලියානු (ඉතාලිය)</item>
+        <item>ඉතාලියානු (ස්විට්සර්ලන්තය)</item>
+        <item>ජපන් (ජපානය)</item>
+        <item>කොරියානු (දකුණු කොරියාව)</item>
+        <item>ලැට්වියන් (ලැට්වියාව)</item>
+        <item>ලිතුවේනියානු (ලිතුවේනියාව)</item>
+        <item>මැලේ (මැලේසියාව)</item>
+        <item>මැලේ (සිංගප්පූරුව)</item>
+        <item>නොර්වේයියානු Bokmål (නොර්වේ)</item>
+        <item>නොර්වේයියානු Nynorsk (නොර්වේ)</item>
+        <item>පර්සියානු (ඉරානය)</item>
+        <item>පෝලන්ත (පෝලන්තය)</item>
+        <item>පෘතුගීසි (ඇන්ගෝලාව)</item>
+        <item>පෘතුගීසි (බ්‍රසීල)</item>
+        <item>පෘතුගීසි (පෘතුගාලය)</item>
+        <item>රුමේනියානු (රුමේනියාව)</item>
+        <item>රුසියානු (බෙලාරුස්)</item>
+        <item>රුසියානු (රුසියාව)</item>
+        <item>සෙපේදී (දකුණු අප්‍රිකාව)</item>
+        <item>සර්බියානු (සර්බියා, සිරිලික්)</item>
+        <item>සෙසොතෝ (දකුණු අප්‍රිකාව)</item>
+        <item>සෙට්ස්වානා (දකුණු අප්‍රිකාව)</item>
+        <item>සිස්වාති (දකුණු අප්‍රිකාව)</item>
+        <item>ස්ලොවැක් (ස්ලොවේකියාව)</item>
+        <item>ස්ලෝවේනියානු (ස්ලෝවේනියාව)</item>
+        <item>ස්පාඤ්ඤ (ආජන්ටිනාව)</item>
+        <item>ස්පාඤ්ඤ (බොලිවියාව)</item>
+        <item>ස්පාඤ්ඤ (චිලී)</item>
+        <item>ස්පාඤ්ඤ (කොලොම්බියාව)</item>
+        <item>ස්පාඤ්ඤ (කොස්ටරිකා)</item>
+        <item>ස්පාඤ්ඤ (කියුබාව)</item>
+        <item>ස්පාඤ්ඤ (ඩොමිනිකන් සමූහාණ්ඩුව)</item>
+        <item>ස්පාඤ්ඤ (ඉක්වදෝරය)</item>
+        <item>ස්පාඤ්ඤ (එල් සැල්වදෝර්)</item>
+        <item>ස්පාඤ්ඤ (ගෝතමාලාව)</item>
+        <item>ස්පාඤ්ඤ (හොන්ඩුරාස්)</item>
+        <item>ස්පාඤ්ඤ (මෙක්සිකෝව)</item>
+        <item>ස්පාඤ්ඤ (නිකරගුවාව)</item>
+        <item>ස්පාඤ්ඤ (පැනමාව)</item>
+        <item>ස්පාඤ්ඤ (පැරගුවේ)</item>
+        <item>ස්පාඤ්ඤ (පේරු)</item>
+        <item>ස්පාඤ්ඤ (පුවටෝ රිකෝ)</item>
+        <item>ස්පාඤ්ඤ (ස්පාඤ්ඤය)</item>
+        <item>ස්පාඤ්ඤ (එජ)</item>
+        <item>ස්පාඤ්ඤ (උරුගුවේ)</item>
+        <item>ස්පාඤ්ඤ (වෙනිසියුලාව)</item>
+        <item>ස්වාහිලි (කෙන්යාව)</item>
+        <item>ස්වාහිලි (ටැන්සානියාව)</item>
+        <item>ස්වාහිලි (උගන්ඩාව)</item>
+        <item>ස්වීඩිශ් (ෆින්ලන්තය)</item>
+        <item>ස්වීඩන් (ස්වීඩනය)</item>
+        <item>තායි (තායිලන්තය)</item>
+        <item>ෂිවේන්ද (දකුණු අප්‍රිකාව)</item>
+        <item>තුර්කි (තුර්කිය)</item>
+        <item>යුක්රේනියානු (යුක්රේනය)</item>
+        <item>උර්දු (පකිස්තානය)</item>
+        <item>වියට්නාම (වියට්නාමය)</item>
+        <item>සිටොන්ගා (දකුණු අප්‍රිකාව)</item>
+    </string-array>
+    <string-array name="edit_reminder_day">
+        <item>අද</item>
+        <item>හෙට</item>
+        <item>අතරින් පතර</item>
+        <item>දිනය සකසන්න...</item>
+    </string-array>
+    <string-array name="edit_reminder_time">
+        <item>උදේ</item>
+        <item>පස්වරුව</item>
+        <item>සවස</item>
+        <item>රාත්‍රිය</item>
+        <item>දවස පුරා</item>
+        <item>වේලාව සකසන්න...</item>
+    </string-array>
+    <string-array name="edit_reminder_location_trigger_type">
+        <item>පැමිණීම</item>
+        <item>ඉවත් වෙන්න</item>
+    </string-array>
+    <string-array name="edit_reminder_location">
+        <item>නිවස</item>
+        <item>කාර්යාලය</item>
+        <item>පිහිටීම සකසන්න</item>
+    </string-array>
+    <string-array name="network_error_tts_messages">
+        <item>මෙම අන්තර්ජාල සම්බන්ධතාව මේ දැන් විශ්වාසදායි නැත.</item>
+        <item>මෙම අන්තර්ජාල සම්බන්ධතාව මේ මොහොතේ විශ්වාසදායි නැත.</item>
+        <item>මෙම අන්තර්ජාල සම්බන්ධතාව මේ දැන් ස්ථායි නැත.</item>
+        <item>මෙම අන්තර්ජාල සම්බන්ධතාව මේ මොහොතේ ස්ථායි නැත.</item>
+        <item>මෙම අන්තර්ජාල සම්බන්ධතාව මේ දැන් ප්‍රමාණවත් තරම් ප්‍රබල නැත.</item>
+        <item>මෙම අන්තර්ජාල සම්බන්ධතාව මේ මොහොතේ ප්‍රමාණවත් තරම් ප්‍රබල නැත.</item>
+    </string-array>
+    <string-array name="read_it_grammar">
+        <item>එය කියවන්න</item>
+        <item>පණිවිඩය කියවන්න</item>
+        <item>එම පෙළ කියවන්න</item>
+    </string-array>
+    <string-array name="reply_grammar">
+        <item>පිළිතුර</item>
+        <item>පිළිතුර යවන්න</item>
+        <item>පිළිතුරක් යවන්න</item>
+        <item>පෙළ පණිවිඩයට පිළිතුරක් යවන්න</item>
+        <item>එයට පිළිතුරක් යවන්න</item>
+    </string-array>
+    <string-array name="call_back_grammar">
+        <item>අවසාන පණිවිඩයේ යවන්නා වෙත අමතන්න</item>
+        <item>ඔහුට අමතන්න</item>
+        <item>ඔහුට ආපසු අමතන්න</item>
+        <item>ඇයට අමතන්න</item>
+        <item>ඇයට ආපසු අමතන්න</item>
+    </string-array>
+</resources>

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="user_nickname">نام مستعار</string>
+    <string name="show_owner_info_on_lockscreen_label">نمایش اطلاعات مالک در صفحه قفل</string>
+    <string name="show_profile_info_on_lockscreen_label">نمایش اطلاعات نمایه در صفحه قفل</string>
+    <string name="show_user_info_on_lockscreen_label">نمایش اطلاعات کاربر بر روی صفحه قفل</string>
+    <string name="lockpassword_confirm_your_pattern_header">الگوی خود را تأیید کنید</string>
+    <string name="security_settings_title">امنیت</string>
+    <string name="security_passwords_title">گذرواژه‌ها</string>
+    <string name="show_password">گذرواژه‌ها قابل مشاهده باشند</string>
+    <string name="lock_after_timeout">به صورت خودکار قفل شود</string>
+    <string name="lock_after_timeout_summary">%1$s پس از خواب</string>
+    <string name="lock_after_timeout_summary_with_exception">%1$s بعد از حالت خواب، به جز زمانی که قفل صفحه توسط %2$s باز نگه داشته شود</string>
+    <string name="owner_info_settings_title">اطلاعات مالک</string>
+    <string name="owner_info_settings_summary" />
+    <string name="owner_info_settings_edit_text_hint">متنی را وارد کنید تا در صفحه قفل شده نشان داده شود</string>
+    <string name="lock_settings_picker_title">قفل صفحهٔ نمایش را انتخاب کنید</string>
+    <string name="biometric_weak_improve_matching_title">بهبود مطابقت چهره</string>
+    <string name="biometric_weak_liveliness_title">بررسی پخش واقعی و زنده چهره</string>
+    <string name="biometric_weak_liveliness_summary">هنگام بازکردن قفل باید چشمک بزنید</string>
+    <string name="lockpassword_choose_your_password_header">رمز ورود خود را انتخاب کنید</string>
+    <string name="lockpassword_choose_your_pattern_header">الگوی خود را انتخاب کنید</string>
+    <string name="lockpassword_choose_your_pin_header">پین خود را انتخاب کنید</string>
+    <string name="lockpassword_confirm_passwords_dont_match">رمزهای ورود مطابقت ندارند</string>
+    <string name="lockpassword_confirm_pins_dont_match">پین ها با یکدیگر مطابقت ندارند</string>
+    <string name="lock_settings_title">ایمنی صفحه</string>
+    <string name="lockpattern_change_lock_pattern_label">تغییر الگوی بازگشایی قفل</string>
+    <string name="lockpattern_change_lock_pin_label">تغییر پین بازگشایی قفل</string>
+    <string name="lockpattern_need_to_unlock">تأیید الگوی ذخیره شده</string>
+    <string name="lockpattern_need_to_unlock_wrong">دوباره امتحان کنید:</string>
+    <string name="lockpattern_recording_intro_header">یک الگوی بازگشایی قفل بکشید</string>
+    <string name="lockpattern_recording_intro_footer">برای دریافت راهنمایی روی منو فشار دهید.</string>
+    <string name="lockpattern_recording_inprogress">پس از اتمام، انگشت را رها کنید</string>
+    <string name="lockpattern_recording_incorrect_too_short">حداقل %d نقطه را به یکدیگر متصل کنید. دوباره امتحان کنید.</string>
+    <string name="lockpattern_pattern_entered_header">الگو ضبط شد</string>
+    <string name="lockpattern_need_to_confirm">برای تأیید دوباره الگو را بکشید</string>
+    <string name="lockpattern_pattern_confirmed_header">الگوی بازگشایی قفل جدید شما</string>
+    <string name="lockpattern_confirm_button_text">تأیید</string>
+    <string name="lockpattern_restart_button_text">کشیدن مجدد</string>
+    <string name="lockpattern_retry_button_text">امتحان مجدد</string>
+    <string name="lockpattern_continue_button_text">ادامه</string>
+    <string name="lockpattern_settings_title">الگوی بازگشایی قفل</string>
+    <string name="lockpattern_settings_enable_title">درخواست الگو</string>
+    <string name="lockpattern_settings_enable_summary">برای باز کردن قفل صفحه باید یک الگو بکشید</string>
+    <string name="lockpattern_settings_enable_visible_pattern_title">الگو مرئی باشد</string>
+    <string name="lockpattern_settings_enable_tactile_feedback_title">لرزش هنگام لمس</string>
+    <string name="lockpattern_settings_enable_power_button_instantly_locks">قفل‌شدن فوری با دکمه روشن/خاموش</string>
+    <string name="lockpattern_settings_power_button_instantly_locks_summary">به جز زمانی که قفل صفحه توسط %1$s باز نگه داشته شود</string>
+    <string name="lockpattern_settings_choose_lock_pattern">تنظیم الگوی بازگشایی قفل</string>
+    <string name="lockpattern_settings_change_lock_pattern">تغییر الگوی بازگشایی قفل</string>
+    <string name="lockpattern_settings_help_how_to_record">نحوه ترسیم الگوی بازگشایی قفل</string>
+    <string name="lockpattern_too_many_failed_confirmation_attempts_header">تلاش‌های اشتباه زیادی انجام شده است!</string>
+    <string name="lockpattern_too_many_failed_confirmation_attempts_footer">در %d ثانیه دوباره امتحان کنید.</string>
+    <string name="unlock_set_unlock_launch_picker_title">قفل صفحه</string>
+    <string name="unlock_set_unlock_launch_picker_change_title">تغییر قفل صفحه</string>
+    <string name="unlock_set_unlock_launch_picker_change_summary">‏تغییر یا غیرفعال کردن الگو، PIN یا ایمنی رمز ورود</string>
+    <string name="unlock_set_unlock_launch_picker_enable_summary">روشی برای قفل کردن صفحهٔ نمایش انتخاب کنید</string>
+    <string name="unlock_backup_info_summary">‏هنگامی که Face Unlock نمی‌تواند شما را ببیند، چگونه می‌خواهید قفل را باز کنید؟</string>
+    <string name="unlock_set_unlock_off_title">هیچکدام</string>
+    <string name="unlock_set_unlock_off_summary" />
+    <string name="unlock_set_unlock_none_title">تند کشیدن</string>
+    <string name="unlock_set_unlock_none_summary">عدم وجود امنیت</string>
+    <string name="unlock_set_unlock_biometric_weak_title">Face Unlock</string>
+    <string name="unlock_set_unlock_biometric_weak_summary">امنیت پایین، تجربی</string>
+    <string name="unlock_set_unlock_pattern_title">الگو</string>
+    <string name="unlock_set_unlock_pattern_summary">امنیت متوسط</string>
+    <string name="unlock_set_unlock_pin_title">پین</string>
+    <string name="unlock_set_unlock_pin_summary">امنیت متوسط به بالا</string>
+    <string name="unlock_set_unlock_password_title">رمز ورود</string>
+    <string name="unlock_set_unlock_password_summary">امنیت بالا</string>
+    <string name="unlock_set_unlock_disabled_summary">توسط سرپرست، سیاست رمزگذاری یا حافظه اطلاعات کاربردی غیرفعال شده است</string>
+    <string name="unlock_set_unlock_mode_off">هیچکدام</string>
+    <string name="unlock_set_unlock_mode_none">تند کشیدن</string>
+    <string name="unlock_set_unlock_mode_biometric_weak">Face Unlock</string>
+    <string name="unlock_set_unlock_mode_pattern">الگو</string>
+    <string name="unlock_set_unlock_mode_pin">پین</string>
+    <string name="unlock_set_unlock_mode_password">گذرواژه</string>
+    <string name="unlock_disable_lock_title">خاموش کردن قفل صفحه</string>
+    <string name="unlock_disable_lock_pattern_summary">حذف الگوی بازگشایی قفل</string>
+    <string name="unlock_disable_lock_pin_summary">حذف پین بازگشایی قفل</string>
+    <string name="unlock_disable_lock_password_summary">حذف رمز ورود بازگشایی قفل</string>
+    <string name="unlock_change_lock_pattern_title">تغییر الگوی بازگشایی قفل</string>
+    <string name="unlock_change_lock_pin_title">تغییر پین بازگشایی قفل</string>
+    <string name="unlock_change_lock_password_title">تغییر رمز ورود بازگشایی قفل</string>
+    <string name="keywords_lockscreen">لغزاندن گذرواژه الگو پین</string>
+    <string name="switch_on_text">روشن</string>
+    <string name="switch_off_text">خاموش</string>
+    <string name="screen_pinning_title">پین کردن صفحه</string>
+    <string name="screen_pinning_description">"هنگامی که این تنظیم روشن است، می‌توانید دستگاه را در حالتی قرار دهید که صفحه کنونی را در معرض نمایش قرار می‌دهد.
+
+برای پین کردن یک صفحه:
+
+۱. این تنظیم را روشن کنید.
+
+۲. برنامه‌ای را باز کنید.
+
+۳. دکمه «موارد اخیر» را لمس کنید.
+
+۴. نماد پین را لمس کنید."</string>
+    <string name="settings_safetylegal_activity_loading">در حال بارگیری…</string>
+    <string name="no_applications">برنامه‌ای موجود نیست.</string>
+    <string name="help_label">راهنما و بازخورد</string>
+    <string name="lockpassword_ok_label">تأیید</string>
+    <string name="lockpattern_tutorial_cancel_label">لغو</string>
+    <string name="lockpattern_tutorial_continue_label">بعدی</string>
+    <string name="lockpassword_confirm_your_pin_header">تأیید پین خود</string>
+    <string name="lockpassword_confirm_your_password_header">تأیید رمز ورود خود</string>
+    <string name="cancel">لغو</string>
+    <string name="lock_screen_notifications_title">وقتی دستگاه قفل است</string>
+    <string name="lock_screen_notifications_summary_show">نمایش همه محتوای اعلان</string>
+    <string name="lock_screen_notifications_summary_hide">پنهان کردن محتوای حساس اعلان</string>
+    <string name="lock_screen_notifications_summary_disable">هرگز اعلان نشان داده نشود</string>
+    <string name="lock_screen_notifications_interstitial_message">هنگامی که دستگاه شما قفل است، مایلید اعلان‌ها چگونه نشان داده شوند؟</string>
+    <string name="app_notifications_dialog_done">انجام شد</string>
+    <string name="lockpassword_cancel_label">لغو</string>
+    <string name="lockpassword_password_too_long">گذرواژه باید کمتر از %d نویسه باشد.</string>
+    <string name="lockpassword_pin_too_long">پین باید کمتر از %d رقم باشد.</string>
+    <string name="lockpassword_password_too_short">‏رمز ورود باید حداقل %d نویسه باشد</string>
+    <string name="lockpassword_pin_too_short">‏پین باید حداقل %d رقم باشد</string>
+    <string name="lockpassword_press_continue">پس از انجام کار، ادامه را لمس کنید</string>
+    <string name="lockpassword_continue_label">ادامه</string>
+    <string name="lockpassword_pin_no_sequential_digits">ترتیب صعودی، نزولی یا تکراری ارقام ممنوع است</string>
+    <string name="lockpassword_pin_contains_non_digits">پین باید فقط دارای رقم‌های 0 تا 9 باشد.</string>
+    <string name="lockpassword_pin_recently_used">سرپرست دستگاه اجازه استفاده از پین اخیر را نمی‌دهد.</string>
+    <string name="lockpassword_illegal_character">گذرواژه دارای یک نویسه غیرقانونی است.</string>
+    <string name="lockpassword_password_requires_alpha">گذرواژه باید حداقل دارای یک حرف باشد.</string>
+    <string name="lockpassword_password_requires_digit">گذرواژه باید دارای حداقل یک رقم باشد.</string>
+    <string name="lockpassword_password_requires_symbol">گذرواژه باید دارای حداقل یک نماد باشد.</string>
+    <string name="lockpassword_password_recently_used">سرپرست دستگاه اجازه استفاده از گذرواژه اخیر را نمی‌دهد.</string>
+    <string name="backup_lock_settings_picker_title">قفل پشتیبان را انتخاب کنید</string>
+    <string name="profile_info_settings_title">اطلاعات نمایه</string>
+    <string name="user_info_settings_title">اطلاعات کاربر</string>
+    <string name="credential_storage_type_hardware">سخت‌افزاری</string>
+    <string name="credential_storage_type_software">فقط نرم‌افزاری</string>
+    <string name="error_title" />
+    <string name="lockpassword_choose_lock_generic_header">انتخاب روش بازکردن قفل</string>
+</resources>

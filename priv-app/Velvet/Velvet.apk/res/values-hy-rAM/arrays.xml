@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="recurrence_freq">
+        <item>ԿՐԿՆԵԼ ԱՄԵՆ ՕՐ</item>
+        <item>ԿՐԿՆԵԼ ԱՄԵՆ ՇԱԲԱԹ</item>
+        <item>ԿՐԿՆԵԼ ԱՄԵՆ ԱՄԻՍ</item>
+        <item>ԿՐԿՆԵԼ ԱՄԵՆ ՏԱՐԻ</item>
+    </string-array>
+    <string-array name="edit_recurrence">
+        <item>Չի կրկնվում</item>
+        <item>Ամեն օր</item>
+        <item>Ամեն շաբաթ</item>
+        <item>Ամեն ամիս</item>
+        <item>Ամեն տարի</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>ամեն առաջին կիրակի</item>
+        <item>ամեն երկրորդ կիրակի</item>
+        <item>ամեն երրորդ կիրակի</item>
+        <item>ամեն չորրորդ կիրակի</item>
+        <item>ամեն վերջին կիրակի</item>
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>ամեն առաջին երկուշաբթի</item>
+        <item>ամեն երկրորդ երկուշաբթի</item>
+        <item>ամեն երրորդ երկուշաբթի</item>
+        <item>ամեն չորրորդ երկուշաբթի</item>
+        <item>ամեն վերջին երկուշաբթի</item>
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>ամեն առաջին երեքշաբթի</item>
+        <item>ամեն երկրորդ երեքշաբթի</item>
+        <item>ամեն երրորդ երեքշաբթի</item>
+        <item>ամեն չորրորդ երեքշաբթի</item>
+        <item>ամեն վերջին երեքշաբթի</item>
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>ամեն առաջին չորեքշաբթի</item>
+        <item>ամեն երկրորդ չորեքշաբթի</item>
+        <item>ամեն երրորդ չորեքշաբթի</item>
+        <item>ամեն չորրորդ չորեքշաբթի</item>
+        <item>ամեն վերջին չորեքշաբթի</item>
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>ամեն առաջին հինգշաբթի</item>
+        <item>ամեն երկրորդ հինգշաբթի</item>
+        <item>ամեն երրորդ հինգշաբթի</item>
+        <item>ամեն չորրորդ հինգշաբթի</item>
+        <item>ամեն վերջին հինգշաբթի</item>
+    </string-array>
+    <string-array name="repeat_by_nth_fri">
+        <item>ամեն առաջին ուրբաթ</item>
+        <item>ամեն երկրորդ ուրբաթ</item>
+        <item>ամեն երրորդ ուրբաթ</item>
+        <item>ամեն չորրորդ ուրբաթ</item>
+        <item>ամեն վերջին ուրբաթ</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>ամեն առաջին շաբաթ օրը</item>
+        <item>ամեն երկրորդ շաբաթ օրը</item>
+        <item>ամեն երրորդ շաբաթ օրը</item>
+        <item>ամեն չորրորդ շաբաթ օրը</item>
+        <item>ամեն վերջին շաբաթ օրը</item>
+    </string-array>
+    <string-array name="baseball_innings">
+        <item>1-ին ինինգ</item>
+        <item>2-րդ ինինգ</item>
+        <item>3-րդ ինինգ</item>
+        <item>4-րդ ինինգ</item>
+        <item>5-րդ ինինգ</item>
+        <item>6-րդ ինինգ</item>
+        <item>7-րդ ինինգ</item>
+        <item>8-րդ ինինգ</item>
+        <item>9-րդ ինինգ</item>
+        <item>10-րդ ինինգ</item>
+        <item>11-րդ ինինգ</item>
+        <item>12-րդ ինինգ</item>
+    </string-array>
+    <string-array name="qp_top_baseball_innings">
+        <item>1-ին ինինգի սկզբնամաս</item>
+        <item>2-րդ ինինգի սկզբնամաս</item>
+        <item>3-րդ ինինգի սկզբնամաս</item>
+        <item>4-րդ ինինգի սկզբնամաս</item>
+        <item>5-րդ ինինգի սկզբնամաս</item>
+        <item>6-րդ ինինգի սկզբնամաս</item>
+        <item>7-րդ ինինգի սկզբնամաս</item>
+        <item>8-րդ ինինգի սկզբնամաս</item>
+        <item>9-րդ ինինգի սկզբնամաս</item>
+        <item>10-րդ ինինգի սկզբնամաս</item>
+        <item>11-րդ ինինգի սկզբնամաս</item>
+        <item>12-րդ ինինգի սկզբնամաս</item>
+    </string-array>
+    <string-array name="qp_bottom_baseball_innings">
+        <item>1-ին ինինգի վերջնամաս</item>
+        <item>2-րդ ինինգի վերջնամաս</item>
+        <item>3-րդ ինինգի վերջնամաս</item>
+        <item>4-րդ ինինգի վերջնամաս</item>
+        <item>5-րդ ինինգի վերջնամաս</item>
+        <item>6-րդ ինինգի վերջնամաս</item>
+        <item>7-րդ ինինգի վերջնամաս</item>
+        <item>8-րդ ինինգի վերջնամաս</item>
+        <item>9-րդ ինինգի վերջնամաս</item>
+        <item>2-րդ ինինգի վերջնամաս</item>
+        <item>11-րդ ինինգի վերջնամաս</item>
+        <item>12-րդ ինինգի վերջնամաս</item>
+    </string-array>
+    <string-array name="local_results_markers">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+    </string-array>
+    <string-array name="languageNames">
+        <item>Աֆրիկանս (Հարավային Աֆրիկա)</item>
+        <item>Արաբերեն (Ալժիր)</item>
+        <item>Արաբերեն (Եգիպտոս)</item>
+        <item>Արաբերեն (Իրաք)</item>
+        <item>Արաբերեն (Իսրայել)</item>
+        <item>Արաբերեն (Հորդանան)</item>
+        <item>Արաբերեն (Քուվեյթ)</item>
+        <item>Արաբերեն (Լիբանան)</item>
+        <item>Արաբերեն (Լիբիա)</item>
+        <item>Արաբերեն (Մարոկկո)</item>
+        <item>Արաբերեն (Կատար)</item>
+        <item>Արաբերեն (Սաուդյան Արաբիա)</item>
+        <item>Արաբերեն (Սուդան)</item>
+        <item>Արաբերեն (Սիրիա)</item>
+        <item>Արաբերեն (Թունիս)</item>
+        <item>Արաբերեն (Արաբական Միացյալ Էմիրություններ)</item>
+        <item>Արաբերեն (Եմեն)</item>
+        <item>Բելառուսերեն (Բելառուս)</item>
+        <item>Բենգալերեն (Բանգլադեշ)</item>
+        <item>Բուլղարերեն (Բուլղարիա)</item>
+        <item>Կատալոներեն (Իսպանիա)</item>
+        <item>Չինարեն, Մանդարին (Չինաստան, պարզեցված)</item>
+        <item>Չինարեն, Մանդարին (Հոնկոնգ, պարզեցված)</item>
+        <item>Չինարեն, մանդարին (Հոնկոնգ, ավանդական)</item>
+        <item>Չինարեն, Մանդարին (Սինգապուր, պարզեցված)</item>
+        <item>Չինարեն, մանդարին (Թայվան, պարզեցված)</item>
+        <item>Չինարեն, Մանդարին (Թայվան, ավանդական)</item>
+        <item>Չինարեն, յու (Չինաստան, պարզեցված)</item>
+        <item>Չինարեն, Յուէ (Հոնկոնգ, ավանդական)</item>
+        <item>Խորվաթերեն (Խորվաթիա)</item>
+        <item>Չեխերեն (Չեխիա)</item>
+        <item>Դանիերեն (Դանիա)</item>
+        <item>Հոլանդերեն (Բելգիա)</item>
+        <item>Հոլանդերեն (Նիդեռլանդներ)</item>
+        <item>Անգլերեն (ընդհանուր)</item>
+        <item>Անգլերեն (Ավստրալիա)</item>
+        <item>Անգլերեն (Բանգլադեշ)</item>
+        <item>Արգլերեն (Կանադա)</item>
+        <item>Անգլերեն (Հոնկոնգ)</item>
+        <item>Անգլերեն (Հնդկաստան)</item>
+        <item>Անգլերեն (Իռլանդիա)</item>
+        <item>Անգլերեն (Քենիա)</item>
+        <item>Անգլերեն (Մալայզիա)</item>
+        <item>Անգլերեն (Նոր Զելանդիա)</item>
+        <item>Անգլերեն (Նիգերիա)</item>
+        <item>Անգլերեն (Պակիստան)</item>
+        <item>Անգլերեն (Ֆիլիպիններ)</item>
+        <item>Անգլերեն (Սինգապուր)</item>
+        <item>Անգլերեն (Հարավային Աֆրիկա)</item>
+        <item>Անգլերեն (Սուդան)</item>
+        <item>Անգլերեն (Տանզանիա)</item>
+        <item>Անգլերեն (Ուգանդա)</item>
+        <item>Անգլերեն (ՄԹ)</item>
+        <item>Անգլերեն (ԱՄՆ)</item>
+        <item>Էստոներեն (Էստոնիա)</item>
+        <item>Ֆիլիպիներեն (Ֆիլիպիններ)</item>
+        <item>Ֆիններեն (Ֆինլանդիա)</item>
+        <item>Ֆրանսերեն (Բելգիա)</item>
+        <item>Ֆրանսերեն (Կանադա)</item>
+        <item>Ֆրանսերեն (Ֆրանսիա)</item>
+        <item>Ֆրանսերեն (Շվեյցարիա)</item>
+        <item>Գալիսերեն (Իսպանիա)</item>
+        <item>Գերմաներեն (Ավստրիա)</item>
+        <item>Գերմաներեն (Գերմանիա)</item>
+        <item>Գերմաներեն (Շվեյցարիա)</item>
+        <item>Գերմաներեն (Լիխտենշտեյն)</item>
+        <item>Հունարեն (Հունաստան)</item>
+        <item>Եբրայերեն (Իսրայել)</item>
+        <item>Հինդի (Հնդկաստան)</item>
+        <item>Հունգարերեն (Հունգարիա)</item>
+        <item>Իսլանդերեն (Իսլանդիա)</item>
+        <item>Ինդոնեզերեն (Ինդոնեզիա)</item>
+        <item>Իռլանդերեն (Իռլանդիա)</item>
+        <item>իսիՆդեբելե (Հարավային Աֆրիկա)</item>
+        <item>իսիԿոսա (Հարավային Աֆրիկա)</item>
+        <item>ԻսիԶուլու (Հարավային Աֆրիկա)</item>
+        <item>Իտալերեն (Իտալիա)</item>
+        <item>Իտալերեն (Շվեյցարիա)</item>
+        <item>Ճապոներեն (Ճապոնիա)</item>
+        <item>Կորեերեն (Հարավային Կորեա)</item>
+        <item>Լատվերեն (Լատվիա)</item>
+        <item>Լիտվերեն (Լիտվա)</item>
+        <item>Մալայերեն (Մալայզիա)</item>
+        <item>Մալայերեն (Սինգապուր)</item>
+        <item>Նորվեգերեն գրական (Նորվեգիա)</item>
+        <item>Նորվեգերեն նինորսկ (Նորվեգիա)</item>
+        <item>Պարսկերեն (Իրան)</item>
+        <item>Լեհերեն (Լեհաստան)</item>
+        <item>Պորտուգալերեն (Անգոլա)</item>
+        <item>Պորտուգալերեն (Բրազիլիա)</item>
+        <item>Պորտուգալերեն (Պորտուգալիա)</item>
+        <item>Ռումիներեն (Ռումինիա)</item>
+        <item>Ռուսերեն (Բելառուս)</item>
+        <item>Ռուսերեն (Ռուսաստան)</item>
+        <item>Սեպեդերեն (Հարավային Աֆրիկա)</item>
+        <item>Սերբերեն (Սերբիա, կիրիլիկ)</item>
+        <item>Սեսոտթո (Հարավային Աֆրիկա)</item>
+        <item>Սեթսվանա (Հարավային Աֆրիկա)</item>
+        <item>սիՍվաթերեն (Հարավային Աֆրիկա)</item>
+        <item>Սլովակերեն (Սլովակիա)</item>
+        <item>Սլովեներեն (Սլովենիա)</item>
+        <item>Իսպաներեն (Արգենտինա)</item>
+        <item>Իսպաներեն (Բոլիվիա)</item>
+        <item>Իսպաներեն (Չիլի)</item>
+        <item>Իսպաներեն (Կոլումբիա)</item>
+        <item>Իսպաներեն (Կոստա Ռիկա)</item>
+        <item>Իսպաներեն (Կուբա)</item>
+        <item>Իսպաներեն (Դոմինիկյան Հանրապետություն)</item>
+        <item>Իսպաներեն (Էկվադոր)</item>
+        <item>Իսպաներեն (Սալվադոր)</item>
+        <item>Իսպաներեն (Գվատեմալա)</item>
+        <item>Իսպաներեն (Հոնդուրաս)</item>
+        <item>Իսպաներեն (Մեքսիկա)</item>
+        <item>Իսպաներեն (Նիկարագուա)</item>
+        <item>Իսպաներեն (Պանամա)</item>
+        <item>Իսպաներեն (Պարագվայ)</item>
+        <item>Իսպաներեն (Պերու)</item>
+        <item>Իսպաներեն (Պուերտո Ռիկո)</item>
+        <item>Իսպաներեն (Իսպանիա)</item>
+        <item>Իսպաներեն (ԱՄՆ)</item>
+        <item>Իսպաներեն (Ուրուգվայ)</item>
+        <item>Իսպաներեն (Վենեսուելա)</item>
+        <item>Սուահիլի (Քենիա)</item>
+        <item>Սուահիլի (Տանզանիա)</item>
+        <item>Սուահիլի (Ուգանդա)</item>
+        <item>Շվեդերեն (Ֆինլանդիա)</item>
+        <item>Շվեդերեն (Շվեդիա)</item>
+        <item>Թայերեն (Թաիլանդ)</item>
+        <item>Շիվենդա (Հարավային Աֆրիկա)</item>
+        <item>Թուրքերեն (Թուրքիա)</item>
+        <item>Ուկրաիներեն (Ուկրաինա)</item>
+        <item>Ուրդու (Պակիստան)</item>
+        <item>Վիետնամերեն (Վիետնամ)</item>
+        <item>Քիթոնգա (Հարավային Աֆրիկա)</item>
+    </string-array>
+    <string-array name="edit_reminder_day">
+        <item>Այսօր</item>
+        <item>Վաղը</item>
+        <item>Պարբերաբար</item>
+        <item>Կարգավորել ամսաթիվը...</item>
+    </string-array>
+    <string-array name="edit_reminder_time">
+        <item>Առավոտ</item>
+        <item>Կեսօր</item>
+        <item>Երեկո</item>
+        <item>Գիշեր</item>
+        <item>Ամբողջ օրը</item>
+        <item>Սահմանեք ժամը...</item>
+    </string-array>
+    <string-array name="edit_reminder_location_trigger_type">
+        <item>Ժամանում</item>
+        <item>Հեռանալ</item>
+    </string-array>
+    <string-array name="edit_reminder_location">
+        <item>Հիմնական</item>
+        <item>Աշխատանքային</item>
+        <item>Նշեք տեղադրությունը...</item>
+    </string-array>
+    <string-array name="network_error_tts_messages">
+        <item>Ինտերնետ կապն այս պահին հուսալի չէ:</item>
+        <item>Ինտերնետ կապը հուսալի չէ:</item>
+        <item>Ինտերնետ կապը կայուն չէ:</item>
+        <item>Ինտերնետ կապն այս պահին կայուն չէ:</item>
+        <item>Ինտերնետ կապը բավականաչափ կայուն չէ:</item>
+        <item>Ինտերնետ կապն այս պահին բավականաչափ կայուն չէ:</item>
+    </string-array>
+    <string-array name="read_it_grammar">
+        <item>կարդալ այն</item>
+        <item>կարդալ հաղորդագրությունը</item>
+        <item>կարդալ այդ տեքստը</item>
+    </string-array>
+    <string-array name="reply_grammar">
+        <item>պատասխան</item>
+        <item>ուղարկել պատասխան</item>
+        <item>ուղարկել պատասխան</item>
+        <item>պատասխանել տեքստային հաղորդագրությանը</item>
+        <item>պատասխանել</item>
+    </string-array>
+    <string-array name="call_back_grammar">
+        <item>զանգել վերջին հաղորդագրություն ուղարկողին</item>
+        <item>զանգել</item>
+        <item>հետ զանգել</item>
+        <item>զանգել</item>
+        <item>հետ զանգել</item>
+    </string-array>
+</resources>

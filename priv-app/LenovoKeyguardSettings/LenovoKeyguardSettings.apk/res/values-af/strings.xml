@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="user_nickname">Bynaam</string>
+    <string name="show_owner_info_on_lockscreen_label">Wys eienaarinligting op sluitskerm</string>
+    <string name="show_profile_info_on_lockscreen_label">Wys profiel-inligting op slotskerm</string>
+    <string name="show_user_info_on_lockscreen_label">Wys gebruikerinligting op sluitskerm</string>
+    <string name="lockpassword_confirm_your_pattern_header">Bevestig jou patroon</string>
+    <string name="security_settings_title">Sekuriteit</string>
+    <string name="security_passwords_title">Wagwoorde</string>
+    <string name="show_password">Maak wagwoorde sigbaar</string>
+    <string name="lock_after_timeout">Sluit outomaties</string>
+    <string name="lock_after_timeout_summary">%1$s na sluimer</string>
+    <string name="lock_after_timeout_summary_with_exception">%1$s na sluimer, behalwe as %2$s dit ontsluit hou</string>
+    <string name="owner_info_settings_title">Eienaar se inligting</string>
+    <string name="owner_info_settings_summary" />
+    <string name="owner_info_settings_edit_text_hint">Voer teks in om op die sluitskerm te wys</string>
+    <string name="lock_settings_picker_title">Kies skermslot</string>
+    <string name="biometric_weak_improve_matching_title">Verbeter gesigpassing</string>
+    <string name="biometric_weak_liveliness_title">Lewendigheidstoets</string>
+    <string name="biometric_weak_liveliness_summary">Vereis oogknip tydens ontsluiting</string>
+    <string name="lockpassword_choose_your_password_header">Kies jou wagwoord</string>
+    <string name="lockpassword_choose_your_pattern_header">Kies jou patroon</string>
+    <string name="lockpassword_choose_your_pin_header">Kies jou PIN</string>
+    <string name="lockpassword_confirm_passwords_dont_match">Wagwoorde stem nie ooreen nie</string>
+    <string name="lockpassword_confirm_pins_dont_match">"PIN'e stem nie ooreen nie"</string>
+    <string name="lock_settings_title">Skermsekuriteit</string>
+    <string name="lockpattern_change_lock_pattern_label">Verander ontsluitpatroon</string>
+    <string name="lockpattern_change_lock_pin_label">Verander ontsluit-PIN</string>
+    <string name="lockpattern_need_to_unlock">Bevestig gestoorde patroon</string>
+    <string name="lockpattern_need_to_unlock_wrong">Probeer weer:</string>
+    <string name="lockpattern_recording_intro_header">"Teken 'n ontsluitpatroon"</string>
+    <string name="lockpattern_recording_intro_footer">Druk Kieslys vir hulp.</string>
+    <string name="lockpattern_recording_inprogress">Lig vinger op wanneer jy klaar is</string>
+    <string name="lockpattern_recording_incorrect_too_short">Verbind minstens %d kolletjies. Probeer weer.</string>
+    <string name="lockpattern_pattern_entered_header">Patroon opgeneem</string>
+    <string name="lockpattern_need_to_confirm">Teken patroon weer om te bevestig</string>
+    <string name="lockpattern_pattern_confirmed_header">Jou nuwe ontsluitpatroon</string>
+    <string name="lockpattern_confirm_button_text">Bevestig</string>
+    <string name="lockpattern_restart_button_text">Teken oor</string>
+    <string name="lockpattern_retry_button_text">Herprobeer</string>
+    <string name="lockpattern_continue_button_text">Gaan voort</string>
+    <string name="lockpattern_settings_title">Ontsluitpatroon</string>
+    <string name="lockpattern_settings_enable_title">Benodig patroon</string>
+    <string name="lockpattern_settings_enable_summary">Moet patroon teken om skerm te ontsluit</string>
+    <string name="lockpattern_settings_enable_visible_pattern_title">Maak patroon sigbaar</string>
+    <string name="lockpattern_settings_enable_tactile_feedback_title">Vibreer by aanraking</string>
+    <string name="lockpattern_settings_enable_power_button_instantly_locks">Kragknoppie sluit onmiddellik</string>
+    <string name="lockpattern_settings_power_button_instantly_locks_summary">Behalwe as %1$s dit ontsluit hou</string>
+    <string name="lockpattern_settings_choose_lock_pattern">Stel ontsluitpatroon</string>
+    <string name="lockpattern_settings_change_lock_pattern">Verander ontsluitpatroon</string>
+    <string name="lockpattern_settings_help_how_to_record">"Hoe om 'n ontsluitpatroon te teken"</string>
+    <string name="lockpattern_too_many_failed_confirmation_attempts_header">Te veel verkeerde pogings!</string>
+    <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Probeer weer oor %d sekondes.</string>
+    <string name="unlock_set_unlock_launch_picker_title">Skermslot</string>
+    <string name="unlock_set_unlock_launch_picker_change_title">Verander slotskerm</string>
+    <string name="unlock_set_unlock_launch_picker_change_summary">Verander of deaktiveer patroon-, PIN- of wagwoordsekuriteit</string>
+    <string name="unlock_set_unlock_launch_picker_enable_summary">"Kies 'n metode om die skerm te sluit"</string>
+    <string name="unlock_backup_info_summary">Wanneer Face Unlock jou nie kan sien nie, hoe jy wil ontsluit?</string>
+    <string name="unlock_set_unlock_off_title">Geen</string>
+    <string name="unlock_set_unlock_off_summary" />
+    <string name="unlock_set_unlock_none_title">Swiep</string>
+    <string name="unlock_set_unlock_none_summary">Geen sekuriteit nie</string>
+    <string name="unlock_set_unlock_biometric_weak_title">Face-ontsluit</string>
+    <string name="unlock_set_unlock_biometric_weak_summary">Lae sekuriteit, eksperimenteel</string>
+    <string name="unlock_set_unlock_pattern_title">Patroon</string>
+    <string name="unlock_set_unlock_pattern_summary">Medium sekuriteit</string>
+    <string name="unlock_set_unlock_pin_title">PIN</string>
+    <string name="unlock_set_unlock_pin_summary">Medium tot hoë sekuriteit</string>
+    <string name="unlock_set_unlock_password_title">Wagwoord</string>
+    <string name="unlock_set_unlock_password_summary">Hoë sekuriteit</string>
+    <string name="unlock_set_unlock_disabled_summary">Gedeaktiveer deur administrateur, enkripsiebeleid of eiebewysberging</string>
+    <string name="unlock_set_unlock_mode_off">Geen</string>
+    <string name="unlock_set_unlock_mode_none">Swiep</string>
+    <string name="unlock_set_unlock_mode_biometric_weak">Face-ontsluit</string>
+    <string name="unlock_set_unlock_mode_pattern">Patroon</string>
+    <string name="unlock_set_unlock_mode_pin">PIN</string>
+    <string name="unlock_set_unlock_mode_password">Wagwoord</string>
+    <string name="unlock_disable_lock_title">Skakel skermslot af</string>
+    <string name="unlock_disable_lock_pattern_summary">Verwyder ontsluitpatroon</string>
+    <string name="unlock_disable_lock_pin_summary">Verwyder ontsluit-PIN</string>
+    <string name="unlock_disable_lock_password_summary">Verwyder ontsluitwagwoord</string>
+    <string name="unlock_change_lock_pattern_title">Verander ontsluitpatroon</string>
+    <string name="unlock_change_lock_pin_title">Verander ontsluit-PIN</string>
+    <string name="unlock_change_lock_password_title">Verander ontsluitwagwoord</string>
+    <string name="keywords_lockscreen">gly wagwoord patroon pin</string>
+    <string name="switch_on_text">Aan</string>
+    <string name="switch_off_text">Af</string>
+    <string name="screen_pinning_title">Skermvasspeld</string>
+    <string name="screen_pinning_description">"As hierdie instelling aangeskakel is, kan jy die toestel in 'n staat stel wat die huidige skerm in sig hou.
+
+Om 'n skerm vas te speld:
+
+1. Skakel hierdie instelling aan.
+
+2. Maak 'n program oop.
+
+3. Raak die Onlangse programme-knoppie.
+
+4. Raak die speldikoon."</string>
+    <string name="settings_safetylegal_activity_loading">Laai tans…</string>
+    <string name="no_applications">Geen programme nie</string>
+    <string name="help_label">Hulp en terugvoer</string>
+    <string name="lockpassword_ok_label">OK</string>
+    <string name="lockpattern_tutorial_cancel_label">Kanselleer</string>
+    <string name="lockpattern_tutorial_continue_label">Volgende</string>
+    <string name="lockpassword_confirm_your_pin_header">Bevestig jou PIN</string>
+    <string name="lockpassword_confirm_your_password_header">Bevestig jou wagwoord</string>
+    <string name="cancel">Kanselleer</string>
+    <string name="lock_screen_notifications_title">As toestel gesluit is</string>
+    <string name="lock_screen_notifications_summary_show">Wys alle kennisgewinginhoud</string>
+    <string name="lock_screen_notifications_summary_hide">Versteek sensitiewe kennisgewinginhoud</string>
+    <string name="lock_screen_notifications_summary_disable">Moet glad nie kennisgewings wys nie</string>
+    <string name="lock_screen_notifications_interstitial_message">Hoe wil jy hê moet kennisgewings wys wanneer jou toestel gesluit is?</string>
+    <string name="app_notifications_dialog_done">Klaar</string>
+    <string name="lockpassword_cancel_label">Kanselleer</string>
+    <string name="lockpassword_password_too_long">Wagwoord moet korter as %d karakters wees.</string>
+    <string name="lockpassword_pin_too_long">PIN moet korter as %d syfers wees.</string>
+    <string name="lockpassword_password_too_short">Wagwoord moet minstens %d karakters hê</string>
+    <string name="lockpassword_pin_too_short">PIN moet minstens %d syfers wees</string>
+    <string name="lockpassword_press_continue">Raak \"Gaan voort\" as jy klaar is</string>
+    <string name="lockpassword_continue_label">Gaan voort</string>
+    <string name="lockpassword_pin_no_sequential_digits">"'n Stygende, dalende of herhalende volgorde van syfers is verbode"</string>
+    <string name="lockpassword_pin_contains_non_digits">PIN moet net die syfers 0-9 bevat.</string>
+    <string name="lockpassword_pin_recently_used">"Toesteladministrateur laat nie toe dat jy 'n onlangse PIN gebruik nie."</string>
+    <string name="lockpassword_illegal_character">"Wagwoord bevat 'n ongeldige karakter."</string>
+    <string name="lockpassword_password_requires_alpha">Wagwoord moet ten minste een letter bevat.</string>
+    <string name="lockpassword_password_requires_digit">Wagwoord moet ten minste een syfer bevat.</string>
+    <string name="lockpassword_password_requires_symbol">Wagwoord moet ten minste een simbool bevat.</string>
+    <string name="lockpassword_password_recently_used">"Toesteladministrateur laat nie toe dat jy 'n onlangse wagwoord gebruik nie."</string>
+    <string name="backup_lock_settings_picker_title">Kies rugsteunslot</string>
+    <string name="profile_info_settings_title">Profiel-inligting</string>
+    <string name="user_info_settings_title">Gebruikerinligting</string>
+    <string name="credential_storage_type_hardware">Hardeware-geondersteun</string>
+    <string name="credential_storage_type_software">Net sagteware</string>
+    <string name="error_title" />
+    <string name="lockpassword_choose_lock_generic_header">Ontsluitmetode</string>
+</resources>

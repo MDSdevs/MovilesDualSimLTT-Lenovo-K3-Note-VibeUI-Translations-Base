@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="button_textsize">16.0sp</dimen>
+    <dimen name="c_defaultcover_drawable_width">190.0dip</dimen>
+    <dimen name="c_defaultcover_drawable_height">190.0dip</dimen>
+    <dimen name="media_player_defalt_fragment_margintop">10.0dip</dimen>
+    <dimen name="media_player_defalt_fragment_margintop2">5.0dip</dimen>
+    <dimen name="lrc_fragment_content_dis">65.0dip</dimen>
+    <dimen name="default_fragment_drawable_dis">40.0dip</dimen>
+    <dimen name="default_fragment_text_dis">90.0dip</dimen>
+</resources>

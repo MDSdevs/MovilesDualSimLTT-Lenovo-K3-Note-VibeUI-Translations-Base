@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="action_bar_button_text_color">#ff191919</color>
+    <color name="black_16p">#28000000</color>
+    <color name="actionbar_pd">#ff5a5960</color>
+    <color name="actionbar_alarm">#ff0097a7</color>
+</resources>
